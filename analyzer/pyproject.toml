@@ -1,0 +1,11 @@
+[project]
+name = "research-analyzer"
+version = "0.1.0"
+description = "研报分析系统 - 本地数据管理工具"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.0",
+    "yfinance>=0.2.0",
+    "pyyaml>=6.0",
+    "pymupdf>=1.27.1",
+]

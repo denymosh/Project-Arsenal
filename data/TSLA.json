@@ -1,0 +1,28 @@
+{
+  "ticker": "TSLA",
+  "name_en": "Tesla Inc.",
+  "name_cn": "特斯拉",
+  "current_consensus": {
+    "rating": null,
+    "avg_target_price": null,
+    "min_target_price": null,
+    "max_target_price": null,
+    "sentiment_avg": null,
+    "total_reports": 0,
+    "last_updated": null
+  },
+  "view_dimensions": [
+    "FSD",
+    "交付量",
+    "毛利率",
+    "Robotaxi",
+    "能源业务",
+    "估值"
+  ],
+  "reports": [],
+  "cross_comparison": {
+    "consensus_matrix": {},
+    "major_divergences": []
+  },
+  "sentiment_history": []
+}

@@ -1,0 +1,28 @@
+{
+    "ticker": "ONDS",
+    "name_en": "Ondas Holdings Inc.",
+    "name_cn": "Ondas控股",
+    "current_consensus": {
+        "rating": null,
+        "avg_target_price": null,
+        "min_target_price": null,
+        "max_target_price": null,
+        "sentiment_avg": null,
+        "total_reports": 0,
+        "last_updated": null
+    },
+    "view_dimensions": [
+        "OASys平台",
+        "Optimus无人机",
+        "政府合同",
+        "营收增长",
+        "现金流",
+        "估值"
+    ],
+    "reports": [],
+    "cross_comparison": {
+        "consensus_matrix": {},
+        "major_divergences": []
+    },
+    "sentiment_history": []
+}

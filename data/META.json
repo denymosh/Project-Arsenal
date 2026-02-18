@@ -1,0 +1,28 @@
+{
+    "ticker": "META",
+    "name_en": "Meta Platforms Inc.",
+    "name_cn": "Meta (脸书)",
+    "current_consensus": {
+        "rating": null,
+        "avg_target_price": null,
+        "min_target_price": null,
+        "max_target_price": null,
+        "sentiment_avg": null,
+        "total_reports": 0,
+        "last_updated": null
+    },
+    "view_dimensions": [
+        "广告业务",
+        "AI投入",
+        "Reality Labs",
+        "用户增长",
+        "利润率",
+        "估值"
+    ],
+    "reports": [],
+    "cross_comparison": {
+        "consensus_matrix": {},
+        "major_divergences": []
+    },
+    "sentiment_history": []
+}

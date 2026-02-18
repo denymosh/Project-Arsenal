@@ -1,0 +1,96 @@
+{
+  "catalysts": [
+    {
+      "id": "googl_q4_2025及fy2025财报发布",
+      "date": "2026-02-04",
+      "ticker": "GOOGL",
+      "event": "Q4 2025及FY2025财报发布",
+      "importance": "high",
+      "related_reports": [
+        "20260205_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "googl_googl触及$324.52做空入场区间",
+      "date": "2026-02-28",
+      "ticker": "GOOGL",
+      "event": "GOOGL触及$324.52做空入场区间",
+      "importance": "medium",
+      "related_reports": [
+        "20260211_stock_traders_daily"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "googl_googl回落至$295.81长线做多区间",
+      "date": "2026-03-31",
+      "ticker": "GOOGL",
+      "event": "GOOGL回落至$295.81长线做多区间",
+      "importance": "medium",
+      "related_reports": [
+        "20260211_stock_traders_daily"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "googl_q1_2026财报发布",
+      "date": "2026-04-29",
+      "ticker": "GOOGL",
+      "event": "Q1 2026财报发布",
+      "importance": "high",
+      "related_reports": [
+        "20260205_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "googl_如果q1财报增长不及预期可能触发prvit进一步下调",
+      "date": "2026-04-29",
+      "ticker": "GOOGL",
+      "event": "如果Q1财报增长不及预期可能触发PRVit进一步下调",
+      "importance": "high",
+      "related_reports": [
+        "20260209_iss_eva"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "googl_美国反垄断案裁决进展",
+      "date": "2026-06-30",
+      "ticker": "GOOGL",
+      "event": "美国反垄断案裁决进展",
+      "importance": "high",
+      "related_reports": [
+        "20260205_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "googl_anthropic_tpu_1gw算力上线",
+      "date": "2026-06-30",
+      "ticker": "GOOGL",
+      "event": "Anthropic TPU 1GW算力上线",
+      "importance": "medium",
+      "related_reports": [
+        "20260205_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    }
+  ],
+  "last_updated": "2026-02-17"
+}

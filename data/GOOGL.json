@@ -1,0 +1,784 @@
+{
+  "ticker": "GOOGL",
+  "name_en": "Alphabet Inc.",
+  "name_cn": "谷歌 (Alphabet)",
+  "current_consensus": {
+    "rating": "减持",
+    "avg_target_price": 310.54,
+    "min_target_price": 295.81,
+    "max_target_price": 340.0,
+    "sentiment_avg": -0.167,
+    "total_reports": 3,
+    "last_updated": "2026-02-17"
+  },
+  "view_dimensions": [
+    "搜索广告",
+    "云业务",
+    "AI/Gemini",
+    "YouTube",
+    "利润率",
+    "估值"
+  ],
+  "reports": [
+    {
+      "date": "2026-02-05",
+      "institution": "晨星",
+      "institution_en": "Morningstar",
+      "analyst": "Malik Ahmed Khan, CFA",
+      "rating": "持有",
+      "previous_rating": null,
+      "target_price": 340.0,
+      "previous_target_price": 300.0,
+      "sentiment_score": 0.45,
+      "views": [
+        {
+          "topic": "搜索广告",
+          "stance": "bullish",
+          "confidence": "high",
+          "summary": "Google Search拥有不可撼动的宽护城河，控制超80%搜索市场份额（移动端超90%），第二价格拍卖模式赋予强大定价权。AI Overviews和AI Mode驱动增量查询增长，改善用户参与度，增加广告库存",
+          "data_points": [
+            "Google Search控制超80%通用搜索市场份额（2009年至今）",
+            "约50%美国搜索来自独家合同覆盖的接入点（Apple、Samsung等）",
+            "Google Search人均营收（ARPU）$44",
+            "即使反垄断压力加大，不太可能将ROIC压低至成本以下",
+            "Q3 2025广告收入依然强劲，搜索收入持续增长"
+          ],
+          "predictions": [
+            {
+              "metric": "2026年搜索广告收入增速",
+              "predicted_value": "约15%同比增长",
+              "deadline": "2026-Q4",
+              "comparison_to_consensus": "inline",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "云业务",
+          "stance": "bullish",
+          "confidence": "high",
+          "summary": "Google Cloud是核心增长引擎，Q3加速至34%增长，占总收入15%。积压订单同比暴增79%（Q2 37%），暗示2026年云需求拐点。Anthropic数十亿美元TPU大单（1GW算力2026上线）每年贡献$80-100亿营收",
+          "data_points": [
+            "Google Cloud Q3 2025收入增速34%，环比加速",
+            "Google Cloud积压订单增长79%（前一季度37%）",
+            "Anthropic TPU合同1GW算力2026年上线",
+            "预计TPU交易年贡献$80-100亿营收",
+            "5年云增长预期上调至34%（此前30%）"
+          ],
+          "predictions": [
+            {
+              "metric": "Google Cloud 5年CAGR",
+              "predicted_value": "34%",
+              "deadline": "2030-12-31",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            },
+            {
+              "metric": "2026年总营收",
+              "predicted_value": "$4724亿",
+              "deadline": "2026-Q4",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "AI/Gemini",
+          "stance": "bullish",
+          "confidence": "high",
+          "summary": "Alphabet是唯一从基础设施（TPU）到消费者分发（Search/Gemini）全栈覆盖的AI玩家。Gemini应用超6.5亿月活用户，Gemini 3模型获开发者社区好评。外部TPU销售开放新收入流，直接与NVIDIA竞争",
+          "data_points": [
+            "Gemini App月活超6.5亿",
+            "Gemini 3在性能基准和实际使用中表现出色",
+            "Meta TPU合作传闻——首次将TPU部署到Google Cloud外部",
+            "Nano Banana图像生成模型推动用户激增",
+            "多模态能力是Gemini用量增长的关键驱动力"
+          ],
+          "predictions": [
+            {
+              "metric": "Gemini月活用户",
+              "predicted_value": "超6.5亿并持续增长",
+              "deadline": "2026-Q2",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "YouTube",
+          "stance": "bullish",
+          "confidence": "medium",
+          "summary": "YouTube拥有宽护城河，20亿+月活，日均10亿小时TV观看。订阅用户超1亿（Music+Premium），YouTube TV超800万。NFL Sunday Ticket 7年合同强化内容壁垒，品牌广告+订阅双轮驱动",
+          "data_points": [
+            "月活用户超20亿",
+            "TV端日均观看10亿小时",
+            "订阅用户（Music+Premium）超1亿",
+            "YouTube TV订阅超800万",
+            "NFL Sunday Ticket 7年合同"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "利润率",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "调整后运营利润率预计维持30-32%水平。AI资本开支大幅增加（2026 CapEx预计$750-800亿），短期压制自由现金流，但长期利润率受益于规模效应。EBITDA利润率预计从37.3%提升至38.4%",
+          "data_points": [
+            "Q3 2025调整后运营利润率34%，同比扩大160bp",
+            "2025年营收$4028亿，运营利润$1290亿",
+            "2026 EPS预测$10.91（增速0.9%，因CapEx激增）",
+            "2028-2030 EPS增速恢复至12-15%",
+            "5年运营利润率均值约30.8%"
+          ],
+          "predictions": [
+            {
+              "metric": "2026年EPS",
+              "predicted_value": "$10.91",
+              "deadline": "2027-02-01",
+              "comparison_to_consensus": "inline",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            },
+            {
+              "metric": "2026年运营利润率",
+              "predicted_value": "30.7%",
+              "deadline": "2027-02-01",
+              "comparison_to_consensus": "inline",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "估值",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "DCF公允价值$340，当前股价$333接近合理估值(Price/FVE=0.98)。不确定性为中等。WACC 9.0%，永续增长假设Stage II EBI增长10.5%。市值$3.82万亿。极端估值——1星价$459，5星价$238",
+          "data_points": [
+            "公允价值$340（2025年10月30日设定）",
+            "当前P/E 30.8倍",
+            "DCF总企业价值$4.045万亿",
+            "净现金$803亿（现金$1268亿 - 债务$465亿）",
+            "股东权益价值$4.126万亿",
+            "WACC 9.0%，长期税率15%",
+            "资本配置评级: Exemplary（最优秀）"
+          ],
+          "predictions": [
+            {
+              "metric": "公允价值",
+              "predicted_value": "$340",
+              "deadline": "2026-12-31",
+              "comparison_to_consensus": "inline",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        }
+      ],
+      "key_metrics": {
+        "revenue_estimate": "$472.4B (FY2026)",
+        "eps_estimate": "$10.91 (FY2026)",
+        "growth_rate": "17.3% Revenue YoY",
+        "margin_estimate": "30.7% Operating Margin (FY2026)",
+        "other": {
+          "EBITDA_2026": "$178.4B",
+          "Net_Income_2026": "$134.0B",
+          "ROE_2026": "27.0%",
+          "ROIC_2026": "27.9%",
+          "Dividend_Per_Share_2026": "$0.88",
+          "PE_2026": "30.5x"
+        }
+      },
+      "key_assumptions": [
+        "Google Search维持80%+市场份额，反垄断不会导致ROIC低于资本成本",
+        "Google Cloud 5年CAGR 34%，Anthropic TPU合同贡献显著增量",
+        "Gemini AI功能驱动搜索增量查询增长，未导致核心广告收入流失",
+        "Chrome浏览器不会被强制出售（美国反垄断案仍待裁决）",
+        "CapEx高峰在2026年($750-800亿)，之后逐步释放自由现金流"
+      ],
+      "risk_factors": [
+        "搜索广告占收入比重过高，创造集中风险",
+        "全球监管机构聚焦搜索垄断地位，可能施加深层结构性变革",
+        "新技术投资（Other Bets等未经验证项目）持续拖累现金流",
+        "生成式AI搜索引擎（SearchGPT等）对通用搜索市场的颠覆威胁",
+        "AI资本开支激增短期压制自由现金流和EPS增速"
+      ],
+      "blind_spots": [
+        "美国DOJ反垄断案可能判决Chrome出售的场景分析不足",
+        "DeepSeek等开源模型对Google Cloud AI收入的潜在蚕食",
+        "Waymo商业化时间表和持续烧钱风险未量化",
+        "中国市场搜索业务完全缺失的机会成本",
+        "员工效率和成本控制（2023年大裁员后的人才流失影响）"
+      ],
+      "catalysts": [
+        {
+          "event": "Q4 2025及FY2025财报发布",
+          "expected_date": "2026-02-04",
+          "importance": "high",
+          "related_views": [
+            "搜索广告",
+            "云业务",
+            "利润率"
+          ]
+        },
+        {
+          "event": "Q1 2026财报发布",
+          "expected_date": "2026-04-29",
+          "importance": "high",
+          "related_views": [
+            "云业务",
+            "AI/Gemini",
+            "利润率"
+          ]
+        },
+        {
+          "event": "美国反垄断案裁决进展",
+          "expected_date": "2026-06-30",
+          "importance": "high",
+          "related_views": [
+            "搜索广告",
+            "估值"
+          ]
+        },
+        {
+          "event": "Anthropic TPU 1GW算力上线",
+          "expected_date": "2026-06-30",
+          "importance": "medium",
+          "related_views": [
+            "云业务",
+            "AI/Gemini"
+          ]
+        }
+      ],
+      "chart_insights": [
+        {
+          "chart_name": "Morningstar估值方法论流程图",
+          "chart_type": "flow",
+          "source_file": "GOOGL_-Alphabet-Inc-(Stock-Rep_p24_img1.png",
+          "description": "展示Morningstar评级的完整推导链条：基本面分析→护城河+财务健康+管理层治理→公允价值→与市场价格比较→考虑不确定性→得出星级评级",
+          "key_observations": [
+            "GOOGL被归类为Medium Uncertainty（中等不确定性），影响星级阈值",
+            "最终评级为5星制，强调Margin of Safety（安全边际）概念",
+            "估值方法论透明且系统化，可追溯每一步假设"
+          ],
+          "data_not_in_text": [
+            "Stewardship（管理层治理能力）是明确的估值输入因子之一",
+            "Fair Value和Uncertainty共同决定买入/卖出区间，而非单一目标价"
+          ],
+          "investment_implication": "Morningstar的5星系统内置了安全边际，GOOGL当前Price/FVE=0.98意味着几乎无安全边际，需等待回调至$238（5星区域）才有显著折价"
+        },
+        {
+          "chart_name": "全球化覆盖评级图",
+          "chart_type": "bar",
+          "source_file": "GOOGL_-Alphabet-Inc-(Stock-Rep_p21_img1.png",
+          "description": "5个地球图标表示Morningstar对GOOGL的全球覆盖评级体系可视化，4个深色+1个浅色暗示覆盖深度",
+          "key_observations": [
+            "4/5深色地球图标表明GOOGL获得极高的覆盖置信度",
+            "这是Morningstar内部对分析质量的自评，支撑其评级的可靠性"
+          ],
+          "data_not_in_text": [
+            "覆盖置信度4/5，属于极少数获得如此高分析深度的标的"
+          ],
+          "investment_implication": "高覆盖置信度增加了$340公允价值估计的可信度"
+        }
+      ],
+      "cross_comparison": null,
+      "id": "20260205_morningstar",
+      "analyst_reliability": null,
+      "analysis_file": "reports/GOOGL/analysis/2026-02-05_晨星_持有_分析.md"
+    },
+    {
+      "date": "2026-02-09",
+      "institution": "ISS EVA",
+      "institution_en": "ISS EVA",
+      "analyst": "Casey Lea",
+      "rating": "卖出",
+      "previous_rating": null,
+      "target_price": 295.81,
+      "previous_target_price": null,
+      "sentiment_score": -0.65,
+      "views": [
+        {
+          "topic": "估值",
+          "stance": "bearish",
+          "confidence": "high",
+          "summary": "PRVit量化评分仅14（满分100），给予SELL评级。虽然盈利能力卓越（P=96百分位），但估值过高（V=96百分位，即价格处于最贵的4%），性能/价格比严重失衡。MVA Spread 727%、EBITDAR倍数17.3x均处行业极高水平，市场隐含EVA利润率48.7%远高于实际水平24.9%",
+          "data_points": [
+            "PRVit评分14（vs市场31，vs行业81中位数）",
+            "估值得分V=96百分位（极度高估）",
+            "MVA Margin 863%，MVA Spread 727%（均处行业93百分位）",
+            "EBITDAR倍数17.3x，NOPAT倍数27.9x",
+            "市场隐含EVA Margin 48.7%，实际仅24.9%（隐含翻倍增长）",
+            "Future Growth Reliance 61.2%——60%以上市值依赖未来EVA增长",
+            "总市值$3920亿在Interactive Media行业PAS仅3分"
+          ],
+          "predictions": [
+            {
+              "metric": "GOOGL股价下行目标",
+              "predicted_value": "$295.81（支撑位）",
+              "deadline": "2026-06-30",
+              "comparison_to_consensus": "below",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "搜索广告",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "盈利能力无可挑剔：EVA Margin 24.9%、EVA Spread 24.4%均处行业96百分位。但SG&A成本加速上升是红旗信号，PP&E资产周转率极低反映资本密集度快速提升",
+          "data_points": [
+            "EVA Margin 24.9%（行业96百分位）",
+            "EVA Spread 24.4%（行业96百分位）",
+            "现金利润率处上四分位",
+            "SG&A成本加速增长（Red Flag）",
+            "PP&E资产周转率极低（行业垫底）"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "利润率",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "EBITDAR利润率过去2.5年持续扩大，但资本开支（Capital Charges）同步加速上升。经济利润（EVA）动量为正并改善（1年EVA Momentum 9%），但增速边际放缓",
+          "data_points": [
+            "EBITDAR利润率持续2.5年扩张",
+            "资本开支持续增长2年",
+            "1年EVA Momentum 9%（行业77百分位）",
+            "3年EVA Momentum 6.3%（行业86百分位）",
+            "最近季度环比EVA Momentum仅0.2%（趋势放缓）",
+            "自由现金流率仅5.4%（行业56百分位，偏低）"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "AI/Gemini",
+          "stance": "neutral",
+          "confidence": "low",
+          "summary": "模型未单独评估AI/Gemini业务，但从整体定量视角看，市场已为GOOGL的AI增长预期给出极大溢价（FGR 61.2%），如果AI增长不及预期，估值面临显著下行风险",
+          "data_points": [
+            "Future Growth Reliance 61.2%——意味着60%市值依赖增长实现",
+            "高度乐观且仍在改善的增长预期（定量信号）",
+            "广告支出轻量且有效，但可能投入不足"
+          ],
+          "predictions": []
+        }
+      ],
+      "key_metrics": {
+        "revenue_estimate": null,
+        "eps_estimate": null,
+        "growth_rate": "EVA Momentum 1Y: 9.0%",
+        "margin_estimate": "EVA Margin: 24.9%, EBITDAR Multiple: 17.3x",
+        "other": {
+          "PRVit_Score": "14/100",
+          "P_Score": "96 (盈利能力)",
+          "R_Score": "77 (风险)",
+          "V_Score": "96 (估值-越低越好)",
+          "Stock_Volatility": "30.7%",
+          "Debt_Capital": "12.2%",
+          "Debt_EBITDAR": "0.3x",
+          "Free_Cash_Flow_Rate": "5.4%"
+        }
+      },
+      "key_assumptions": [
+        "EVA是比传统会计指标更准确的盈利衡量方式（扣除资本成本后的真实利润）",
+        "高PRVit V分意味着市场对GOOGL的增长预期已经过度定价",
+        "当市场隐含EVA Margin(48.7%)远高于实际(24.9%)时，股价脆弱",
+        "纯量化模型不考虑定性因素（如AI突破性进展）"
+      ],
+      "risk_factors": [
+        "SG&A成本加速增长可能侵蚀利润率",
+        "PP&E资产周转率极低说明资本密集度快速上升",
+        "自由现金流率仅5.4%，对于$3920亿市值来说偏低",
+        "市场已定价高增长预期（FGR 61%），任何增长失望都可能导致剧烈回调"
+      ],
+      "blind_spots": [
+        "纯量化模型可能低估AI/Gemini的战略价值和网络效应",
+        "未考虑Google Cloud积压订单暴增79%的前瞻性指标",
+        "未评估Alphabet回购计划对每股价值的提升",
+        "EVA框架对超规模科技公司的适用性 — 初始资本投入产出曲线可能非线性"
+      ],
+      "catalysts": [
+        {
+          "event": "如果Q1财报增长不及预期可能触发PRVit进一步下调",
+          "expected_date": "2026-04-29",
+          "importance": "high",
+          "related_views": [
+            "估值",
+            "利润率"
+          ]
+        }
+      ],
+      "chart_insights": [
+        {
+          "chart_name": "Enterprise Value Components",
+          "chart_type": "bar",
+          "source_file": "ISS-EVA-Downgrades-ALPHABET-IN_p1_img4.png",
+          "description": "2010-2025年GOOGL企业价值分解图。将市值(Market Value橙色虚线)分解为Capital(深蓝)、Current Value Added CVA(红色)和Future Value Added FVA(灰色)三个组成部分",
+          "key_observations": [
+            "2024-2025年Market Value(~$3.5万亿)远超FVA+CVA+Capital之和，出现显著溢价",
+            "FVA（灰色）是市值的主要组成部分，占比超过60%——意味着大部分市值依赖未来增长",
+            "CVA（红色）近年虽在增长，但增速远不及Market Value曲线的加速上升",
+            "2020年后Market Value曲线呈指数级上浮，而基本面分解保持线性增长"
+          ],
+          "data_not_in_text": [
+            "2025年Capital约$2000亿，CVA约$5000亿，FVA约$1.3万亿，但Market Value达~$3.5万亿",
+            "Market Value与(Capital+CVA+FVA)之间的差额在2025年达到历史最大",
+            "2010-2018年Market Value基本等于分解值之和，2019年后开始发散"
+          ],
+          "investment_implication": "Market Value曲线与基本面分解值的巨大裂口显示市场给予GOOGL极高的'信任溢价'。如果增长预期落空，股价有从$3.5万亿向$1.8万亿基本面价值回归的风险"
+        },
+        {
+          "chart_name": "US PRVit History",
+          "chart_type": "line",
+          "source_file": "ISS-EVA-Downgrades-ALPHABET-IN_p1_img6.jpeg",
+          "description": "2021-2026年GOOGL的PRVit Prime Score(红线)、Quality Score(深蓝线)和绝对股价表现(浅蓝面积图)历史走势。Y轴左侧为百分位排名(0-100)，右侧为绝对股价表现(0-400)",
+          "key_observations": [
+            "Quality Score(深蓝线)始终维持在75-95百分位高位，近期约78，显示基本面质量一直优秀",
+            "PRVit Prime Score(红线)从2021年的70百分位一路暴跌至2026年初的~15百分位",
+            "股价表现(浅蓝面积)自2024年起暴涨至~330，但PRVit Score反而加速下滑",
+            "Quality vs PRVit的剪刀差在2025-2026年达到历史极值(~75 vs ~15)，即质量优秀但价格太贵"
+          ],
+          "data_not_in_text": [
+            "PRVit Score的下降趋势从2021年就开始了，而非突然崩塌",
+            "2023年PRVit曾短暂回升至~50，但随后继续下行",
+            "Quality Score在2022-2023年有过一次低谷(~75)然后回升",
+            "股价表现面积图从2024年中开始呈指数增长态势"
+          ],
+          "investment_implication": "PRVit的持续下行不是一次性事件而是4年期长趋势，说明估值问题在系统性积累。Quality维持高位意味着公司本身没问题，纯粹是价格已充分反映甚至超额反映了内在质量"
+        },
+        {
+          "chart_name": "US PRVit Components",
+          "chart_type": "line",
+          "source_file": "ISS-EVA-Downgrades-ALPHABET-IN_p1_img7.jpeg",
+          "description": "2021-2026年GOOGL PRVit三大组件(Profitability盈利力深蓝线、Risk风险红线、Valuation估值灰线)的百分位排名走势",
+          "key_observations": [
+            "Profitability Ranking(深蓝)始终在85-100百分位，近期~90，代表顶级盈利能力",
+            "Risk Ranking(红线)波动较大，从2022年的~40升至2025年的~80后骤降至~50",
+            "Valuation Ranking(灰线)始终维持在80-95百分位高位——'越高越贵'——意味着GOOGL几乎一直是市场中最贵的标的之一",
+            "2025-2026年三条线开始收敛至~80-90区间，但V分居高不下"
+          ],
+          "data_not_in_text": [
+            "Risk Ranking(红线)在2025年Q4出现急剧下降(从~80到~50)，可能与波动率上升有关",
+            "Valuation Ranking几乎从未低于70百分位，GOOGL在过去4年中一直属于最贵的30%",
+            "盈利能力和估值的长期共同高位说明：好公司但从来都不便宜"
+          ],
+          "investment_implication": "P-R-V三维度拆解显示：盈利能力毋庸置疑(P=90+)、风险最近升高(R从80跌至50)、估值始终昂贵(V=90+)。想要PRVit翻转为BUY，需要V降至50以下——这意味着股价需要从当前水平下跌约30%"
+        },
+        {
+          "chart_name": "Future Growth Reliance",
+          "chart_type": "line",
+          "source_file": "ISS-EVA-Downgrades-ALPHABET-IN_p1_img5.jpeg",
+          "description": "2010-2025年GOOGL的Future Growth Reliance(FVA/Market Value蓝色菱形线)和EVA Margin(红色方块线)双轴走势图",
+          "key_observations": [
+            "FGR(蓝线)在2025年飙升至~60%，创2010年以来新高(此前峰值~55%在2014年)",
+            "EVA Margin(红线)从2017年低点~12%稳步提升至2025年的~25%",
+            "关键分歧：2023-2025年FGR和EVA Margin同时上升——利润变好但市场预期增长得更快",
+            "2020年出现FGR低谷(~25%)是最佳买入窗口，当时EVA Margin~19%"
+          ],
+          "data_not_in_text": [
+            "FGR在2020年COVID期间降至~25%，随后4年持续攀升至60%",
+            "EVA Margin在2015-2017年经历'利润寒冬'(~12%)，可能对应当时的投资周期",
+            "历史上FGR超过55%后通常在1-2年内回落（2012、2014两次先例）"
+          ],
+          "investment_implication": "FGR=60%是危险水平——历史上两次在55%+后都出现了回调。当前EVA Margin虽在改善但涨幅远不及FGR上升速度。如果出现类似2020年的FGR回归(到25%)，对应股价可能下跌40-50%"
+        },
+        {
+          "chart_name": "PRVit象限定位图",
+          "chart_type": "scatter",
+          "source_file": "ISS-EVA-Downgrades-ALPHABET-IN_p1_img3.png",
+          "description": "ISS EVA的四象限评级图：X轴为Quality Score，Y轴为Valuation Score。GOOGL（6448 JP标识）位于左上RED区域（高质量+高估值=SELL）",
+          "key_observations": [
+            "GOOGL的PRVit详细指标表——Profitability(P)得分70，Risk(R)得分37，Valuation(V)得分23",
+            "盈利能力细分：EVA Margin 0.1%（行业69百分位），EVA Spread 0.2%（71百分位）",
+            "风险细分：股价波动率33%（31百分位），EVA Margin波动0.6%（26百分位）",
+            "估值细分：EBITDAR倍数1.9x（9百分位），NOPAT倍数8.7x（14百分位），FGR -44%（10百分位）",
+            "注意：显示的是6448 JP（可能是日元计价参照），实际GOOGL美元市场指标略有不同"
+          ],
+          "data_not_in_text": [
+            "Vulnerability(R2)中Free Cash Flow Rate为-1.0%（64百分位），Op Cash Gen Return 36%（45百分位）",
+            "Profitability Trend(P2)得分56——Q2Q EVA Momentum仅-2.8%（26百分位）为负值",
+            "Total Debt/Total Capital 3.0%（25百分位），Total Debt/EBITDAR 0.2%（16百分位）——杠杆极低"
+          ],
+          "investment_implication": "四象限图直观确认GOOGL处于RED SELL区（高质量+贵）。要变成GREEN BUY，需V分降至50以下或P分进一步提升。GOOGL的低杠杆是安全垫但不足以抵消估值压力"
+        },
+        {
+          "chart_name": "EVA Drivers趋势图",
+          "chart_type": "line",
+          "source_file": "ISS-EVA-Downgrades-ALPHABET-IN_p1_img2.png",
+          "description": "2008-2030E年GOOGL的四大EVA驱动因子走势：Revenue(蓝柱)、EBITDAR Margin(黑线)、Capital Charges(红线)、Capital Turns(灰虚线)",
+          "key_observations": [
+            "Revenue(蓝柱)稳步增长但斜率自2021年后加速",
+            "EBITDAR Margin(黑线)从2023年低点反弹并预测2025-2030继续上升",
+            "Capital Charges(红线)在2024年后急剧攀升——AI基建投入开始体现",
+            "Capital Turns(灰虚线)持续下降，说明资产效率在恶化"
+          ],
+          "data_not_in_text": [
+            "2025-2030E Capital Charges上升曲线斜率与Revenue增长曲线几乎相同，暗示AI投入可能吞噬增量利润",
+            "Capital Turns从2018年的~3.5x持续下降至2025年的~1.5x，预计2030年进一步下降",
+            "EBITDAR Margin预测2030年达到~40%的历史高点——这个假设是否过于乐观值得商榷"
+          ],
+          "investment_implication": "Capital Charges和Capital Turns的双重恶化是核心隐忧——即使利润率扩张，资本效率下降意味着EVA增长可能不及预期。GOOGL正在从轻资产模式转向重资产AI基建模式"
+        }
+      ],
+      "cross_comparison": null,
+      "id": "20260209_iss_eva",
+      "analyst_reliability": null,
+      "analysis_file": "reports/GOOGL/analysis/2026-02-09_ISS EVA_卖出_分析.md"
+    },
+    {
+      "date": "2026-02-11",
+      "institution": "Stock Traders Daily",
+      "institution_en": "Stock Traders Daily",
+      "analyst": "Thomas H. Kee Jr.",
+      "rating": "减持",
+      "previous_rating": null,
+      "target_price": 295.81,
+      "previous_target_price": null,
+      "sentiment_score": -0.3,
+      "views": [
+        {
+          "topic": "估值",
+          "stance": "bearish",
+          "confidence": "high",
+          "summary": "AI预测信号系统识别出GOOGL处于中轨振荡模式，短期弱势。近期(1-5天)信号弱，中期(5-20天)中性，长期(20+天)强。当前报价$318.58远高于长期支撑$295.81，做空风险回报比30.5:1极具吸引力（下行8.8% vs 风险0.3%）",
+          "data_points": [
+            "当前价$318.58",
+            "近期支撑S1=$313.98，阻力S2=$322.25",
+            "中期支撑S1=$315.95，阻力S2=$330.55",
+            "长期支撑S1=$324.52，阻力S2=$353.73",
+            "做空风险回报比30.5:1",
+            "下行空间8.8%至$295.81，上行风险仅0.3%至$324.52"
+          ],
+          "predictions": [
+            {
+              "metric": "短期下行目标价",
+              "predicted_value": "$295.81",
+              "deadline": "2026-03-15",
+              "comparison_to_consensus": "below",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            },
+            {
+              "metric": "长期上行目标价",
+              "predicted_value": "$353.73",
+              "deadline": "2026-06-30",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "搜索广告",
+          "stance": "neutral",
+          "confidence": "low",
+          "summary": "技术分析型报告，未直接评估基本面。但价格走势暗示市场对GOOGL短期信心不足——2月10日单日跌1.77%（$5.74），收于日内低点附近，卖压明显",
+          "data_points": [
+            "2月10日Open=$320.97, High=$321.67, Low=$314.61, Close=$318.58",
+            "当日跌幅1.77%，卖盘主导",
+            "收盘价接近日低（vs日高差$3）"
+          ],
+          "predictions": []
+        }
+      ],
+      "key_metrics": {
+        "revenue_estimate": null,
+        "eps_estimate": null,
+        "growth_rate": null,
+        "margin_estimate": null,
+        "other": {
+          "Short_Entry": "$324.52",
+          "Short_Target": "$315.95",
+          "Short_Stop": "$325.46",
+          "Long_Entry": "$295.81",
+          "Long_Target": "$324.52",
+          "Long_Stop": "$294.96",
+          "Breakout_Trigger": "$322.25",
+          "Risk_Reward_Short": "30.5:1"
+        }
+      },
+      "key_assumptions": [
+        "AI信号系统基于多时间框架的支撑/阻力动态识别",
+        "振荡模式识别算法判断GOOGL处于中轨震荡",
+        "短期弱势不改变长期强势判断",
+        "纯技术分析/AI信号，不考虑基本面因素"
+      ],
+      "risk_factors": [
+        "短期弱势情绪可能在近期不利消息催化下加速下跌",
+        "跨时间框架情绪分歧意味着震荡加剧",
+        "做空交易风险：如突破$325.46止损将被触发"
+      ],
+      "blind_spots": [
+        "完全忽略基本面（收入、利润、AI投入回报等）",
+        "不考虑宏观经济和政策因素对科技股的影响",
+        "即将发布的财报可能完全打乱技术形态",
+        "AI信号系统本身的历史准确率未公开披露"
+      ],
+      "catalysts": [
+        {
+          "event": "GOOGL触及$324.52做空入场区间",
+          "expected_date": "2026-02-28",
+          "importance": "medium",
+          "related_views": [
+            "估值"
+          ]
+        },
+        {
+          "event": "GOOGL回落至$295.81长线做多区间",
+          "expected_date": "2026-03-31",
+          "importance": "medium",
+          "related_views": [
+            "估值"
+          ]
+        }
+      ],
+      "chart_insights": [
+        {
+          "chart_name": "GOOGL Near Term Signals",
+          "chart_type": "line",
+          "source_file": "GOOGL-Oscillation-Patterns-and_p6_img2.jpeg",
+          "description": "2026年1-2月GOOGL近期(1-5天)价格走势与AI信号支撑/阻力位。深色背景的技术分析图，浅蓝色价格线+红色阻力线+绿色支撑线",
+          "key_observations": [
+            "价格从$345高位快速下跌至$315-320区间，跌幅约7%",
+            "双重阻力位清晰可见：R1=$322.25、R2=$324.52，当前价格受压",
+            "双重支撑位：S1=$315.95、S2=$313.98，价格在支撑位附近反复测试",
+            "价格走势呈下降通道，每次反弹都被阻力线压回"
+          ],
+          "data_not_in_text": [
+            "2月5日前后出现一次急跌（约$335→$315），可能对应财报后反应",
+            "2月10日后价格在$315-322之间窄幅震荡，波动收窄暗示即将选择方向",
+            "近期价格中枢从$330+下移至$318-320"
+          ],
+          "investment_implication": "近期技术形态偏空——下降通道+受压于阻力位。如果跌破$313.98双底支撑，可能加速下探$295.81长期支撑"
+        },
+        {
+          "chart_name": "GOOGL Mid Term Signals",
+          "chart_type": "line",
+          "source_file": "GOOGL-Oscillation-Patterns-and_p6_img3.jpeg",
+          "description": "2026年1-2月GOOGL中期(5-20天)价格走势与AI信号支撑/阻力位。显示了更宽的价格区间和振荡模式",
+          "key_observations": [
+            "中期图显示更清晰的'倒V形'走势：1月底冲高至$348后快速回落",
+            "中期阻力R1=$324.52、R2=$330.55——比近期阻力更高，空间更大",
+            "中期支撑S1=$315.95、S2=$295.81——下方空间远大于上方空间",
+            "1月26日-2月3日的涨势已被完全吞没，属于典型的'尖顶反转'形态"
+          ],
+          "data_not_in_text": [
+            "中期峰值$348出现在约1月30日，随后5个交易日暴跌至$315",
+            "中期支撑S2=$295.81与长期图重合，确认这是关键的多空分水岭",
+            "价格当前处于中期区间$295-330的偏下方位置(约40%分位)"
+          ],
+          "investment_implication": "中期倒V反转形态结合下行空间($295)远大于上行空间($330)，支持短期做空观点。但$315.95支撑如果守住，可能形成中期底部"
+        },
+        {
+          "chart_name": "GOOGL Long Term Signals",
+          "chart_type": "line",
+          "source_file": "GOOGL-Oscillation-Patterns-and_p7_img3.jpeg",
+          "description": "2025年7月-2026年2月GOOGL长期(20+天)价格走势。展示了从$200到$345的完整上升趋势和关键技术水位",
+          "key_observations": [
+            "长期图显示$200→$345的强劲上升通道，6个月涨幅超70%",
+            "长期阻力R1=$324.52、R2=$353.73——$353.73是绝对高点目标",
+            "长期支撑S1=$295.81——这是整个上升趋势的38.2%回撤位",
+            "上升通道的斜率在2025年10月后明显加速，可能过热"
+          ],
+          "data_not_in_text": [
+            "长期上升趋势从2025年8月$205开始，至今涨幅约55%",
+            "$295.81支撑恰好对应2025年11月末的前高突破位——经典的'突破回踩'",
+            "$353.73目标与Morningstar的$340公允价值大致吻合",
+            "走势图呈典型的'抛物线加速'形态，这种形态通常以急跌告终"
+          ],
+          "investment_implication": "长期趋势仍然强势（60%以上涨幅），但抛物线加速形态+近期回落暗示短期修正。$295.81是长期多头的关键守护位——跌破意味着趋势反转。若在$295附近企稳则是绝佳长线入场点（与ISS EVA的支撑位和STD长线做多入场一致）"
+        }
+      ],
+      "cross_comparison": null,
+      "id": "20260211_stock_traders_daily",
+      "analyst_reliability": null,
+      "analysis_file": "reports/GOOGL/analysis/2026-02-11_Stock Traders Daily_减持_分析.md"
+    }
+  ],
+  "cross_comparison": {
+    "consensus_matrix": {
+      "搜索广告": {
+        "bullish": 1,
+        "neutral": 2,
+        "bearish": 0,
+        "not_mentioned": 0
+      },
+      "云业务": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 2
+      },
+      "AI/Gemini": {
+        "bullish": 1,
+        "neutral": 1,
+        "bearish": 0,
+        "not_mentioned": 1
+      },
+      "YouTube": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 2
+      },
+      "利润率": {
+        "bullish": 0,
+        "neutral": 2,
+        "bearish": 0,
+        "not_mentioned": 1
+      },
+      "估值": {
+        "bullish": 0,
+        "neutral": 1,
+        "bearish": 2,
+        "not_mentioned": 0
+      }
+    },
+    "major_divergences": [],
+    "highest_conviction_view": "利润率（100%机构中性）",
+    "most_contrarian_view": "AI/Gemini（仅50%一致，分歧最大）"
+  },
+  "sentiment_history": [
+    {
+      "date": "2026-02-05",
+      "institution": "晨星",
+      "score": 0.45
+    },
+    {
+      "date": "2026-02-09",
+      "institution": "ISS EVA",
+      "score": -0.65
+    },
+    {
+      "date": "2026-02-11",
+      "institution": "Stock Traders Daily",
+      "score": -0.3
+    }
+  ]
+}

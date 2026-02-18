@@ -1,0 +1,76 @@
+{
+  "institutions": [
+    {
+      "name": "晨星",
+      "name_en": "Morningstar",
+      "reliability_score": 0.0,
+      "reliability_tier": "B",
+      "total_predictions": 0,
+      "verified_predictions": 0,
+      "accurate_predictions": 0,
+      "accuracy_rate": 0.0,
+      "by_ticker": {},
+      "recent_verified": [],
+      "accuracy_trend": []
+    },
+    {
+      "name": "ISS EVA",
+      "name_en": "ISS EVA",
+      "reliability_score": 0.0,
+      "reliability_tier": "B",
+      "total_predictions": 0,
+      "verified_predictions": 0,
+      "accurate_predictions": 0,
+      "accuracy_rate": 0.0,
+      "by_ticker": {},
+      "recent_verified": [],
+      "accuracy_trend": []
+    },
+    {
+      "name": "Stock Traders Daily",
+      "name_en": "Stock Traders Daily",
+      "reliability_score": 0.0,
+      "reliability_tier": "B",
+      "total_predictions": 0,
+      "verified_predictions": 0,
+      "accurate_predictions": 0,
+      "accuracy_rate": 0.0,
+      "by_ticker": {},
+      "recent_verified": [],
+      "accuracy_trend": []
+    }
+  ],
+  "reliability_tiers": {
+    "S": {
+      "min_rate": 0.9,
+      "label": "极其靠谱",
+      "color": "#10b981",
+      "weight": 1.5
+    },
+    "A": {
+      "min_rate": 0.8,
+      "label": "非常靠谱",
+      "color": "#3b82f6",
+      "weight": 1.2
+    },
+    "B": {
+      "min_rate": 0.65,
+      "label": "一般",
+      "color": "#f59e0b",
+      "weight": 1.0
+    },
+    "C": {
+      "min_rate": 0.5,
+      "label": "不太靠谱",
+      "color": "#f97316",
+      "weight": 0.7
+    },
+    "D": {
+      "min_rate": 0.0,
+      "label": "反向指标",
+      "color": "#ef4444",
+      "weight": 0.3
+    }
+  },
+  "last_updated": "2026-02-17"
+}

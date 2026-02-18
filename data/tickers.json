@@ -1,0 +1,47 @@
+{
+  "tickers": [
+    {
+      "symbol": "TSLA",
+      "name_en": "Tesla Inc.",
+      "name_cn": "特斯拉",
+      "sector": "汽车/科技",
+      "default_dimensions": ["FSD", "交付量", "毛利率", "Robotaxi", "能源业务", "估值"]
+    },
+    {
+      "symbol": "NVDA",
+      "name_en": "NVIDIA Corp.",
+      "name_cn": "英伟达",
+      "sector": "半导体",
+      "default_dimensions": ["数据中心", "AI芯片", "游戏", "汽车", "毛利率", "估值"]
+    },
+    {
+      "symbol": "RKLB",
+      "name_en": "Rocket Lab USA Inc.",
+      "name_cn": "火箭实验室",
+      "sector": "航天",
+      "default_dimensions": ["发射业务", "太空系统", "Neutron火箭", "订单储备", "盈利路径", "估值"]
+    },
+    {
+      "symbol": "ONDS",
+      "name_en": "Ondas Holdings Inc.",
+      "name_cn": "Ondas控股",
+      "sector": "无线通信/无人机",
+      "default_dimensions": ["OASys平台", "Optimus无人机", "政府合同", "营收增长", "现金流", "估值"]
+    },
+    {
+      "symbol": "META",
+      "name_en": "Meta Platforms Inc.",
+      "name_cn": "Meta (脸书)",
+      "sector": "社交媒体/AI",
+      "default_dimensions": ["广告业务", "AI投入", "Reality Labs", "用户增长", "利润率", "估值"]
+    },
+    {
+      "symbol": "GOOGL",
+      "name_en": "Alphabet Inc.",
+      "name_cn": "谷歌 (Alphabet)",
+      "sector": "搜索/AI/云",
+      "default_dimensions": ["搜索广告", "云业务", "AI/Gemini", "YouTube", "利润率", "估值"]
+    }
+  ],
+  "last_updated": "2026-02-17"
+}
