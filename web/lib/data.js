@@ -7,8 +7,11 @@
 import fs from 'fs';
 import path from 'path';
 
-// 数据目录 — 相对于 web/ 的上级目录
-const DATA_DIR = path.join(process.cwd(), '..', 'data');
+// 数据目录 — 优先使用 web/data/（Vercel构建时由prebuild脚本复制），
+// 其次使用 ../data/（本地开发时）
+const DATA_DIR_LOCAL = path.join(process.cwd(), 'data');
+const DATA_DIR_PARENT = path.join(process.cwd(), '..', 'data');
+const DATA_DIR = fs.existsSync(DATA_DIR_LOCAL) ? DATA_DIR_LOCAL : DATA_DIR_PARENT;
 
 /**
  * 读取JSON文件

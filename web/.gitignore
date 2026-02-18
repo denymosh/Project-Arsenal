@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# 构建时复制的数据目录（不入Git）
+/data
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
