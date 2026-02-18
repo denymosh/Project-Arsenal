@@ -3,6 +3,7 @@
  * 标的详情页客户端组件
  * 包含: 观点热力图 + 研报时间线 + 目标价图 + 分歧面板 + 预测追踪 + 图表洞察
  */
+import React from 'react';
 import AppShell from '@/components/AppShell';
 import Link from 'next/link';
 import {
@@ -41,8 +42,8 @@ function ViewsHeatmap({ reports, dimensions }) {
 
                     {/* 数据行 */}
                     {dimensions.map(dim => (
-                        <>
-                            <div key={`dim-${dim}`} className="heatmap-cell header" style={{ textAlign: 'left', fontWeight: 600 }}>
+                        <React.Fragment key={dim}>
+                            <div className="heatmap-cell header" style={{ textAlign: 'left', fontWeight: 600 }}>
                                 {dim}
                             </div>
                             {reports.map((report, ri) => {
@@ -61,7 +62,7 @@ function ViewsHeatmap({ reports, dimensions }) {
                                     </div>
                                 );
                             })}
-                        </>
+                        </React.Fragment>
                     ))}
                 </div>
             </div>
