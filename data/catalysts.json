@@ -90,7 +90,70 @@
       "predictions_to_verify": [],
       "verified": false,
       "actual_result": null
+    },
+    {
+      "id": "tsla_q1_2026财报发布",
+      "date": "2026-04-28",
+      "ticker": "TSLA",
+      "event": "Q1 2026财报发布（预期EPS $0.61）",
+      "importance": "high",
+      "related_reports": [
+        "tsla-zacks-20260202",
+        "tsla-argus-20260130"
+      ],
+      "predictions_to_verify": [
+        "2026年EPS $3.20（Zacks）"
+      ],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_robotaxi_城市扩展",
+      "date": "2026-06-30",
+      "ticker": "TSLA",
+      "event": "Robotaxi服务扩展至7个新城市（达拉斯/休斯顿/凤凰城等）",
+      "importance": "high",
+      "related_reports": [
+        "tsla-zacks-20260202",
+        "tsla-morningstar-20260203"
+      ],
+      "predictions_to_verify": [
+        "Robotaxi 7城扩展"
+      ],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_cybercab_optimus量产",
+      "date": "2026-12-31",
+      "ticker": "TSLA",
+      "event": "Cybercab AV和Optimus机器人预计达到量产",
+      "importance": "high",
+      "related_reports": [
+        "tsla-zacks-20260202"
+      ],
+      "predictions_to_verify": [
+        "Cybercab/Optimus量产"
+      ],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_2026_capex_验证",
+      "date": "2026-12-31",
+      "ticker": "TSLA",
+      "event": "验证2026年$200亿+资本支出计划执行情况",
+      "importance": "medium",
+      "related_reports": [
+        "tsla-argus-20260130",
+        "tsla-zacks-20260202"
+      ],
+      "predictions_to_verify": [
+        "资本支出>$200亿"
+      ],
+      "verified": false,
+      "actual_result": null
     }
   ],
-  "last_updated": "2026-02-17"
+  "last_updated": "2026-02-19"
 }

@@ -3,26 +3,352 @@
   "name_en": "Tesla Inc.",
   "name_cn": "特斯拉",
   "current_consensus": {
-    "rating": null,
-    "avg_target_price": null,
-    "min_target_price": null,
-    "max_target_price": null,
-    "sentiment_avg": null,
-    "total_reports": 0,
-    "last_updated": null
+    "rating": "持有",
+    "avg_target_price": 426.0,
+    "min_target_price": 400.0,
+    "max_target_price": 452.0,
+    "sentiment_avg": -0.15,
+    "total_reports": 3,
+    "last_updated": "2026-02-03"
   },
   "view_dimensions": [
-    "FSD",
-    "交付量",
+    "FSD/自动驾驶",
+    "交付量/销量",
     "毛利率",
     "Robotaxi",
     "能源业务",
     "估值"
   ],
-  "reports": [],
+  "reports": [
+    {
+      "id": "tsla-argus-20260130",
+      "institution": "Argus Research",
+      "date": "2026-01-30",
+      "rating": "持有",
+      "target_price": null,
+      "sentiment_score": -0.35,
+      "summary": "Q4利润同比下降17%至$0.50/股（优于预期$0.45），但核心汽车业务收入下滑11%，交付量同比降16%。关税成本上升、生产成本增高。尽管Q4表现略超预期，但Argus认为这是异常值，不宜在当前时点加仓。估值高度依赖未经验证的长期赌注（Robotaxi、AI），资本消耗极快但近期回报可见性差。",
+      "views": [
+        {
+          "topic": "FSD/自动驾驶",
+          "stance": "bearish",
+          "summary": "估值高度依赖未经验证的长期赌注如robotaxi和AI，这些业务正以极快速度消耗资本，但近期回报可见性很差。2026年资本开支计划超$200亿（2025年仅$90亿），主要用于自动驾驶和Optimus扩产。",
+          "predictions": [
+            {
+              "metric": "2026年资本支出",
+              "predicted_value": ">$200亿",
+              "deadline": "2026-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "above"
+            }
+          ]
+        },
+        {
+          "topic": "交付量/销量",
+          "stance": "bearish",
+          "summary": "Q4交付量418,227辆，同比下降16%。核心EV需求放缓（联邦$7,500税收抵免到期、消费者兴趣减弱），竞争加剧。预计2026年将包含一些'艰难的季度'。近期管理层仅预期温和的整体收入和交付增长。",
+          "predictions": [
+            {
+              "metric": "2026年EPS",
+              "predicted_value": "$2.03",
+              "deadline": "2027-01-31",
+              "accurate": null,
+              "comparison_to_consensus": "below"
+            }
+          ]
+        },
+        {
+          "topic": "毛利率",
+          "stance": "neutral",
+          "summary": "Q4 GAAP毛利率达20.1%（去年同期16.3%），环比改善380个基点，归因于更高的平均售价和更优产品组合。但Argus认为定价压力导致毛利率增长不一致，前瞻性盈利预期持续下调。",
+          "predictions": []
+        },
+        {
+          "topic": "Robotaxi",
+          "stance": "bearish",
+          "summary": "Robotaxi和AI投资正在以极快速度消耗资本，但近期回报可见性差。在验证EV交付量企稳或加速、毛利率可持续恢复之前，Argus对该股无法更加看好。",
+          "predictions": []
+        },
+        {
+          "topic": "能源业务",
+          "stance": "bullish",
+          "summary": "能源发电和存储业务收入Q4达$38.37亿，同比增长25%，反映电池存储需求强劲及毛利率表现扩大。全年服务及其他收入同比增18%至$33.71亿。",
+          "predictions": []
+        },
+        {
+          "topic": "估值",
+          "stance": "bearish",
+          "summary": "以2026年EPS $2.03计算，P/E比率约205倍。市销率14.2倍（14年均值范围6.7-16.8），市净率16.9倍。大部分估值指标处于历史高位或接近高位。在当前盈利下行周期中，估值难以支撑。",
+          "predictions": []
+        }
+      ],
+      "chart_insights": []
+    },
+    {
+      "id": "tsla-zacks-20260202",
+      "institution": "Zacks Equity Research",
+      "date": "2026-02-02",
+      "rating": "中性",
+      "target_price": 452.0,
+      "sentiment_score": -0.10,
+      "summary": "Zacks给予中性推荐（此前为Underperform），Style Score为VGM:D（Value:F, Growth:C, Momentum:B）。EV交付连续第二年下滑，竞争加剧。公司转向AI/自动驾驶/机器人，但$200亿资本支出将压制近期现金流。能源存储和超充网络是亮点。Robotaxi预计2026上半年拓展7个新城市。",
+      "views": [
+        {
+          "topic": "FSD/自动驾驶",
+          "stance": "neutral",
+          "summary": "Tesla正在用端到端AI模型升级FSD（Supervised），在Austin和加州湾区测试robotaxi服务。正开发定制AI推理芯片，目标2027-2028年量产。Cybercab和Optimus预计2026年量产。加强了长期叙事，但有意义的贡献仍需时间。",
+          "predictions": [
+            {
+              "metric": "AI推理芯片量产",
+              "predicted_value": "2027-2028年",
+              "deadline": "2028-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "inline"
+            }
+          ]
+        },
+        {
+          "topic": "交付量/销量",
+          "stance": "bearish",
+          "summary": "2025年交付量连续第二年同比下滑（2024年仅降1%，2025年降幅扩大至8%以上）。Q4交付418,227辆同比降16%，低于Zacks预期的448,384辆。EV市场疲软、竞争加剧、车型老化共同拖累需求。美国EV市场份额已从2022年的63%降至低于50%。",
+          "predictions": [
+            {
+              "metric": "2026年全年营收",
+              "predicted_value": "$963.51亿",
+              "deadline": "2027-01-31",
+              "accurate": null,
+              "comparison_to_consensus": "inline"
+            },
+            {
+              "metric": "2026年全年EPS",
+              "predicted_value": "$3.20",
+              "deadline": "2027-01-31",
+              "accurate": null,
+              "comparison_to_consensus": "inline"
+            }
+          ]
+        },
+        {
+          "topic": "毛利率",
+          "stance": "neutral",
+          "summary": "Q4汽车毛利率（不含租赁和监管信贷）为17.2%，高于去年同期12.8%。运营利润率5.7%，同比下降50个基点但优于Zacks预期的5.3%。监管信贷销售同比下降28%，原来支撑盈利的这一收入源正在萎缩。",
+          "predictions": []
+        },
+        {
+          "topic": "Robotaxi",
+          "stance": "neutral",
+          "summary": "Robotaxi服务预计2026上半年扩展至7个新城市（达拉斯、休斯顿、凤凰城、迈阿密、奥兰多、坦帕、拉斯维加斯）。公司认为在robotaxi方面具有强大的成本和规模优势。但有意义的收入贡献可能需要时间，目前保持中性立场。",
+          "predictions": [
+            {
+              "metric": "Robotaxi新城市扩展",
+              "predicted_value": "7个新城市",
+              "deadline": "2026-06-30",
+              "accurate": null,
+              "comparison_to_consensus": "inline"
+            }
+          ]
+        },
+        {
+          "topic": "能源业务",
+          "stance": "bullish",
+          "summary": "能源发电和存储业务正在获得牵引力。Q4能源存储部署达14.2GWh，收入$38.4亿同比增25%。超充网络持续扩展，Q4末达77,682个连接器。这是公司的明确亮点。",
+          "predictions": []
+        },
+        {
+          "topic": "估值",
+          "stance": "bearish",
+          "summary": "当前P/S比率15.38倍，远高于行业3.4倍和标普500的5.62倍。5年P/S中位数仅8.21倍。Zacks目标价$452基于16.15倍前瞻12个月营收。Value Style Score F（最差），表明估值极度拉伸。",
+          "predictions": []
+        }
+      ],
+      "chart_insights": []
+    },
+    {
+      "id": "tsla-morningstar-20260203",
+      "institution": "Morningstar",
+      "date": "2026-02-03",
+      "rating": "持有",
+      "target_price": 400.0,
+      "sentiment_score": 0.0,
+      "summary": "Morningstar给予TSLA三星评级（适当估值），公允价值$400，价格/公允价值比1.05。窄护城河评级（品牌资产+成本优势），极高不确定性，杰出资本配置。看好Robotaxi（估值约$120/股）、FSD订阅（$70/股）、Optimus（$80/股）的长期价值。预计2030年交付约280万辆。上行情景$700，下行情景$100。",
+      "views": [
+        {
+          "topic": "FSD/自动驾驶",
+          "stance": "bullish",
+          "summary": "FSD订阅软件估值约$70/股。Tesla正在开发自定义AI推理芯片。Morningstar预计自动驾驶将是产品差异化的关键。FSD采用率的增长将推动汽车毛利率在2020年代末恢复至25%中段水平。",
+          "predictions": [
+            {
+              "metric": "FSD订阅估值",
+              "predicted_value": "$70/股",
+              "deadline": "2030-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "above"
+            }
+          ]
+        },
+        {
+          "topic": "交付量/销量",
+          "stance": "neutral",
+          "summary": "预计2030年年交付约280万辆，主要由Model Y/3平台驱动。计划停产Model S/X，Cybertruck/Roadster/Semi合计约3万辆/年。新款低价Model Y/3将推动增长，但短期交付仍面临竞争压力（美国EV市场份额低于50%）。",
+          "predictions": [
+            {
+              "metric": "2030年年交付量",
+              "predicted_value": "约280万辆",
+              "deadline": "2030-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "inline"
+            }
+          ]
+        },
+        {
+          "topic": "毛利率",
+          "stance": "neutral",
+          "summary": "预计汽车毛利率（不含信贷）将维持在十几%中段，低于管理层20%的长期目标。但随FSD订阅软件采用率上升，预计到2020年代末毛利率可恢复至25%中段（高于2024年的18%但低于2022年的29%）。",
+          "predictions": [
+            {
+              "metric": "2030年汽车毛利率",
+              "predicted_value": "25%中段",
+              "deadline": "2030-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "above"
+            }
+          ]
+        },
+        {
+          "topic": "Robotaxi",
+          "stance": "bullish",
+          "summary": "Robotaxi估值约$120/股，占Tesla总估值的30%。预计自动驾驶车辆（Tesla robotaxi和Waymo）到2030年将占美/加打车服务的50%，因成本低于人类司机。Tesla初期采取重资产模式（自有车辆+运营软件），后期开放车主加入车队。上行情景下robotaxi估值可达$180/股。",
+          "predictions": [
+            {
+              "metric": "Robotaxi估值",
+              "predicted_value": "$120/股",
+              "deadline": "2030-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "above"
+            },
+            {
+              "metric": "2030年自动驾驶打车市占率",
+              "predicted_value": "50%（美/加）",
+              "deadline": "2030-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "above"
+            }
+          ]
+        },
+        {
+          "topic": "能源业务",
+          "stance": "bullish",
+          "summary": "电池储能市场扩张，Tesla凭借品牌优势可获溢价定价（消费者端太阳能+逆变器+家庭电池系统）。保险业务和充电业务利润增长预期正面。整体利好长期价值。",
+          "predictions": []
+        },
+        {
+          "topic": "估值",
+          "stance": "neutral",
+          "summary": "公允价值$400，当前价格$421.81，P/FVE=1.05（适当估值）。P/E 356.8倍，P/S 15.69倍，P/B 19.26倍。上行情景$700（Optimus $300/股），下行情景$100（AI软件仅$10/股，robotaxi/Optimus零估值）。未来十年预计$1700亿资本开支。极高不确定性。",
+          "predictions": [
+            {
+              "metric": "未来十年累计资本支出",
+              "predicted_value": "近$1700亿",
+              "deadline": "2035-12-31",
+              "accurate": null,
+              "comparison_to_consensus": "above"
+            }
+          ]
+        }
+      ],
+      "chart_insights": []
+    }
+  ],
   "cross_comparison": {
-    "consensus_matrix": {},
-    "major_divergences": []
+    "consensus_matrix": {
+      "FSD/自动驾驶": {
+        "bullish": 1,
+        "neutral": 1,
+        "bearish": 1,
+        "not_mentioned": 0
+      },
+      "交付量/销量": {
+        "bullish": 0,
+        "neutral": 1,
+        "bearish": 2,
+        "not_mentioned": 0
+      },
+      "毛利率": {
+        "bullish": 0,
+        "neutral": 3,
+        "bearish": 0,
+        "not_mentioned": 0
+      },
+      "Robotaxi": {
+        "bullish": 1,
+        "neutral": 1,
+        "bearish": 1,
+        "not_mentioned": 0
+      },
+      "能源业务": {
+        "bullish": 3,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 0
+      },
+      "估值": {
+        "bullish": 0,
+        "neutral": 1,
+        "bearish": 2,
+        "not_mentioned": 0
+      }
+    },
+    "major_divergences": [
+      {
+        "topic": "FSD/自动驾驶前景",
+        "severity": "major",
+        "description": "Argus认为FSD/AI投资消耗资本但回报可见性差，是'未经验证的长期赌注'；而Morningstar认为FSD软件订阅价值$70/股，是关键的产品差异化因素和毛利率恢复驱动力。",
+        "bulls": [
+          "Morningstar"
+        ],
+        "bears": [
+          "Argus Research"
+        ]
+      },
+      {
+        "topic": "Robotaxi商业化前景",
+        "severity": "major",
+        "description": "Morningstar给予robotaxi业务$120/股的估值（占30%总估值），预计2030年前占美/加50%打车市场；而Argus认为robotaxi消耗资本但回报不明朗，在下行情景中Morningstar也可能给零估值。",
+        "bulls": [
+          "Morningstar"
+        ],
+        "bears": [
+          "Argus Research"
+        ]
+      },
+      {
+        "topic": "目标价分歧",
+        "severity": "moderate",
+        "description": "Zacks目标价$452 vs Morningstar公允价值$400，分歧13%。Morningstar上行情景高达$700但下行仅$100，反映极高不确定性。Argus未给出目标价但整体偏空观点暗示实际估值可能偏低。",
+        "bulls": [
+          "Zacks Equity Research"
+        ],
+        "bears": [
+          "Morningstar"
+        ]
+      }
+    ]
   },
-  "sentiment_history": []
+  "sentiment_history": [
+    {
+      "date": "2026-01-30",
+      "institution": "Argus Research",
+      "sentiment_score": -0.35
+    },
+    {
+      "date": "2026-02-02",
+      "institution": "Zacks Equity Research",
+      "sentiment_score": -0.10
+    },
+    {
+      "date": "2026-02-03",
+      "institution": "Morningstar",
+      "sentiment_score": 0.0
+    }
+  ]
 }
