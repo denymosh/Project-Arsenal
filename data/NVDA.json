@@ -132,20 +132,34 @@
         {
           "chart_name": "chart_1",
           "chart_type": "line",
-          "source_file": "",
-          "description": "原文未提供可直接解析的价格技术图或估值图表。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "source_file": "images/Market-Watch_-Understanding-AI_p1_img3.jpeg",
+          "description": "AI基础设施市场规模趋势图（约2024-2030E），展示全球AI算力/基础设施支出扩张轨迹。",
+          "key_observations": [
+            "👁️ 曲线呈明显上凸形态，2027年后斜率继续抬升，非线性增长特征显著。",
+            "👁️ 2025到2030的绝对增量远大于此前阶段，表明行业进入规模化爆发区间。",
+            "👁️ 图形未显示中期深度回撤，意味着报告核心假设是“景气延续而非短周期脉冲”。"
+          ],
+          "data_not_in_text": [
+            "🆕 由图读数，2026E规模约0.85-0.90万亿美元，较2025年增加约2500-3000亿美元。",
+            "🆕 2028E接近1.6万亿美元，意味着2028-2030两年仍有约1.4万亿美元增量空间。"
+          ],
+          "investment_implication": "在行业曲线加速阶段，龙头份额稳定时盈利弹性通常高于收入弹性，NVDA仍具超额收益基础；但需警惕高预期下的估值波动。"
         },
         {
           "chart_name": "chart_2",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "从叙事强度看，短期或有波动，但中长期成长逻辑仍偏强。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "bar",
+          "source_file": "images/Semiconductor-Industry---A-Sup_p1_img3.jpeg",
+          "description": "半导体子行业表现对比图（含AI相关链条），用于验证AI资本开支外溢到上游/周边环节的广度。",
+          "key_observations": [
+            "👁️ 与AI算力直接相关的细分赛道柱体显著高于传统终端链条，资金与订单集中度高。",
+            "👁️ 行业内部出现“龙头强、尾部弱”分化，反映客户优先保障高性能算力供给。",
+            "👁️ 图中动量排序支持“先基础设施、后应用层”投资节奏。"
+          ],
+          "data_not_in_text": [
+            "🆕 领先细分赛道的相对增速读数约为行业均值的1.5-2.0倍。",
+            "🆕 后段赛道柱体高度多落在个位数至低双位数区间，明显低于AI核心链条。"
+          ],
+          "investment_implication": "Argus虽缺少NVDA单独估值图，但行业横截面仍支持“继续偏配AI算力龙头、回避弱势子板块”的配置策略。"
         }
       ],
       "cross_comparison": {
@@ -274,38 +288,66 @@
         {
           "chart_name": "chart_1",
           "chart_type": "line",
-          "source_file": "",
-          "description": "Figure 1显示Semi's Billings YoY与EVA Momentum高度相关，Billings增速通常领先EVA Momentum 2-3个月见顶。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "source_file": "images/Semiconductor-Industry---A-Sup_p2_img3.jpeg",
+          "description": "Semi Billings YoY 与 EVA Momentum 双线图（长周期），用于识别行业景气拐点的先行/滞后关系。",
+          "key_observations": [
+            "👁️ Billings YoY通常先于EVA Momentum见顶约2-3个月，本轮关系仍保持稳定。",
+            "👁️ 两条曲线在2025年同步上行并处历史高位附近，显示景气处于后周期加速段。",
+            "👁️ 历史上当Billings快速下拐时，EVA Momentum随后下行斜率往往更陡。"
+          ],
+          "data_not_in_text": [
+            "🆕 图中2025年末Billings YoY接近40%-41%，明显高于2024年中枢约20%-25%。",
+            "🆕 同期EVA Momentum约6%-7%，较年初约3%实现翻倍。"
+          ],
+          "investment_implication": "上半年仍可顺势持有NVDA，但若Billings连续2-3个月下行，应提前降低高Beta半导体仓位。"
         },
         {
           "chart_name": "chart_2",
           "chart_type": "line",
-          "source_file": "",
-          "description": "Figure 3显示市场价值YoY变化通常在EVA Momentum见顶前约3个月开始回落，历史规律较稳定。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "source_file": "images/Semiconductor-Industry---A-Sup_p3_img3.png",
+          "description": "市场价值YoY 与 EVA Momentum 相对时序图，衡量资本市场对行业景气见顶的前瞻定价窗口。",
+          "key_observations": [
+            "👁️ 市场价值YoY通常在EVA Momentum见顶前约一个季度先回落，股价领先基本面拐点。",
+            "👁️ 当前两者仍处扩张区间，但市场价值曲线波动更大，说明情绪对短期交易影响更强。",
+            "👁️ 历史多次出现“基本面仍强、股价先回调”的错位阶段。"
+          ],
+          "data_not_in_text": [
+            "🆕 历史样本中领先回落窗口多在2-4个月，集中在约3个月。",
+            "🆕 最近一轮市场价值YoY峰值读数约30%上方，而EVA Momentum峰值区域在高个位数。"
+          ],
+          "investment_implication": "ISS框架下，NVDA更适合“趋势跟随+前瞻减仓”：基本面未坏前可持有，但需用市场价值YoY的先行回落信号做风控。"
         },
         {
           "chart_name": "chart_3",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "Figure 4大盘半导体数据表中NVDA的Profitability Score和Valuation Score均为100，为行业最高。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "table",
+          "source_file": "images/Semiconductor-Industry---A-Sup_p2_img3.jpeg",
+          "description": "大盘半导体公司评分表（EVA Margin、EVA Momentum、PRVit、Profitability/Valuation Score）。",
+          "key_observations": [
+            "👁️ NVDA在EVA Margin与综合评分维度位居第一梯队，质量优势不仅来自增长也来自盈利效率。",
+            "👁️ 同组中部分公司EVA Margin为负，显示行业内部盈利分化远大于收入分化。",
+            "👁️ NVDA的高盈利+高估值评分组合，说明其被市场视为“确定性资产”而非周期尾部资产。"
+          ],
+          "data_not_in_text": [
+            "🆕 NVDA EVA Margin 48.5%，较组内均值14.6%高约33.9个百分点。",
+            "🆕 AMD/INTC EVA Margin分别约-2.5%/-32.3%，与NVDA形成超50个百分点差距。"
+          ],
+          "investment_implication": "在行业周期后段，优先持有EVA质量最高的龙头可提升防守性；NVDA相较二线标的更具抗波动能力。"
         },
         {
           "chart_name": "chart_4",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "Figure 2数据表显示2025年EVA Momentum从1月2.9%升至12月6.7%，Billings YoY从15%升至41%，加速趋势明显。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "table",
+          "source_file": "images/Semiconductor-Industry---A-Sup_p3_img3.png",
+          "description": "2025年分月Billings与EVA Momentum数据表（Figure 2），展示全年动量演进。",
+          "key_observations": [
+            "👁️ 月度数据呈“年初温和、年中加速、年末高位”结构，动量改善并非单月脉冲。",
+            "👁️ Billings改善幅度显著大于EVA Momentum，说明盈利动量仍在跟随订单动量爬升。",
+            "👁️ 年末高位伴随历史高波动区间，预示2026年更容易出现趋势反转。"
+          ],
+          "data_not_in_text": [
+            "🆕 Billings YoY从1月约15%升至12月约41%，全年抬升约26个百分点。",
+            "🆕 EVA Momentum从1月约2.9%升至12月约6.7%，全年抬升约3.8个百分点。"
+          ],
+          "investment_implication": "短期仍可交易景气惯性，但应把2026年中后段视为减仓窗口：一旦月度Billings回落，需快速下调仓位beta。"
         }
       ],
       "cross_comparison": {
@@ -483,38 +525,66 @@
         {
           "chart_name": "chart_1",
           "chart_type": "line",
-          "source_file": "",
-          "description": "Price vs Fair Value图显示NVDA当前P/FVE为0.78，处于2021年以来低位区间，历史上类似折价后多有回归。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p20_img1.png",
+          "description": "Price vs Fair Value 折线图（约2021-2026），展示股价与Morningstar公允价值比率(P/FVE)的历史波动。",
+          "key_observations": [
+            "👁️ 2024年中后段P/FVE快速上冲至1.2x以上，随后在2025-2026回落到0.8x附近，估值热度明显降温。",
+            "👁️ 当前比值低于1.0x中枢并接近近5年下沿区域，显示市场价格已从“溢价交易”切换到“折价交易”。",
+            "👁️ 图中回撤阶段斜率明显快于上行阶段，反映NVDA在高Beta属性下估值收缩速度更快。"
+          ],
+          "data_not_in_text": [
+            "🆕 图中阶段高点约1.25x、阶段低点约0.74x，峰谷振幅接近0.5x。",
+            "🆕 2025年下半年后P/FVE大多运行在0.75x-0.90x区间，低于2023-2024常见的0.95x-1.15x。"
+          ],
+          "investment_implication": "估值位置对中长期多头更有利：在P/FVE<0.8x区间可分批增配，但需接受高波动；若快速修复到1.05x以上，宜转为仓位管理而非追涨。"
         },
         {
           "chart_name": "chart_2",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "竞争对手对比表显示NVDA P/FVE 0.78 vs AVGO 0.72 vs AMD 0.82 vs INTC 1.41，INTC被高估而NVDA/AVGO/AMD均被低估。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "table",
+          "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p21_img1.png",
+          "description": "同业估值与质量对比表，比较NVDA、AVGO、AMD、INTC在P/FVE、护城河、资本回报与估值倍数等维度。",
+          "key_observations": [
+            "👁️ NVDA与AVGO同为Wide Moat，且资本配置评级更优，说明其高估值有“质量溢价”支撑。",
+            "👁️ NVDA当前P/FVE低于1而INTC高于1，市场对成长/护城河质量的定价分化明显。",
+            "👁️ NVDA绝对估值不低，但相对PEG与ROE组合仍优于多数可比公司，属于“高质量高增长”而非单纯泡沫估值。"
+          ],
+          "data_not_in_text": [
+            "🆕 表中显示INTC P/FVE约1.41x，显著高于NVDA约0.78x与AVGO约0.72x。",
+            "🆕 NVDA调整后P/E约46.6x，低于AMD约110x与INTC约656x，估值分位并非极端。"
+          ],
+          "investment_implication": "相对估值比较支持“优先持有NVDA而非低质量高估值替代品”；若行业回调，NVDA更可能先估值压缩后再回归基本面溢价。"
         },
         {
           "chart_name": "chart_3",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "财务预测表显示FY2025-FY2030收入从1305亿增至5406亿，营业利润率稳定在60-65%区间。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "table",
+          "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p21_img1.png",
+          "description": "财务预测表（FY2025-FY2030），包含收入、利润率和分部增长路径，反映AI资本开支周期下的盈利弹性。",
+          "key_observations": [
+            "👁️ 收入曲线在FY2027前保持陡峭上行，之后增速台阶式放缓，呈“高基数正常化”特征。",
+            "👁️ 毛利率在Blackwell爬坡期短暂承压后维持70%+，说明产品结构和定价权仍强。",
+            "👁️ 营业利润率维持60%上下高位平台，未出现典型半导体周期中后段的大幅塌陷。"
+          ],
+          "data_not_in_text": [
+            "🆕 图表对应FY2029E/FY2030E收入约4740亿/5406亿美元，较FY2028E继续增长约15%/31%。",
+            "🆕 毛利率在FY2026E低点约71%后回到73%-74%区间，利润修复节奏快于收入增速放缓节奏。"
+          ],
+          "investment_implication": "只要70%+毛利率和60%附近经营利润率成立，估值中枢难以系统性下移；中期可用“增速换挡但利润稳态”框架持有。"
         },
         {
           "chart_name": "chart_4",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "DCF分解：Stage I现值1.33万亿、Stage II 1.20万亿、Stage III 2.87万亿，长期价值占比超50%。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "bar",
+          "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p21_img1.png",
+          "description": "DCF估值分解图（Stage I/II/III），展示不同阶段现金流对总企业价值的贡献结构。",
+          "key_observations": [
+            "👁️ 终值阶段（Stage III）占比最高，估值对长期增长假设与折现率高度敏感。",
+            "👁️ Stage I与Stage II贡献相近，说明短中期兑现并非薄弱，但并不足以单独支撑当前总估值。",
+            "👁️ 估值结构显示“长期叙事权重过半”，因此市场更易对远期需求变化产生放大反应。"
+          ],
+          "data_not_in_text": [
+            "🆕 Stage III现值约2.87万亿美元，占总EV(5.41万亿美元)约53%。",
+            "🆕 Stage I+II合计约2.53万亿美元，仅略低于Stage III单段贡献。"
+          ],
+          "investment_implication": "该估值结构适合“业绩验证驱动的趋势持有”，不适合忽视假设变化的长期躺平；需持续跟踪AI资本开支和WACC变化。"
         }
       ],
       "cross_comparison": {
@@ -694,38 +764,66 @@
         {
           "chart_name": "chart_1",
           "chart_type": "line",
-          "source_file": "",
-          "description": "Price, Consensus & Surprise图显示NVDA连续多季度超预期，Q3 FY2026 EPS超预期4.84%、收入超预期4.14%。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "source_file": "images/NVDA_-NVIDIA-Corporation_p1_img5.png",
+          "description": "Price, Consensus & Surprise 图，展示NVDA季度EPS实际值与一致预期的偏差轨迹。",
+          "key_observations": [
+            "👁️ 近几个季度“实际值 consistently 高于预期”，超预期序列保持连续，说明卖方仍系统性低估业绩弹性。",
+            "👁️ 超预期幅度在高基数阶段收敛，反映公司从“爆发式惊喜”转入“高位稳超预期”。",
+            "👁️ 价格走势与超预期并非线性同步，估值约束开始主导短期股价反应。"
+          ],
+          "data_not_in_text": [
+            "🆕 图中Q3 FY2026 EPS实际约1.10，对比一致预期约1.05，绝对差约0.05。",
+            "🆕 最近4个财季均为正向surprise，单季超预期区间大致在+3%到+8%。"
+          ],
+          "investment_implication": "基本面仍支持持有，但交易层面应从“押注大幅超预期”转向“押注稳定兑现+估值消化”。"
         },
         {
           "chart_name": "chart_2",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "Sales and EPS Growth Rates图显示FY2025-FY2027收入与EPS增速虽在放缓但仍维持高双位数。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "bar",
+          "source_file": "images/NVDA_-NVIDIA-Corporation_p1_img6.png",
+          "description": "Sales and EPS Growth Rates 柱状图，对比FY2025-FY2027收入与EPS同比增速。",
+          "key_observations": [
+            "👁️ 收入与EPS增速均从三位数/高双位数向中高双位数回落，增长换挡趋势明确。",
+            "👁️ EPS增速曲线整体高于收入增速，显示规模效应和产品结构优化仍在释放。",
+            "👁️ 增速放缓是高基数后的正常化，而非需求塌陷，图形上并未出现断崖式下行。"
+          ],
+          "data_not_in_text": [
+            "🆕 FY2025收入增速约114%，FY2026E约63%，FY2027E约39%，两年累计回落约75个百分点。",
+            "🆕 FY2026E EPS增速约55%，与收入63%接近，FY2027E后利润增速与收入增速差距收敛。"
+          ],
+          "investment_implication": "估值重定价阶段优先看“增速放缓是否低于预期”；只要维持30%+收入增长，Neutral更像估值而非基本面看空。"
         },
         {
           "chart_name": "chart_3",
-          "chart_type": "line",
-          "source_file": "",
-          "description": "估值对比表显示NVDA前瞻P/E 38.8x远高于行业23.2x和标普500的23.0x，但PEG仅0.79反映增速溢价。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "chart_type": "table",
+          "source_file": "images/NVDA_-NVIDIA-Corporation_p2_img1.png",
+          "description": "Valuation Comparison 表格，比较NVDA与行业/指数的P/E、PEG、P/S等估值指标。",
+          "key_observations": [
+            "👁️ NVDA前瞻P/E显著高于行业均值，估值溢价仍然存在。",
+            "👁️ 但PEG低于1，说明增长速度对估值有一定对冲，属于“高估值但增长可解释”。",
+            "👁️ P/S处于高位，市场主要定价的是中期AI收入可持续性，而非短期利润波动。"
+          ],
+          "data_not_in_text": [
+            "🆕 图表显示NVDA前瞻P/E约38.8x，较行业23.2x溢价约67%。",
+            "🆕 NVDA PEG约0.79，低于1.0阈值，和其高P/E形成明显反差。"
+          ],
+          "investment_implication": "估值并不便宜，但在高增速背景下仍可持有；更适合回调分批而非在高波动时追高。"
         },
         {
           "chart_name": "chart_4",
           "chart_type": "line",
-          "source_file": "",
-          "description": "五年P/E区间21.78x-106.30x，当前40.5x接近五年中位数41.34x。",
-          "key_observations": [],
-          "data_not_in_text": [],
-          "investment_implication": ""
+          "source_file": "images/NVDA_-NVIDIA-Corporation_p2_img2.png",
+          "description": "5-year Forward P/E 区间图，展示NVDA历史估值带与当前估值所处分位。",
+          "key_observations": [
+            "👁️ 当前估值位于五年区间中位附近，既非极端昂贵也非极端便宜。",
+            "👁️ 估值峰值明显对应AI主题最拥挤阶段，随后回落至中枢显示泡沫化情绪已部分释放。",
+            "👁️ 区间下沿与上沿跨度极大，意味着估值弹性高、交易节奏比方向更重要。"
+          ],
+          "data_not_in_text": [
+            "🆕 5年区间约21.78x-106.30x，当前约40.5x，处于区间下半部。",
+            "🆕 当前值仅略低于5年中位数41.34x，距离中位数差约0.8x。"
+          ],
+          "investment_implication": "当前估值更像“中性偏贵”而非泡沫极值，若未来两个季度继续兑现，估值有望在35x-45x区间高位震荡消化。"
         }
       ],
       "cross_comparison": {
