@@ -9,7 +9,10 @@
       "verified_predictions": 0,
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
-      "by_ticker": {},
+      "by_ticker": {
+        "GOOGL": 1,
+        "TSLA": 1
+      },
       "recent_verified": [],
       "accuracy_trend": []
     },
@@ -22,7 +25,9 @@
       "verified_predictions": 0,
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
-      "by_ticker": {},
+      "by_ticker": {
+        "GOOGL": 1
+      },
       "recent_verified": [],
       "accuracy_trend": []
     },
@@ -35,7 +40,39 @@
       "verified_predictions": 0,
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
-      "by_ticker": {},
+      "by_ticker": {
+        "GOOGL": 1
+      },
+      "recent_verified": [],
+      "accuracy_trend": []
+    },
+    {
+      "name": "Argus Research",
+      "name_en": "Argus Research",
+      "reliability_score": 0.0,
+      "reliability_tier": "B",
+      "total_predictions": 0,
+      "verified_predictions": 0,
+      "accurate_predictions": 0,
+      "accuracy_rate": 0.0,
+      "by_ticker": {
+        "TSLA": 1
+      },
+      "recent_verified": [],
+      "accuracy_trend": []
+    },
+    {
+      "name": "Zacks Equity Research",
+      "name_en": "Zacks Equity Research",
+      "reliability_score": 0.0,
+      "reliability_tier": "B",
+      "total_predictions": 0,
+      "verified_predictions": 0,
+      "accurate_predictions": 0,
+      "accuracy_rate": 0.0,
+      "by_ticker": {
+        "TSLA": 1
+      },
       "recent_verified": [],
       "accuracy_trend": []
     },
