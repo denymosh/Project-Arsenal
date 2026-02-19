@@ -89,9 +89,19 @@ def update_consensus(ticker: str) -> CurrentConsensus:
     ticker_data.current_consensus = consensus
     save_ticker_data(ticker_data)
 
+    tp_range = "N/A"
+    if min_tp is not None and max_tp is not None:
+        if min_tp == max_tp:
+            tp_range = f"${min_tp}"
+        else:
+            tp_range = f"${min_tp}-${max_tp}"
+
+    tp_avg = f"${avg_tp:.2f}" if avg_tp is not None else "N/A"
+    sentiment_text = f"{avg_sentiment:.2f}" if avg_sentiment is not None else "N/A"
+
     print(f"  📊 共识更新完成:")
-    print(f"     评级: {consensus_rating} | 目标价: ${min_tp}-${max_tp} (均值${avg_tp:.0f})")
-    print(f"     情感均值: {avg_sentiment:.2f} | 研报总数: {len(reports)}")
+    print(f"     评级: {consensus_rating} | 目标价: {tp_range} (均值{tp_avg})")
+    print(f"     情感均值: {sentiment_text} | 研报总数: {len(reports)}")
 
     return consensus
 

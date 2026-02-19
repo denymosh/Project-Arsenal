@@ -1,0 +1,209 @@
+{
+  "ticker": "NVDA",
+  "report": {
+    "date": "2026-02-04",
+    "institution": "Zacks",
+    "institution_en": "Zacks Investment Research",
+    "analyst": "",
+    "rating": "持有",
+    "target_price": 189.0,
+    "sentiment_score": 0.45,
+    "views": [
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "NVDA受益于AI与高性能加速计算的强劲增长，数据中心收入预计FY2026-2028 CAGR达42.1%。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "Hopper与Blackwell架构GPU需求旺盛，生成式AI与大语言模型持续驱动数据中心营收。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "企业AI采用加速，DGX Cloud与CUDA生态扩展使NVDA成为企业AI首选平台。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "Blackwell Ultra推理吞吐量较Hopper 100提升25倍，巩固AI推理领域主导地位。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "H20芯片获准对华销售（需向美国政府缴纳15%收入），重新打开中国AI市场。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "自动驾驶领域与320+车企合作，汽车年化收入已超20亿美元，目标市场规模3000亿美元。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "当前估值（40.5x前瞻P/E）高于行业（23.2x）和标普500（23.0x），评级从Outperform下调至Neutral。",
+        "data_points": [],
+        "predictions": []
+      }
+    ],
+    "key_metrics": {
+      "revenue_estimate": null,
+      "eps_estimate": null,
+      "growth_rate": null,
+      "margin_estimate": null,
+      "other": {
+        "metric_1": "股价（2026/02/03）：$180.34",
+        "metric_2": "目标价（6-12个月）：$189.00",
+        "metric_3": "FY2025收入：1305亿美元（+114% YoY）",
+        "metric_4": "FY2026E收入：2129亿美元（+63%）",
+        "metric_5": "FY2027E收入：2965亿美元（+39%）",
+        "metric_6": "FY2026-2028E收入CAGR：40.7%",
+        "metric_7": "FY2025 EPS：$2.99",
+        "metric_8": "FY2026E EPS：$4.65（+55.5%）",
+        "metric_9": "FY2027E EPS：$6.62",
+        "metric_10": "Q3 FY2026收入：570亿美元（+62% YoY）",
+        "metric_11": "Q3 FY2026数据中心收入：512亿美元（+66% YoY）",
+        "metric_12": "Q3 FY2026非GAAP毛利率：73.6%（-140bps YoY）",
+        "metric_13": "Q3 FY2026非GAAP营业利润率：66.2%",
+        "metric_14": "Q4 FY2026指引收入：650亿美元（±2%）",
+        "metric_15": "Q4 FY2026指引非GAAP毛利率：75%（±50bps）",
+        "metric_16": "前瞻P/E（F1）：38.8x",
+        "metric_17": "PEG：0.79",
+        "metric_18": "P/S（TTM）：23.4x",
+        "metric_19": "现金及有价证券：606亿美元",
+        "metric_20": "长期债务：74.7亿美元",
+        "metric_21": "FY2026前三季度自由现金流：617亿美元",
+        "metric_22": "回购授权余额：622亿美元",
+        "metric_23": "Beta：2.31"
+      }
+    },
+    "key_assumptions": [
+      "AI基础设施需求在中期内持续扩张。",
+      "数据中心收入FY2026-2028 CAGR约42.1%。",
+      "Blackwell系列GPU量产爬坡顺利，供应链逐步改善。",
+      "H20对华销售在收入分成条件下贡献增量。",
+      "汽车与企业AI采用持续加速。"
+    ],
+    "risk_factors": [
+      "美中贸易战与出口管制持续限制中国市场收入（FY2025中国收入占比已降至13%）。",
+      "Blackwell GPU供应受限可能无法满足需求。",
+      "向更复杂AI系统过渡导致生产成本上升，压制毛利率。",
+      "对台积电的高度依赖带来地缘政治与供应链风险。",
+      "AMD MI300、Intel Gaudi及云厂商自研芯片竞争加剧。",
+      "IT支出放缓与宏观不确定性可能影响短期需求。",
+      "海外收入占比超53%，面临汇率波动风险。"
+    ],
+    "blind_spots": [
+      "评级从Outperform下调至Neutral，但未详细说明触发下调的具体估值阈值或情景。",
+      "未量化Blackwell供应瓶颈对FY2026-2027收入的具体影响。",
+      "未讨论Vera Rubin等下一代产品对中长期增长的贡献。",
+      "缺少DCF或情景分析支撑$189目标价。"
+    ],
+    "catalysts": [
+      {
+        "event": "Q4 FY2026财报（预计2026/02/25发布），指引收入$650亿。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "Blackwell Ultra量产与出货加速。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "H20对华销售恢复带来增量收入。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "Rubin AI平台发布与下一代产品路线图推进。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "与Uber、三星、SK、现代等大型合作落地。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "自动驾驶与机器人领域商业化进展。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "$600亿新回购授权执行。",
+        "expected_date": "2026-02-04",
+        "importance": "medium",
+        "related_views": []
+      }
+    ],
+    "chart_insights": [
+      {
+        "chart_name": "chart_1",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "Price, Consensus & Surprise图显示NVDA连续多季度超预期，Q3 FY2026 EPS超预期4.84%、收入超预期4.14%。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_2",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "Sales and EPS Growth Rates图显示FY2025-FY2027收入与EPS增速虽在放缓但仍维持高双位数。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_3",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "估值对比表显示NVDA前瞻P/E 38.8x远高于行业23.2x和标普500的23.0x，但PEG仅0.79反映增速溢价。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_4",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "五年P/E区间21.78x-106.30x，当前40.5x接近五年中位数41.34x。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      }
+    ],
+    "cross_comparison": {
+      "vs_previous_reports": [],
+      "consensus_position": "NVDA前瞻P/E 38.8x vs INTC 99.4x vs AMD（行业Neutral）vs TXN 35.3x；NVDA估值在高增长同业中相对合理。 | NVDA净利润率53.0% vs INTC -0.5% vs TXN 28.3%，盈利能力远超同业。 | NVDA ROE 99.2% vs INTC -0.4% vs TXN 30.4%，资本回报效率行业最高。 | NVDA Zacks评级Neutral（从Outperform下调），AMD/INTC/TXN/STM均为Neutral。 | NVDA Growth Score A、Momentum Score A，但Value Score D，反映高增长高估值特征。"
+    }
+  }
+}

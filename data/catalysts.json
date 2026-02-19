@@ -1,6 +1,97 @@
 {
   "catalysts": [
     {
+      "id": "nvda_vera_rubin平台2026h2上市，推理性能为blac",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "Vera Rubin平台2026H2上市，推理性能为Blackwell 5倍。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_mercedes-benz_cla搭载nvda全栈自动驾驶方",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "Mercedes-Benz CLA搭载NVDA全栈自动驾驶方案（2026Q1）。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_h200获准对华销售，可能带来增量收入。",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "H200获准对华销售，可能带来增量收入。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_与openai战略合作（至少10gw_nvda系统部署，投资",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "与OpenAI战略合作（至少10GW NVDA系统部署，投资最高1000亿美元）。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_与intel合作开发定制数据中心与pc产品。",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "与Intel合作开发定制数据中心与PC产品。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_blackwell_ultra及后续产品持续放量。",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "Blackwell Ultra及后续产品持续放量。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_groq收购补充低延迟推理能力。",
+      "date": "2026-01-06",
+      "ticker": "NVDA",
+      "event": "Groq收购补充低延迟推理能力。",
+      "importance": "medium",
+      "related_reports": [
+        "20260106_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "googl_q4_2025及fy2025财报发布",
       "date": "2026-02-04",
       "ticker": "GOOGL",
@@ -8,6 +99,201 @@
       "importance": "high",
       "related_reports": [
         "20260205_morningstar"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_q4_fy2026财报（预计2026/02/25发布），指引",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "Q4 FY2026财报（预计2026/02/25发布），指引收入$650亿。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_blackwell_ultra量产与出货加速。",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "Blackwell Ultra量产与出货加速。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_h20对华销售恢复带来增量收入。",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "H20对华销售恢复带来增量收入。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_rubin_ai平台发布与下一代产品路线图推进。",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "Rubin AI平台发布与下一代产品路线图推进。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_与uber、三星、sk、现代等大型合作落地。",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "与Uber、三星、SK、现代等大型合作落地。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_自动驾驶与机器人领域商业化进展。",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "自动驾驶与机器人领域商业化进展。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_$600亿新回购授权执行。",
+      "date": "2026-02-04",
+      "ticker": "NVDA",
+      "event": "$600亿新回购授权执行。",
+      "importance": "medium",
+      "related_reports": [
+        "20260204_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_blackwell及后续平台量产和交付进度超预期。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "Blackwell及后续平台量产和交付进度超预期。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_与neocloud、企业、主权客户的新合作与扩单。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "与neocloud、企业、主权客户的新合作与扩单。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_ai在医疗、国防、金融等行业商业化落地加速。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "AI在医疗、国防、金融等行业商业化落地加速。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_非数据中心业务（游戏/专业可视化/汽车）增长兑现。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "非数据中心业务（游戏/专业可视化/汽车）增长兑现。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_2026上半年半导体行业强劲增长窗口。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "2026上半年半导体行业强劲增长窗口。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_iss_eva_equity_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_wsts预测全球半导体市场2026年达1万亿美元里程碑。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "WSTS预测全球半导体市场2026年达1万亿美元里程碑。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_iss_eva_equity_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_ai/iot/6g/自动驾驶等新兴应用持续放量。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "AI/IoT/6G/自动驾驶等新兴应用持续放量。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_iss_eva_equity_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_eva_momentum峰值前的最后一波上行动能。",
+      "date": "2026-02-12",
+      "ticker": "NVDA",
+      "event": "EVA Momentum峰值前的最后一波上行动能。",
+      "importance": "medium",
+      "related_reports": [
+        "20260212_iss_eva_equity_research"
       ],
       "predictions_to_verify": [],
       "verified": false,
@@ -92,5 +378,5 @@
       "actual_result": null
     }
   ],
-  "last_updated": "2026-02-17"
+  "last_updated": "2026-02-19"
 }
