@@ -4,11 +4,11 @@
   "name_cn": "Meta (脸书)",
   "current_consensus": {
     "rating": "买入",
-    "avg_target_price": 800.0,
+    "avg_target_price": 825.0,
     "min_target_price": 800.0,
-    "max_target_price": 800.0,
-    "sentiment_avg": 0.72,
-    "total_reports": 1,
+    "max_target_price": 850.0,
+    "sentiment_avg": 0.71,
+    "total_reports": 2,
     "last_updated": "2026-02-19"
   },
   "view_dimensions": [
@@ -18,7 +18,9 @@
     "用户增长",
     "利润率",
     "估值",
-    "核心观点"
+    "核心观点",
+    "AI投资",
+    "护城河与竞争"
   ],
   "reports": [
     {
@@ -243,12 +245,335 @@
       "id": "20260202_argus_research_co",
       "analyst_reliability": null,
       "analysis_file": "reports/META/analysis/2026-02-02_Argus Research_买入_分析.md"
+    },
+    {
+      "date": "2026-01-29",
+      "institution": "晨星",
+      "institution_en": "Morningstar",
+      "analyst": "Malik Ahmed Khan, CFA",
+      "rating": "买入",
+      "previous_rating": null,
+      "target_price": 850.0,
+      "previous_target_price": null,
+      "sentiment_score": 0.7,
+      "views": [
+        {
+          "topic": "广告业务",
+          "stance": "bullish",
+          "confidence": "high",
+          "summary": "Meta广告引擎全面开火，Q4收入同比+24%至$600亿，广告展示量+18%，单价持续提升。AI驱动的广告定向和内容推荐持续改善用户参与度和广告效率，Facebook点击率+3.5%，Instagram转化率+1%。全球近40亿MAU提供无与伦比的规模优势，ARPU从2018年$25增至$40+",
+          "data_points": [
+            "Q4 2025收入$600亿，同比+24%",
+            "广告展示量同比+18%",
+            "Facebook广告点击率+3.5%",
+            "Instagram广告转化率+1%",
+            "全球MAU近40亿，占全球互联网用户约75%",
+            "ARPU从2018年$25增至2023年$40+",
+            "Q1 2026指引收入同比+30%，为近四年最快增速",
+            "400万+广告主使用AI创意工具（半年前仅100万）"
+          ],
+          "predictions": [
+            {
+              "metric": "2026年收入",
+              "predicted_value": "$2344亿",
+              "deadline": "2026-Q4",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            },
+            {
+              "metric": "5年收入CAGR",
+              "predicted_value": "18%",
+              "deadline": "2030-12-31",
+              "comparison_to_consensus": "inline",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "AI投资",
+          "stance": "bullish",
+          "confidence": "medium",
+          "summary": "Meta的AI投资分两类：广告定向优化（明确增值）和消费者端Llama聊天机器人（变现路径不清晰）。广告侧AI投资已见成效——更好的内容推荐、更高的用户参与度、更精准的广告定向。但Llama消费端投资缺乏明确变现策略，且Meta没有公有云业务来变现AI基础设施。2026年CapEx指引$1250亿，OpEx $1620亿",
+          "data_points": [
+            "2026年CapEx指引$1250亿",
+            "2026年OpEx指引$1620亿",
+            "Llama 4多模态模型与Google/OpenAI前沿模型大致持平",
+            "投资Scale AI约$100亿（数据标注服务）",
+            "AI驱动Instagram和Facebook用户停留时间增加",
+            "2025年运营利润率41%，较2022年低点25%大幅回升"
+          ],
+          "predictions": [
+            {
+              "metric": "5年运营利润率均值",
+              "predicted_value": "约37%",
+              "deadline": "2030-12-31",
+              "comparison_to_consensus": "inline",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "护城河与竞争",
+          "stance": "bullish",
+          "confidence": "high",
+          "summary": "Morningstar给予Wide Moat评级。Meta拥有双重护城河：无形资产（用户数据+广告算法）和网络效应（40亿用户生态）。公司展现了'抄袭+规模化'的竞争策略——Stories对抗Snapchat、Reels对抗TikTok、Threads对抗Twitter/X，均成功创造数亿用户级产品。WhatsApp开始广告变现（30亿+MAU），Threads也已开始投放广告",
+          "data_points": [
+            "Facebook/Instagram/WhatsApp/Messenger占全球六大社交应用中的四个",
+            "WhatsApp 30亿+MAU，Updates功能日活15亿+",
+            "Stories/Reels/Threads均成功复制竞品并规模化",
+            "FoA运营利润率60%（Q4 2024），同比+600bp",
+            "网络效应创造用户退出壁垒和新进入者壁垒"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "Reality Labs",
+          "stance": "bearish",
+          "confidence": "high",
+          "summary": "Reality Labs持续大额亏损，2023年运营亏损超$160亿，无护城河评级。Ray-Ban AI智能眼镜销量2025年翻三倍，但整体VR/AR业务变现路径仍不清晰。由于占Meta整体业务比例极小，不影响公司整体Wide Moat评级",
+          "data_points": [
+            "Reality Labs 2023年运营亏损超$160亿",
+            "Reality Labs无护城河评级",
+            "Ray-Ban AI智能眼镜2025年销量翻三倍",
+            "Reality Labs收入占比极小"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "估值",
+          "stance": "bullish",
+          "confidence": "high",
+          "summary": "DCF公允价值$850，当前股价$668.73，Price/FVE=0.79，被评为Undervalued（4星）。隐含2026年调整P/E 30x，EV/调整EBITDA 14x。不确定性评级High，1星价$1317.50，5星价$510。WACC 8.9%，永续增长Stage II EBI增长11.6%。DCF总企业价值$2.02万亿，股权价值$2.07万亿",
+          "data_points": [
+            "公允价值$850（2025年7月31日设定）",
+            "当前P/FVE=0.79（21%折价）",
+            "1星价$1317.50，5星价$510",
+            "DCF总企业价值$2.02万亿",
+            "现金$778亿，债务$288亿",
+            "WACC 8.9%",
+            "Stage II EBI增长率11.6%",
+            "2026E P/E 31.5x，EV/EBITDA 11.7x",
+            "市值$1.69万亿"
+          ],
+          "predictions": [
+            {
+              "metric": "公允价值",
+              "predicted_value": "$850",
+              "deadline": "2026-12-31",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        },
+        {
+          "topic": "利润率",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "2025年运营利润率41%，但预计2026年因AI相关成本（薪酬+折旧）下降至33%，之后逐步回升至2029年39%。EBITDA利润率从2025年56%降至2026年51%后回升。自由现金流2025年几乎为零（$2.42亿），2026年恢复至$220亿。EPS 2026年预计$21.23，较2025年下降5.5%",
+          "data_points": [
+            "2025年运营利润率41%，2026E降至33%",
+            "2025年FCFF仅$2.42亿（CapEx激增）",
+            "2026E FCFF恢复至$220亿",
+            "2026E EPS $21.23（同比-5.5%）",
+            "2027E EPS $26.60（同比+25.3%）",
+            "ROIC从2024年31.1%降至2026E 26.3%",
+            "5年运营利润率均值约37.3%"
+          ],
+          "predictions": [
+            {
+              "metric": "2026年EPS",
+              "predicted_value": "$21.23",
+              "deadline": "2027-02-01",
+              "comparison_to_consensus": "below",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            },
+            {
+              "metric": "2026年运营利润率",
+              "predicted_value": "33.0%",
+              "deadline": "2027-02-01",
+              "comparison_to_consensus": "below",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
+        }
+      ],
+      "key_metrics": {
+        "revenue_estimate": "$234.4B (FY2026)",
+        "eps_estimate": "$21.23 (FY2026)",
+        "growth_rate": "17.5% Revenue YoY (FY2026)",
+        "margin_estimate": "33.0% Operating Margin (FY2026)",
+        "other": {
+          "EBITDA_2026": "$144.2B",
+          "Adj_EBITDA_2026": "$144.2B",
+          "Net_Income_2026": "$55.2B",
+          "ROE_2026": "19.4%",
+          "ROIC_2026": "26.3%",
+          "Dividend_Per_Share_2026": "$2.53",
+          "PE_2026": "31.5x",
+          "EV_EBITDA_2026": "11.7x",
+          "FCFF_2026": "$22.1B",
+          "CapEx_2026_Guidance": "$125B",
+          "Fair_Value": "$850",
+          "Price_FVE": "0.79",
+          "Moat": "Wide",
+          "Uncertainty": "High",
+          "Capital_Allocation": "Standard"
+        }
+      },
+      "key_assumptions": [
+        "Meta广告业务凭借AI驱动的定向优化和内容推荐持续增长，5年收入CAGR 18%",
+        "亚洲、非洲、中东等新兴市场ARPU提升是收入增长的重要驱动力",
+        "运营利润率因AI投资和折旧成本短期下降至33%，之后逐步回升至39%",
+        "Reality Labs持续亏损但不影响整体估值（占比极小）",
+        "Llama消费端AI投资缺乏明确变现策略，但广告侧AI投资明确增值",
+        "反垄断案不太可能导致Meta应用拆分",
+        "WACC 8.9%，长期税率19%，Stage II EBI增长11.6%"
+      ],
+      "risk_factors": [
+        "AI和Reality Labs投资每年烧掉数百亿美元，变现路径不确定",
+        "2026年CapEx $1250亿导致自由现金流和EPS短期承压",
+        "美国反垄断案可能迫使Meta拆分应用（虽然概率低）",
+        "社交媒体对青少年心理健康的影响引发两党监管压力",
+        "中国零售商（Temu/Shein）广告支出放缓可能冲击收入增长",
+        "用户数据隐私和安全风险可能损害广告业务",
+        "多重股权结构限制少数股东话语权，Zuckerberg可能追求个人项目"
+      ],
+      "blind_spots": [
+        "Llama消费端AI投资的具体ROI和变现时间表未量化",
+        "WhatsApp广告变现的ARPU预期远低于Facebook/Instagram，具体差距未详细分析",
+        "TikTok在美国市场的竞争威胁评估不足",
+        "中国市场完全缺失的机会成本未讨论",
+        "Reality Labs何时能实现盈亏平衡的时间表未给出",
+        "Threads作为独立产品的长期变现潜力未深入分析"
+      ],
+      "catalysts": [
+        {
+          "event": "Q1 2026财报（指引收入同比+30%）",
+          "expected_date": "2026-04-30",
+          "importance": "high",
+          "related_views": [
+            "广告业务",
+            "利润率"
+          ]
+        },
+        {
+          "event": "Llama下一代模型发布",
+          "expected_date": "2026-06-30",
+          "importance": "medium",
+          "related_views": [
+            "AI投资"
+          ]
+        },
+        {
+          "event": "WhatsApp广告变现规模化",
+          "expected_date": "2026-12-31",
+          "importance": "medium",
+          "related_views": [
+            "广告业务",
+            "护城河与竞争"
+          ]
+        },
+        {
+          "event": "美国反垄断案审判进展",
+          "expected_date": "2026-06-30",
+          "importance": "high",
+          "related_views": [
+            "护城河与竞争",
+            "估值"
+          ]
+        },
+        {
+          "event": "AI投资对广告ROAS的量化影响数据披露",
+          "expected_date": "2026-07-31",
+          "importance": "medium",
+          "related_views": [
+            "AI投资",
+            "广告业务"
+          ]
+        }
+      ],
+      "chart_insights": [
+        {
+          "chart_name": "Price vs Fair Value历史图",
+          "chart_type": "line",
+          "source_file": "",
+          "description": "2021-2026年META股价与Morningstar公允价值$850的对比走势图。显示Price/FVE从2022年低点0.46回升至当前0.79",
+          "key_observations": [
+            "2022年P/FVE触及0.46（极度低估），随后股价暴涨194%",
+            "2024年P/FVE一度达到1.05-1.10（略微高估），之后回落",
+            "当前P/FVE=0.79意味着21%折价，处于Undervalued区域",
+            "公允价值从$590上调至$770再至$850，反映基本面持续改善"
+          ],
+          "data_not_in_text": [
+            "2023年全年回报率194%，为所有年份中最高",
+            "2025年YTD仅+1.31%，股价在$480-$796区间大幅震荡"
+          ],
+          "investment_implication": "当前21%折价+High Uncertainty评级意味着安全边际充足。历史上P/FVE<0.80的买入窗口均带来显著超额回报"
+        },
+        {
+          "chart_name": "Morningstar估值模型摘要",
+          "chart_type": "table",
+          "source_file": "",
+          "description": "2022-2029年完整财务预测表，包含收入、运营利润、EBITDA、净利润、EPS、利润率、估值倍数等",
+          "key_observations": [
+            "收入从2022年$1166亿增至2029E $3393亿，7年CAGR约16%",
+            "运营利润率从2022年24.8%升至2024年42.2%后，2026E降至33%再回升",
+            "FCFF 2025年几乎为零（$2.42亿），2026年恢复至$220亿",
+            "EPS 2026年$21.23较2025年$22.46下降，2027年起恢复增长",
+            "ROIC从2024年31.1%逐步下降至2029E 20.7%"
+          ],
+          "data_not_in_text": [
+            "2025年FCFF仅$2.42亿是CapEx激增的直接结果",
+            "ROIC持续下降趋势暗示资本效率在恶化",
+            "Debt/Capital从2022年7.8%降至2026E 0.8%，几乎无杠杆"
+          ],
+          "investment_implication": "2026年是利润低谷年（EPS下降+运营利润率压缩），但2027年起强劲反弹。投资者需要穿越短期利润压力看长期价值"
+        }
+      ],
+      "cross_comparison": {
+        "vs_previous_reports": [
+          {
+            "compared_with": "20260202_argus_research",
+            "topic": "估值",
+            "divergence": "minor",
+            "description": "Argus目标价$800 vs Morningstar $850，差异6%。Morningstar基于DCF Wide Moat框架给出更高估值，Argus更关注短期CapEx风险"
+          },
+          {
+            "compared_with": "20260202_argus_research",
+            "topic": "AI投资",
+            "divergence": "consensus",
+            "description": "两者均认为AI广告定向投资明确增值，但对消费端Llama投资持保留态度"
+          }
+        ],
+        "consensus_position": "两份研报均给予买入评级，目标价$800-$850。Morningstar更看重Wide Moat和长期DCF价值，Argus更关注短期CapEx压力。两者均认为AI广告投资是明确增值的。"
+      },
+      "id": "20260129_morningstar",
+      "analyst_reliability": null,
+      "analysis_file": "reports/META/analysis/2026-01-29_晨星_买入_分析.md"
     }
   ],
   "cross_comparison": {
     "consensus_matrix": {
       "广告业务": {
-        "bullish": 0,
+        "bullish": 1,
         "neutral": 0,
         "bearish": 0,
         "not_mentioned": 1
@@ -257,28 +582,28 @@
         "bullish": 0,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 1
+        "not_mentioned": 2
       },
       "Reality Labs": {
         "bullish": 0,
         "neutral": 0,
-        "bearish": 0,
+        "bearish": 1,
         "not_mentioned": 1
       },
       "用户增长": {
         "bullish": 0,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 1
+        "not_mentioned": 2
       },
       "利润率": {
         "bullish": 0,
-        "neutral": 0,
+        "neutral": 1,
         "bearish": 0,
         "not_mentioned": 1
       },
       "估值": {
-        "bullish": 0,
+        "bullish": 1,
         "neutral": 0,
         "bearish": 0,
         "not_mentioned": 1
@@ -287,11 +612,23 @@
         "bullish": 7,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 0
+        "not_mentioned": 1
+      },
+      "AI投资": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 1
+      },
+      "护城河与竞争": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 1
       }
     },
     "major_divergences": [],
-    "highest_conviction_view": "",
+    "highest_conviction_view": "核心观点（100%机构看多）",
     "most_contrarian_view": ""
   },
   "sentiment_history": [
@@ -299,6 +636,11 @@
       "date": "2026-02-02",
       "institution": "Argus Research",
       "score": 0.72
+    },
+    {
+      "date": "2026-01-29",
+      "institution": "晨星",
+      "score": 0.7
     }
   ]
 }
