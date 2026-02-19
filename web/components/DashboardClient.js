@@ -31,7 +31,7 @@ export default function DashboardClient({ tickers, catalysts, scorecard }) {
             <div className="page-header animate-fade-in">
                 <h1>📊 研报分析总览</h1>
                 <div className="subtitle">
-                    跟踪 {tickers.length} 个标的 · {totalReports} 篇研报 · {totalInstitutions} 家机构
+                    跟踪 {tickers.length} 个标的 · {totalReports} 篇研报 · {totalInstitutions} 家机构 · build 2026-02-19
                 </div>
             </div>
 
