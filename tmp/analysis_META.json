@@ -1,0 +1,221 @@
+{
+  "ticker": "META",
+  "report": {
+    "date": "2026-02-02",
+    "institution": "Argus Research",
+    "institution_en": "Argus Research Co.",
+    "analyst": "Joseph Bonner, CFA",
+    "rating": "买入",
+    "target_price": 800.0,
+    "sentiment_score": 0.72,
+    "views": [
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "META用户规模持续增长，Family DAP达35.6亿，4Q25净增1800万用户，变现能力突出（ARPP同比+18%）。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "广告收入加速增长，4Q25广告收入同比+24%至581亿美元，广告展示量+18%，单价+6%。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "GenAI正在驱动广告定向优化与内容创作，管理层将其视为核心增长引擎。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "2026年资本开支指引大幅上调至1150-1350亿美元，资本密集度可能超50%，为三大GenAI竞争者中最高。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "Reality Labs累计亏损已达790亿美元，2026年预计亏损与2025年（190亿美元）持平。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "Ray-Ban AI智能眼镜销量2025年翻三倍，2026年可能再翻倍产能。",
+        "data_points": [],
+        "predictions": []
+      },
+      {
+        "topic": "核心观点",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "1Q26指引收入同比增长30%，为2021年3Q以来最快增速。",
+        "data_points": [],
+        "predictions": []
+      }
+    ],
+    "key_metrics": {
+      "revenue_estimate": null,
+      "eps_estimate": null,
+      "growth_rate": null,
+      "margin_estimate": null,
+      "other": {
+        "metric_1": "股价（2026/01/30）：$716.50",
+        "metric_2": "目标价：$800.00",
+        "metric_3": "市值：1.57万亿美元",
+        "metric_4": "FY2025收入：2010亿美元（+21.9% YoY）",
+        "metric_5": "FY2025 GAAP EPS：$23.49（-1.6% YoY，含3Q25税务减值$6.20/股）",
+        "metric_6": "FY2025调整后EPS隐含增长：+24%",
+        "metric_7": "FY2026E GAAP EPS：$30.07",
+        "metric_8": "FY2027E GAAP EPS：$35.08",
+        "metric_9": "长期EPS增长率预测：16%",
+        "metric_10": "4Q25收入：599亿美元（+24% YoY）",
+        "metric_11": "4Q25 GAAP EPS：$8.88（+11% YoY）",
+        "metric_12": "4Q25营业利润：247亿美元（+6% YoY）",
+        "metric_13": "4Q25营业利润率：41%（同比-7ppt）",
+        "metric_14": "Family DAP：35.6亿（+6.2% YoY）",
+        "metric_15": "Family ARPP：同比+18%",
+        "metric_16": "2026E资本开支：1150-1350亿美元",
+        "metric_17": "FY2025自由现金流：436亿美元（-16% YoY）",
+        "metric_18": "现金及有价证券：816亿美元",
+        "metric_19": "总债务：590亿美元",
+        "metric_20": "前瞻P/E（FY2026E）：23.8x",
+        "metric_21": "EV/EBITDA（前瞻）：14.6x",
+        "metric_22": "股息：$2.10/年（收益率约0.3%）",
+        "metric_23": "FY2025回购：262.5亿美元"
+      }
+    },
+    "key_assumptions": [
+      "GenAI驱动的广告定向与创意优化将持续提升广告收入增速。",
+      "用户增长与变现能力（ARPP）在规模基础上仍可维持。",
+      "Reality Labs亏损在2026年维持约190亿美元水平，不会大幅恶化。",
+      "资本开支高峰期后，GenAI投资将逐步转化为收入与效率提升。",
+      "Instagram Reels、Threads等新产品持续获取用户并推进变现。"
+    ],
+    "risk_factors": [
+      "GenAI投资回报不确定性高，市场对ROIC持怀疑态度。",
+      "Reality Labs累计亏损790亿美元且仍在扩大。",
+      "2026年资本开支激增至1150-1350亿美元，资本密集度可能超50%。",
+      "自由现金流同比下降16%，若AI投资持续可能进一步承压。",
+      "TikTok USDS重组后在美国市场竞争威胁加大（2亿用户、750万商家）。",
+      "儿童伤害诉讼系列审判2026-2027年陆续开庭，可能导致重大损失。",
+      "欧盟DMA/DSA监管持续，已被罚2亿欧元，后续合规成本不确定。",
+      "广告收入占比约98%，宏观经济下行将直接冲击核心业务。",
+      "管理层暗示未来可能维持净负债状态以支撑AI投资。"
+    ],
+    "blind_spots": [
+      "未量化GenAI投资的具体回报时间表与IRR预期。",
+      "未详细拆解各产品线（Instagram/WhatsApp/Threads/Reels）的独立收入贡献。",
+      "对Manus收购（25x ARR估值）的战略价值评估偏定性。",
+      "未讨论中国市场禁令对长期增长天花板的影响。",
+      "缺少DCF敏感性分析支撑$800目标价。"
+    ],
+    "catalysts": [
+      {
+        "event": "1Q26指引收入同比+30%，为近四年最快增速。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "GenAI广告定向与创意工具持续迭代提升广告效率。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "Ray-Ban AI智能眼镜2026年可能翻倍产能。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "Manus收购落地后为Meta补充agentic AI能力。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "Meta Compute计划推进数十GW级电力基础设施建设。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "FTC反垄断案胜诉消除拆分风险。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      },
+      {
+        "event": "Zuckerberg提出的五大GenAI机会逐步兑现。",
+        "expected_date": "2026-02-02",
+        "importance": "medium",
+        "related_views": []
+      }
+    ],
+    "chart_insights": [
+      {
+        "chart_name": "chart_1",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "股价图显示META在$480-$796区间波动，当前$716.50低于$800目标价约10%。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_2",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "Peer对比散点图中META位于中等增长（16%）+中等估值（P/E 23.8x）区域，PEG评分2（偏价值）。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_3",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "Growth & Valuation表显示FY2021-2025收入从1179亿增至2010亿，CAGR约14%。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_4",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "Financial Strength表显示LT Debt/Equity从23.2%升至37.6%，反映债务扩张趋势。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      },
+      {
+        "chart_name": "chart_5",
+        "chart_type": "line",
+        "source_file": "",
+        "description": "Risk Analysis显示Cash Flow/CapEx从2.6x降至1.7x，资本开支压力显著上升。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": ""
+      }
+    ],
+    "cross_comparison": {
+      "vs_previous_reports": [],
+      "consensus_position": "META前瞻P/E 23.8x vs GOOGL 32.3x vs 同业均值36.6x，估值在大型科技中偏低。 | META前瞻EV/EBITDA 14.6x低于同业均值1%，历史折价约8%。 | META净利润率30.1% vs GOOGL 32.2% vs PINS 49.0%，盈利能力中上。 | META 1年EPS增长16.7% vs GOOGL 3.0% vs RDDT 55.9%，增速居中。 | META长期增长率16% vs GOOGL 14% vs PINS 25%，增长预期稳健但非最高。 | META Debt/Capital 28.1%在同业中偏低（评分2/5），财务杠杆可控。"
+    }
+  }
+}

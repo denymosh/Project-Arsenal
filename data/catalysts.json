@@ -92,6 +92,97 @@
       "actual_result": null
     },
     {
+      "id": "meta_1q26指引收入同比+30%，为近四年最快增速。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "1Q26指引收入同比+30%，为近四年最快增速。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_genai广告定向与创意工具持续迭代提升广告效率。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "GenAI广告定向与创意工具持续迭代提升广告效率。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_ray-ban_ai智能眼镜2026年可能翻倍产能。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "Ray-Ban AI智能眼镜2026年可能翻倍产能。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_manus收购落地后为meta补充agentic_ai能力。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "Manus收购落地后为Meta补充agentic AI能力。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_meta_compute计划推进数十gw级电力基础设施建设。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "Meta Compute计划推进数十GW级电力基础设施建设。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_ftc反垄断案胜诉消除拆分风险。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "FTC反垄断案胜诉消除拆分风险。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_zuckerberg提出的五大genai机会逐步兑现。",
+      "date": "2026-02-02",
+      "ticker": "META",
+      "event": "Zuckerberg提出的五大GenAI机会逐步兑现。",
+      "importance": "medium",
+      "related_reports": [
+        "20260202_argus_research_co"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "googl_q4_2025及fy2025财报发布",
       "date": "2026-02-04",
       "ticker": "GOOGL",
