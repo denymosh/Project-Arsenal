@@ -417,6 +417,27 @@
       "actual_result": null
     },
     {
+      "id": "tsla_q1_2026财报发布",
+      "date": "2026-04-28",
+      "ticker": "TSLA",
+      "event": "Q1 2026财报发布（预期EPS $0.61）",
+      "importance": "high",
+      "related_reports": [
+        "tsla-zacks-20260202",
+        "tsla-argus-20260130"
+      ],
+      "predictions_to_verify": [
+        {
+          "report_id": "",
+          "institution": "",
+          "metric": "2026年EPS $3.20（Zacks）",
+          "value": ""
+        }
+      ],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "googl_q1_2026财报发布",
       "date": "2026-04-29",
       "ticker": "GOOGL",
@@ -437,6 +458,19 @@
       "importance": "high",
       "related_reports": [
         "20260209_iss_eva"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_q1_2026财报（指引收入$535-565亿）",
+      "date": "2026-04-29",
+      "ticker": "META",
+      "event": "Q1 2026财报（指引收入$535-565亿）",
+      "importance": "high",
+      "related_reports": [
+        "20260130_zacks_investment_research"
       ],
       "predictions_to_verify": [],
       "verified": false,
@@ -469,22 +503,6 @@
       "actual_result": null
     },
     {
-      "id": "tsla_q1_2026财报发布",
-      "date": "2026-04-28",
-      "ticker": "TSLA",
-      "event": "Q1 2026财报发布（预期EPS $0.61）",
-      "importance": "high",
-      "related_reports": [
-        "tsla-zacks-20260202",
-        "tsla-argus-20260130"
-      ],
-      "predictions_to_verify": [
-        "2026年EPS $3.20（Zacks）"
-      ],
-      "verified": false,
-      "actual_result": null
-    },
-    {
       "id": "tsla_robotaxi_城市扩展",
       "date": "2026-06-30",
       "ticker": "TSLA",
@@ -495,8 +513,26 @@
         "tsla-morningstar-20260203"
       ],
       "predictions_to_verify": [
-        "Robotaxi 7城扩展"
+        {
+          "report_id": "",
+          "institution": "",
+          "metric": "Robotaxi 7城扩展",
+          "value": ""
+        }
       ],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_meta_superintelligence_labs进展披",
+      "date": "2026-06-30",
+      "ticker": "META",
+      "event": "Meta Superintelligence Labs进展披露",
+      "importance": "medium",
+      "related_reports": [
+        "20260130_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
       "verified": false,
       "actual_result": null
     },
@@ -510,7 +546,12 @@
         "tsla-zacks-20260202"
       ],
       "predictions_to_verify": [
-        "Cybercab/Optimus量产"
+        {
+          "report_id": "",
+          "institution": "",
+          "metric": "Cybercab/Optimus量产",
+          "value": ""
+        }
       ],
       "verified": false,
       "actual_result": null
@@ -526,8 +567,39 @@
         "tsla-zacks-20260202"
       ],
       "predictions_to_verify": [
-        "资本支出>$200亿"
+        {
+          "report_id": "",
+          "institution": "",
+          "metric": "资本支出>$200亿",
+          "value": ""
+        }
       ],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_核电协议（vistra/terrapower/oklo）6.",
+      "date": "2026-12-31",
+      "ticker": "META",
+      "event": "核电协议（Vistra/TerraPower/Oklo）6.6GW供电推进",
+      "importance": "medium",
+      "related_reports": [
+        "20260130_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "meta_whatsapp广告和商业化规模化",
+      "date": "2026-12-31",
+      "ticker": "META",
+      "event": "WhatsApp广告和商业化规模化",
+      "importance": "medium",
+      "related_reports": [
+        "20260130_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
       "verified": false,
       "actual_result": null
     }

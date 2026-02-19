@@ -10,8 +10,18 @@
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
       "by_ticker": {
-        "GOOGL": 1,
-        "TSLA": 1
+        "GOOGL": {
+          "total": 1,
+          "verified": 0,
+          "accurate": 0,
+          "rate": null
+        },
+        "TSLA": {
+          "total": 1,
+          "verified": 0,
+          "accurate": 0,
+          "rate": null
+        }
       },
       "recent_verified": [],
       "accuracy_trend": []
@@ -26,7 +36,12 @@
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
       "by_ticker": {
-        "GOOGL": 1
+        "GOOGL": {
+          "total": 1,
+          "verified": 0,
+          "accurate": 0,
+          "rate": null
+        }
       },
       "recent_verified": [],
       "accuracy_trend": []
@@ -41,7 +56,12 @@
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
       "by_ticker": {
-        "GOOGL": 1
+        "GOOGL": {
+          "total": 1,
+          "verified": 0,
+          "accurate": 0,
+          "rate": null
+        }
       },
       "recent_verified": [],
       "accuracy_trend": []
@@ -56,7 +76,12 @@
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
       "by_ticker": {
-        "TSLA": 1
+        "TSLA": {
+          "total": 1,
+          "verified": 0,
+          "accurate": 0,
+          "rate": null
+        }
       },
       "recent_verified": [],
       "accuracy_trend": []
@@ -71,7 +96,12 @@
       "accurate_predictions": 0,
       "accuracy_rate": 0.0,
       "by_ticker": {
-        "TSLA": 1
+        "TSLA": {
+          "total": 1,
+          "verified": 0,
+          "accurate": 0,
+          "rate": null
+        }
       },
       "recent_verified": [],
       "accuracy_trend": []
