@@ -413,6 +413,30 @@
               "deviation_pct": null
             }
           ]
+        },
+        {
+          "topic": "用户增长",
+          "stance": "bullish",
+          "confidence": "medium",
+          "summary": "Reels和Threads时长提升显示用户参与度继续走强，支撑广告库存与长期变现能力。",
+          "data_points": [
+            "Morningstar文本：As users spend more time ... ad impressions up 18% for the quarter。",
+            "Morningstar文本：应用组合（Facebook/Instagram/WhatsApp/Messenger）接近40亿月活。",
+            "Morningstar文本：Stories/Reels/Threads提升参与度并带来可货币化流量。"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "AI投资",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "AI投入呈“双轨”：广告侧AI已体现回报，消费端AI/Llama变现路径仍偏长期。",
+          "data_points": [
+            "Morningstar文本：AI investment helped drive growth in ad clicks and ad pricing。",
+            "Morningstar文本：Meta lacks a public cloud business to monetize AI infrastructure。",
+            "Morningstar文本：2026 guidance约$125B capex、$162B opex。"
+          ],
+          "predictions": []
         }
       ],
       "key_metrics": {
@@ -689,6 +713,30 @@
             "关税不确定性对数字广告支出的潜在冲击"
           ],
           "predictions": []
+        },
+        {
+          "topic": "用户增长",
+          "stance": "bullish",
+          "confidence": "medium",
+          "summary": "Zacks指出日活规模与使用时长继续提升，说明Meta用户基础仍在扩张且粘性增强。",
+          "data_points": [
+            "Zacks文本：daily users约3.58 billion。",
+            "Zacks文本：Instagram Reels美区观看时长同比+30%。",
+            "Zacks文本：Threads推荐优化带来停留时长+20%。"
+          ],
+          "predictions": []
+        },
+        {
+          "topic": "Reality Labs",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "Reality Labs当前呈现“硬件进展与财务亏损并存”的状态，短期仍是利润拖累项。",
+          "data_points": [
+            "Zacks文本：Reality Labs segment is expected to continue reporting losses in 2026 at a rate similar to 2025。",
+            "Zacks文本：Metaverse尚未成为稳定收入来源。",
+            "Zacks文本：AI眼镜与可穿戴方向仍在推进，但财务贡献有限。"
+          ],
+          "predictions": []
         }
       ],
       "key_metrics": {
@@ -903,15 +951,15 @@
       },
       "Reality Labs": {
         "bullish": 1,
-        "neutral": 0,
+        "neutral": 1,
         "bearish": 1,
-        "not_mentioned": 1
+        "not_mentioned": 0
       },
       "用户增长": {
-        "bullish": 1,
+        "bullish": 3,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 2
+        "not_mentioned": 0
       },
       "利润率": {
         "bullish": 0,
@@ -939,8 +987,8 @@
       }
     },
     "major_divergences": [],
-    "highest_conviction_view": "广告业务（Argus/晨星/Zacks三家一致看多，且均有Q4广告增长与变现数据支撑）",
-    "most_contrarian_view": "AI投资（晨星偏积极，Zacks偏中性并强调变现周期，分歧主要在投入回报节奏）"
+    "highest_conviction_view": "广告业务（3/3机构看多，且广告展示量/定价/收入均有量化支持）",
+    "most_contrarian_view": "Reality Labs（晨星偏空、Zacks中性、Argus部分看硬件进展）"
   },
   "sentiment_history": [
     {
