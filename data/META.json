@@ -36,59 +36,87 @@
       "sentiment_score": 0.72,
       "views": [
         {
-          "topic": "核心观点",
+          "topic": "用户增长",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "META用户规模持续增长，Family DAP达35.6亿，4Q25净增1800万用户，变现能力突出（ARPP同比+18%）。",
-          "data_points": [],
+          "data_points": [
+            "4Q25用户基数3.54B，单季净增18M（Argus原文）。",
+            "4Q25 Family DAP同比+6.2%至3.56B（Argus原文）。",
+            "Family average revenue per person同比+18%（Argus原文）。"
+          ],
           "predictions": []
         },
         {
-          "topic": "核心观点",
+          "topic": "广告业务",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "广告收入加速增长，4Q25广告收入同比+24%至581亿美元，广告展示量+18%，单价+6%。",
-          "data_points": [],
+          "data_points": [
+            "4Q25广告收入同比+24%至$58.1B（Argus原文）。",
+            "4Q25广告展示量+18%，单价+6%（Argus原文）。",
+            "广告收入和总收入增速均较4Q24（+21%）进一步加速（Argus原文）。"
+          ],
           "predictions": []
         },
         {
-          "topic": "核心观点",
+          "topic": "AI投资",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "GenAI正在驱动广告定向优化与内容创作，管理层将其视为核心增长引擎。",
-          "data_points": [],
+          "data_points": [
+            "Argus明确称Meta受益于GenAI驱动的广告定向优化（Argus原文）。",
+            "管理层将GenAI应用于广告与内容推荐，作为核心增长抓手（Argus原文）。",
+            "Argus下调2026 GAAP EPS至$30.07（原$30.38），反映成本和GenAI投入上升（Argus原文）。"
+          ],
           "predictions": []
         },
         {
-          "topic": "核心观点",
+          "topic": "AI投资",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "2026年资本开支指引大幅上调至1150-1350亿美元，资本密集度可能超50%，为三大GenAI竞争者中最高。",
-          "data_points": [],
+          "data_points": [
+            "2026年CapEx指引$115B-$135B（Argus原文）。",
+            "按中值估算较2025年增量约$52B（Argus原文）。",
+            "Argus称资本强度可能超过50%，在三大GenAI竞争者中最高（Argus原文）。"
+          ],
           "predictions": []
         },
         {
-          "topic": "核心观点",
+          "topic": "Reality Labs",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "Reality Labs累计亏损已达790亿美元，2026年预计亏损与2025年（190亿美元）持平。",
-          "data_points": [],
+          "data_points": [
+            "Reality Labs 4Q运营亏损$6B（Argus原文）。",
+            "Reality Labs累计亏损约$79B（Argus原文）。",
+            "管理层指引2026年RL亏损大致与2025年$19B持平（Argus原文）。"
+          ],
           "predictions": []
         },
         {
-          "topic": "核心观点",
+          "topic": "Reality Labs",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "Ray-Ban AI智能眼镜销量2025年翻三倍，2026年可能再翻倍产能。",
-          "data_points": [],
+          "data_points": [
+            "Ray-Ban AI眼镜2025年销量同比三倍（Argus原文）。",
+            "媒体报道Meta可能在2026年将该产品产能再翻倍（Argus原文引用）。",
+            "Argus将智能眼镜视作GenAI可穿戴落地的初始形态（Argus原文）。"
+          ],
           "predictions": []
         },
         {
-          "topic": "核心观点",
+          "topic": "广告业务",
           "stance": "bullish",
           "confidence": "medium",
           "summary": "1Q26指引收入同比增长30%，为2021年3Q以来最快增速。",
-          "data_points": [],
+          "data_points": [
+            "Meta指引1Q26收入同比+30%（Argus原文）。",
+            "该增速为2021年3Q以来最快（Argus原文）。",
+            "业绩披露后（1月29日）股价单日上涨约10%（Argus原文）。"
+          ],
           "predictions": []
         }
       ],
@@ -862,28 +890,28 @@
   "cross_comparison": {
     "consensus_matrix": {
       "广告业务": {
-        "bullish": 2,
+        "bullish": 3,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 1
+        "not_mentioned": 0
       },
-      "AI投入": {
-        "bullish": 0,
-        "neutral": 0,
+      "AI投资": {
+        "bullish": 2,
+        "neutral": 1,
         "bearish": 0,
-        "not_mentioned": 3
+        "not_mentioned": 0
       },
       "Reality Labs": {
-        "bullish": 0,
+        "bullish": 1,
         "neutral": 0,
         "bearish": 1,
-        "not_mentioned": 2
+        "not_mentioned": 1
       },
       "用户增长": {
-        "bullish": 0,
+        "bullish": 1,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 3
+        "not_mentioned": 2
       },
       "利润率": {
         "bullish": 0,
@@ -892,18 +920,6 @@
         "not_mentioned": 1
       },
       "估值": {
-        "bullish": 1,
-        "neutral": 1,
-        "bearish": 0,
-        "not_mentioned": 1
-      },
-      "核心观点": {
-        "bullish": 7,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 2
-      },
-      "AI投资": {
         "bullish": 1,
         "neutral": 1,
         "bearish": 0,
@@ -923,8 +939,8 @@
       }
     },
     "major_divergences": [],
-    "highest_conviction_view": "核心观点（100%机构看多）",
-    "most_contrarian_view": "AI投资（仅50%一致，分歧最大）"
+    "highest_conviction_view": "广告业务（Argus/晨星/Zacks三家一致看多，且均有Q4广告增长与变现数据支撑）",
+    "most_contrarian_view": "AI投资（晨星偏积极，Zacks偏中性并强调变现周期，分歧主要在投入回报节奏）"
   },
   "sentiment_history": [
     {
