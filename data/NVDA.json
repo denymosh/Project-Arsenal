@@ -130,7 +130,7 @@
       ],
       "chart_insights": [
         {
-          "chart_name": "chart_1",
+          "chart_name": "AI Infrastructure Spending Trend",
           "chart_type": "line",
           "source_file": "images/Market-Watch_-Understanding-AI_p1_img3.jpeg",
           "description": "AI基础设施市场规模趋势图（约2024-2030E），展示全球AI算力/基础设施支出扩张轨迹。",
@@ -146,7 +146,7 @@
           "investment_implication": "在行业曲线加速阶段，龙头份额稳定时盈利弹性通常高于收入弹性，NVDA仍具超额收益基础；但需警惕高预期下的估值波动。"
         },
         {
-          "chart_name": "chart_2",
+          "chart_name": "Semiconductor Subsector Performance Comparison",
           "chart_type": "bar",
           "source_file": "images/Semiconductor-Industry---A-Sup_p1_img3.jpeg",
           "description": "半导体子行业表现对比图（含AI相关链条），用于验证AI资本开支外溢到上游/周边环节的广度。",
@@ -286,7 +286,7 @@
       ],
       "chart_insights": [
         {
-          "chart_name": "chart_1",
+          "chart_name": "Semi Billings YoY vs EVA Momentum",
           "chart_type": "line",
           "source_file": "images/Semiconductor-Industry---A-Sup_p2_img3.jpeg",
           "description": "Semi Billings YoY 与 EVA Momentum 双线图（长周期），用于识别行业景气拐点的先行/滞后关系。",
@@ -302,7 +302,7 @@
           "investment_implication": "上半年仍可顺势持有NVDA，但若Billings连续2-3个月下行，应提前降低高Beta半导体仓位。"
         },
         {
-          "chart_name": "chart_2",
+          "chart_name": "Market Value YoY vs EVA Momentum",
           "chart_type": "line",
           "source_file": "images/Semiconductor-Industry---A-Sup_p3_img3.png",
           "description": "市场价值YoY 与 EVA Momentum 相对时序图，衡量资本市场对行业景气见顶的前瞻定价窗口。",
@@ -318,7 +318,7 @@
           "investment_implication": "ISS框架下，NVDA更适合“趋势跟随+前瞻减仓”：基本面未坏前可持有，但需用市场价值YoY的先行回落信号做风控。"
         },
         {
-          "chart_name": "chart_3",
+          "chart_name": "Semiconductor EVA Scorecard Table",
           "chart_type": "table",
           "source_file": "images/Semiconductor-Industry---A-Sup_p2_img3.jpeg",
           "description": "大盘半导体公司评分表（EVA Margin、EVA Momentum、PRVit、Profitability/Valuation Score）。",
@@ -334,7 +334,7 @@
           "investment_implication": "在行业周期后段，优先持有EVA质量最高的龙头可提升防守性；NVDA相较二线标的更具抗波动能力。"
         },
         {
-          "chart_name": "chart_4",
+          "chart_name": "2025 Billings & EVA Momentum Monthly Table",
           "chart_type": "table",
           "source_file": "images/Semiconductor-Industry---A-Sup_p3_img3.png",
           "description": "2025年分月Billings与EVA Momentum数据表（Figure 2），展示全年动量演进。",
@@ -523,7 +523,7 @@
       ],
       "chart_insights": [
         {
-          "chart_name": "chart_1",
+          "chart_name": "Price vs Fair Value Trend",
           "chart_type": "line",
           "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p20_img1.png",
           "description": "Price vs Fair Value 折线图（约2021-2026），展示股价与Morningstar公允价值比率(P/FVE)的历史波动。",
@@ -539,7 +539,7 @@
           "investment_implication": "估值位置对中长期多头更有利：在P/FVE<0.8x区间可分批增配，但需接受高波动；若快速修复到1.05x以上，宜转为仓位管理而非追涨。"
         },
         {
-          "chart_name": "chart_2",
+          "chart_name": "Peer Valuation and Quality Comparison",
           "chart_type": "table",
           "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p21_img1.png",
           "description": "同业估值与质量对比表，比较NVDA、AVGO、AMD、INTC在P/FVE、护城河、资本回报与估值倍数等维度。",
@@ -555,7 +555,7 @@
           "investment_implication": "相对估值比较支持“优先持有NVDA而非低质量高估值替代品”；若行业回调，NVDA更可能先估值压缩后再回归基本面溢价。"
         },
         {
-          "chart_name": "chart_3",
+          "chart_name": "FY2025-FY2030 Financial Forecast Table",
           "chart_type": "table",
           "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p21_img1.png",
           "description": "财务预测表（FY2025-FY2030），包含收入、利润率和分部增长路径，反映AI资本开支周期下的盈利弹性。",
@@ -571,7 +571,7 @@
           "investment_implication": "只要70%+毛利率和60%附近经营利润率成立，估值中枢难以系统性下移；中期可用“增速换挡但利润稳态”框架持有。"
         },
         {
-          "chart_name": "chart_4",
+          "chart_name": "DCF Stage Value Contribution Breakdown",
           "chart_type": "bar",
           "source_file": "images/NVDA_-NVIDIA-Corp-(Stock-Repor_p21_img1.png",
           "description": "DCF估值分解图（Stage I/II/III），展示不同阶段现金流对总企业价值的贡献结构。",
@@ -762,7 +762,7 @@
       ],
       "chart_insights": [
         {
-          "chart_name": "chart_1",
+          "chart_name": "Price vs Consensus and Surprise Trend",
           "chart_type": "line",
           "source_file": "images/NVDA_-NVIDIA-Corporation_p1_img5.png",
           "description": "Price, Consensus & Surprise 图，展示NVDA季度EPS实际值与一致预期的偏差轨迹。",
@@ -778,7 +778,7 @@
           "investment_implication": "基本面仍支持持有，但交易层面应从“押注大幅超预期”转向“押注稳定兑现+估值消化”。"
         },
         {
-          "chart_name": "chart_2",
+          "chart_name": "Sales and EPS Growth Rates Comparison",
           "chart_type": "bar",
           "source_file": "images/NVDA_-NVIDIA-Corporation_p1_img6.png",
           "description": "Sales and EPS Growth Rates 柱状图，对比FY2025-FY2027收入与EPS同比增速。",
@@ -794,7 +794,7 @@
           "investment_implication": "估值重定价阶段优先看“增速放缓是否低于预期”；只要维持30%+收入增长，Neutral更像估值而非基本面看空。"
         },
         {
-          "chart_name": "chart_3",
+          "chart_name": "Valuation Multiples vs Industry and Index",
           "chart_type": "table",
           "source_file": "images/NVDA_-NVIDIA-Corporation_p2_img1.png",
           "description": "Valuation Comparison 表格，比较NVDA与行业/指数的P/E、PEG、P/S等估值指标。",
@@ -810,7 +810,7 @@
           "investment_implication": "估值并不便宜，但在高增速背景下仍可持有；更适合回调分批而非在高波动时追高。"
         },
         {
-          "chart_name": "chart_4",
+          "chart_name": "5-Year Forward P/E Range Trend",
           "chart_type": "line",
           "source_file": "images/NVDA_-NVIDIA-Corporation_p2_img2.png",
           "description": "5-year Forward P/E 区间图，展示NVDA历史估值带与当前估值所处分位。",
