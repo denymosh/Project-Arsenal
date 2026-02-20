@@ -602,6 +602,84 @@
       "predictions_to_verify": [],
       "verified": false,
       "actual_result": null
+    },
+    {
+      "id": "tsla_austin地区robotaxi移除安全监督员",
+      "date": "2026-Q1",
+      "ticker": "TSLA",
+      "event": "Austin地区Robotaxi移除安全监督员",
+      "importance": "high",
+      "related_reports": [
+        "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_robotaxi扩展至7个新美国城市（达拉斯、休斯顿、凤凰城",
+      "date": "2026-Q2",
+      "ticker": "TSLA",
+      "event": "Robotaxi扩展至7个新美国城市（达拉斯、休斯顿、凤凰城、迈阿密、奥兰多、坦帕、拉斯维加斯）",
+      "importance": "high",
+      "related_reports": [
+        "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_欧洲fsd监管审批",
+      "date": "2026-Q3",
+      "ticker": "TSLA",
+      "event": "欧洲FSD监管审批",
+      "importance": "high",
+      "related_reports": [
+        "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_model_s/x停产，工厂改造为optimus生产线",
+      "date": "2026-Q3",
+      "ticker": "TSLA",
+      "event": "Model S/X停产，工厂改造为Optimus生产线",
+      "importance": "medium",
+      "related_reports": [
+        "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_optimus人形机器人开始量产",
+      "date": "2026-Q4",
+      "ticker": "TSLA",
+      "event": "Optimus人形机器人开始量产",
+      "importance": "high",
+      "related_reports": [
+        "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "tsla_spacex_ipo（可能为未来tesla收购spacex铺",
+      "date": "2026-Q4",
+      "ticker": "TSLA",
+      "event": "SpaceX IPO（可能为未来Tesla收购SpaceX铺路）",
+      "importance": "medium",
+      "related_reports": [
+        "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
     }
   ],
   "last_updated": "2026-02-19"

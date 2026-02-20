@@ -1,0 +1,13 @@
+{
+  "ticker": "TSLA",
+  "report": {
+    "date": "2026-01-30",
+    "institution": "Argus Research",
+    "institution_en": "Argus Research",
+    "analyst": "Bill Selesky",
+    "rating": "持有",
+    "previous_rating": null,
+    "target_price": 416.56,
+    "previous_target_price": null,
+    "sentiment_score": -0.25,
+    "views": [

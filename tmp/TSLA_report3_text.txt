@@ -1,0 +1,678 @@
+Tesla, Inc.(TSLA)
+$430.41 (Stock Price as of 01/30/2026)
+Price Target (6-12 Months): $452.00
+Long Term: 6-12 Months
+Zacks Recommendation:
+(Since: 06/16/25)
+Neutral
+ 
+Prior Recommendation: Underperform
+Short Term: 1-3 Months
+Zacks Rank: (1-5)
+Zacks Style Scores:
+4-Sell
+VGM:D
+ 
+Value: F
+Growth: C
+Momentum: B
+Summary
+Tesla’s
+EV business is facing a slowdown, with deliveries
+declining
+for
+a
+second
+straight
+year
+in
+2025
+amid
+a
+challenging demand environment. In response, the company
+is
+pivoting
+toward
+artificial
+intelligence,
+autonomy,
+autonomous vehicles, and robotics, backed by a sizable $20
+billion capex plan this year. While this strengthens Tesla’s
+long-term narrative, the elevated investment
+is likely to
+pressure near-term cash flows. Meanwhile, Tesla’s
+Energy
+Generation and Storage segment is gaining traction, and the
+Supercharger network continues to expand. The company’s
+robotaxi service is expected to roll out in seven new cities in
+the first half of 2026, with early driverless tests already
+underway.
+However, meaningful contributions from these
+initiatives may take time, warranting a neutral view on the
+stock for now.
+Data Overview
+52 Week High-Low
+$498.83 - $214.25
+20 Day Average Volume (sh)
+59,474,008
+Market Cap
+$1,615.1 B
+YTD Price Change
+-4.3%
+Beta
+1.86
+Dividend / Div Yld
+$0.00 / 0.0%
+Industry
+Automotive - Domestic
+Zacks Industry Rank
+Top 30% (72 out of 244)
+Last EPS Surprise
+8.7%
+Last Sales Surprise
+-0.9%
+EPS F1 Est- 4 week change
+-6.2%
+Expected Report Date
+04/28/2026
+Earnings ESP
+-3.5%
+P/E TTM
+257.7
+P/E F1
+134.5
+PEG F1
+2.1
+P/S TTM
+17.0
+Price, Consensus & Surprise(1)
+Sales and EPS Growth Rates (Y/Y %)(1)
+Sales 
+ EPS 
+Sales Estimates (millions of $)(1)
+ 
+Q1
+Q2
+Q3
+Q4
+Annual*
+2027
+26,903 E
+29,180 E
+30,996 E
+31,655 E
+118,734 E
+2026
+21,045 E
+23,091 E
+25,525 E
+26,691 E
+96,351 E
+2025
+19,335 A
+22,496 A
+28,095 A
+24,901 A
+94,827 A
+EPS Estimates(1)
+ 
+Q1
+Q2
+Q3
+Q4
+Annual*
+2027
+0.86 E
+0.91 E
+1.14 E
+1.62 E
+4.53 E
+2026
+0.61 E
+0.69 E
+0.83 E
+1.07 E
+3.20 E
+2025
+0.27 A
+0.40 A
+0.50 A
+0.50 A
+1.66 A
+*Quarterly figures may not add up to annual.
+1) The data in the charts and tables, including the Zacks Consensus EPS and sales estimates, is as of 01/30/2026.
+2) The report's text and the price target are as of 02/02/2026.
+Zacks Report Date: February 02, 2026
+© 2026 Zacks Investment Research, All Rights Reserved
+101 N Wacker Drive, Floor 15, Chicago, IL 60606
+Overview
+Over the years, electric vehicle (EV) maker Tesla has evolved into a
+dynamic technology innovator. It has transformed the EV space like
+Amazon
+changed
+the
+retail
+landscape
+and
+Netflix
+revolutionized
+entertainment.
+Tesla,
+which
+managed
+to
+garner
+a
+gold-standard
+reputation over the years, is now a far bigger entity than it was at the
+time of its IPO in 2010. However, with growing competition, Tesla's
+market share in battery-powered electric car sales in the United States
+has eroded to around 50%, from roughly 80% in 2020.
+The firm’s
+three-pronged business model approach of direct sales,
+servicing and charging its EVs sets it apart from other carmakers. Tesla,
+touted as the clean energy revolutionary automaker, is much more than
+just
+a
+car manufacturer. The firm also
+makes different kinds of
+technology like self-driving software, charging stations and battery
+development, et al. The technology titan has also made inroads into the
+solar and energy storage business. In fact, Tesla’s
+CEO Elon Musk
+wants the company to be viewed primarily through the lens of AI and
+robotics rather than solely as an automotive company.
+Tesla operates under three segments: Automotive, Energy Generation/
+Storage and Services/Others. While Automotive operations accounted
+for
+73.3%
+of
+the
+total
+sales
+in
+2025,
+revenues
+from
+Energy
+Generation/Storage and Services/Others constituted 13.5% and 13.2%
+of the total sales, respectively.
+Currently, the Texas-based company’s most popular vehicle offerings
+are the Model 3 and Model Y, along with the Cybertruck. Tesla plans to
+end production of the Model S and Model X in the second quarter of 2026.
+Tesla’s
+first, second and third gigafactory are located in Nevada, New York and Shanghai, respectively. Its fourth and fifth gigafactories, are
+located in Berlin and Austin, respectively, and commenced production in the fourth quarter of 2021.
+As of 01/30/2026
+As of 01/30/2026
+Zacks Equity Research
+www.zacks.com
+Page 2 of 8
+Reasons To Buy:
+Thriving Energy Generation & Storage Business: Tesla's revenue from Energy Generation
+and Storage business is on a robust growth trajectory on the back of the strong reception of
+its Megapack and Powerwall products. This segment stands out as Tesla's most lucrative,
+boasting the highest margins. Over the past three years, energy storage deployments have
+surged at a CAGR of 168%. With plans to begin production of Megapack 3 and Megablock to
+meet escalating demand, deployments are expected to continue their upward trajectory.
+NACS to Bolster Charging Business: Tesla's charging division is poised to substantially
+enhance its overall profitability. Currently, the company's expansive global supercharging
+network boasts more than 77,000 connectors. Noteworthy automotive giants like Ford,
+General Motors, Mercedes and others have already enlisted to utilize Tesla's North American
+Charging Standard. As a result, the charging business has the potential to evolve into a
+substantial revenue stream for the company.
+Promise AVs, Robots and AI: Tesla is pushing beyond electric vehicles and leaning deeper
+into artificial intelligence, autonomous driving, and robotics as its next growth engines. Its Robotaxi program is already live in Austin and the
+California Bay Area, with plans to expand aggressively to seven new cities in the first half of the year, including Dallas, Houston, Phoenix,
+Miami, Orlando, Tampa, and Las Vegas. The company believes it has strong cost and scaling advantages in robotaxis. At the same time,
+Tesla is installing first-generation production lines for Optimus, preparing for volume output. Optimus and the two-seat Cybercab AV are
+expected to reach volume production in 2026. Tesla is also upgrading FSD (Supervised) with its end-to-end AI model. It is developing custom
+AI inference chips for autonomy, targeted for production in 2027 and 2028.
+Strong Balance Sheet: High liquidity and low leverage provide Tesla with the financial flexibility to tap growth opportunities. Its long-term
+debt-to-capitalization of around 7% compares favorably with the industry’s 40%. The company’s times interest earned ratio of 16.6 is way
+higher than the industry’s 5.08. Tesla exited 2025 with cash/cash equivalents/investments of around $44 billion.
+Strength in the Energy
+Generation/Storage
+business, balance sheet
+strength, and focus on
+autonomous driving,
+robotics and artificial
+intelligence are set to drive
+Tesla.
+ 
+ 
+ 
+Zacks Equity Research
+www.zacks.com
+Page 3 of 8
+Reasons To Sell:
+Weak Vehicle Sales: Tesla’s delivery slowdown underscores the rising pressure on its core
+EV business. Tesla’s deliveries in 2025 the second consecutive year of declining volumes. A
+more concerning aspect is that the pace of the slowdown has accelerated. Deliveries slipped
+just 1% year over year in 2024, but the decline widened to more than 8% in 2025. A softer EV
+market, intensifying competition and an aging vehicle lineup have all weighed on demand.
+Massive Capex to Weigh on Near-Term Cash Flow: Tesla plans to spend around $20 billion
+in capital expenditures this year as it pivots deeper into artificial intelligence, autonomous
+driving, and robotics. This marks a sharp jump from roughly $8.5 billion last year and exceeds the prior peak of $11.3 billion in 2024. The
+company is committing large sums upfront, while meaningful revenue contributions from AI, robotaxis, and Optimus are likely still years away.
+While this will create long-term opportunity, Tesla is likely to face increased financial pressure in the near term.
+Rising Competition: Competition is increasing from traditional automakers like General Motors and Ford as well as emerging players like
+Rivian and Lucid in a market that Tesla has dominated until now. Therefore, Tesla is the only one with a share to lose. All other players are
+gaining market share at its expense. Its US EV market share is currently below 50%, down from 63% in 2022. The company’s dominant
+market position is likely to drop further, thanks to stiff competition. There are also concerns with respect to the China market, which is full of
+home-grown players like BYDDY, NIO, XPeng and Li, among others. As China is a big market for Tesla, stiff competition is likely to erode its
+share in the country.
+Falling Regulatory Credit Sales: Another concern is declining regulatory credit sales, which have long supported its profitability. These
+credits dropped 28% year over year in 2025. The fall comes as U.S. policy changes scrap penalties tied to fuel economy standards, removing
+automakers’
+incentive to buy credits. With legacy rivals ramping up EV production and needing fewer offsets, Tesla risks losing this
+lifeline—adding pressure just as deliveries and margins already face strain.
+Falling vehicle sales,
+massive capital
+expenditure plans and
+intensifying competition
+are creating headwinds.
+Zacks Equity Research
+www.zacks.com
+Page 4 of 8
+Last Earnings Report
+Tesla Q4 Earnings Beat Estimates
+Tesla earnings per share of 50 cents, which beat the Zacks Consensus Estimate of 45 cents
+but decreased from the year-ago figure of 73 cents. Total revenues of $24.9 billion missed the
+Zacks Consensus Estimate of $25.14 billion and declined 3% year over year.  
+Key Takeaways
+Tesla’s
+fourth-quarter production totaled 434,358 units (422,652 Model 3/Y and 11,706 other
+models), which declined 5% year over year and missed our estimate of 462,212 units. The
+company delivered 418,227 vehicles, which declined 16% year over year and fell short of our
+estimate of 448,384 units. The Model 3/Y registered deliveries of 406,585 vehicles, which declined 14% year over year and missed our
+expectation of 430,871 units.
+Total automotive revenues of $17.7 billion declined 11% year over year and missed our estimate of $19.3 billion. The reported figure also
+included $542 million (from the sale of regulatory credits for electric vehicles), which declined 21.7% year over year. Automotive sales, excluding
+revenues from leasing and regulatory credits, totaled $16.8 billion, which declined 10.2% and missed our projection of $18.5 billion on lower-than-
+expected deliveries. Automotive gross profit (excluding automotive leasing and regulatory credits) was $2.9 billion. Automotive gross margin was
+17.2%, up from 12.8% reported in the fourth quarter of 2024.
+Tesla’s operating margin declined 50 basis points year over year to 5.7% in the quarter under review, but topped our estimate of 5.3%.
+Energy Generation and Storage revenues amounted to $3.84 billion, which rose 25% year over year and beat our estimate of $3.4 billion.
+Notably, energy storage deployments totaled 14.2 GWh. Services and Other revenues amounted to $3.4 billion, up 18% year over year. The
+figure matched our estimate. Tesla ended fourth-quarter 2025 with 77,682 Supercharger connectors.
+Financials
+Tesla had cash/cash equivalents/investments of $44.1 billion as of Dec. 31, 2025, compared with $36.6 billion as of Dec. 31, 2024. Long-term
+debt and finance leases, net of the current portion, totaled $6.74 billion, up from $5.75 billion as of Dec. 31, 2024.
+Net cash provided by operating activities amounted to $3.81 billion in fourth-quarter 2025, down from $4.81 billion in the year-ago period. Capital
+expenditure totaled $2.39 billion. Tesla generated free cash flow of $1.42 billion during the reported quarter compared with $2.03 billion in the
+fourth quarter of 2024.
+FY Quarter Ending
+12/31/2025
+Earnings Reporting Date
+Jan 28, 2026
+Sales Surprise
+-0.94%
+EPS Surprise
+8.70%
+Quarterly EPS
+0.50
+Annual EPS (TTM)
+1.67
+Zacks Equity Research
+www.zacks.com
+Page 5 of 8
+Recent News
+Tesla Q4 Deliveries Update
+On Jan 2, Tesla released its delivery numbers for the fourth-quarter and full year 2025. In the fourth quarter of 2025, Tesla sold 418,227 vehicles
+(comprising 406,585 Model 3/Y and 11,642 other models), down 16% from the corresponding quarter of 2024. For the full year, deliveries totaled
+roughly 1.64 million vehicles (comprising 1.58 million units of Model 3/Y and 50,850 other models). That denotes a decline from nearly 1.8 million
+vehicles sold in 2024.
+Valuation
+Tesla’s shares are up 39% and 12% over the past six months and in the trailing 12-month period, respectively. Stocks in the Zacks Automotive-
+Domestic industry and the Zacks Auto-Tires-Trucks sector are up 39% and 28%, respectively, over the past six months. Over the past year, the
+Zacks sub industry and sector are up 17% and 15%, respectively. The S&P 500 index is up 12% and 18% over the past six months and in the
+past year, respectively.
+The stock is currently trading at 15.38X forward 12-month price to sales ratio, which compares to 3.4X for the Zacks sub-industry, 1.61X for the
+Zacks sector and 5.62X for the S&P 500 index.
+Over the past five years, the stock has traded as high as 23.37X and as low as 3.03X, with a 5-year median of 8.21X. Our Neutral
+recommendation indicates that the stock will perform in line with the market. Our $452 price target reflects 16.15X forward 12-month sales.
+The table below shows summary valuation data for TSLA:
+Zacks Equity Research
+www.zacks.com
+Page 6 of 8
+ 
+TSLA
+Zacks Recommendation (Long Term)
+Neutral
+Zacks Rank (Short Term)
+VGM Score
+Market Cap
+1,615.08 B
+# of Analysts
+13
+Dividend Yield
+0.00%
+Value Score
+Cash/Price
+0.03
+EV/EBITDA
+134.12
+PEG Ratio
+2.00
+Price/Book (P/B)
+19.50
+Price/Cash Flow (P/CF)
+161.60
+P/E (F1)
+130.33
+Price/Sales (P/S)
+17.03
+Earnings Yield
+0.51%
+Debt/Equity
+0.08
+Cash Flow ($/share)
+2.66
+Growth Score
+Hist. EPS Growth (3-5 yrs)
+10.58%
+Proj. EPS Growth (F1/F0)
+92.77%
+Curr. Cash Flow Growth
+-19.78%
+Hist. Cash Flow Growth (3-5 yrs)
+57.34%
+Current Ratio
+2.16
+Debt/Capital
+7.58%
+Net Margin
+4.00%
+Return on Equity
+4.86%
+Sales/Assets
+0.72
+Proj. Sales Growth (F1/F0)
+1.60%
+Momentum Score
+Daily Price Chg
+3.32%
+1 Week Price Chg
+2.64%
+4 Week Price Chg
+-1.75%
+12 Week Price Chg
+0.21%
+52 Week Price Chg
+6.38%
+20 Day Average Volume
+59,474,008
+(F1) EPS Est 1 week change
+0.00%
+(F1) EPS Est 4 week change
+-6.16%
+(F1) EPS Est 12 week change
+-12.16%
+(Q1) EPS Est Mthly Chg
+-8.11%
+X Industry
+S&P 500
+-
+-
+-
+-
+-
+-
+182.75 M
+39.71 B
+4
+22
+0.00%
+1.33%
+-
+-
+0.21
+0.04
+0.00
+14.98
+1.94
+1.99
+1.30
+3.64
+8.13
+15.40
+14.48
+18.87
+0.87
+3.12
+5.16%
+5.29%
+0.10
+0.57
+-0.89
+8.96
+-
+-
+10.58%
+8.04%
+18.08%
+8.75%
+-19.82%
+7.19%
+4.84%
+7.63%
+1.72
+1.19
+25.04%
+37.83%
+-33.06%
+12.78%
+-13.71%
+16.92%
+0.61
+0.53
+4.29%
+5.19%
+-
+-
+-0.60%
+-0.43%
+-1.66%
+0.34%
+-0.87%
+1.17%
+-6.93%
+3.12%
+-41.79%
+14.88%
+315,013
+2,895,484
+0.00%
+0.00%
+0.00%
+0.00%
+-1.85%
+0.30%
+0.00%
+0.00%
+BYDDY
+GM
+RIVN
+Neutral
+Neutral
+Neutral
+0.00 M
+75.93 B
+18.08 B
+5
+10
+5
+1.21%
+0.71%
+0.00%
+NA
+0.36
+0.39
+NA
+7.51
+-4.55
+2.34
+0.47
+NA
+3.27
+1.20
+3.56
+NA
+3.11
+NA
+17.28
+6.88
+NA
+NA
+0.41
+3.10
+5.82%
+14.55%
+-15.73%
+NA
+1.50
+0.87
+NA
+27.01
+-3.19
+NA
+10.15%
+NA
+-15.63%
+15.28%
+34.90%
+NA
+5.37%
+-19.85%
+NA
+1.79%
+NA
+NA
+1.17
+2.71
+NA
+59.96%
+46.61%
+NA
+1.46%
+-61.34%
+NA
+14.72%
+-57.33%
+NA
+0.65
+0.38
+7.70%
+-0.30%
+7.90%
+-4.40%
+-2.62%
+-2.77%
+0.63%
+-1.41%
+-4.32%
+-3.06%
+3.73%
+-24.01%
+0.00%
+18.73%
+-3.15%
+5.91%
+69.83%
+17.44%
+1,609,280
+9,092,172
+27,071,836
+0.00%
+4.78%
+0.00%
+-1.92%
+6.95%
+-0.32%
+-4.53%
+13.89%
+0.30%
+-25.00%
+0.55%
+-0.40%
+Industry Comparison(1)Industry: Automotive - Domestic
+Industry Peers
+Industry Analysis(1)Zacks Industry Rank: Top 30% (72 out of 244)
+Top Peers(1)
+Company (Ticker)
+Rec
+Rank
+Ford Motor Company (F)
+Outperform
+Byd Co., Ltd. (BYDDY)
+Neutral
+Fox Factory Holding Corp. (FOXF)
+Neutral
+General Motors Company (GM)
+Neutral
+Harley-Davidson, Inc. (HOG)
+Neutral
+PACCAR Inc. (PCAR)
+Neutral
+Rivian Automotive, Inc. (RIVN)
+Neutral
+Toyota Motor Corporation (TM)
+Underperform
+Zacks Equity Research
+www.zacks.com
+Page 7 of 8
+Zacks Stock Rating System
+We offer two rating systems that take into account investors' holding horizons: Zacks Rank and Zacks Recommendation. Each provides valuable
+insights into the future profitability of the stock and can be used separately or in combination with each other depending on your investment style.
+Zacks Recommendation
+The Zacks Recommendation aims to predict performance over the next 6 to 12 months. The foundation for the quantitatively determined Zacks
+Recommendation is trends in the company's estimate revisions and earnings outlook. The Zacks Recommendation is broken down into 3 Levels;
+Outperform, Neutral and Underperform. Unlike many Wall Street firms, we have an excellent balance between the number of Outperform and
+Neutral recommendations. Our team of 70 analysts are fully versed in the benefits of earnings estimate revisions and how that is harnessed
+through the Zacks quantitative rating system. But we have given our analysts the ability to override the Zacks Recommendation for the 1200
+stocks that they follow. The reason for the analyst over-rides is that there are often factors such as valuation, industry conditions and
+management effectiveness that a trained investment professional can spot better than a quantitative model.
+Zacks Rank
+The Zacks Rank is our short-term rating system that is most effective over the one- to three-month holding horizon. The underlying driver for the
+quantitatively-determined Zacks Rank is the same as the Zacks Recommendation, and reflects trends in earnings estimate revisions.
+Zacks Style Scores
+The Zacks Style Score is as a complementary indicator to the Zacks rating system, giving investors a way
+to focus on the highest rated stocks that best fit their own stock picking preferences.
+Academic research has proven that stocks with the best Value, Growth and Momentum characteristics
+outperform the market. The Zacks Style Scores rate stocks on each of these individual styles and assigns
+a rating of A, B, C, D and F. We also produce the VGM Score (V for Value, G for Growth and M for
+Momentum), which combines the weighted average of the individual Style Scores into one score. This is
+perfectly suited for those who want their stocks to have the best scores across the board.
+As an investor, you want to buy stocks with the highest probability of success. That means buying stocks with a Zacks Recommendation of
+Outperform, which also has a Style Score of an A or a B.
+Value Score
+Growth Score
+Momentum Score
+VGM Score
+Disclosures
+This report contains independent commentary to be used for informational purposes only. The analysts contributing to this report do
+not hold any shares of this stock. The analysts contributing to this report do not serve on the board of the company that issued this
+stock. The EPS and revenue forecasts are the Zacks Consensus estimates, unless otherwise indicated in the report’s first-page
+footnote. Additionally, the analysts contributing to this report certify that the views expressed herein accurately reflect the analysts personal
+views as to the subject securities and issuers. ZIR certifies that no part of the analysts compensation was, is, or will be, directly or indirectly,
+related to the specific recommendation or views expressed by the analyst in the report.
+Additional information on the securities mentioned in this report is available upon request. This report is based on data obtained from sources we
+believe to be reliable, but is not guaranteed as to accuracy and does not purport to be complete. Any opinions expressed herein are subject to
+change.
+ZIR is not an investment advisor and the report should not be construed as advice designed to meet the particular investment needs of any
+investor. Prior to making any investment decision, you are advised to consult with your broker, investment advisor, or other appropriate tax or
+financial professional to determine the suitability of any investment.This report and others like it are published regularly and not in response to
+episodic market activity or events affecting the securities industry.
+This report is not to be construed as an offer or the solicitation of an offer to buy or sell the securities herein mentioned. ZIR or its officers,
+employees or customers may have a position long or short in the securities mentioned and buy or sell the securities from time to time.ZIR is not a
+broker-dealer.ZIR may enter into arms-length agreements with broker-dealers to provide this research to their clients.Zacks and its staff are not
+involved in investment banking activities for the stock issuer covered in this report.
+ZIR uses the following rating system for the securities it covers. Outperform- ZIR expects that the subject company will outperform the broader
+U.S. equities markets over the next six to twelve months. Neutral- ZIR expects that the company will perform in line with the broader U.S.
+equities markets over the next six to twelve months. Underperform- ZIR expects the company will underperform the broader U.S. equities
+markets over the next six to twelve months.
+No part of this report can be reprinted, republished or transmitted electronically without the prior written authorization of ZIR.
+Zacks Equity Research
+www.zacks.com
+Page 8 of 8

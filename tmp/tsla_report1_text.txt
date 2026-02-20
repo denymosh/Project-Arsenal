@@ -1,0 +1,836 @@
+--- PAGE 1 ---
+TESLA INC
+NASDAQ:TSLA
+Report Created Jan 30, 2026  Page 1 of 5
+Please see important information about this report on page 5
+©2026 Argus Research Company
+Argus Analyst Report
+Tesla Inc. manufactures and sells electric vehicles and energy generation and storage systems.
+The company was founded in 2003 and went public in June 2010 with an initial public offering at
+$17 per share. As of December 31, 2024, Tesla had over 125,000 employees. It recently moved
+its headquarters to Austin, Texas, from Palo Alto, California, and its stock is a component of the
+S&P 500.
+Analyst's Notes
+Analysis by Bill Selesky, January 30, 2026
+ARGUS RATING:  HOLD
+• Fourth-quarter profit down 17%, too early for an upgrade
+• Tesla recently reported 4Q25 adjusted net income of $1.761 billion or $0.50 per share, down
+from $2.107 billion or $0.60 per share in 4Q24. EPS beat our estimate of $0.48 per share and
+the StreetAccount consensus estimate of $0.45.
+• The lower 4Q25 earnings mostly reflected weaker Automotive sales, lower vehicle deliveries,
+higher tariff costs, and higher average cost per vehicle, offsetting higher gross margins and
+revenue growth in Energy Generation and Storage.
+• Tesla does not provide any financial guidance, but management highlighted on its 4Q25
+earnings conference call (January 28) that they anticipate a heavy capital-spending program in
+2026 (over $20 billion versus $9 billion in 2025) to scale autonomous technologies, robotaxi,
+and Optimus production. They also expect a continued pivot to AI and energy growth.
+• In the near-term, management is expecting modest overall revenue and vehicle delivery
+growth.
+INVESTMENT THESIS
+    Our rating on Tesla Inc. (NGS: TSLA) is HOLD. The company is one of the
+largest electric vehicles (EV) sellers in the world and holds a significant portion of the
+EV market share in the United States, with about 50% of the market as of the end of
+2025. However, EV demand has slowed over the past 12 months, largely the result of
+the expiration of government incentives (a $7,500 Federal tax credit) and waning
+Market Data
+Pricing reflects previous trading week's closing price.
+Q1
+2024
+Q2
+Q3
+Q4
+Q1
+2025
+Q2
+Q3
+Q4
+Q1
+2026
+Q2
+Q3
+Q4
+Q1
+2027
+Q2
+Q3
+Q4
+200
+300
+400
+500
+200-Day Moving Average
+52 Week High: $498.83
+52 Week Low: $214.25
+Closed at $449.06 on 1
+BUY
+HOLD
+SELL
+97.7
+2.29
+94.8
+1.67
+105.3   (
+) Estimate
+2.03   (
+) Estimate
+122.2   (
+) Estimate
+2.95   (
+) Estimate
+Price
+($)
+Rating
+EPS
+($)
+Quarterly
+Annual
+Revenue
+($ in Bil.)
+Quarterly
+Annual
+FY ends
+Nov 30
+0.45
+0.52
+0.72
+0.60
+0.27
+0.40
+0.50
+0.50
+0.36
+0.49
+0.59
+0.59
+0.59
+0.72
+0.82
+0.82
+21.3
+25.5
+25.2
+25.7
+19.3
+22.5
+28.1
+24.9
+23.3
+25.2
+28.1
+28.7
+27.5
+29.3
+31.7
+33.7
+Argus Recommendations
+Twelve Month Rating
+SELL HOLD BUY
+Five Year Rating
+SELL HOLD BUY
+Sector Rating
+Under
+Weight
+Market
+Weight
+Over
+Weight
+Argus assigns a 12-month BUY, HOLD, or SELL rating to each stock
+under coverage.
+• BUY-rated stocks are expected to outperform the market (the
+benchmark S&P 500 Index) on a risk-adjusted basis over the next
+year.
+• HOLD-rated stocks are expected to perform in line with the
+market.
+• SELL-rated stocks are expected to underperform the market on a
+risk-adjusted basis.
+The distribution of ratings across Argus' entire company
+universe is: 74% Buy, 26% Hold.
+Key Statistics
+Key Statistics pricing data reflects previous trading day's closing price.
+Other applicable data are trailing 12-months unless otherwise specified.
+Market Overview
+Price
+$416.56
+Target Price
+--
+52 Week Price Range
+$214.25 to $498.83
+Shares Outstanding
+3.75 Billion
+Dividend
+$0.00
+Sector Overview
+Sector
+Consumer Discretionary
+Sector Rating
+UNDER WEIGHT
+Total % of S&P 500 Market Cap.
+10.40%
+Financial Strength
+Financial Strength Rating
+MEDIUM
+Debt/Capital Ratio
+9.2%
+Return on Equity
+7.2%
+Net Margin
+4.0%
+Payout Ratio
+--
+Current Ratio
+2.16
+Revenue
+$94.83 Billion
+After-Tax Income
+$3.79 Billion
+Valuation
+Current FY P/E
+205.20
+Prior FY P/E
+249.44
+Price/Sales
+16.48
+Price/Book
+16.86
+Book Value/Share
+$24.70
+Market Capitalization
+$1.56 Trillion
+Forecasted Growth
+1 Year EPS Growth Forecast
+21.56%
+5 Year EPS Growth Forecast
+105.00%
+1 Year Dividend Growth Forecast
+N/A
+Risk
+Beta
+1.64
+Institutional Ownership
+49.08%
+
+--- PAGE 2 ---
+TESLA INC
+NASDAQ:TSLA
+Report Created Jan 30, 2026  Page 2 of 5
+Please see important information about this report on page 5
+©2026 Argus Research Company
+Argus Analyst Report
+Analyst's Notes   ...Continued
+INVESTMENT THESIS
+consumer interest.
+    We do not believe this is an advantageous time to accumulate
+shares in Tesla. Core electric vehicle (EV) demand is slowing (just
+ask General Motors or Ford), while competition is intensifying and
+pricing pressures are generating inconsistent gross margin growth,
+leading to steadily declining 'forward-looking' earnings revisions.
+So despite a modestly better-than-expected fourth quarter for Tesla
+(which we see as an anomaly), we believe it will be difficult for
+Tesla to turn around their generally weak operating results any
+time soon. We anticipate that 2026 will include some 'rough
+quarters,' just as CEO Musk noted at the end of the second quarter
+of 2025.
+    At the same time, we also believe that the company's valuation
+metrics still depend heavily on unproven, long-term bets (like
+robotaxis and AI), which are consuming capital at a breakneck
+pace, but without clear visibility on near-term returns. Before we
+can become more supportive of the stock in the near term, we need
+to see a stabilization (or acceleration) of EV deliveries with clear
+(sustainable) margin recovery, showing that demand and pricing
+power have bottomed.
+RECENT DEVELOPMENTS
+    Tesla reported 4Q25 adjusted net income of $1.761 billion or
+$0.50 per share, down from $2.107 billion or $0.60 per share in 4
+Q24. EPS beat our estimate of $0.48 per share and the
+StreetAccount consensus estimate of $0.45.
+    The lower 4Q25 earnings mostly reflected weaker Automotive
+sales, lower vehicle deliveries, higher tariff costs, and higher
+average cost per vehicle, offsetting higher gross margins and
+revenue growth in Energy Generation and Storage.
+    Total revenue decreased 3% to $24.901 billion, while
+Automotive division revenue declined 11% to $17.693 billion.
+Services and Other revenue increased 18% to $3.371 billion.
+    Gross margin (GAAP) for the fourth quarter of 2025 reached
+20.1% versus 16.3% in 4Q24, an increase of 380 basis points that
+is attributable to higher average selling prices (ASP's) and a
+stronger product mix.
+    In the fourth quarter of 2025, Tesla delivered 418,227 total
+vehicles (11,642 Model S and Model X and 406,585 Model 3 and
+Model Y), down 16% from the fourth quarter of 2024. The
+decrease in year-over-year deliveries, we believe, is largely due to
+the expirations of U.S. Federal EV tax incentives and intensifying
+global EV competition.
+    Energy Generation and Storage revenue totaled $3.837 billion in
+the fourth quarter, up 25% from $3.061 billion in the fourth
+quarter of 2024, reflecting strength in demand for battery storage,
+as well as an expanding gross-margin performance.
+    For full year 2025, the company reported an adjusted net profit
+of $5.858 billion or $1.67 per diluted share compared to an
+adjusted net profit of $7.960 billion or $2.29 in full year 2024.
+EARNINGS & GROWTH ANALYSIS
+    Tesla does not provide financial guidance, but management
+Growth & Valuation Analysis
+GROWTH ANALYSIS
+($ in Millions, except per share data)
+2021
+2022
+2023
+2024
+2025
+Revenue
+53,823
+81,462
+96,773
+97,690
+94,827
+COGS
+40,217
+60,609
+79,113
+80,240
+77,733
+Gross Profit
+13,606
+20,853
+17,660
+17,450
+17,094
+SG&A
+4,517
+3,946
+4,800
+5,150
+5,834
+R&D
+2,593
+3,075
+3,969
+4,540
+6,411
+Operating Income
+6,496
+13,832
+8,891
+7,760
+4,849
+Interest Expense
+315
+-106
+-910
+-1,219
+-1,342
+Pretax Income
+6,343
+13,719
+9,973
+8,990
+5,278
+Income Taxes
+699
+1,132
+-5,001
+1,837
+1,423
+Tax Rate (%)
+11
+8
+--
+20
+27
+Net Income
+5,524
+12,583
+14,999
+7,130
+3,794
+Diluted Shares Outstanding
+3,386
+3,475
+3,485
+3,498
+3,528
+EPS
+1.63
+3.62
+4.30
+2.04
+1.08
+Dividend
+--
+--
+--
+--
+--
+GROWTH RATES (%)
+2021
+2022
+2023
+2024
+2025
+Revenue
+70.7
+51.4
+18.8
+0.9
+-2.9
+Operating Income
+225.8
+112.9
+-35.7
+-12.7
+-37.5
+Net Income
+700.6
+127.8
+19.2
+-52.5
+-46.8
+EPS
+676.2
+122.1
+18.8
+-52.6
+-47.1
+Dividend
+--
+--
+--
+--
+--
+Sustainable Growth Rate
+16.1
+33.4
+23.1
+20.7
+6.8
+VALUATION ANALYSIS
+2021
+2022
+2023
+2024
+2025
+Price: High
+$414.50
+$402.67
+$299.29
+$488.54
+$498.83
+Price: Low
+$179.83
+$108.24
+$101.81
+$138.80
+$214.25
+Price/Sales: High - Low
+26.1 - 11.3
+17.2 - 4.6
+10.8 - 3.7
+17.5 - 5.0
+18.6 - 8.0
+P/E: High - Low
+254.3 - 110.3
+111.2 - 29.9
+69.6 - 23.7
+239.5 - 68.0
+461.9 - 198.4
+Price/Cash Flow: High - Low
+142.3 - 61.7
+86.6 - 23.3
+85.6 - 29.1
+117.8 - 33.5
+111.6 - 47.9
+Financial & Risk Analysis
+FINANCIAL STRENGTH
+2023
+2024
+2025
+Cash ($ in Millions)
+16,398
+16,139
+16,513
+Working Capital ($ in Millions)
+20,868
+29,539
+36,928
+Current Ratio
+1.73
+2.02
+2.16
+LT Debt/Equity Ratio (%)
+10.4
+14.2
+14.8
+Total Debt/Equity Ratio (%)
+15.3
+18.7
+17.9
+RATIOS (%)
+2023
+2024
+2025
+Gross Profit Margin
+18.2
+17.9
+18.0
+Operating Margin
+9.2
+7.9
+5.1
+Net Margin
+15.5
+7.3
+4.0
+Return on Assets
+15.9
+6.2
+2.9
+Return on Equity
+27.9
+10.5
+4.9
+RISK ANALYSIS
+2023
+2024
+2025
+Cash Cycle (days)
+4.8
+11.9
+13.9
+Cash Flow/Cap Ex
+1.5
+1.3
+1.7
+Oper. Income/Int. Exp. (ratio)
+64.9
+26.7
+16.6
+Payout Ratio
+0.0
+0.0
+0.0
+
+--- PAGE 3 ---
+TESLA INC
+NASDAQ:TSLA
+Report Created Jan 30, 2026  Page 3 of 5
+Please see important information about this report on page 5
+©2026 Argus Research Company
+Argus Analyst Report
+Analyst's Notes   ...Continued
+EARNINGS & GROWTH ANALYSIS
+highlighted on its 4Q25 earnings conference call (January 28) they
+anticipate heavy capital spending program in 2026 (over $20
+billion versus $9 billion in 2025) to scale autonomous
+technologies, robotaxi, and Optimus production. They also expect
+a continued pivot to AI and energy growth. In the near-term,
+management expects to see modest overall revenue and vehicle
+delivery growth in 2026.
+    We are lowering our 2026 EPS estimate to $2.03 from $2.26 to
+reflect our expectation for slower vehicle sales, margin pressure,
+and rising capital expenditures tied to the company's shift to AI,
+autonomy, and robotics.
+    We are initiating a 2027 EPS estimate of $2.95 per share, which
+implies higher revenue and profit growth as key investments
+(robotaxi services, autonomy, energy storage) begin to scale.
+FINANCIAL STRENGTH & DIVIDEND
+    Our financial strength rating on Tesla is Medium, the middle
+ranking on our financial scale. The company receives average
+scores on our financial strength criteria of fixed cost coverage, cash
+flow, profitability and an above-average score on
+debt/capitalization levels. The company does not pay a dividend
+and is unlikely to initiate one in the near term.
+    Tesla's credit ratings are designated as Baa3/stable at Moody's,
+while Standard & Poor's rates the company's credit profile at
+BBB/stable. Tesla believes it has sufficient liquidity to fund its
+product roadmap, long-term capacity expansion plans, and other
+needs.
+    Total debt at the end of the fourth quarter of 2025 stood at
+$8.376 billion, consisting of short-term borrowings of $1.640
+billion and long-term borrowings of $6.736 billion. This compares
+to total outstanding debt of $13.623 billion at the end of the
+fourth quarter of 2024.
+    The total debt/cap ratio was 9.2% at the end of 4Q25, down
+from 15.6% a year earlier and below the average for peer auto
+manufacturers. Tesla's five-year average debt/cap ratio is 14.1%.
+    Cash and cash equivalents totaled $44.059 billion at the end of 4
+Q25, up from $36.563 billion a year earlier. In addition, this
+compares to $41.647 billion generated at the end of the third
+quarter of 2025.
+    Net cash provided by operating activities was $3.813 billion,
+down from $4.814 billion in 4Q24 and compared to $6.238 billion
+in 3Q25.
+    Tesla does not have a share-repurchase program, and we do not
+believe that Tesla will initiate a program in the foreseeable future.
+MANAGEMENT & RISKS
+    Tesla founder Elon Musk has served as the company's CEO
+since 2008. He is also the CEO and chief designer of Space
+Exploration Technologies (SpaceX), and the nonexecutive
+chairman and principal shareholder of SolarCity, one of the
+leading providers of solar power systems in the U.S.  Mr. Musk has
+Peer & Industry Analysis
+The graphics in this section are designed to
+allow investors to compare TSLA versus its
+industry peers, the broader sector, and the
+market as a whole, as defined by the Argus
+Universe of Coverage.
+• The scatterplot shows how TSLA stacks
+up versus its peers on two key
+characteristics: long-term growth and
+value. In general, companies in the lower
+left-hand corner are more value-oriented,
+while those in the upper right-hand
+corner are more growth-oriented.
+• The table builds on the scatterplot by
+displaying more financial information.
+• The bar charts on the right take the
+analysis two steps further, by broadening
+the comparison groups into the sector
+level and the market as a whole. This tool
+is designed to help investors understand
+how TSLA might fit into or modify a
+diversified portfolio.
+Value
+Growth
+0
+50
+100
+150
+200
+0
+25
+50
+75
+100
+5-yr Growth Rate(%)
+P/E
+TSLA
+TSLA
+TSLA
+TSLA
+TSLA
+TSLA
+TSLA
+TSLA
+TSLA
+GM
+GM
+GM
+GM
+GM
+GM
+GM
+GM
+GM
+F
+Ticker
+Company
+Market Cap
+($ in Millions)
+5-yr
+Growth
+Rate (%)
+Current
+FY P/E
+Net
+Margin
+(%)
+1-yr EPS
+Growth
+(%)
+Argus
+Rating
+TSLA
+Tesla Inc
+1,563,113
+105.0
+205.2
+4.0
+45.3
+HOLD
+GM
+General Motors Company
+77,976
+7.0
+7.2
+1.5
+10.0
+BUY
+F
+Ford Motor Co.
+54,791
+4.0
+13.0
+2.5
+31.5
+BUY
+Company ratings vs. Market and Sector are on a scale of 1 to 5. A rating of 1 means a company is more value-oriented
+compared to the overall market or sector, while a rating of 5 means a company is more growth-oriented.
+P/E
+TSLA vs.
+Market
+5
+TSLA vs.
+Sector
+5
+More Value
+More Growth
+Price/Sales
+TSLA vs.
+Market
+5
+TSLA vs.
+Sector
+5
+More Value
+More Growth
+Price/Book
+TSLA vs.
+Market
+5
+TSLA vs.
+Sector
+5
+More Value
+More Growth
+PEG
+TSLA vs.
+Market
+2
+TSLA vs.
+Sector
+3
+More Value
+More Growth
+5 Year Growth
+TSLA vs.
+Market
+5
+TSLA vs.
+Sector
+5
+More Value
+More Growth
+Debt/Capital
+TSLA vs.
+Market
+1
+TSLA vs.
+Sector
+1
+More Value
+More Growth
+
+--- PAGE 4 ---
+TESLA INC
+NASDAQ:TSLA
+Report Created Jan 30, 2026  Page 4 of 5
+Please see important information about this report on page 5
+©2026 Argus Research Company
+Argus Analyst Report
+Analyst's Notes   ...Continued
+MANAGEMENT & RISKS
+overseen product development and design at Tesla from the start
+and has had a nearly two-decade-long interest in electric vehicles
+and other environmentally friendly technology.
+    Like its competitors, Tesla faces risks from weak global
+economic conditions and changes in consumer preferences and
+spending patterns. Tesla is also at risk from higher costs for
+components and raw materials, as well as from manufacturing
+disruptions.
+COMPANY DESCRIPTION
+    Tesla Inc. manufactures and sells electric vehicles and energy
+generation and storage systems. The company was founded in
+2003 and went public in June 2010 with an initial public offering
+at $17 per share. As of December 31, 2024, Tesla had over
+125,000 employees. It recently moved its headquarters to Austin,
+Texas, from Palo Alto, California, and its stock is a component of
+the S&P 500.
+VALUATION
+    Tesla common shares have traded between $214.25 and
+VALUATION
+$498.83 over the past 52 weeks and currently are trading above
+the midpoint of the range. To value the stock on a fundamental
+basis, we use peer group and historical multiple comparisons, as
+well as a dividend discount model.  On a price/earnings basis, the
+common shares are trading at 205-times our 2026 EPS estimate
+and at 141-times our 2027 forecast, compared to a 14-year annual
+average range of 117-245.
+    On other valuation measures, the shares are trading at a
+price/book multiple of 16.9, versus a range of 14.1-42.9; a
+price/sales multiple of 14.2, versus a range of 6.7-16.8; and a
+price/cash flow ratio of 91.1, versus a range of 33.9-73.5. They are
+also trading at a price/EBITDA multiple of 127.9, below the low
+end of the range of 136.8-214.1.
+    On January 30 at midday, HOLD-rated TSLA traded at
+$437.44, up $20.87.
+
+--- PAGE 5 ---
+METHODOLOGY & DISCLAIMERS
+NASDAQ:TSLA
+Report Created Jan 30, 2026  Page 5 of 5
+Please see important information about this report on page 5
+©2026 Argus Research Company
+Argus Analyst Report
+About Argus
+    Argus Research, founded by Economist Harold Dorsey in 1934,
+has built a top-down, fundamental system that is used by Argus
+analysts. This six-point system includes Industry Analysis, Growth
+Analysis, Financial Strength Analysis, Management Assessment,
+Risk Analysis and Valuation Analysis.
+    Utilizing forecasts from Argus’ Economist, the Industry Analysis
+identifies industries expected to perform well over the next one-to-
+two years.
+    The Growth Analysis generates proprietary estimates for
+companies under coverage.
+    In the Financial Strength Analysis, analysts study ratios to
+understand profitability, liquidity and capital structure.
+    During the Management Assessment, analysts meet with and
+familiarize themselves with the processes of corporate management
+teams.
+    Quantitative trends and qualitative threats are assessed under
+the Risk Analysis.
+    And finally, Argus’ Valuation Analysis model integrates a
+historical ratio matrix, discounted cash flow modeling, and peer
+comparison.
+THE ARGUS RESEARCH RATING SYSTEM
+    Argus uses three ratings for stocks: BUY, HOLD, and SELL.
+Stocks are rated relative to a benchmark, the S&P 500.
+• A BUY-rated stock is expected to outperform the S&P 500 on
+a risk-adjusted basis over a 12-month period. To make this
+determination, Argus Analysts set target prices, use beta as the
+measure of risk, and compare expected risk-adjusted stock
+returns to the S&P 500 forecasts set by the Argus Market
+Strategist.
+• A HOLD-rated stock is expected to perform in line with the
+S&P 500.
+• A SELL-rated stock is expected to underperform the S&P 500.
+Argus Research Disclaimer
+Argus Research Co. (ARC) is an independent investment research provider whose parent company, Argus Investors’ Counsel, Inc. (AIC), is registered with the U.S. Securities and
+Exchange Commission. Argus Investors’ Counsel is a subsidiary of The Argus Research Group, Inc. Neither The Argus Research Group nor any affiliate is a member of the FINRA or
+the SIPC. Argus Research is not a registered broker dealer and does not have investment banking operations. The Argus trademark, service mark and logo are the intellectual
+property of The Argus Research Group, Inc. The information contained in this research report is produced and copyrighted by Argus Research Co., and any unauthorized use,
+duplication, redistribution or disclosure is prohibited by law and can result in prosecution. The content of this report may be derived from Argus research reports, notes, or analyses.
+The opinions and information contained herein have been obtained or derived from sources believed to be reliable, but Argus Research makes no representation as to their
+timeliness, accuracy or completeness or for their fitness for any particular purpose. The historical Growth & Valuation and Financial & Risk financial information included in this report
+has been provided by Morningstar, Inc. (© Morningstar, Inc. All Rights Reserved). This data is proprietary to Morningstar and/or its content providers; may not be copied or
+distributed; is not warranted to be accurate, complete or timely; and is set forth herein for historical reference only and is not necessarily used in Argus’ analysis of the stock set forth
+in the pages of this report or any other stock or other security. This report is not an offer to sell or a solicitation of an offer to buy any security. The information and material presented
+in this report are for general information only and do not specifically address individual investment objectives, financial situations or the particular needs of any specific person who
+may receive this report. Investing in any security or investment strategies discussed may not be suitable for you and it is recommended that you consult an independent investment
+advisor. Nothing in this report constitutes individual investment, legal or tax advice. Argus Research may issue or may have issued other reports that are inconsistent with or may
+reach different conclusions than those represented in this report, and all opinions are reflective of judgments made on the original date of publication. Argus is under no obligation to
+ensure that other reports are brought to the attention of any recipient of this report. Argus and its content providers shall accept no liability for any loss arising from the use of this
+report, nor shall Argus treat all recipients of this report as customers simply by virtue of their receipt of this material. Investments involve risk and an investor may incur either profits
+or losses. Past performance should not be taken as an indication or guarantee of future performance. Argus has provided independent research since 1934. Argus officers,
+employees, agents and/or affiliates may have positions in stocks discussed in this report. No Argus officers, employees, agents and/or affiliates may serve as officers or directors of
+covered companies, or may own more than one percent of a covered company’s stock. AIC is a customer of ARC. AIC pays ARC for research used in the management of the AIC core
+equity strategy and model portfolio and unit investment trust products, and has the same access to ARC content as other customers. However, clients and prospective clients should
+note that AIC and ARC, as units of The Argus Research Group, have certain employees in common, including those with both research and portfolio management responsibilities, and
+that ARC employees participate in the management and marketing of the AIC core equity strategy and UIT and model portfolio products. Recipients of the Research reports in
+Singapore should contact the Intermediary of the Research Reports in respect to any matters arising from, or in connection with, the analysis of the report. When reports are
+distributed by Intermediaries in Singapore, the Intermediary, and not Argus Research, is solely responsible for ensuring that the recipients of the Research Reports are accredited,
+expert or institutional investors as defined by the Securities and Futures Act. The Intermediary is also solely responsible for ensuring that the recipients understand the information
+contained in the Research Reports and that such information is suitable based on the recipient's profile and investment objectives. Laws and regulations of other countries may also
+restrict the distribution of this report. Persons in possession of this document should inform themselves about possible legal restrictions and observe them accordingly. This content
+is not prepared subject to Canadian disclosure requirements.
+

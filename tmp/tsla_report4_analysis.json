@@ -1,0 +1,503 @@
+{
+  "ticker": "TSLA",
+  "report": {
+    "date": "2026-02-03",
+    "institution": "Morningstar（完整版）",
+    "institution_en": "Morningstar Full Report",
+    "analyst": "Seth Goldstein, CFA",
+    "rating": "持有",
+    "previous_rating": "持有",
+    "target_price": 400.0,
+    "previous_target_price": 300.0,
+    "sentiment_score": 0.1,
+    "key_metrics": {
+      "revenue_estimate": "2026E: $92.98B, 2027E: $111.92B, 2028E: $140.97B, 2029E: $178.93B",
+      "eps_estimate": "2026E: $1.22, 2027E: $2.50, 2028E: $4.55, 2029E: $7.61",
+      "growth_rate": "2027E营收增长20.4%, 2028E增长26.0%, 2029E增长26.9%",
+      "margin_estimate": "2026E运营利润率5.0%, 2029E恢复至18.9%",
+      "other": {
+        "WACC": "8.8%",
+        "fair_value_per_share": "$400",
+        "total_firm_value": "$875.3B",
+        "equity_value": "$1,286.3B",
+        "stage_I_PV": "$159.2B",
+        "stage_II_PV": "$186.0B",
+        "stage_III_PV": "$530.1B",
+        "2026E_FCFF": "-$9.37B",
+        "2029E_FCFF": "$18.22B",
+        "10yr_capex_total": "~$170B",
+        "cost_of_equity": "9.0%",
+        "long_run_tax_rate": "23.0%"
+      }
+    },
+    "key_assumptions": [
+      "WACC约8.8%，权益成本9.0%，税前债务成本5.8%",
+      "2026年交付量降至156万辆（2025年164万辆），因美国EV税收抵免到期和欧洲竞争加剧",
+      "2030年交付量恢复至约280万辆，主要由Model Y/3平台驱动",
+      "汽车毛利率（不含信贷）维持十几%中段，FSD订阅推动2020年代末恢复至25%中段",
+      "Robotaxi估值约$120/股（占总估值30%），FSD订阅$70/股，Optimus $80/股",
+      "未来十年资本支出近$1700亿",
+      "能源存储业务年均收入增长近30%",
+      "公司运营利润率到2020年代末恢复至十几%中段（与2022年17%持平）",
+      "Robotaxi 2028年全面商业化，Tesla获美加打车市场30%份额",
+      "Stage III永续期假设：EBI增长率10%，投资率10%，永续年第15年"
+    ],
+    "risk_factors": [
+      "汽车市场高度周期性，经济下行可导致需求骤降",
+      "EV竞争加剧，新低价EV入市迫使Tesla降价，侵蚀利润率",
+      "自动驾驶/Robotaxi/人形机器人投入巨大但无法保证回报",
+      "CEO Musk持有约12%股份并用作个人贷款抵押，存在大规模抛售风险",
+      "Musk政治活动（支持Trump后又反对、支持德国AfD）可能导致消费者流失",
+      "Nvidia进入自动驾驶系统市场，可能削弱Tesla的FSD竞争优势",
+      "加州DMV裁定暂停Tesla生产和销售许可30天（因Autopilot/FSD营销问题）",
+      "SpaceX/xAI合并短期排除Tesla收购SpaceX可能性",
+      "产品召回风险（包括自动驾驶软件缺陷）",
+      "关键人员风险：若Musk离开，公司创新形象可能受损",
+      "专利诉讼风险",
+      "部分美国州法律要求汽车制造商和经销商分离"
+    ],
+    "blind_spots": [
+      "未详细讨论中国市场竞争格局（BYD等本土品牌的具体威胁）",
+      "未量化Musk政治活动对欧洲/美国销量的实际影响",
+      "未讨论特斯拉保险业务的具体财务数据和增长轨迹",
+      "未提及供应链风险（锂/钴/镍价格波动）",
+      "未分析Cybertruck的具体销量和盈利贡献"
+    ],
+    "catalysts": [
+      {
+        "event": "Robotaxi扩展至7个新美国城市（达拉斯、休斯顿、凤凰城、迈阿密、奥兰多、坦帕、拉斯维加斯）",
+        "expected_date": "2026-Q2",
+        "importance": "high",
+        "related_views": [
+          "Robotaxi",
+          "FSD/自动驾驶"
+        ]
+      },
+      {
+        "event": "Austin地区Robotaxi移除安全监督员",
+        "expected_date": "2026-Q1",
+        "importance": "high",
+        "related_views": [
+          "Robotaxi"
+        ]
+      },
+      {
+        "event": "Optimus人形机器人开始量产",
+        "expected_date": "2026-Q4",
+        "importance": "high",
+        "related_views": [
+          "Optimus/机器人"
+        ]
+      },
+      {
+        "event": "SpaceX IPO（可能为未来Tesla收购SpaceX铺路）",
+        "expected_date": "2026-Q4",
+        "importance": "medium",
+        "related_views": [
+          "估值"
+        ]
+      },
+      {
+        "event": "欧洲FSD监管审批",
+        "expected_date": "2026-Q3",
+        "importance": "high",
+        "related_views": [
+          "FSD/自动驾驶",
+          "交付量/销量"
+        ]
+      },
+      {
+        "event": "Model S/X停产，工厂改造为Optimus生产线",
+        "expected_date": "2026-Q3",
+        "importance": "medium",
+        "related_views": [
+          "Optimus/机器人",
+          "交付量/销量"
+        ]
+      }
+    ],
+    "views": [
+      {
+        "topic": "估值/DCF模型",
+        "stance": "neutral",
+        "confidence": "high",
+        "summary": "Morningstar将FVE从$300上调至$400，主要驱动力为Robotaxi估值提升、FSD订阅采用率上调和Optimus估值上调。DCF模型总企业价值$875.3B，其中Stage III永续价值$530.1B占60.6%，反映对长期AI转型的高度依赖。当前P/FVE=1.05，处于3星（适当估值）区间。上行情景$700，下行情景$100。",
+        "data_points": [
+          "FVE从$300上调至$400（+33%），主要因Q4财报后Robotaxi/FSD/Optimus估值提升",
+          "DCF Stage I现值$159.2B，Stage II $186.0B，Stage III $530.1B",
+          "WACC 8.8%，权益成本9.0%，税前债务成本5.8%",
+          "总企业价值$875.3B，加回现金$36.6B，减去债务$7.9B，其他调整$382.3B，权益价值$1,286.3B",
+          "上行情景$700：Robotaxi $180/股 + Optimus $300/股 + FSD $80/股",
+          "下行情景$100：FSD仅$10/股，Robotaxi和Optimus零估值",
+          "P/E 356.8x, P/S 15.69x, P/B 19.26x（当前极高估值倍数）",
+          "1星价格$700（75%溢价），5星价格$200（50%折价）——Very High Uncertainty对应的安全边际"
+        ],
+        "predictions": [
+          {
+            "metric": "公允价值估计",
+            "predicted_value": "$400/股",
+            "deadline": "2027-02-03",
+            "comparison_to_consensus": "below"
+          },
+          {
+            "metric": "2029年P/E",
+            "predicted_value": "50.1x",
+            "deadline": "2029-12-31",
+            "comparison_to_consensus": "inline"
+          }
+        ]
+      },
+      {
+        "topic": "FSD/自动驾驶",
+        "stance": "bullish",
+        "confidence": "high",
+        "summary": "Morningstar将FSD订阅软件估值定为$70/股，认为自动驾驶是Tesla从汽车制造商向'真实世界AI'公司转型的核心。FSD采用率上升将推动汽车毛利率在2020年代末恢复至25%中段。但面临Nvidia进入自动驾驶系统市场的竞争威胁，以及加州DMV因FSD营销问题的监管风险。",
+        "data_points": [
+          "FSD订阅软件估值$70/股，是Tesla估值的重要组成部分",
+          "Tesla研发投入约占销售额6%，维持行业领先的续航里程（每千瓦时英里数最优）",
+          "Nvidia在CES 2026宣布进入自动驾驶系统市场，Tesla股价当日下跌5%",
+          "加州行政法官裁定暂停Tesla生产和销售许可30天（因Autopilot/FSD营销问题）",
+          "Tesla正在建造全球最大超级计算机之一用于训练自动驾驶AI",
+          "欧洲目前无法销售FSD软件，需等待监管审批",
+          "FSD采用率增长将推动汽车毛利率从2024年18%恢复至2020年代末25%中段"
+        ],
+        "predictions": [
+          {
+            "metric": "FSD订阅估值",
+            "predicted_value": "$70/股",
+            "deadline": "2030-12-31",
+            "comparison_to_consensus": "above"
+          }
+        ]
+      },
+      {
+        "topic": "Robotaxi",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "Robotaxi估值约$120/股（占总估值30%），是Tesla估值中最大的单一AI业务组成部分。预计2028年全面商业化，Tesla将获美加打车市场30%份额。当前在Austin和加州湾区测试，已开始移除安全监督员。2026上半年计划扩展至7个新城市。初期采用重资产模式（自有车辆+运营软件），后期开放车主加入车队。",
+        "data_points": [
+          "Robotaxi估值$120/股，占Tesla总估值约30%",
+          "预计自动驾驶车辆（Tesla+Waymo）到2030年占美加打车服务50%",
+          "Tesla预计获得美加打车市场30%份额（到2035年）",
+          "Austin地区已开始测试无安全监督员的Robotaxi（2025年12月15日消息）",
+          "2026上半年计划扩展至7个新城市",
+          "上行情景下Robotaxi估值可达$180/股",
+          "下行情景下Robotaxi估值为零",
+          "Robotaxi全面商业化预计2027-2028年（无安全监督员、无/有限地理围栏、专用Robotaxi车辆）"
+        ],
+        "predictions": [
+          {
+            "metric": "Robotaxi全面商业化时间",
+            "predicted_value": "2027-2028年",
+            "deadline": "2028-12-31",
+            "comparison_to_consensus": "inline"
+          },
+          {
+            "metric": "Tesla打车市场份额（美加）",
+            "predicted_value": "30%",
+            "deadline": "2035-12-31",
+            "comparison_to_consensus": "inline"
+          }
+        ]
+      },
+      {
+        "topic": "交付量/销量",
+        "stance": "bearish",
+        "confidence": "high",
+        "summary": "Morningstar预计2026年交付量将降至156万辆（2025年164万辆），主要因美国EV税收抵免2025年9月到期和欧洲竞争加剧。Q4交付418,227辆同比降16%，全年降9%。长期预计2030年恢复至约280万辆。Model S/X将停产，Cybertruck/Roadster/Semi合计约3万辆/年。",
+        "data_points": [
+          "2025年全年交付1,636,129辆，同比降9%",
+          "Q4 2025交付418,227辆，同比降16%",
+          "2026年预计交付降至156万辆（因EV税收抵免到期+欧洲竞争）",
+          "2030年预计交付约280万辆，主要由Model Y/3平台驱动",
+          "Model S/X计划停产，工厂改造为Optimus生产线",
+          "Cybertruck/Roadster/Semi合计约3万辆/年",
+          "2025年全年营收$94.8B，2026E降至$93.0B（-2.0%）",
+          "欧洲交付下降因竞争加剧，且Tesla目前无法在欧洲销售FSD"
+        ],
+        "predictions": [
+          {
+            "metric": "2026年交付量",
+            "predicted_value": "156万辆",
+            "deadline": "2027-01-15",
+            "comparison_to_consensus": "below"
+          },
+          {
+            "metric": "2026年营收",
+            "predicted_value": "$92.98B",
+            "deadline": "2027-01-31",
+            "comparison_to_consensus": "below"
+          }
+        ]
+      },
+      {
+        "topic": "毛利率/盈利能力",
+        "stance": "neutral",
+        "confidence": "medium",
+        "summary": "预计汽车毛利率（不含信贷）维持十几%中段，低于管理层20%长期目标。随FSD订阅采用率上升，预计到2020年代末恢复至25%中段。公司运营利润率从2025年5.1%降至2026年5.0%，但预计2029年恢复至18.9%。COGS/车从2017年$84,000降至2024年$35,000+（降幅超55%）。",
+        "data_points": [
+          "2025年运营利润率5.1%，2026E降至5.0%，2029E恢复至18.9%",
+          "2025年调整后EBITDA利润率15.3%，2026E降至14.8%",
+          "2025年净利润率4.0%，2026E升至4.6%，2029E达15.0%",
+          "每车COGS从2017年$84,000降至2024年$35,000+（降幅超55%）",
+          "2025年调整后EPS $1.66，2026E $1.98，2027E $3.27，2029E $8.42",
+          "2025年ROIC 3.8%，2026E 9.3%，2029E 35.4%",
+          "2026E FCFF为-$9.37B（负自由现金流），2029E恢复至$18.22B",
+          "运营利润率目标：2020年代末恢复至十几%中段（与2022年17%持平）"
+        ],
+        "predictions": [
+          {
+            "metric": "2026年调整后EPS",
+            "predicted_value": "$1.98",
+            "deadline": "2027-01-31",
+            "comparison_to_consensus": "inline"
+          },
+          {
+            "metric": "2029年运营利润率",
+            "predicted_value": "18.9%",
+            "deadline": "2029-12-31",
+            "comparison_to_consensus": "above"
+          }
+        ]
+      },
+      {
+        "topic": "Optimus/机器人",
+        "stance": "bullish",
+        "confidence": "low",
+        "summary": "Optimus人形机器人估值约$80/股，是Tesla估值中的重要新增组成部分。管理层计划2026年底开始量产，将停产Model S/X并改造工厂。上行情景下Optimus估值可达$300/股。Morningstar此前认为该项目还需数年，Q4财报中的量产时间表令其意外。",
+        "data_points": [
+          "Optimus估值约$80/股（基础情景）",
+          "上行情景下Optimus估值$300/股",
+          "下行情景下Optimus估值为零",
+          "计划2026年底开始量产",
+          "将停产Model S/X，改造工厂用于机器人生产",
+          "Nvidia也在开发制造业机器人软件系统，构成直接竞争",
+          "Optimus可降低Tesla自身制造成本，并作为消费者产品创造新收入流"
+        ],
+        "predictions": [
+          {
+            "metric": "Optimus量产开始时间",
+            "predicted_value": "2026年底",
+            "deadline": "2027-03-31",
+            "comparison_to_consensus": "inline"
+          }
+        ]
+      },
+      {
+        "topic": "能源业务",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "能源发电和存储业务预计年均收入增长近30%，主要由电池储能系统需求加速驱动。Tesla品牌优势可在消费者端获得溢价定价（太阳能+逆变器+家庭电池系统）。Q4电池存储部署46.7GWh。预计毛利率将与Enphase和SolarEdge等同行持平。",
+        "data_points": [
+          "能源存储业务预计年均收入增长近30%（10年预测期）",
+          "Q4 2025电池存储部署46.7GWh",
+          "Tesla品牌在消费者端太阳能+逆变器+家庭电池系统可获溢价定价",
+          "长期电力购买协议和AI交易软件提供经常性收入",
+          "预计毛利率将与Enphase和SolarEdge等同行持平",
+          "ESS价格预计下降，但主要由电池成本下降驱动，不影响盈利能力"
+        ],
+        "predictions": [
+          {
+            "metric": "能源业务年均收入增速",
+            "predicted_value": "~30%",
+            "deadline": "2030-12-31",
+            "comparison_to_consensus": "above"
+          }
+        ]
+      },
+      {
+        "topic": "竞争格局",
+        "stance": "neutral",
+        "confidence": "medium",
+        "summary": "Tesla拥有窄护城河（品牌资产+成本优势），但面临多方面竞争压力。EV市场预计2030年占汽车销售30%（2020年仅3%），市场扩大但竞争加剧。Nvidia进入自动驾驶系统市场是新威胁。BYD在中国市场构成强劲竞争。Musk政治活动可能在美国和欧洲市场造成消费者流失。",
+        "data_points": [
+          "窄护城河评级：品牌资产（奢侈品牌溢价）+ 成本优势（制造规模）",
+          "EV市场份额预计从2020年3%增至2030年30%",
+          "竞争对手对比：BYD P/S 0.93x vs Tesla 15.69x，Rivian P/S 2.83x",
+          "BYD公允价值CNY 101（High Uncertainty），Rivian FVE $15（Very High Uncertainty）",
+          "Nvidia CES 2026宣布自动驾驶系统，可能允许多家车企快速缩小差距",
+          "Tesla ESG风险评级18.8（Low），优于BYD 26.3和Rivian 26.4",
+          "Tesla资本配置评级Exemplary，BYD和Rivian均为Standard"
+        ],
+        "predictions": [
+          {
+            "metric": "2030年全球EV市场渗透率",
+            "predicted_value": "30%",
+            "deadline": "2030-12-31",
+            "comparison_to_consensus": "inline"
+          }
+        ]
+      },
+      {
+        "topic": "资本配置/财务健康",
+        "stance": "bullish",
+        "confidence": "high",
+        "summary": "资本配置评级Exemplary（杰出）。资产负债表稳健，现金远超总债务。不派息、不回购，所有资本用于内部再投资。Musk 2018年薪酬方案（304M股票期权）已被特拉华最高法院恢复。新薪酬方案最多423.7M股票期权。Debt/Capital仅0.6%，Net Debt/EBITDA -2.8x。",
+        "data_points": [
+          "资本配置评级：Exemplary（杰出）",
+          "2025年Debt/Capital 0.6%，Net Debt/EBITDA -2.8x",
+          "现金$36.6B，总债务$7.9B",
+          "不派息、不回购，所有资本用于有机增长",
+          "Musk 2018年薪酬：304M股票期权（行权价$23.34/股），2025年12月特拉华最高法院恢复",
+          "Musk新薪酬方案：最多423.7M股票期权，12个批次，基于运营/EBITDA/市值目标",
+          "2025年ROE 4.9%，2029E恢复至21.5%",
+          "2025年ROIC 3.8%，2029E恢复至35.4%"
+        ],
+        "predictions": []
+      }
+    ],
+    "chart_insights": [
+      {
+        "chart_name": "Tesla Price vs. Fair Value (2021-YTD)",
+        "chart_type": "line",
+        "source_file": "page1_price_vs_fv.pdf",
+        "description": "展示Tesla股价与Morningstar公允价值估计的历史对比（2021-2026 YTD）。包含P/FVE比率和年度总回报率。图表显示股价在大部分时间处于高估区域（P/FVE>1），仅2022年底短暂进入低估区域。",
+        "key_observations": [
+          "2022年P/FVE降至0.49（严重低估），对应全年回报-65.03%，是唯一的5星买入机会",
+          "2024年P/FVE飙升至1.92（严重高估），对应全年回报+62.52%",
+          "2025年P/FVE从1.92回落至1.50，但仍处高估区域，全年回报+11.36%",
+          "YTD 2026 P/FVE=1.05，首次接近公允价值，回报-6.21%",
+          "FVE从$300上调至$400后，P/FVE从约1.40骤降至1.05"
+        ],
+        "data_not_in_text": [
+          "2021年P/FVE=1.55，全年回报+49.76%——即使高估也有正回报",
+          "2023年P/FVE=1.18，全年回报+101.72%——从2022年低点的强劲反弹",
+          "FVE上调$100（从$300到$400）使P/FVE下降约0.35，显示估值对FVE极度敏感"
+        ],
+        "investment_implication": "Tesla历史上仅在2022年底（P/FVE=0.49）提供过真正的安全边际。当前P/FVE=1.05虽接近公允价值，但Very High Uncertainty意味着5星买入价为$200（50%折价），当前价格仍远高于此。投资者需等待显著回调才能获得足够安全边际。"
+      },
+      {
+        "chart_name": "Morningstar估值方法论流程图",
+        "chart_type": "flow",
+        "source_file": "page20_img1.png",
+        "description": "展示Morningstar星级评级的完整推导链条：基本面分析（Economic Moat + Financial Health + Stewardship）→ Morningstar Fair Value → 与市场价格和不确定性比较（Margin of Safety）→ Morningstar Rating for Stocks（1-5星）",
+        "key_observations": [
+          "评级由四个关键组件驱动：护城河评估、公允价值估计、不确定性评级、市场价格",
+          "Tesla被归类为Narrow Moat + Very High Uncertainty + Exemplary Capital Allocation",
+          "Very High Uncertainty要求50%折价才能获得5星评级，75%溢价触发1星"
+        ],
+        "data_not_in_text": [
+          "Stewardship（管理层治理/资本配置）是明确的估值输入因子，而非仅定性描述",
+          "流程图显示Fair Value是中间产物而非最终结论，最终结论是星级评级（含安全边际）"
+        ],
+        "investment_implication": "理解Morningstar方法论对解读$400 FVE至关重要：这不是'目标价'而是'中间估计值'。实际买入信号需要价格降至$200（5星），卖出信号需价格升至$700（1星）。当前$421处于3星中性区域。"
+      },
+      {
+        "chart_name": "Morningstar星级评级不确定性阈值图",
+        "chart_type": "bar",
+        "source_file": "page21_img1.png",
+        "description": "堆叠柱状图展示不同不确定性等级（Low/Medium/High/Very High/Extreme）下的Price/Fair Value阈值。每个柱状图用蓝色（低估/买入区域）和红色（高估/卖出区域）分层显示5星到1星的触发价格比率。",
+        "key_observations": [
+          "Very High Uncertainty（Tesla所在类别）：5星买入需P/FVE≤0.50（50%折价），1星卖出需P/FVE≥1.75（75%溢价）",
+          "对比Medium Uncertainty：5星仅需P/FVE≤0.70（30%折价），1星需P/FVE≥1.35",
+          "Very High类别的3星区间为P/FVE 0.80-1.25，Tesla当前1.05处于该区间中部",
+          "Extreme Uncertainty的5星需P/FVE≤0.25（75%折价），反映极端不确定性下的巨大安全边际要求"
+        ],
+        "data_not_in_text": [
+          "Very High Uncertainty的4星区间为P/FVE 0.50-0.80，对应Tesla价格$200-$320",
+          "Very High Uncertainty的2星区间为P/FVE 1.25-1.75，对应Tesla价格$500-$700",
+          "Tesla从2星（2025年大部分时间）降至3星，主要因FVE上调而非股价下跌"
+        ],
+        "investment_implication": "这张图是理解Tesla投资时机的关键工具。当前$421（P/FVE=1.05）处于3星中性区域。要获得4星（有吸引力），价格需降至$320以下；要获得5星（强烈买入），价格需降至$200以下。这意味着即使认同$400 FVE，当前价格也不具备足够安全边际。"
+      },
+      {
+        "chart_name": "Morningstar估值模型财务预测汇总表",
+        "chart_type": "table",
+        "source_file": "page15_valuation_summary.pdf",
+        "description": "完整的财务预测表格，涵盖2022-2029年的营收、运营利润、EBITDA、净利润、EPS、估值倍数、利润率、增长率、杠杆率等全面指标。包含实际值（2022-2025）和预测值（2026-2029）。",
+        "key_observations": [
+          "营收预计2025-2026年连续下降（$94.8B→$93.0B），2027年起恢复增长至$112B/140B/179B",
+          "运营利润2025年$4.8B→2026年$4.6B（谷底），2029年飙升至$33.8B（7倍增长）",
+          "FCFF 2026年为-$9.4B（大规模负现金流），2027年-$5.9B，2028年才转正$3.1B",
+          "ROIC从2025年3.8%恢复至2029年35.4%，超过2022年22.3%的历史高点",
+          "FVE修订：营收预测下调（2026E从$95.4B降至$93.0B），但运营利润上调（从$4.4B升至$4.6B）"
+        ],
+        "data_not_in_text": [
+          "2023年净利润$15.0B是历史峰值，2025年仅$3.8B（降75%），预计2029年才恢复至$26.8B",
+          "调整后EBITDA利润率从2022年20.6%降至2026E 14.8%，2029E恢复至25.9%",
+          "Debt/Capital从2022年1.5%持续降至2029E 0.3%，几乎零杠杆",
+          "EV/EBITDA从2025年106.9x升至2026E 113.2x（因EBITDA下降），2029E降至33.6x"
+        ],
+        "investment_implication": "财务预测揭示Tesla正处于'J型曲线'底部：2025-2026年是盈利低谷（大规模资本支出+交付下降），2027年起进入收获期。关键转折点是2028年FCFF转正。投资者需要3-4年耐心等待AI转型兑现。如果Robotaxi/FSD/Optimus任一失败，下行风险巨大（FVE $100）。"
+      },
+      {
+        "chart_name": "竞争对手估值对比表",
+        "chart_type": "table",
+        "source_file": "page3_competitors.pdf",
+        "description": "Tesla与BYD、Rivian、Alphabet的估值和基本面对比表。包含公允价值、星级评级、估值倍数、股息率、市值、52周范围等。",
+        "key_observations": [
+          "Tesla P/S 15.69x vs BYD 0.93x（17倍差距），反映市场对Tesla AI溢价的极端定价",
+          "Tesla P/E 356.8x vs BYD 54.18x vs GOOGL 39.72x，Tesla估值远超同行",
+          "四家公司均处于3星（适当估值）区域，P/FVE在0.86-1.05之间",
+          "Tesla市值$1.59T vs BYD $797B vs Rivian $17.7B vs GOOGL $4.15T"
+        ],
+        "data_not_in_text": [
+          "BYD 52周范围CNY 85.89-138.99，当前CNY 87.05接近52周低点",
+          "Rivian FVE $15，当前$14.44，P/FVE=0.96——接近公允价值但Very High Uncertainty",
+          "Tesla 52周范围$214.25-$498.83，当前$421.81处于中上位置",
+          "Tesla和GOOGL均获Exemplary资本配置评级，BYD和Rivian为Standard"
+        ],
+        "investment_implication": "Tesla的估值溢价（P/S 15.69x vs BYD 0.93x）完全建立在AI/Robotaxi/Optimus的长期预期上。如果这些业务未能兑现，Tesla的估值可能向BYD水平收敛，意味着巨大的下行空间。反之，如果AI转型成功，当前估值可能仍被低估。"
+      },
+      {
+        "chart_name": "ESG风险评级分解图",
+        "chart_type": "bar",
+        "source_file": "page17_img2.png",
+        "description": "展示Tesla的ESG风险评级分解：总体暴露度38.9（Medium），管理能力54.5%（Strong），整体未管理风险18.8（Low）。与同行对比：BYD 26.3（Medium），Rivian 26.4（Medium），GOOGL 20.0（Low）。",
+        "key_observations": [
+          "Tesla ESG风险评级18.8（Low），在汽车行业中表现优异",
+          "可管理风险36.7中，已管理20.0（管理效率54.5%），管理缺口16.7",
+          "不可管理风险仅2.2，反映EV/清洁能源业务的固有ESG优势",
+          "Tesla ESG表现优于BYD（26.3）和Rivian（26.4），接近GOOGL（20.0）"
+        ],
+        "data_not_in_text": [
+          "汽车子行业ESG暴露度基准为49.0，Tesla 38.9低于行业平均",
+          "管理能力评分54.5%为Strong级别，高于BYD 45.4%（Average）和Rivian 40.2%（Average）",
+          "最高争议级别数据截至2026年1月8日"
+        ],
+        "investment_implication": "Tesla的Low ESG风险评级是ESG投资者的正面信号，可能吸引更多ESG基金配置。但需注意Musk政治活动可能在未来提升社会风险评分。Tesla在ESG方面的优势主要来自其清洁能源业务本质，而非主动ESG管理。"
+      },
+      {
+        "chart_name": "DCF估值分解表",
+        "chart_type": "table",
+        "source_file": "page16_dcf.pdf",
+        "description": "Morningstar DCF估值的完整分解：Stage I现值$159.2B + Stage II $186.0B + Stage III $530.1B = 总企业价值$875.3B。加回现金$36.6B，减去债务$7.9B，其他调整$382.3B，得出权益价值$1,286.3B，除以3,525M稀释股数，得出FVE $400/股。",
+        "key_observations": [
+          "Stage III（永续价值）$530.1B占总企业价值60.6%，反映对长期增长的极度依赖",
+          "Stage I（显式预测期）仅$159.2B（18.2%），Stage II（过渡期）$186.0B（21.3%）",
+          "其他调整$382.3B是巨大的正向调整项，可能包含Robotaxi/FSD/Optimus的独立估值",
+          "永续期假设：EBI增长率10%，投资率10%，第15年进入永续期"
+        ],
+        "data_not_in_text": [
+          "Stage III占比60.6%意味着如果长期增长假设下调，FVE将大幅缩水",
+          "其他调整$382.3B几乎等于Stage I+Stage II之和，是FVE的关键驱动因素",
+          "永续期第15年意味着Morningstar假设Tesla在2041年前仍能产生超额回报"
+        ],
+        "investment_implication": "DCF分解揭示Tesla估值的'脆弱性'：60%以上价值来自Stage III永续期，对WACC和长期增长率极度敏感。WACC每上升1%，FVE可能下降$50-80。这解释了Very High Uncertainty评级和$100-$700的巨大估值区间。"
+      }
+    ],
+    "cross_comparison": {
+      "vs_previous_reports": [
+        {
+          "compared_with": "tsla-morningstar-20260203",
+          "topic": "估值方法论",
+          "divergence": "minor",
+          "description": "本报告是同一Morningstar研报的完整24页版本，包含完整DCF模型分解（Stage I/II/III）、详细财务预测至2029年、ESG评级、竞争对手对比等。核心结论一致（FVE $400），但提供了远超摘要版的数据深度。"
+        },
+        {
+          "compared_with": "tsla-argus-20260130",
+          "topic": "FSD/Robotaxi前景",
+          "divergence": "major",
+          "description": "Morningstar给予Robotaxi $120/股估值（占30%），FSD $70/股，Optimus $80/股；而Argus认为这些是'未经验证的长期赌注'，资本消耗极快但回报可见性差。Morningstar的DCF模型Stage III（永续价值）高达$530B，占总估值60%，反映对长期AI转型的高度信心。"
+        },
+        {
+          "compared_with": "tsla-zacks-20260202",
+          "topic": "目标价与估值框架",
+          "divergence": "moderate",
+          "description": "Morningstar FVE $400 vs Zacks目标价$452（差距13%）。但方法论截然不同：Morningstar用DCF（WACC 8.8%），Zacks用16.15x前瞻P/S。Morningstar的上行情景$700远高于Zacks，但下行情景$100也远低于Zacks隐含的下行空间。"
+        }
+      ],
+      "consensus_position": "Morningstar完整版是四份研报中最系统化的，提供了唯一的完整DCF估值框架。FVE $400处于三个目标价的中间偏低位置。对AI/Robotaxi/Optimus的长期价值最为乐观（合计$270/股），但短期（2026年）预期最为保守（交付量降至156万辆，营收降至$930亿）。"
+    }
+  }
+}

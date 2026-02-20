@@ -1,0 +1,3163 @@
+--- PAGE 1 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 1 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Price vs. Fair Value 
+100
+175
+250
+325
+400
+Last Close: 421.81
+Fair Value: 400.00
+29 Jan 2026 03:58, UTC
+Overvalued
+Undervalued
+2021
+2022
+2023
+2024
+2025
+YTD
+1.55
+0.49
+1.18
+1.92
+1.50
+1.05
+Price/Fair Value
+49.76
+-65.03
+101.72
+62.52
+11.36
+-6.21
+Total Return %
+Morningstar Rating
+Total Return % as of 02 Feb 2026. Last Close as of 02 Feb 2026. Fair Value as of 29 Jan 2026 03:58, UTC.
+Contents
+Analyst Note (3 Feb 2026)
+Business Description
+Business Strategy & Outlook (29 Jan 2026)
+Bulls Say / Bears Say (29 Jan 2026)
+Economic Moat (23 Apr 2025)
+Fair Value and Profit Drivers (29 Jan 2026)
+Risk and Uncertainty (29 Jan 2026)
+Capital Allocation (29 Jan 2026)
+Analyst Notes Archive
+Financials
+ESG Risk
+Appendix
+Research Methodology for Valuing Companies
+Important Disclosure
+The conduct of Morningstar’s analysts is governed by Code of Ethics/Code of 
+Conduct Policy, Personal Security Trading Policy (or an equivalent of), and 
+Investment Research Policy.  For information regarding conflicts of interest, please 
+visit: http://global.morningstar.com/equitydisclosures.
+The primary analyst covering this company does not own its stock.
+1The ESG Risk Rating Assessment is a representation of Sustainalytics’ ESG Risk 
+Rating.
+Tesla: SpaceX and xAI Will Merge, but We Don't Rule Out 
+Eventual Consolidation With Tesla 
+Analyst Note Seth Goldstein, CFA, Senior Equity Analyst, 3 Feb 2026
+SpaceX announced it acquired xAI, allowing the two companies to move forward as one to develop 
+space-based data centers. Tesla shares were down 2% on Feb. 2 on the news.
+Why it matters: The merger between SpaceX and xAI likely rules out Tesla acquiring SpaceX in the 
+near future. Last week, Bloomberg reported SpaceX had been evaluating a deal with Tesla in addition to 
+xAI. Instead, we expect SpaceX will proceed with an upcoming initial public offering later this year.
+gTesla CEO Elon Musk remains the largest shareholder of SpaceX. So, we don't rule out Tesla 
+eventually acquiring SpaceX. Rather, we think SpaceX going public may lead to less regulatory 
+scrutiny if Tesla were to acquire SpaceX in the future as shareholders of both companies could vote 
+on the deal.
+gFurther, Musk has said in the past he sees Tesla, SpaceX, and xAI's businesses converging in the 
+future, so we think a future deal could still occur. Tesla vehicles are currently using xAI's Grok large 
+language model, and we see additional opportunities for Tesla and SpaceX to work together.
+The bottom line: We maintain our $400 fair value estimate for narrow-moat Tesla. We had not 
+previously assumed a deal with SpaceX would occur, so our outlook doesn’t change on this news.
+gAt current prices, we view Tesla shares as fairly valued, with the stock trading a little above our fair 
+value estimate and in 3-star territory.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 2 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 2 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+gWe see no change to our outlook. The company is in the early stages of a transition from selling autos 
+as its primary business to real world artificial intelligence, including autonomous driving software 
+and humanoid robots.
+Business Strategy & Outlook Seth Goldstein, CFA, Senior Equity Analyst, 29 Jan 2026
+Tesla is one of the largest battery electric vehicle automakers in the world. In less than a decade, the 
+firm went from a startup to a globally recognized luxury automaker with its Model S and Model X 
+vehicles. Tesla competes in the entry-level luxury car and midsize crossover sport utility vehicle markets 
+with its Model 3 and Model Y vehicles. It also sells a light truck—the Cybertruck—and a semi truck. 
+Tesla plans to launch a robotaxi and a luxury sports car in the future.
+Tesla aims to transition from primarily being an automaker to focusing on real world artificial 
+intelligence. This includes self-driving software for use in its own vehicles and a ride-hailing service 
+named robotaxi. The company is also working on developing humanoid robots for commercial and 
+eventually consumer use. 
+To build its products, Tesla often goes upstream and controls much of its supply process. This includes 
+lithium refining, battery design and manufacturing, and semiconductor design.
+Tesla is attempting to take a larger share of its customers' auto-related spending, which includes 
+selling autonomous driving software on a subscription basis, insurance in a growing number of US 
+states, and charging, where the company owns and operates over 8,000 fast charging stations globally. 
+For robotaxi, we expect autonomous vehicles, namely Tesla's robotaxi and Alphabet's Waymo, to make 
+up 50% of ride-hailing rides in the US and Canada by 2030, as robotaxis are cheaper than human 
+drivers. Tesla is currently in the testing phase of its robotaxi service and currently tests in Austin, Texas, 
+and the Bay Area of California, with plans to expand to at least seven more cities in 2026. The company 
+is moving through testing and plans to remove safety drivers in its robotaxis in the Austin area in the 
+near future. Over time, we think Tesla will grow to become one of the largest ride-hailing providers in 
+North America.
+Tesla also sells solar panels and batteries to consumers and utilities. As the battery-based energy 
+storage market expands, Tesla is well-positioned to grow accordingly.
+Bulls Say Seth Goldstein, CFA, Senior Equity Analyst, 29 Jan 2026
+u Tesla has the potential to disrupt multiple industries with its technology for EVs, AVs, batteries, and 
+humanoid robots.
+u Tesla's full self-driving software should generate growing profits in the coming years as the technology 
+continues to improve, leading to a robotaxi service, increased adoption by Tesla drivers.
+Sector
+Industry
+t Consumer Cyclical
+Auto Manufacturers
+Business Description
+Tesla is a vertically integrated battery electric vehicle 
+automaker and developer of real world artificial 
+intelligence software, which includes autonomous 
+driving and humanoid robots. The company has multiple 
+vehicles in its fleet, which include luxury and midsize 
+sedans, crossover SUVs, a light truck, and a semi truck. 
+Tesla also plans to begin selling a sports car and offer a 
+robotaxi service. Global deliveries in 2025 were nearly 
+1.64 million vehicles. The company sells batteries for 
+stationary storage for residential and commercial 
+properties including utilities and solar panels and solar 
+roofs for energy generation. Tesla also owns a fast-
+charging network and an auto insurance business.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 3 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 3 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Competitors
+Tesla Inc TSLA
+Fair Value
+400.00
+Uncertainty: Very High
+Last Close
+421.81
+BYD Co Ltd Class A 002594
+Fair Value
+101.00
+Uncertainty: High
+Last Close
+87.05
+Rivian Automotive Inc Class A RIVN
+Fair Value
+15.00
+Uncertainty: Very High
+Last Close
+14.44
+Alphabet Inc Class A GOOGL
+Fair Value
+340.00
+Uncertainty: Medium
+Last Close
+343.69
+Economic Moat
+Narrow
+None
+None
+Wide
+Currency
+USD
+CNY
+USD
+USD
+Fair Value
+400.00 29 Jan 2026 03:58, UTC
+101.00 31 Oct 2025 05:44, UTC
+15.00 12 Dec 2025 05:13, UTC
+340.00 30 Oct 2025 03:05, UTC
+1-Star Price
+700.00
+156.55
+26.25
+459.00
+5-Star Price
+200.00
+60.60
+7.50
+238.00
+Assessment
+Fairly Valued 2 Feb 2026
+Fairly Valued 3 Feb 2026
+Fairly Valued 2 Feb 2026
+Fairly Valued 2 Feb 2026
+Morningstar Rating
+QQQ3 Feb 2026 00:26, UTC
+QQQ2 Feb 2026 17:46, UTC
+QQQ3 Feb 2026 00:36, UTC
+QQQ3 Feb 2026 00:05, UTC
+Analyst
+Seth Goldstein, Senior Equity Analyst
+Vincent Sun, Senior Equity Analyst
+Seth Goldstein, Senior Equity Analyst
+Malik Ahmed Khan, Senior Equity 
+Analyst
+Capital Allocation
+Exemplary
+Standard
+Standard
+Exemplary
+Price/Fair Value
+1.05
+0.86
+0.96
+1.01
+Price/Sales
+15.69
+0.93
+2.83
+10.93
+Price/Book
+19.26
+3.61
+3.49
+10.73
+Price/Earning
+356.80
+54.18
+—
+39.72
+Dividend Yield
+0.00%
+1.52%
+0.00%
+0.24%
+Market Cap
+1,582.81 Bil
+796.57 Bil
+17.70 Bil
+4,147.31 Bil
+52-Week Range
+214.25—498.83
+85.89—138.99
+10.36—22.69
+140.53—344.37
+Investment Style
+Large Growth
+Large Blend
+Mid Value
+Large Blend
+u Tesla's humanoid robot will create shareholder value as its ability to perform multiple functions will 
+transform manufacturing and be useful to consumers.
+Bears Say Seth Goldstein, CFA, Senior Equity Analyst, 29 Jan 2026
+u Traditional automakers and new entrants are investing heavily in EV development, which will result in 
+Tesla seeing a deceleration in sales growth and being forced to cut prices due to increased competition, 
+eroding profit margins.
+u Tesla's large investment into autonomous driving software will be value destructive as the robotaxi 
+product will face delays and competition from Waymo, who already offers a robotaxi service.
+u Tesla CEO Elon Musk's political activities will turn consumers away from buying a Tesla in key markets 
+including the US and Europe, leading to lower sales and profits.
+Economic Moat Seth Goldstein, CFA, Senior Equity Analyst, 23 Apr 2025
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 4 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 4 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+We award Tesla a narrow moat rating. Tesla's moat stems from two of our five moat sources: intangible 
+assets and cost advantage. The company's strong brand cachet as a luxury automaker commands 
+premium pricing, while its EV manufacturing expertise allows the company to make its vehicles 
+cheaper than its competitors.
+Intangible Assets
+Tesla's brand cachet is not likely to be impaired anytime soon as other automakers move into the 
+battery electric vehicle space because we expect the company to keep innovating to stay ahead of 
+startup and established competitors. The Model S Plaid, the most upgraded version of Tesla's luxury 
+sedan, offers 390 miles of range, at the high end for electric vehicles. It does 0-60 mph in under 2 
+seconds and has 1,020 horsepower, putting the Model S Plaid in a rare class of performance among all 
+autos, regardless of powertrain. By focusing on the luxury auto market first, Tesla was able to create 
+tremendous media publicity for the company that reaches beyond its customers. This generated strong 
+consumer demand for its subsequent vehicles at lower price points, such as the Model 3 and Model Y. 
+As other new vehicles are launched, such as the affordable SUV, we expect the company's strong brand 
+will continue to generate consumer demand.
+Tesla has a more high-tech vehicle with the ability to do drivetrain updates and other updates via Wi-Fi 
+or a cellular connection, and customers do not have to visit a store for many service needs. Tesla will 
+instead pick up the vehicle from home and often return it the same day, while providing a fully loaded 
+loaner for no charge, or visit the customer's home or work and service the car there. This experience is 
+much easier than many other automakers' service, which helps Tesla's brand equity. Further, this has 
+been accomplished with little to no spending on advertising, which is rare for a consumer brand. This 
+strong brand equity has carried over to Tesla's energy generation and storage business, where the 
+company can charge a premium for its fully integrated solar panel, inverter, and home battery storage 
+systems sold to consumers.
+Tesla's proprietary technology contributes to its intangible asset-driven competitive advantage. This 
+form of intangible assets applies to EVs due to their innovative, highly engineered nature and because 
+patents for EV technologies hold somewhat less value due to the ability of competitors to create 
+alternatively designed, but ultimately similar, products. Since launching the Model S in 2012, Tesla has 
+been the industry leader in electric vehicles, producing the best EVs on the market. The company 
+invests nearly 6% of sales in R&D to maintain its best-in-class range, which is well ahead of the 
+competition on a miles per kilowatt-hour basis and continues to improve other vehicle specs such as 
+power. Tesla is also investing heavily in its proprietary autonomous vehicle technology and building one 
+of the world's largest supercomputers to train self-driving artificial intelligence. With R&D spending in 
+line with its peers, we think Tesla will be able to maintain its proprietary technological advantage.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 5 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 5 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Tesla will face increasing competition in the coming years. Automakers plan to electrify their fleets by 
+adding EV versions of existing vehicles and creating new platforms. However, we see EVs becoming a 
+greater proportion of auto sales, growing to 30% by 2030 from 3% in 2020, which will expand the market 
+as EVs rapidly take share from internal combustion engine vehicles. As new models are introduced, 
+Tesla's technological advantage and the strength of its brand will remain intact, which will allow the 
+company to continue to charge a premium price for its EVs.
+Cost Advantage
+We think Tesla benefits from a cost advantage in electric vehicles production thanks to its 
+manufacturing scale. Tesla's total vehicle volume has grown from just over 100,000 in 2017 to nearly 1.8 
+million deliveries in 2024. During the same period, the company's average cost of goods sold per vehicle 
+has fallen over 55%, from $84,000 to just over $35,000. While some of this is due to manufacturing a 
+greater proportion of midsize cars and SUVs versus luxury autos, the majority of the COGS decline has 
+come from the company's focus on reducing manufacturing costs due to scale. Legacy automakers are 
+gradually transitioning to BEV production from internal combustion engines, but we expect they will be 
+saddled with legacy ICE costs for a long time. Even as legacy automakers begin to produce more EVs, 
+we expect Tesla will continue to have lower costs as it has outlined a plan to further reduce unit 
+production costs over the next several years with a new manufacturing process. With Tesla's cost per 
+vehicle set to fall, legacy automakers may take years to catch up to Tesla, if ever, as they won't want to 
+build many new factories from scratch like Tesla is doing.
+We think Tesla's combination of intangible assets and cost advantage will persist in the future and 
+allow the firm to generate excess returns on capital. We see the potential for Tesla to outearn its cost of 
+capital over at least the next 20 years, which is the measurement we use for a wide moat rating. 
+However, the second 10-year period carries significant uncertainty for both Tesla and the broader 
+automotive industry, given the rapid advancement of autonomous vehicle technologies that could 
+transform how consumers use vehicles. As such, we view a narrow moat rating, which assumes a 10-
+year excess return duration, as more appropriate.
+Fair Value and Profit Drivers Seth Goldstein, CFA, Senior Equity Analyst, 29 Jan 2026
+We raise our Tesia fair value estimate to $400 from $300 following the company's fourth-quarter 
+earnings. The primary drivers are a higher robotaxi valuation, increased long-term adoption of Tesla's 
+autonomous driving software, and a higher valuation of the humanoid robot business. We use a 
+weighted average cost of capital of just under 9%. Our equity valuation adds back nonrecourse debt.
+In 2026, we forecast deliveries will fall to 1.56 million versus the 1.64 million deliveries in 2025, largely 
+due to the US EV tax credit expiration in September of 2025 and increased competition in Europe, where 
+Tesla is currently unable to sell its autonomous driving software. As Tesla is ramping up production of 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 6 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 6 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+its new, lower-priced Model Y and Model 3 vehicles, we expect automotive gross margins excluding 
+credits will remain in the mid-teens, below management's long-term goal of 20%.
+In the longer term, we assume Tesla will deliver around 2.8 million vehicles per year in 2030, driven by 
+the adoption of full self-driving software and the more affordable versions of the Model Y and Model 3.
+We forecast that the vast majority of deliveries will come from the Model Y and Model 3 platforms. Tesla 
+plans to discontinue to Model S and Model X and we see Cybertruck, Roadster, and semitruck 
+combining for roughly 30,000 deliveries per year.
+We think Tesla will be successful in continuing to reduce its manufacturing costs on a per-vehicle 
+basis. Including rising adoption of FSD subscription software, we forecast the segment gross margin 
+will recover to the mid-20% range by the end of the decade, above the 18% generated in 2024 but below 
+the 29% achieved in 2022.
+We expect Tesla's robotaxi business will continue to progress through testing and enter multiple new 
+cities in 2026, similar to how Waymo, Uber, and Lyft increased their service locations. Tesla will initially 
+take an asset-heavy approach, owning its own vehicles and running the software. Eventually, Tesla will 
+allow Tesla owners to add their vehicles to its robotaxi fleet. The majority of our valuation comes from 
+Tesla's AI software and robotics ventures. Our robotaxi valuation accounts for around $120 per share, or 
+roughly 30% of our Tesla valuation. Our FSD software subscription valuation accounts for $70 per share. 
+However, this excludes the effect of higher deliveries and expanded automotive gross profit margins 
+from increased production. Our base case also adds the present value of Optimus humanoid robot sales 
+and subscription software, which we value at roughly $80 per share.
+We also assume the successful growth of the insurance business and increased profits from the 
+charging business result in long-term profit growth and margin expansion in the services and other 
+segment.
+In energy generation and storage, we assume the business averages annual revenue growth at nearly a 
+30% range during our 10-year forecast, primarily driven by accelerating demand for energy storage 
+systems. While we forecast ESS prices to decline, the fall will largely be driven by cheaper battery costs, 
+which should not affect profitability. As volume grows, unit costs should fall. Combined with recurring 
+revenue from long-term power purchase agreements and AI trading software, we expect the business 
+will turn profitable and generate gross margins in line with peers such as Enphase and SolarEdge.
+We assume overhead expenses continue to decline as a percentage of sales as the company benefits 
+from operating leverage as deliveries grow. As a result, we forecast companywide operating margin will 
+return to the midteens by the end of the decade, in line with the 17% achieved in 2022 and well above 
+the 8% generated in 2024.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 7 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 7 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+To fund this growth, we assume Tesla will spend nearly $170 billion in capital expenditures over the 
+next decade. 
+Given the wide range of outcomes, we also model upside and downside scenarios. 
+Our upside scenario fair value estimate is $700. In this scenario, we assume Tesla increased market 
+share gains for Tesla's real world artificial intelligence subscription software products. We value 
+robotaxi at around $180 per share, Optimus at $300 per share, and FSD software subscriptions at 
+around $80 per share.
+Our downside scenario fair value estimate is $100 per share. In a downside scenario, assume Tesla is 
+unsuccessful in its goal to transition to a real world artificial intelligence provider. We value the 
+autonomous driving software business at just $10 per share and see slower growth in the insurance 
+business. We assign no value to the company's robotaxi or humanoid robots ventures.
+Risk and Uncertainty Seth Goldstein, CFA, Senior Equity Analyst, 29 Jan 2026
+We assign Tesla a Very High Morningstar Uncertainty Rating as we see a wide range of potential 
+outcomes for the company.
+The automotive market is highly cyclical and subject to sharp demand declines based on economic 
+conditions. As an EV market leader, Tesla is subject to growing competition. As new lower-priced EVs 
+enter the market, Tesla has cut prices and offered lower-cost versions of its Model 3 and Model Y 
+vehicles. Further price cuts could reduce profits. 
+The company is also investing heavily in R&D and capital expenditures to develop autonomous driving 
+software, robotaxis, and humanoid robots with no guarantee these investments will bear fruit. As of the 
+last SEC filing, Tesla's CEO owns roughly 12% of the company's stock and uses it as collateral for 
+personal loans, which raises the risk of a large sale to repay debt.
+Tesla also faces political risk related to the political activities of CEO Elon Musk. Musk served as an 
+advisor to US President Donald Trump but has since made statements against Trump's policies. Musk 
+also campaigned for the far-right Alternative for Germany party. These activities risk turning away some 
+consumers from buying a Tesla.
+Tesla faces ESG risks. As an automaker, Tesla is subject to potential product defects that could result in 
+recalls, including its autonomous driving software. We see a moderate impact should this occur. 
+Another risk involves employee retention. If Tesla is unable to retain key employees, such as CEO Elon 
+Musk, its image as an innovative company could decline. We see a low probability but moderate 
+materiality.
+Additional ESG risks include potential patent litigation as the company relies on new technology to 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 8 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 8 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+improve its EVs and energy storage systems. We see a low probability but moderate materiality should 
+this occur. Tesla may also face regulatory issues in some US states due to laws that require automakers 
+and dealers to be separate. We see a moderate probability but low materiality.
+Capital Allocation Seth Goldstein, CFA, Senior Equity Analyst, 29 Jan 2026
+We award Tesla an Exemplary Capital Allocation Rating based on our framework that assesses its 
+balance sheet, investment decisions, and shareholder distributions.
+We rate the balance sheet as sound. Tesla's revenue is subject to high cyclicality. However, with a 
+healthy balance sheet and cash far exceeding total debt, Tesla should be able to easily meet its 
+financial obligations.
+We view management's investments as exceptional. To increase vehicles, the company built new 
+factories around the world, including in China, the EU, and US. Given strong consumer demand, we 
+think the capacity expansion plans make sense. We are in favor of the focus on reducing costs, as this 
+should enable Tesla to keep its cost advantage intact as large legacy automakers electrify further this 
+decade. Reduced manufacturing costs should enable Tesla to increase profit margins for its existing 
+vehicles and produce an affordable sedan and SUV in the future at a profitable level. 
+We also think management is smart to focus on its autonomous driving software going forward as we 
+think this will be a product differentiator. We also like the move to sell insurance as this creates another 
+recurring revenue stream. While Tesla is developing autonomous driving software for its vehicles, it 
+also makes sense for the company to enter the ride-hailing industry with its robotaxis. Additionally, we 
+like the goal for management to develop humanoid robots as these can reduce Tesla's manufacturing 
+costs in its plants and add an additional recurring revenue stream in the future.
+Finally, we are also in favor of the move to open Tesla's charging network to non-Tesla vehicles as it can 
+drive additional revenue and profits from charging stations by increasing the capacity utilization of 
+each station.
+We see shareholder distributions as appropriate. Tesla does not pay a dividend and to date has not 
+repurchased shares. Instead, it has used the capital markets to issue stock, most recently at value-
+accretive levels. Given that Tesla is investing heavily in expanding its vehicle and battery production 
+capacity, we think the best use of capital is internal reinvestment to fund organic growth rather than 
+shareholder distribution. However, with solid free cash flow generation and little debt, management 
+said it may consider share repurchases in the future. Tesla is currently preparing to ramp up production 
+of its dedicated robotaxi vehicles and semi trucks. If its ride-hailing proves successful and autonomous 
+driving software leads more consumers to buy a Tesla, the company may need to build more factories. 
+So, we think Tesla holding cash for now makes sense as it may be needed to fund future growth, which 
+we view as the best use of capital. Over time, we think share repurchases, at least to offset dilution from 
+stock-based compensation, would make sense with excess cash flow once its new ventures, such as 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 9 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 9 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+robotaxi, begin generating positive free cash flow.
+Elon Musk has been Tesla's CEO since 2008. Before co-founding Tesla, he co-founded and sold the 
+internet payment system PayPal. Musk also co-founded SpaceX, Neuralink, and The Boring Co. Further, 
+Musk purchased Twitter, now called X, in late 2022 and was CEO until mid-2023. For Tesla, Musk's 
+compensation comes entirely from stock awards. Under the plan created in 2018, Musk earned 304 
+million stock option awards (split-adjusted, at a price of $23.34 per share) in 12 tranches based on 
+meeting revenue, EBITDA, and market capitalization targets, which was completed by the end of 2022. 
+Under Musk's new pay package, he will be able to earn more up to 423.7 million stock option awards 
+over 12 tranches based on operational, EBITDA, and market capitalization targets. Tesla For future 
+compensation awards, we would prefer a return on invested capital metric be added.
+Analyst Notes Archive
+Tesla Earnings: Progress on Robotaxi and Optimus Shows Real World AI Growth; FVE to $400 From 
+$300 Seth Goldstein, CFA,Senior Equity Analyst,29 Jan 2026
+The highlights of Tesla's fourth-quarter earnings report were management's plans to expand its 
+autonomous driving ride-hailing to more US cities and begin mass-producing its humanoid robots by 
+the end of 2026. Tesla shares were up in after-hours trading as the market reacted favorably to the 
+news. Why it matters: Tesla has been testing its robotaxi autonomous driving ride-hailing service in 
+Austin, Texas, and the Bay Area of California. Tesla plans to expand to seven more US cities in the first 
+half of 2026 and started removing its employees from its robotaxis in Austin. This shows the 
+autonomous driving software is progressing well through testing. Improving software should also 
+support Tesla's auto sales and its autonomous driving subscription software for Tesla owners. The plan 
+to begin mass manufacturing the Optimus humanoid robot this year surprised us, as we thought the 
+project was still several years away. To do this, Tesla will stop selling its Model S and X vehicles and 
+retool the factory that produces them to enable robot production. The bottom line: We raise our fair 
+value estimate for narrow-moat Tesla to $400 from $300. The primary drivers are a higher robotaxi 
+valuation, increased adoption of Tesla's autonomous driving subscription software at a higher price, 
+and a higher valuation of the humanoid robot business. At current prices, we view Tesla shares as fairly 
+valued, trading around 10% above our fair value estimate, placing it in 3-star territory. The bulk of our 
+valuation comes from the long-term free cash flow generation of Tesla's subscription software from its 
+autos, robotaxis, and humanoid robots. While Tesla continues to test its software, we expect the stock to 
+remain volatile as it progresses with these new products. 
+Tesla: Shares Fall on Market Concerns About Increased Autonomous Driving Competition From 
+Nvidia Seth Goldstein, CFA,Senior Equity Analyst,6 Jan 2026
+Nvidia announced its plans to develop and sell an autonomous driving system for use in personal 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 10 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 10 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+vehicles and robotaxis as a part of its CES 2026 presentation. In response to Nvidia's announcement, 
+Tesla's shares were down 5% at the time of writing on Jan. 6. Why it matters: Tesla, along with 
+Alphabet's Waymo, is the current leader in autonomous driving software, including robotaxis. Nvidia's 
+system would likely be sold to multiple automakers, allowing them to quickly close the gap in personal 
+vehicles and, over the long term, in robotaxis. Increased competition in autonomous driving software for 
+both personal vehicles and robotaxis could weigh on Tesla's growth. We think the market is reacting to 
+a lower growth outlook for Tesla following Nvidia's entrance into autonomous driving systems. The 
+bottom line: We are maintaining our $300 fair value estimate for narrow-moat Tesla. At current prices, 
+we view Tesla shares as overvalued, trading nearly 45% above our fair value estimate and in 2-star 
+territory. Our forecast assumes Tesla sees increased adoption among Tesla owners for its autonomous 
+driving software and successfully launches its robotaxi service. However, we assume a roughly 30% 
+ride-hailing market share for Tesla by 2035, with competitors increasing their market share as well. 
+Nvidia's announcement included a broader entrance into real-world artificial intelligence, where Nvidia 
+aims to develop the software to run robots in manufacturing plants. This would likely compete directly 
+with Tesla's humanoid robots should both company's systems become commercial. 
+Tesla: Shares Fall on Fourth-Quarter Deliveries Decline Seth Goldstein, CFA,Senior Equity Analyst,2 
+Jan 2026
+Tesla reported 418,227 deliveries in the fourth quarter of 2025 and 1,636,129 for the year. The company 
+also reported 46.7 gigawatt hours of battery storage deployment. Tesla shares were down around 2% at 
+the time of writing Jan. 2. Why it matters: Fourth-quarter and full-year deliveries were down 16% and 
+9%, respectively. Tesla was affected by the expiration of the US electric vehicle tax credit that expired in 
+September. We expect deliveries will continue to fall through the first three quarters of 2026. In Europe, 
+deliveries declined due to increased competition. In 2026, deliveries will depend on Tesla's ability to sell 
+its autonomous driving software, which is currently awaiting regulatory approval. Should Tesla receive 
+approval, we expect deliveries to rise. Otherwise, we see another decline. We think much of Tesla's 
+valuation remains driven by market sentiment around the robotaxi business, where the company 
+continues to progress through testing, including testing its Cybercab vehicle. We think the robotaxi will 
+continue to be the primary driver of the stock in 2026. The bottom line: We maintain our $300 fair value 
+estimate for narrow-moat Tesla. The 2025 deliveries were just below our estimate, but we had expected 
+a decline. We view Tesla shares as overvalued with the stock trading a little less than 50% above our fair 
+value estimate and in 2-star territory. We forecast the robotaxi will remain in testing throughout 2026. 
+We see expanded testing, which includes additional cities, the removal of the Tesla employee who is a 
+safety monitor in the vehicle, and Cybercab testing. Yet, we continue to expect full launch to not occur 
+until 2027-28. 
+Tesla: Delaware Supreme Court Reinstates CEO Musk's 2018 Pay Package Seth Goldstein, CFA,Senior 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 11 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 11 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Equity Analyst,22 Dec 2025
+On Dec. 19, after the market close, the Delaware Supreme Court overturned a lower court's ruling that 
+had voided Tesla CEO Elon Musk's 2018 pay package. Tesla shares were up 2% in early Dec. 22 
+trading.Why it matters: Most Tesla shareholders voted for the pay package twice, once in 2018 and 
+again last year. So while the compensation is not in line with traditional executive pay, the shareholders 
+are in favor of it. The pay package, which is entirely share-based compensation, is also key to keeping 
+Musk as Tesla's CEO. Musk has said he would like a greater ownership percentage of Tesla over time, so 
+this and the new 2025 pay package could allow him achieve this goal.The bottom line: We maintain our 
+$300 fair value estimate for narrow-moat Tesla. At current prices, we view Tesla shares as overvalued, 
+trading in 2-star territory and more than 60% above our fair value estimate. Following the 2025 pay 
+package, we see little key-person risk that Musk would leave Tesla. We expect Musk will remain as a key 
+executive over at least the next decade, as this is the duration over which Musk has to meet the targets 
+in the new pay package. 
+Tesla: We See Little Effect From California Ruling to Suspend Production and Sales for 30 Days Seth 
+Goldstein, CFA,Senior Equity Analyst,17 Dec 2025
+A California administrative law judge ruled that Tesla will face a 30-day suspension of its licenses to 
+produce and sell vehicles within the state. Tesla shares were down slightly on Dec. 17 at the time of 
+writing. Why it matters: The California plant is Tela's second-largest in the US, and the firm sells more 
+vehicles in that state than in any other. A suspension of its production and sales would have a 
+significant near-term financial impact on the company. The suspension ruling was due to Tesla's 
+marketing around its Autopilot and full self-driving software. The California Department of Motor 
+Vehicles said it would pause enforcement of the order for 60 days to allow the company time to address 
+its marketing claims. Tesla noted the case was not due to any customer complaints and expects sales in 
+California to continue uninterrupted. We think Tesla will change its marketing messaging enough to 
+avoid the suspension of both its production and sales licenses in California. As a result, we expect no 
+impact on the company from the ruling. The bottom line: We maintain our $300 fair value estimate for 
+narrow-moat Tesla. At current prices, we view Tesla shares as overvalued, with the stock trading more 
+than 60% above our fair value estimate and in 2-star territory. Even without a suspension, we forecast 
+Tesla will see declining US deliveries in the fourth quarter and early 2026. This is due to the expiration 
+of the US electric vehicle tax credit, which expired Sept. 30. We expect this will weigh on 2025 sales and 
+cause 2026 deliveries to decline. Yet, Tesla's stock reflects market optimism for its autonomous driving 
+software that will power its robotaxi ride-hailing service and its full self-driving subscription software. 
+While we think Tesla will successfully develop the software, we think the market is assigning it too high 
+a valuation. 
+Tesla: Shares Rally on Robotaxi Testing Without Safety Monitor Seth Goldstein, CFA,Senior Equity 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 12 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 12 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Analyst,15 Dec 2025
+Tesla CEO Elon Musk said the company is testing its ride-hailing robotaxis in the Austin, Texas, area 
+without safety monitors in the vehicles. Tesla shares reacted positively to the news with the stock up 4% 
+on Dec. 15 at the time of writing. Why it matters: Tesla is in the early testing of its robotaxi product in 
+select US cities. In its current form, Tesla has an employee, referred to as a safety monitor, in the vehicle 
+during a ride. Removing the safety monitor is a signal the software is improving and testing is 
+progressing. The progress is also in line with management's guidance during its third-quarter earnings 
+call that Tesla would be able to remove the safety monitors in the next several months. The bottom line: 
+For now, we maintain our $300 fair value estimate for narrow-moat Tesla. We maintain our outlook for a 
+2028 full robotaxi launch throughout the US, which includes no safety monitors, limited to no 
+geofencing, and dedicated robotaxi vehicles. At current prices, we view Tesla shares as overvalued with 
+the stock trading around 60% above our fair value estimate and in 2-star territory. We think the market 
+is assigning too high of a valuation to Tesla's robotaxi business. We forecast Tesla will successfully 
+launch its robotaxi product and grow to a 30% market share of ride-hailing rides in the US and Canada 
+over the next decade. Yet, as autonomous rides drive prices down, we see smaller profits and free cash 
+flows versus the market implied valuation. K
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 13 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 13 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Competitors Price vs. Fair Value
+BYD Co Ltd Class A 002594
+46
+66
+86
+106
+126
+Fair Value: 101.00
+31 Oct 2025 05:44, UTC
+Last Close: 87.05
+Overvalued
+Undervalued
+2021
+2022
+2023
+2024
+2025
+YTD
+—
+1.09
+0.70
+0.85
+0.97
+0.86
+Price/Fair Value
+38.07
+-4.12
+-22.50
+44.32
+5.12
+-10.92
+Total Return %
+Morningstar Rating
+Total Return % as of 02 Feb 2026. Last Close as of 02 Feb 2026. Fair Value as of 31 Oct 2025 05:44, UTC.
+Rivian Automotive Inc Class A RIVN
+4
+29
+54
+79
+104
+Fair Value: 15.00
+12 Dec 2025 05:13, UTC
+Last Close: 14.44
+Overvalued
+Undervalued
+2021
+2022
+2023
+2024
+2025
+YTD
+—
+—
+—
+—
+1.31
+0.96
+Price/Fair Value
+—
+-82.23
+27.29
+-43.31
+48.20
+-26.74
+Total Return %
+Morningstar Rating
+Total Return % as of 02 Feb 2026. Last Close as of 02 Feb 2026. Fair Value as of 12 Dec 2025 05:13, UTC.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 14 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 14 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Competitors Price vs. Fair Value
+Alphabet Inc Class A GOOGL
+86
+141
+196
+251
+306
+Last Close: 343.69
+Fair Value: 340.00
+30 Oct 2025 03:05, UTC
+Overvalued
+Undervalued
+2021
+2022
+2023
+2024
+2025
+YTD
+0.83
+0.55
+0.87
+0.86
+0.92
+1.01
+Price/Fair Value
+65.30
+-39.09
+58.32
+35.94
+65.78
+9.81
+Total Return %
+Morningstar Rating
+Total Return % as of 02 Feb 2026. Last Close as of 02 Feb 2026. Fair Value as of 30 Oct 2025 03:05, UTC.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 15 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 15 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Morningstar Valuation Model Summary
+Financials as of 28 Jan 2026
+Actual
+Forecast
+Fiscal Year, ends 31 Dec
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+Revenue (USD Mil)
+53,823
+96,773
+97,690
+94,827
+92,982
+111,917
+140,972
+178,933
+Operating Income (USD Mil)
+6,496
+8,891
+7,760
+4,849
+4,618
+10,485
+19,782
+33,801
+EBITDA (USD Mil)
+9,569
+13,730
+7,771
+10,084
+9,268
+16,081
+26,830
+42,747
+Adjusted EBITDA (USD Mil)
+11,065
+16,631
+16,056
+14,528
+13,720
+19,973
+30,282
+46,275
+Net Income (USD Mil)
+5,524
+14,999
+7,130
+3,794
+4,283
+8,824
+16,030
+26,819
+Adjusted Net Income (USD Mil)
+7,111
+10,889
+8,458
+5,858
+6,991
+11,522
+18,567
+29,682
+Free Cash Flow To The Firm (USD Mil)
+6,414
+4,589
+-6,687
+4,940
+-9,372
+-5,879
+3,090
+18,220
+Weighted Average Diluted Shares Outstanding (Mil)
+3,386
+3,485
+3,525
+3,525
+3,525
+3,525
+3,525
+3,525
+Earnings Per Share (Diluted) (USD)
+1.63
+4.30
+2.02
+1.08
+1.22
+2.50
+4.55
+7.61
+Adjusted Earnings Per Share (Diluted) (USD)
+2.10
+3.12
+2.40
+1.66
+1.98
+3.27
+5.27
+8.42
+Dividends Per Share (USD)
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Margins & Returns as of 28 Jan 2026
+Actual
+Forecast
+3 Year Avg
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+5 Year Avg
+Operating Margin % 
+9.9
+12.1
+9.2
+7.9
+5.1
+5.0
+9.4
+14.0
+18.9
+10.3
+EBITDA Margin % 
+—
+17.8
+14.2
+8.0
+10.6
+10.0
+14.4
+19.0
+23.9
+—
+Adjusted EBITDA Margin % 
+—
+20.6
+17.2
+16.4
+15.3
+14.8
+17.8
+21.5
+25.9
+19.1
+Net Margin % 
+11.0
+10.3
+15.5
+7.3
+4.0
+4.6
+7.9
+11.4
+15.0
+12.0
+Adjusted Net Margin % 
+11.0
+13.2
+11.3
+8.7
+6.2
+7.5
+10.3
+13.2
+16.6
+10.8
+Free Cash Flow To The Firm Margin % 
+3.3
+11.9
+4.7
+-6.9
+5.2
+-10.1
+-5.3
+2.2
+10.2
+0.4
+Growth & Ratios as of 28 Jan 2026
+Actual
+Forecast
+3 Year CAGR
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029 5 Year CAGR
+Revenue Growth % 
+45.8
+70.7
+79.8
+1.0
+-2.9
+-2.0
+20.4
+26.0
+26.9
+12.9
+Operating Income Growth % 
+57.3
+225.8
+36.9
+-12.7
+-37.5
+-4.8
+127.0
+88.7
+70.9
+34.2
+EBITDA Growth % 
+10.0
+128.2
+43.5
+-43.4
+29.8
+-8.1
+73.5
+66.8
+59.3
+45.6
+Adjusted EBITDA Growth % 
+37.3
+78.4
+50.3
+-3.5
+-9.5
+-5.6
+45.6
+51.6
+52.8
+23.6
+Earnings Per Share Growth % 
+108.9
+635.2
+163.8
+-53.0
+-46.8
+12.9
+106.0
+81.7
+67.3
+30.3
+Adjusted Earnings Per Share Growth % 
+108.9
+138.9
+48.8
+-23.2
+-30.7
+19.3
+64.8
+61.1
+59.9
+30.3
+Valuation as of 28 Jan 2026
+Actual
+Forecast
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+Price/Earning 
+—
+79.6
+168.3
+254.1
+213.0
+129.0
+80.0
+50.1
+Price/Sales 
+—
+13.4
+17.3
+16.7
+17.0
+14.1
+11.2
+8.8
+Price/Book 
+—
+13.8
+19.5
+19.4
+18.4
+16.6
+14.0
+11.2
+Price/Cash Flow 
+—
+—
+—
+—
+—
+—
+—
+—
+EV/EBITDA 
+—
+76.8
+103.3
+106.9
+113.2
+77.8
+51.3
+33.6
+EV/EBIT 
+—
+143.7
+213.8
+320.4
+336.4
+148.2
+78.5
+46.0
+Dividend Yield % 
+—
+—
+—
+—
+—
+—
+—
+—
+Dividend Payout % 
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Free Cash Flow Yield % 
+—
+—
+—
+—
+—
+—
+—
+—
+Operating Performance / Profitability as of 28 Jan 2026
+Actual
+Forecast
+Fiscal Year, ends 31 Dec
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+ROA % 
+14.1
+5.7
+3.0
+3.2
+6.2
+9.7
+13.3
+14.7
+ROE % 
+23.6
+9.7
+4.9
+5.2
+9.7
+15.0
+20.1
+21.5
+ROIC % 
+22.3
+15.3
+4.2
+3.8
+9.3
+16.4
+26.5
+35.4
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 16 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 16 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+Financial Leverage (Reporting Currency)
+Actual
+Forecast
+Fiscal Year, ends 31 Dec
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+Debt/Capital % 
+1.5
+1.2
+1.0
+0.6
+0.4
+0.3
+0.2
+0.3
+Assets/Equity 
+2.0
+1.7
+1.7
+1.6
+1.6
+1.6
+1.5
+1.5
+Net Debt/EBITDA 
+-1.7
+-1.4
+-3.0
+-2.8
+-2.1
+-0.9
+-0.7
+-0.9
+Total Debt/EBITDA 
+0.5
+0.6
+0.8
+0.6
+0.5
+0.2
+0.1
+0.1
+EBITDA/ Net Interest Expense 
+35.1
+-18.3
+-13.2
+-10.8
+-9.8
+-13.1
+-18.6
+-28.4
+Forecast Revisions as of 28 Jan 2026
+2025
+2026
+2027
+Prior data as of 22 Oct 2025
+Current
+Prior
+Current
+Prior
+Current
+Prior
+Fair Value Estimate Change (Trading Currency) 
+400.00 
+299.68
+—
+—
+—
+—
+Revenue (USD Mil)
+94,827
+97,690
+92,982
+95,434
+111,917
+98,230
+Operating Income (USD Mil)
+4,849
+7,760
+4,618
+4,377
+10,485
+3,539
+EBITDA (USD Mil)
+14,528
+16,056
+13,720
+11,877
+19,973
+10,865
+Net Income (USD Mil)
+5,858
+8,458
+6,991
+5,224
+11,522
+4,763
+Earnings Per Share (Diluted) (USD)
+1.08
+2.02
+1.22
+1.14
+2.50
+1.01
+Adjusted Earnings Per Share (Diluted) (USD)
+1.66
+2.40
+1.98
+1.48
+3.27
+1.35
+Dividends Per Share (USD)
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Key Valuation Drivers as of 28 Jan 2026
+Cost of Equity %
+9.0
+Pre-Tax Cost of Debt %
+5.8
+Weighted Average Cost of Capital %
+8.8
+Long-Run Tax Rate %
+23.0
+Stage II EBI Growth Rate %
+10.0
+Stage II Investment Rate %
+10.0
+Perpetuity Year
+15
+Additional estimates and scenarios available for download at https://pitchbook.com/. 
+Discounted Cash Flow Valuation as of 28 Jan 2026
+USD Mil
+Present Value Stage I
+159,185
+Present Value Stage II
+186,048
+Present Value Stage III
+530,063
+Total Firm Value
+875,296
+Cash and Equivalents
+36,563
+Debt
+7,878
+Other Adjustments
+382,311
+Equity Value
+1,286,292
+Projected Diluted Shares
+3,525
+Fair Value per Share (USD)
+400.00
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 17 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 17 of 24
+?
+Tesla Inc TSLA QQQ 3 Feb 2026 00:26, UTC
+Last Price
+421.81 USD
+2 Feb 2026
+Fair Value Estimate
+400.00 USD 
+29 Jan 2026 03:58, UTC
+Price/FVE
+1.05
+Market Cap
+1.59 USD Tril
+3 Feb 2026
+Economic Moat
+TM
+Narrow
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment
+1
+;;;;;
+7 Jan 2026 06:00, UTC
+ESG Risk Rating Breakdown
+Exposure
+Company Exposure1
+38.9
+– Manageable Risk
+36.7
+Unmanageable Risk2
+2.2
+Management
+Manageable Risk
+36.7
+– Managed Risk3
+20.0
+Management Gap4
+16.7
+Overall Unmanaged Risk
+18.8
+Subject
+Subindustry (49.0)
+0
+55+
+Low
+Medium
+High
+38.9
+Medium
+100
+0
+Strong
+Average
+Weak
+54.5%
+Strong
+gExposure represents a company’s vulnerability to ESG 
+risks driven by their business model
+gExposure is assessed at the Subindustry level and then 
+specified at the company level
+gScoring ranges from 0-55+ with categories of low, me-
+dium, and high-risk exposure
+gManagement measures a company’s ability to manage 
+ESG risks through its commitments and actions
+gManagement assesses a company's efficiency on ESG 
+programs, practices, and policies
+gManagement score ranges from 0-100% showing how 
+much manageable risk a company is managing
+ESG Risk Rating
+Negligible
+Low
+Medium
+High
+Severe
+18.84
+Low
+ESG Risk Ratings measure the degree to which a company’s value is impacted by environmental, social, and governance 
+risks, by evaluating the company’s ability to manage the ESG risks it faces.
+1. A company's Exposure to material ESG issues 2. Unmanageable Risk refers to risks that are inherent to a particular business model that cannot be managed by 
+programs or initiatives 3. Managed Risk = Manageable Risk multiplied by a Management score of 54.5% 4. Management Gap assesses risks that are not 
+managed, but are considered manageable 5. ESG Risk Rating Assessment = Overall Unmanaged Risk = Management Gap plus Unmanageable Risk
+ESG Risk Rating Assessment5
+ESG Risk Rating is of Jan 07, 2026. Highest Controversy Level is as of Jan 08, 
+2026. Sustainalytics Subindustry: Automobiles. Sustainalytics provides 
+Morningstar with company ESG ratings and metrics on a monthly basis and 
+as such, the ratings in Morningstar may not necessarily reflect current 
+Sustainalytics’ scores for the company. For the most up to date rating and 
+more information, please visit: sustainalytics.com/esg-ratings/.
+Peer Analysis 07 Jan 2026
+Peers are selected from the company's Sustainalytics-defined Subindustry and are displayed based on the closest market cap values
+Company Name
+Exposure
+Management 
+ESG Risk Rating
+Tesla Inc
+38.9 | Medium
+0
+55+
+54.5 | Strong
+100
+0
+18.8 | Low
+0
+40+
+Alphabet Inc
+42.8 | Medium
+0
+55+
+57.2 | Strong
+100
+0
+20.0 | Low
+0
+40+
+BYD Co Ltd
+46.3 | Medium
+0
+55+
+45.4 | Average
+100
+0
+26.3 | Medium
+0
+40+
+Rivian Automotive Inc
+42.5 | Medium
+0
+55+
+40.2 | Average
+100
+0
+26.4 | Medium
+0
+40+
+—
+— | —
+0
+55+
+— | —
+100
+0
+— | —
+0
+40+
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 18 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 18 of 24
+?
+Appendix
+Historical Morningstar Rating
+Tesla Inc TSLA 3 Feb 2026 00:26, UTC
+Dec 2026
+-
+Nov 2026
+-
+Oct 2026
+-
+Sep 2026
+-
+Aug 2026
+-
+Jul 2026
+-
+Jun 2026
+-
+May 2026
+-
+Apr 2026
+-
+Mar 2026
+-
+Feb 2026
+QQQ
+Jan 2026
+QQQ
+Dec 2025
+QQ
+Nov 2025
+QQ
+Oct 2025
+QQ
+Sep 2025
+QQ
+Aug 2025
+QQ
+Jul 2025
+QQ
+Jun 2025
+QQ
+May 2025
+QQ
+Apr 2025
+QQQ
+Mar 2025
+QQQ
+Feb 2025
+QQQ
+Jan 2025
+QQ
+Dec 2024
+Q
+Nov 2024
+QQ
+Oct 2024
+QQQ
+Sep 2024
+QQ
+Aug 2024
+QQQ
+Jul 2024
+QQQ
+Jun 2024
+QQQ
+May 2024
+QQQ
+Apr 2024
+QQQ
+Mar 2024
+QQQ
+Feb 2024
+QQQ
+Jan 2024
+QQQ
+Dec 2023
+QQQ
+Nov 2023
+QQQ
+Oct 2023
+QQQ
+Sep 2023
+QQQ
+Aug 2023
+QQQ
+Jul 2023
+QQQ
+Jun 2023
+QQQ
+May 2023
+QQQ
+Apr 2023
+QQQQ
+Mar 2023
+QQQ
+Feb 2023
+QQQ
+Jan 2023
+QQQQ
+Dec 2022
+QQQQQ
+Nov 2022
+QQQQ
+Oct 2022
+QQQ
+Sep 2022
+QQQ
+Aug 2022
+QQQ
+Jul 2022
+QQQ
+Jun 2022
+QQQ
+May 2022
+QQQ
+Apr 2022
+QQQ
+Mar 2022
+QQ
+Feb 2022
+QQQ
+Jan 2022
+QQ
+Dec 2021
+QQ
+Nov 2021
+QQ
+Oct 2021
+QQ
+Sep 2021
+QQ
+Aug 2021
+QQQ
+Jul 2021
+QQQ
+Jun 2021
+QQQ
+May 2021
+Q
+Apr 2021
+Q
+Mar 2021
+Q
+Feb 2021
+Q
+Jan 2021
+Q
+BYD Co Ltd Class A 002594 2 Feb 2026 17:46, UTC
+Dec 2026
+-
+Nov 2026
+-
+Oct 2026
+-
+Sep 2026
+-
+Aug 2026
+-
+Jul 2026
+-
+Jun 2026
+-
+May 2026
+-
+Apr 2026
+-
+Mar 2026
+-
+Feb 2026
+QQQ
+Jan 2026
+QQQ
+Dec 2025
+QQQ
+Nov 2025
+QQQ
+Oct 2025
+QQQ
+Sep 2025
+QQQ
+Aug 2025
+QQQ
+Jul 2025
+QQQ
+Jun 2025
+QQQ
+May 2025
+QQQ
+Apr 2025
+QQQ
+Mar 2025
+QQQ
+Feb 2025
+QQQ
+Jan 2025
+-
+Dec 2024
+QQQ
+Nov 2024
+QQQ
+Oct 2024
+QQQ
+Sep 2024
+QQQ
+Aug 2024
+QQQ
+Jul 2024
+QQQ
+Jun 2024
+QQQ
+May 2024
+QQQ
+Apr 2024
+QQQQ
+Mar 2024
+QQQQ
+Feb 2024
+QQQQ
+Jan 2024
+QQQQ
+Dec 2023
+QQQQ
+Nov 2023
+QQQQ
+Oct 2023
+QQQQ
+Sep 2023
+-
+Aug 2023
+QQQ
+Jul 2023
+QQQ
+Jun 2023
+QQQ
+May 2023
+QQQ
+Apr 2023
+QQQ
+Mar 2023
+QQQ
+Feb 2023
+QQQ
+Jan 2023
+QQ
+Dec 2022
+QQQ
+Nov 2022
+QQQ
+Oct 2022
+QQQ
+Sep 2022
+QQQ
+Aug 2022
+QQQ
+Jul 2022
+-
+Jun 2022
+-
+May 2022
+-
+Apr 2022
+-
+Mar 2022
+-
+Feb 2022
+-
+Jan 2022
+-
+Dec 2021
+-
+Nov 2021
+-
+Oct 2021
+-
+Sep 2021
+-
+Aug 2021
+-
+Jul 2021
+-
+Jun 2021
+-
+May 2021
+-
+Apr 2021
+-
+Mar 2021
+-
+Feb 2021
+-
+Jan 2021
+-
+Rivian Automotive Inc Class A RIVN 3 Feb 2026 00:36, UTC
+Dec 2026
+-
+Nov 2026
+-
+Oct 2026
+-
+Sep 2026
+-
+Aug 2026
+-
+Jul 2026
+-
+Jun 2026
+-
+May 2026
+-
+Apr 2026
+-
+Mar 2026
+-
+Feb 2026
+QQQ
+Jan 2026
+QQQ
+Dec 2025
+QQ
+Nov 2025
+-
+Oct 2025
+-
+Sep 2025
+-
+Aug 2025
+-
+Jul 2025
+-
+Jun 2025
+-
+May 2025
+-
+Apr 2025
+-
+Mar 2025
+-
+Feb 2025
+-
+Jan 2025
+-
+Dec 2024
+-
+Nov 2024
+-
+Oct 2024
+-
+Sep 2024
+-
+Aug 2024
+-
+Jul 2024
+-
+Jun 2024
+-
+May 2024
+-
+Apr 2024
+-
+Mar 2024
+-
+Feb 2024
+-
+Jan 2024
+-
+Dec 2023
+-
+Nov 2023
+-
+Oct 2023
+-
+Sep 2023
+-
+Aug 2023
+-
+Jul 2023
+-
+Jun 2023
+-
+May 2023
+-
+Apr 2023
+-
+Mar 2023
+-
+Feb 2023
+-
+Jan 2023
+-
+Dec 2022
+-
+Nov 2022
+-
+Oct 2022
+-
+Sep 2022
+-
+Aug 2022
+-
+Jul 2022
+-
+Jun 2022
+-
+May 2022
+-
+Apr 2022
+-
+Mar 2022
+-
+Feb 2022
+-
+Jan 2022
+-
+Dec 2021
+-
+Nov 2021
+-
+Oct 2021
+-
+Sep 2021
+-
+Aug 2021
+-
+Jul 2021
+-
+Jun 2021
+-
+May 2021
+-
+Apr 2021
+-
+Mar 2021
+-
+Feb 2021
+-
+Jan 2021
+-
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 19 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 19 of 24
+?
+Alphabet Inc Class A GOOGL 3 Feb 2026 00:05, UTC
+Dec 2026
+-
+Nov 2026
+-
+Oct 2026
+-
+Sep 2026
+-
+Aug 2026
+-
+Jul 2026
+-
+Jun 2026
+-
+May 2026
+-
+Apr 2026
+-
+Mar 2026
+-
+Feb 2026
+QQQ
+Jan 2026
+QQQ
+Dec 2025
+QQQ
+Nov 2025
+QQQ
+Oct 2025
+QQQQ
+Sep 2025
+QQQ
+Aug 2025
+QQQQ
+Jul 2025
+QQQQ
+Jun 2025
+QQQQ
+May 2025
+QQQQQ
+Apr 2025
+QQQQQ
+Mar 2025
+QQQQQ
+Feb 2025
+QQQQ
+Jan 2025
+QQQQ
+Dec 2024
+QQQQ
+Nov 2024
+QQQQ
+Oct 2024
+QQQQ
+Sep 2024
+QQQQ
+Aug 2024
+QQQQ
+Jul 2024
+QQQ
+Jun 2024
+QQQ
+May 2024
+QQQ
+Apr 2024
+QQQ
+Mar 2024
+QQQ
+Feb 2024
+QQQQ
+Jan 2024
+QQQQ
+Dec 2023
+QQQQ
+Nov 2023
+QQQQ
+Oct 2023
+QQQQ
+Sep 2023
+QQQQ
+Aug 2023
+QQQQ
+Jul 2023
+QQQQ
+Jun 2023
+QQQQ
+May 2023
+QQQQ
+Apr 2023
+QQQQ
+Mar 2023
+QQQQ
+Feb 2023
+QQQQ
+Jan 2023
+QQQQQ
+Dec 2022
+QQQQQ
+Nov 2022
+QQQQ
+Oct 2022
+QQQQ
+Sep 2022
+QQQQQ
+Aug 2022
+QQQQ
+Jul 2022
+QQQQ
+Jun 2022
+QQQQ
+May 2022
+QQQQ
+Apr 2022
+QQQQ
+Mar 2022
+QQQQ
+Feb 2022
+QQQQ
+Jan 2022
+QQQQ
+Dec 2021
+QQQQ
+Nov 2021
+QQQ
+Oct 2021
+QQQQ
+Sep 2021
+QQQ
+Aug 2021
+QQQ
+Jul 2021
+QQQQ
+Jun 2021
+QQQQ
+May 2021
+QQQQ
+Apr 2021
+QQQQ
+Mar 2021
+QQQQ
+Feb 2021
+QQQQ
+Jan 2021
+QQQ
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 20 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 20 of 24
+?
+Research Methodology for Valuing Companies
+Morningstar Equity Research Star Rating Methodology
+Overview
+At the heart of our valuation system is a detailed projec-
+tion of a company’s future cash flows, resulting from our 
+analysts’ research. Analysts create custom industry and 
+company assumptions to feed income statement, balance 
+sheet, and capital investment assumptions into our glob-
+ally standardized, proprietary discounted cash flow, or 
+DCF, modeling templates. We use scenario analysis, inde-
+pth competitive advantage analysis, and a variety of other 
+analytical tools to augment this process. Moreover, we 
+think analyzing valuation through discounted cash flows 
+presents a better lens for viewing cyclical companies, 
+high-growth firms, businesses with finite lives (e.g., 
+mines), or companies expected to generate negative 
+earnings over the next few years. That said, we don’t dis-
+miss multiples altogether but rather use them as sup-
+porting cross-checks for our DCF-based fair value estim-
+ates. We also acknowledge that DCF models offer their 
+own challenges (including a potential proliferation of es-
+timated inputs and the possibility that the method may 
+miss shortterm market-price movements), but we believe 
+these negatives are mitigated by deep analysis and our 
+longterm approach.
+Morningstar’s equity research group (”we,” “our”) be-
+lieves that a company’s intrinsic worth results from the 
+future cash flows it can generate. The Morningstar Rating 
+for stocks identifies stocks trading at a discount or premi-
+um to their intrinsic worth—or fair value estimate, in 
+Morningstar terminology. Five-star stocks sell for the 
+biggest risk adjusted discount to their fair values, where-
+as 1-star stocks trade at premiums to their intrinsic 
+worth.
+Four key components drive the Morningstar rating: (1) 
+our assessment of the firm’s economic moat, (2) our es-
+timate of the stock’s fair value, (3) our uncertainty around 
+that fair value estimate and (4) the current market price. 
+This process ultimately culminates in our singlepoint star 
+rating.
+1. Economic Moat
+The concept of an economic moat plays a vital role not 
+only in our qualitative assessment of a firm’s long-term 
+investment potential, but also in the actual calculation of 
+our fair value estimates. An economic moat is a structural 
+feature that allows a firm to sustain excess profits over a 
+long period of time. We define economic profits as re-
+turns on invested capital (or ROIC) over and above our es-
+timate of a firm’s cost of capital, or weighted average cost 
+of capital (or WACC). Without a moat, profits are more 
+susceptible to competition. We have identified five 
+sources of economic moats: intangible assets, switching 
+costs, network effect, cost advantage, and efficient scale.
+Companies with a narrow moat are those we believe are 
+more likely than not to achieve normalized excess returns 
+for at least the next 10 years. Wide-moat companies are 
+those in which we have very high confidence that excess 
+returns will remain for 10 years, with excess returns more 
+likely than not to remain for at least 20 years. The longer 
+a firm generates economic profits, the higher its intrinsic 
+value. We believe low-quality, no-moat companies will 
+see their normalized returns gravitate toward the firm’s 
+cost of capital more quickly than companies with moats.
+When considering a company's moat, we also assess 
+whether there is a substantial threat of value destruction, 
+stemming from risks related to ESG, industry disruption, 
+financial health, or other idiosyncratic issues. In this con-
+text, a risk is considered potentially value destructive if 
+its occurrence would eliminate a firm’s economic profit 
+on a cumulative or midcycle basis. If we deem the prob-
+ability of occurrence sufficiently high, we would not char-
+acterize the company as possessing an economic moat.
+2. Estimated Fair Value
+Combining our analysts’ financial forecasts with the 
+firm’s economic moat helps us assess how long returns 
+on invested capital are likely to exceed the firm’s cost of 
+capital. Returns of firms with a wide economic moat rat-
+ing are assumed to fade to the perpetuity period over a 
+longer period of time than the returns of narrow-moat 
+firms, and both will fade slower than no-moat firms, in-
+creasing our estimate of their intrinsic value.
+Our model is divided into three distinct stages:
+Stage I: Explicit Forecast
+In this stage, which can last five to 10 years, analysts 
+make full financial statement forecasts, including items 
+such as revenue, profit margins, tax rates, changes in 
+workingcapital accounts, and capital spending. Based on 
+these projections, we calculate earnings before interest, 
+after taxes (EBI) and the net new investment (NNI) to de-
+rive our annual free cash flow forecast.
+Stage II: Fade
+The second stage of our model is the period it will take 
+the company’s return on new invested capital—the return 
+on capital of the next dollar invested (“RONIC”)—to de-
+cline (or rise) to its cost of capital. During the Stage II 
+period, we use a formula to approximate cash flows in 
+lieu of explicitly modeling the income statement, balance 
+sheet, and cash flow statement as we do in Stage I. The 
+length of the second stage depends on the strength of the 
+company’s economic moat. We forecast this period to last 
+anywhere from one year (for companies with no econom-
+ic moat) to 10–15 years or more (for wide-moat compan-
+ies). During this period, cash flows are forecast using four 
+assumptions: an average growth rate for EBI over the 
+period, a normalized investment rate, average return on 
+new invested capital (RONIC), and the number of years 
+until perpetuity, when excess returns cease. The invest-
+ment rate and return on new invested capital decline un-
+til a perpetuity value is calculated. In the case of firms 
+that do not earn their cost of capital, we assume marginal 
+ROICs rise to the firm’s cost of capital (usually attribut-
+able to less reinvestment), and we may truncate the 
+second stage.
+Stage III: Perpetuity
+Once a company’s marginal ROIC hits its cost of capital, 
+we calculate a continuing value, using a standard per-
+petuity formula. At perpetuity, we assume that any 
+growth or decline or investment in the business neither 
+creates nor destroys value and that any new investment 
+provides a return in line with estimated WACC.
+Because a dollar earned today is worth more than a dollar 
+earned tomorrow, we discount our projections of cash 
+flows in stages I, II, and III to arrive at a total present 
+value of expected future cash flows. Because we are 
+modeling free cash flow to the firm—representing cash 
+available to provide a return to all capital providers—we 
+discount future cash flows using the WACC, which is a 
+weighted average of the costs of equity, debt, and pre-
+ferred stock (and any other funding sources), using ex-
+pected future proportionate long-term, market-value 
+weights.
+3. Uncertainty Around That Fair Value Estimate
+Morningstar’s Uncertainty Rating is designed to capture 
+the range of potential outcomes for a company’s intrinsic 
+value. This rating is used to assign the margin of safety 
+required before investing, which in turn explicitly drives 
+our stock star rating system. The Uncertainty Rating is 
+aimed at identifying the confidence we should have in as-
+signing a fair value estimate for a given stock. 
+Our Uncertainty Rating is meant to take into account any-
+thing that can increase the potential dispersion of future 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 21 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 21 of 24
+?
+Research Methodology for Valuing Companies
+Morningstar Equity Research Star Rating Methodology
+outcomes for the intrinsic value of a company, and any-
+thing that can affect our ability to accurately predict 
+these outcomes. The rating begins with a suggested rat-
+ing produced by a quantitative process based on the 
+trailing 12-month standard deviation of daily stock re-
+turns. An analyst overlay is then applied, with analysts 
+using the suggested rating, historical rating data, and 
+their own knowledge of the company to inform them as 
+they make the final Uncertainty Rating decision. Ulti-
+mately, the rating decision rests with the analyst. Ana-
+lysts take into account many characteristics when mak-
+ing their final decision, including cyclical factors, opera-
+tional and financial factors such as leverage, company-
+specific events, ESG risks, and anything else that might 
+increase the potential dispersion of future outcomes and 
+our ability to estimate those outcomes. 
+Our recommended margin of safety—the discount to fair 
+value demanded before we’d recommend buying or 
+selling the stock—widens as our uncertainty of the estim-
+ated value of the equity increases. The more uncertain we 
+are about the potential dispersion of outcomes, the great-
+er the discount we require relative to our estimate of the 
+value of the firm before we would recommend the pur-
+chase of the shares. In addition, the Uncertainty Rating 
+provides guidance in portfolio construction based on risk 
+tolerance. 
+Our Uncertainty Ratings are: Low, Medium, High, Very 
+High, and Extreme.
+Margin of Safety
+Qualitative Analysis 
+Uncertainty Ratings QQQQQRating
+QRating
+Low
+20% Discount
+25% Premium
+Medium
+30% Discount
+35% Premium
+High
+40% Discount
+55% Premium
+Very High
+50% Discount
+75% Premium
+Extreme
+75% Discount
+300% Premium
+Our uncertainty rating is based on the interquartile 
+range, or the middle 50% of potential outcomes, covering 
+the 25th percentile–75th percentile. This means that 
+when a stock hits 5 stars, we expect there is a 75% 
+chance that the intrinsic value of that stock lies above the 
+current market price. Similarly, when a stock hits 1 star, 
+we expect there is a 75% chance that the intrinsic value 
+of that stock lies below the current market price.
+4. Market Price
+The market prices used in this analysis and noted in the 
+report come from exchange on which the stock is listed 
+which we believe is a reliable source.
+For more details about our methodology, please go to 
+https://shareholders.morningstar.com
+Morningstar Star Rating for Stocks
+Once we determine the fair value estimate of a stock, we 
+compare it with the stock’s current market price on a 
+daily basis, and the star rating is automatically re-calcu-
+lated at the market close on every day the market on 
+which the stock is listed is open. Our analysts keep close 
+tabs on the companies they follow, and, based on thor-
+ough and ongoing analysis, raise or lower their fair value 
+estimates as warranted.
+Please note, there is no predefined distribution of stars. 
+That is, the percentage of stocks that earn 5 stars can 
+fluctuate daily, so the star ratings, in the aggregate, can 
+serve as a gauge of the broader market’s valuation. When 
+there are many 5-star stocks, the stock market as a whole 
+is more undervalued, in our opinion, than when very few 
+companies garner our highest rating.
+We expect that if our base-case assumptions are true the 
+market price will converge on our fair value estimate over 
+time generally within three years (although it is im-
+possible to predict the exact time frame in which market 
+prices may adjust).
+Our star ratings are guideposts to a broad audience and 
+individuals must consider their own specific investment 
+goals, risk tolerance, tax situation, time horizon, income 
+needs, and complete investment portfolio, among other 
+factors.
+The Morningstar Star Ratings for stocks are defined be-
+low:
+QQQQQ We believe appreciation beyond a fair risk ad-
+justed return is highly likely over a multiyear time frame. 
+Scenario analysis developed by our analysts indicates 
+that the current market price represents an excessively 
+pessimistic outlook, limiting downside risk and maximiz-
+ing upside potential.
+QQQQ We believe appreciation beyond a fair risk-ad-
+justed return is likely.
+QQQ Indicates our belief that investors are likely to re-
+ceive a fair risk-adjusted return (approximately cost of 
+equity).
+QQ We believe investors are likely to receive a less than 
+fair risk-adjusted return.
+Q Indicates a high probability of undesirable risk-adjus-
+ted returns from the current market price over a multi-
+year time frame, based on our analysis. Scenario analysis 
+by our analysts indicates that the market is pricing in an 
+excessively optimistic outlook, limiting upside potential 
+and leaving the investor exposed to Capital loss.
+Other Definitions
+Last Price: Price of the stock as of the close of the market 
+of the last trading day before date of the report.
+Capital Allocation Rating: Our Capital Allocation (or 
+Stewardship) Rating represents our assessment of the 
+quality of management’s capital allocation, with particu-
+lar emphasis on the firm’s balance sheet, investments, 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 22 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 22 of 24
+?
+Research Methodology for Valuing Companies
+and shareholder distributions. Analysts consider com-
+panies’ investment strategy and valuation, balance sheet 
+management, and dividend and share buyback policies. 
+Corporate governance factors are only considered if they 
+are likely to materially impact shareholder value, though 
+either the balance sheet, investment, or shareholder dis-
+tributions. Analysts assign one of three ratings: "Exem-
+plary", "Standard", or "Poor". Analysts judge Capital Alloc-
+ation from an equity holder’s perspective. Ratings are de-
+termined on a forward looking and absolute basis. The 
+Standard rating is most common as most managers will 
+exhibit neither exceptionally strong nor poor capital al-
+location.
+Capital Allocation (or Stewardship) analysis published 
+prior to Dec. 9, 2020, was determined using a different 
+process. Beyond investment strategy, financial leverage, 
+and dividend and share buyback policies, analysts also 
+considered execution, compensation, related party trans-
+actions, and accounting practices in the rating.
+Capital Allocation Rating: Our Capital Allocation (or 
+Stewardship) Rating represents our assessment of the 
+quality of management’s capital allocation, with particu-
+lar emphasis on the firm’s balance sheet, investments, 
+and shareholder distributions. Analysts consider com-
+panies’ investment strategy and valuation, balance sheet 
+management, and dividend and share buyback policies. 
+Corporate governance factors are only considered if they 
+are likely to materially impact shareholder value, though 
+either the balance sheet, investment, or shareholder dis-
+tributions. Analysts assign one of three ratings: "Exem-
+plary", "Standard", or "Poor". Analysts judge Capital Alloc-
+ation from an equity holder’s perspective. Ratings are de-
+termined on a forward looking and absolute basis. The 
+Standard rating is most common as most managers will 
+exhibit neither exceptionally strong nor poor capital al-
+location.
+Capital Allocation (or Stewardship) analysis published 
+prior to Dec. 9, 2020, was determined using a different 
+process. Beyond investment strategy, financial leverage, 
+and dividend and share buyback policies, analysts also 
+considered execution, compensation, related party trans-
+actions, and accounting practices in the rating.
+Sustainalytics ESG Risk Rating Assessment:The ESG 
+Risk Rating Assessment is provided by Sustainalytics; a 
+Morningstar company.
+Sustainalytics’ ESG Risk Ratings measure the degree to 
+which company’s economic value at risk is driven by en-
+vironment, social and governance (ESG) factors.
+Sustainalytics analyzes over 1,300 data points to assess a 
+company’s exposure to and management of ESG risks. In 
+other words, ESG Risk Ratings measures a company’s un-
+managed ESG Risks represented as a quantitative score. 
+Unmanaged Risk is measured on an open-ended scale 
+starting at zero (no risk) with lower scores representing 
+less unmanaged risk and, for 95% of cases, the unman-
+aged ESG Risk score is below 50.
+Based on their quantitative scores, companies are 
+grouped into one of five Risk Categories (negligible, low, 
+medium, high, severe). These risk categories are absolute, 
+meaning that a ‘high risk’ assessment reflects a compar-
+able degree of unmanaged ESG risk across all subindus-
+tries covered.
+The ESG Risk Rating Assessment is a visual representa-
+tion of Sustainalytics ESG Risk Categories on a 1 to 5 
+scale. Companies with Negligible Risk = 5 Globes, Low 
+Risk = 4, Medium Risk = 3 Globes, High Risk = 2 Globes, 
+Severe Risk = 1 Globe. For more information, please visit 
+sustainalytics.com/esg-ratings/
+Ratings should not be used as the sole basis in evaluat-
+ing a company or security. Ratings involve unknown risks 
+and uncertainties which may cause our expectations not 
+to occur or to differ significantly from what was expected 
+and should not be considered an offer or solicitation to 
+buy or sell a security.
+Risk Warning
+Please note that investments in securities are subject to 
+market and other risks and there is no assurance or guar-
+antee that the intended investment objectives will be 
+achieved. Past performance of a security may or may not 
+be sustained in future and is no indication of future per-
+formance. A security investment return and an investor’s 
+principal value will fluctuate so that, when redeemed, an 
+investor’s shares may be worth more or less than their 
+original cost. A security’s current investment perform-
+ance may be lower or higher than the investment per-
+formance noted within the report. Morningstar’s Uncer-
+tainty Rating serves as a useful data point with respect to 
+sensitivity analysis of the assumptions used in our de-
+termining a fair value price.
+General Disclosure
+Unless otherwise provided in a separate agreement, re-
+cipients accessing this report may only use it in the coun-
+try in which the Morningstar distributor is based. Unless 
+stated otherwise, the original distributor of the report is 
+Morningstar Research Services LLC, a U.S.A. domiciled 
+financial institution.
+This Report is for informational purposes, should not be 
+the sole piece of information used in making an invest-
+ment decision, and has no regard to the specific invest-
+ment objectives, financial situation or particular needs of 
+any specific recipient. This publication is intended to 
+provide information to assist investors in making their 
+own investment decisions, not to provide investment ad-
+vice to any specific investor. Therefore, investments dis-
+cussed herein may not be suitable for all investors; in-
+vestors must exercise their own independent judgment 
+as to the suitability of such investments and recommend-
+ations in the light of their own investment objectives, ex-
+perience, taxation status and financial position. Morning-
+star encourages Report recipients to read all relevant is-
+sue documents (e.g., prospectus) pertaining to the secur-
+ity concerned, including without limitation, information 
+relevant to its investment objectives, risks, and costs be-
+fore making an investment decision and when deemed 
+necessary, to seek the advice of a financial, legal, tax, 
+and/or accounting professional. The information, data, 
+analyses and opinions presented herein are not warran-
+ted to be accurate, correct, complete or timely. Unless 
+otherwise provided in a separate agreement, neither 
+Morningstar, Inc. or the Equity Research Group repres-
+ents that the report contents meet all of the presentation 
+and/or disclosure standards applicable in the jurisdiction 
+the recipient is located.
+Except as otherwise required by law or provided for in a 
+separate agreement, the analyst, Morningstar, Inc. and 
+the Equity Research Group and their officers, directors 
+and employees shall not be responsible or liable for any 
+trading decisions, damages or other losses resulting 
+from, or related to, the information, data, analyses or 
+opinions within the report.
+The Report and its contents are not directed to, or inten-
+ded for distribution to or use by, any person or entity who 
+is a citizen or resident of or located in any locality, state, 
+country or other jurisdiction where such distribution, 
+publication, availability or use would be contrary to law 
+or regulation or which would subject Morningstar, Inc. or 
+its affiliates to any registration or licensing requirements 
+in such jurisdiction.
+Where this report is made available in a language other 
+than English and in the case of inconsistencies between 
+the English and translated versions of the report, the Eng-
+lish version will control and supersede any ambiguities 
+associated with any part or section of a report that has 
+been issued in a foreign language. Neither the analyst, 
+Morningstar, Inc., or the Equity Research Group guaran-
+tees the accuracy of the translations.
+This report may be distributed in certain localities, coun-
+tries and/or jurisdictions (“Territories”) by independent 
+third parties or independent intermediaries and/or dis-
+tributors (“Distributors”). Such Distributors are not acting 
+as agents or representatives of the analyst, Morningstar, 
+Inc. or the Equity Research Group. In Territories where a 
+Distributor distributes our report, the Distributor is solely 
+responsible for complying with all applicable regulations, 
+laws, rules, circulars, codes and guidelines established 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 23 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 23 of 24
+?
+Research Methodology for Valuing Companies
+by local and/or regional regulatory bodies, including laws 
+in connection with the distribution third-party research 
+reports.
+Conflicts of Interest
+u No interests are held by the analyst with respect to the 
+security subject of this investment research report.
+u Morningstar, Inc. may hold a long position in the se-
+curity subject of this investment research report that 
+exceeds 0.5% of the total issued share capital of the 
+security. To determine if such is the case, please click 
+http://msi.morningstar.com and http://mdi.morning-
+star.com
+u Analysts’ compensation is derived from Morningstar, 
+Inc.’s overall earnings and consists of salary, bonus 
+and in some cases restricted stock.
+u Neither Morningstar, Inc. or the Equity Research Group 
+receives commissions for providing research nor do 
+they charge companies to be rated.
+u Morningstar’s overall earnings are generated in part 
+by the activities of the Investment Management and 
+Research groups, and other affiliates, who provide ser-
+vices to product issuers.
+u Morningstar employees may not pursue business and 
+employment opportunities outside Morningstar within 
+the investment industry (including but not limited to, 
+working as a financial planner, an investment profes-
+sional or investment professional representative, a 
+broker-dealer or broker-dealer agent, a financial 
+writer, reporter, or analyst) without the approval of 
+Morningstar’s Legal and if applicable, Compliance 
+teams.
+u Neither Morningstar, Inc. or the Equity Research Group 
+is a market maker or a liquidity provider of the security 
+noted within this report.
+u Neither Morningstar, Inc. or the Equity Research Group 
+has been a lead manager or co-lead manager over the 
+previous 12-months of any publicly disclosed offer of 
+financial instruments of the issuer.
+u Morningstar, Inc.’s investment management group 
+does have arrangements with financial institutions to 
+provide portfolio management/investment advice 
+some of which an analyst may issue investment re-
+search reports on. However, analysts do not have au-
+thority over Morningstar’s investment management 
+group’s business arrangements nor allow employees 
+from the investment management group to participate 
+or influence the analysis or opinion prepared by them.
+u Morningstar, Inc. is a publicly traded company (Ticker 
+Symbol: MORN) and thus a financial institution the se-
+curity of which is the subject of this report may own 
+more than 5% of Morningstar, Inc.’s total outstanding 
+shares. Please access Morningstar, Inc.’s proxy state-
+ment, “Security Ownership of Certain Beneficial Own-
+ers and Management” section https://
+shareholders.morningstar.com/investor-relations/fin-
+ancials/sec-filings/default.aspx
+u Morningstar, Inc. may provide the product issuer or its 
+related entities with services or products for a fee and 
+on an arms’ length basis including software products 
+and licenses, research and consulting services, data 
+services, licenses to republish our ratings and re-
+search in their promotional material, event sponsor-
+ship and website advertising.
+Further information on Morningstar, Inc.’s conflict of in-
+terest policies is available from http://global.morning-
+star.com/equitydisclosures.  Also, please note analysts 
+are subject to the CFA Institute’s Code of Ethics and 
+Standards of Professional Conduct.
+Risk Warning Please note that investments in securities 
+are subject to market and other risks and there is no as-
+surance or guarantee that the intended investment ob-
+jectives will be achieved. Past performance of a security 
+may or may not be sustained in future and is no indica-
+tion of future performance. A security’s investment return 
+and an investor's principal value will fluctuate so that, 
+when redeemed, an investor's shares may be worth more 
+or less than their original cost. A security's current invest-
+ment performance may be lower or higher than the in-
+vestment performance noted within the report. For in-
+vestments in foreign markets there are further risks, gen-
+erally based on exchange rate changes or changes in 
+political and social conditions.
+For more information about Morningstar's 
+methodologies, please visit global.morningstar.com/
+equitydisclosures
+For a list of securities which the Equity Research Group 
+currently covers and provides written analysis on please 
+contact your local Morningstar office. In addition, for his-
+torical analysis of securities covered, including their fair 
+value estimate, please contact your local office.
+For recipients in Australia: This Report has been issued 
+and distributed in Australia by Morningstar Australasia 
+Pty Ltd (ABN: 95 090 665 544; ASFL: 240892). Morningstar 
+Australasia Pty Ltd is the provider of the general advice 
+(‘the Service’) and takes responsibility for the production 
+of this report. The Service is provided through the re-
+search of investment products.
+To the extent the Report contains general advice it has 
+been prepared without reference to an investor’s object-
+ives, financial situation or needs. Investors should con-
+sider the advice in light of these matters and, if applic-
+able, the relevant Product Disclosure Statement before 
+making any decision to invest. Refer to our Financial Ser-
+vices Guide (FSG) for more information at http://
+www.morningstar.com.au/fsg.pdf
+For recipients in New Zealand: This report has been is-
+sued and distributed by Morningstar Australasia Pty Ltd 
+and/or Morningstar Research Ltd (together ‘Morning-
+star’). This report has been prepared and is intended for 
+distribution in New Zealand to wholesale clients only and 
+has not been prepared for use by New Zealand retail cli-
+ents (as those terms are defined in the Financial Markets 
+Conduct Act 2013).The information, views and any recom-
+mendations in this material are provided for general in-
+formation purposes only, and solely relate to the compan-
+ies and investment opportunities specified within. Our re-
+ports do not take into account any particular investor’s 
+financial situation, objectives or appetite for risk, mean-
+ing no representation may be implied as to the suitability 
+of any financial product mentioned for any particular in-
+vestor. We recommend seeking financial advice before 
+making any investment decision.
+For recipients in Hong Kong: The Report is distributed 
+by Morningstar Investment Management Asia Limited, 
+which is regulated by the Hong Kong Securities and Fu-
+tures Commission to provide services to professional in-
+vestors only. Neither Morningstar Investment Manage-
+ment Asia Limited, nor its representatives, are acting or 
+will be deemed to be acting as an investment profession-
+al to any recipients of this information unless expressly 
+agreed to by Morningstar Investment Management Asia 
+Limited.
+For recipients in India: This investment research is is-
+sued by Morningstar Investment Adviser India Private 
+Limited. Morningstar Investment Adviser India Private 
+Limited is registered with SEBI as a Portfolio Manager 
+(registration number INP000006156) and as a Research 
+Entity (registration number INH000008686). Morningstar 
+Investment Adviser India Private Limited has not been the 
+subject of any disciplinary action by SEBI or any other 
+legal/regulatory body. Morningstar Investment Adviser 
+India Private Limited is a wholly owned subsidiary of 
+Morningstar Investment Management LLC. In India, 
+Morningstar Investment Adviser India Private Limited has 
+one associate, Morningstar India Private Limited, which 
+provides data-related services, financial data analysis, 
+and software development. The research analyst has not 
+served as an officer, director, or employee of the fund 
+company within the last 12 months, nor have they or their 
+associates engaged in market-making activity for the 
+fund company.The ESG-related information, methodolo-
+gies, tool, ratings, data and opinions contained or reflec-
+ted herein are not directed to or intended for use or distri-
+bution to India-based clients or users and their distribu-
+tion to Indian resident individuals or entities is not per-
+mitted, and Morningstar/Sustainalytics accepts no re-
+sponsibility or liability whatsoever for the actions of third 
+parties in this respect.
+*The Conflicts of Interest disclosure above also applies to 
+relatives and associates of Manager Research Analysts in 
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+
+--- PAGE 24 ---
+Morningstar Equity Analyst Report | Report as of 3 Feb 2026 15:09, UTC | Reporting Currency: USD | Trading Currency: USD | Exchange: NASDAQ - ALL MARKETS
+Page 24 of 24
+?
+Research Methodology for Valuing Companies
+India # The Conflicts of Interest disclosure above also ap-
+plies to associates of Manager Research Analysts in In-
+dia. The terms and conditions on which Morningstar In-
+vestment Adviser India Private Limited offers Investment 
+Research to clients, varies from client to client, and are 
+detailed in the respective client agreement.
+For recipients in Japan: The Report is distributed by Ib-
+botson Associates Japan, Inc., which is regulated by Fin-
+ancial Services Agency, for informational purposes only. 
+Neither Ibbotson Associates Japan, Inc., nor its represent-
+atives, are acting or will be deemed to be acting as an in-
+vestment professional to any recipients of this informa-
+tion.
+For recipients in Singapore: The Report is intended for 
+Institutional Investor audiences and is distributed by 
+Morningstar Investment Adviser Singapore Pte. Limited, 
+which is licensed by the Monetary Authority of Singapore 
+to provide financial advisory services in Singapore. Morn-
+ingstar Investment Adviser Singapore Pte. Limited is the 
+entity responsible for the creation and distribution of the 
+research services described in this Report.
+This content is provided for informational purposes only 
+and may be shared or redistributed by Institutional In-
+vestors to their clients or other permitted persons, sub-
+ject to obtaining the appropriate licence from Morning-
+star. Redistribution of this content is subject to any ap-
+plicable conditions or limitations, including those agreed 
+commercially or contractually with Morningstar. The per-
+son who shares or redistributes this content shall be 
+solely responsible for compliance with all relevant legal 
+and regulatory obligations in the jurisdictions in which 
+the material is made available.
+Investors should consult a financial adviser regarding the 
+suitability of any investment product, taking into account 
+their specific investment objectives, financial situation or 
+particular needs, before making any investment decision.
+Morningstar, Inc., and its affiliates rely on certain exemp-
+tions (Financial Advisers Regulations, Section 27(1)(e), 
+Section 32B and 32C) to provide its investment research 
+to recipients in Singapore.
+For recipients in Korea: The report is distributed by 
+Morningstar Korea Ltd., which has filed to the Financial 
+Services Committee, for informational purposes only. 
+Neither Morningstar Korea Ltd. nor its representatives are 
+acting or will be deemed to be acting as an investment 
+advisor to any recipients of this information.
+© Morningstar 2026. All Rights Reserved. Unless otherwise provided in a separate agreement, you may use this report only in the country in which its original distributor is based. The information, data, analyses and 
+opinions presented herein do not constitute investment advice; are provided solely for informational purposes and therefore are not an offer to buy or sell a security; and are not warranted to be correct, complete or accurate. 
+The opinions expressed are as of the date written and are subject to change without notice. Except as otherwise required by law, Morningstar shall not be responsible for any trading decisions, damages or other losses 
+resulting from, or related to, the information, data, analyses or opinions or their use. The information contained herein is the proprietary property of Morningstar and may not be reproduced, in whole or in part, or used in any 
+manner, without the prior written consent of Morningstar. Investment research is produced and issued by subsidiaries of Morningstar, Inc. To order reprints, call +1 312-696-6100. To license the research, call +1 312-696-
+6869. Please see important disclosures at the end of this report.
+

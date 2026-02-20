@@ -1,0 +1,298 @@
+{
+  "ticker": "TSLA",
+  "report": {
+    "date": "2026-02-11",
+    "institution": "Stock Traders Daily",
+    "institution_en": "Stock Traders Daily",
+    "analyst": "Thomas H. Kee Jr.",
+    "rating": "买入",
+    "previous_rating": null,
+    "target_price": 463.82,
+    "previous_target_price": null,
+    "sentiment_score": 0.55,
+    "summary": "Stock Traders Daily的AI预测系统对TSLA发出多时间框架信号分析。当前价$425.21，近期（1-5天）信号强烈看多，中期（5-20天）信号偏弱，长期（20+天）信号强烈看多。AI识别出中通道振荡模式，给出40.5:1的风险回报比，目标11.7%涨幅（至$463.82-$513.94）vs仅0.3%下行风险。三套交易策略：做多入场$415.24目标$463.82、突破$431.53目标$463.82、对冲做空$463.82目标$419.41。",
+    "views": [
+      {
+        "topic": "AI预测信号",
+        "stance": "bullish",
+        "confidence": "high",
+        "summary": "Stock Traders Daily专有AI系统通过多时间框架信号提取（P1/P2/P3值）、动态支撑阻力识别、振荡模式检测算法生成交易信号。近期（1-5天）信号强烈，支撑$417.30-$431.53；长期（20+天）信号强烈，目标$463.82-$513.94。当前正面情绪占主导。",
+        "data_points": [
+          "近期信号强度: Strong，支撑S1=$417.30，阻力S2=$431.53",
+          "中期信号强度: Weak，支撑S1=$397.05，阻力S2=$419.41",
+          "长期信号强度: Strong，支撑S1=$463.82，阻力S2=$513.94",
+          "当前价$425.21处于信号阵列中间偏上位置",
+          "AI系统覆盖8000+证券，提供实时信号",
+          "采用多时间框架信号提取、动态支撑阻力识别、振荡模式检测算法"
+        ],
+        "predictions": [
+          {
+            "metric": "近期目标价（1-5天）",
+            "predicted_value": "$431.53",
+            "deadline": "2026-02-16",
+            "comparison_to_consensus": "inline",
+            "verified": false,
+            "actual_value": null,
+            "accurate": null,
+            "deviation_pct": null
+          },
+          {
+            "metric": "长期目标价（20+天）",
+            "predicted_value": "$463.82-$513.94",
+            "deadline": "2026-03-15",
+            "comparison_to_consensus": "above",
+            "verified": false,
+            "actual_value": null,
+            "accurate": null,
+            "deviation_pct": null
+          }
+        ]
+      },
+      {
+        "topic": "技术分析/振荡模式",
+        "stance": "bullish",
+        "confidence": "high",
+        "summary": "AI识别出中通道振荡模式（mid-channel oscillation pattern），当前价格在$415.24支撑位上方运行。Feb 10 OHLC数据显示日内波动$417-$427.25，收盘$425.21（+$7.89/+1.89%）。价格从1月底$450+区域回调至$390附近后反弹，目前重新站上$420关键支撑。",
+        "data_points": [
+          "Feb 10 OHLC: Open $418.08, High $427.25, Low $417.00, Close $425.21",
+          "日涨幅+$7.89（+1.89%）",
+          "中通道振荡模式确认",
+          "P1 Long支撑位$415.24为关键多空分界线",
+          "近期图表显示价格从$390低点反弹至$425区域",
+          "长期图表显示2025年8月$330低点至12月$490高点的大区间"
+        ],
+        "predictions": [
+          {
+            "metric": "振荡模式上轨目标",
+            "predicted_value": "$463.82",
+            "deadline": "2026-03-03",
+            "comparison_to_consensus": "above",
+            "verified": false,
+            "actual_value": null,
+            "accurate": null,
+            "deviation_pct": null
+          }
+        ]
+      },
+      {
+        "topic": "交易策略/风险管理",
+        "stance": "bullish",
+        "confidence": "high",
+        "summary": "报告提供三套完整交易策略。做多策略：入场$415.24，目标$463.82（+11.7%），止损$414.04（-0.3%），风险回报比40.5:1。突破策略：触发$431.53，目标$463.82（+7.5%），止损$430.52。对冲做空策略：入场$463.82，目标$419.41（-9.6%），止损$465.16。三套策略覆盖不同市场情景。",
+        "data_points": [
+          "做多入场$415.24，目标$463.82，止损$414.04",
+          "风险回报比40.5:1（11.7%收益 vs 0.3%风险）",
+          "突破触发$431.53，目标$463.82，止损$430.52",
+          "对冲做空入场$463.82，目标$419.41，止损$465.16",
+          "做多止损仅$1.20（$415.24→$414.04），极窄止损",
+          "突破止损$1.01（$431.53→$430.52），同样极窄"
+        ],
+        "predictions": [
+          {
+            "metric": "做多策略目标达成",
+            "predicted_value": "$463.82（+11.7%）",
+            "deadline": "2026-03-15",
+            "comparison_to_consensus": "above",
+            "verified": false,
+            "actual_value": null,
+            "accurate": null,
+            "deviation_pct": null
+          }
+        ]
+      },
+      {
+        "topic": "估值",
+        "stance": "bullish",
+        "confidence": "medium",
+        "summary": "基于AI信号系统，TSLA当前价$425.21相对于长期目标$463.82-$513.94有9.1%-20.9%的上行空间。P3 Long信号$513.94代表最大上行目标（+20.9%）。中期弱信号暗示$397.05-$419.41区间可能出现回调，但不改变长期看多格局。",
+        "data_points": [
+          "当前价$425.21 vs P2 Long目标$463.82（+9.1%上行）",
+          "当前价$425.21 vs P3 Long目标$513.94（+20.9%上行）",
+          "中期下行风险至$397.05（-6.6%）",
+          "P1 Long支撑$415.24（-2.3%下行保护）",
+          "信号阵列8个关键价位覆盖$397.05-$513.94区间"
+        ],
+        "predictions": [
+          {
+            "metric": "最大上行目标",
+            "predicted_value": "$513.94",
+            "deadline": "2026-06-30",
+            "comparison_to_consensus": "above",
+            "verified": false,
+            "actual_value": null,
+            "accurate": null,
+            "deviation_pct": null
+          }
+        ]
+      }
+    ],
+    "key_metrics": {
+      "revenue_estimate": null,
+      "eps_estimate": null,
+      "growth_rate": null,
+      "margin_estimate": null,
+      "other": {
+        "current_price": "$425.21",
+        "near_term_support": "$417.30",
+        "near_term_resistance": "$431.53",
+        "mid_term_support": "$397.05",
+        "mid_term_resistance": "$419.41",
+        "long_term_support": "$415.24",
+        "long_term_target_P2": "$463.82",
+        "long_term_target_P3": "$513.94",
+        "risk_reward_ratio": "40.5:1"
+      }
+    },
+    "key_assumptions": [
+      "AI振荡模式检测算法准确识别了中通道模式",
+      "历史价格模式将在近期重复（技术分析核心假设）",
+      "$415.24支撑位将持续有效",
+      "正面近期情绪将延续至中期",
+      "市场流动性足以支撑信号价位的有效性"
+    ],
+    "risk_factors": [
+      "中期（5-20天）信号偏弱，可能出现$397.05的回调",
+      "技术分析不考虑基本面突发事件（财报、政策变化等）",
+      "AI信号基于历史模式，无法预测黑天鹅事件",
+      "止损极窄（$1.20），高波动环境下可能被频繁触发",
+      "报告明确声明过往表现不保证未来结果"
+    ],
+    "blind_spots": [
+      "完全忽略基本面分析（营收、利润、交付量等）",
+      "未提及宏观经济环境对TSLA的影响",
+      "未考虑Musk政治活动对品牌和销量的影响",
+      "未涉及竞争格局变化（BYD等）",
+      "未讨论估值倍数是否合理（当前P/E约205倍）",
+      "未提及$7,500联邦税收抵免到期的影响"
+    ],
+    "catalysts": [],
+    "chart_insights": [
+      {
+        "chart_name": "TSLA Near Term Signals",
+        "chart_type": "line",
+        "source_file": "TSLA-Oscillation-Patterns-and-_p6_img2.jpeg",
+        "description": "近期（1-5天）价格走势图，覆盖2026年1月底至2月10日。显示TSLA价格从$390低点反弹至$425区域，叠加AI生成的支撑线（绿色$419.30）和阻力线（红色$431.53和$463.82）。",
+        "key_observations": [
+          "价格从2月初$390附近低点强劲反弹约9%至$425",
+          "当前价格刚好站上绿色支撑线$419.30，确认短期多头格局",
+          "第一阻力$431.53距当前价仅1.5%，突破概率较高",
+          "价格走势呈现明显的V型反弹形态"
+        ],
+        "data_not_in_text": [
+          "2月初价格曾跌至$390附近（文字未提及具体低点）",
+          "反弹过程中在$400-$410区间有明显的盘整蓄力阶段"
+        ],
+        "investment_implication": "近期V型反弹动能强劲，价格已站上支撑线，短线做多信号明确。$431.53突破后将打开至$463.82的上行空间。"
+      },
+      {
+        "chart_name": "TSLA Mid Term Signals",
+        "chart_type": "line",
+        "source_file": "TSLA-Oscillation-Patterns-and-_p6_img3.jpeg",
+        "description": "中期（5-20天）价格走势图，覆盖2026年1月25日至2月10日。显示TSLA从$450+高位回调至$390后反弹，叠加支撑线（绿色$415.24）和阻力线（红色$463.82和$513.94）。",
+        "key_observations": [
+          "1月25日前后价格在$450附近，随后持续下跌至2月初$390",
+          "中期趋势仍偏弱——价格在支撑线$415.24附近徘徊",
+          "两条阻力线$463.82和$513.94距当前价分别有9%和21%的距离",
+          "价格波动区间从$390到$450，振幅约15%"
+        ],
+        "data_not_in_text": [
+          "1月底至2月初的下跌幅度约13%（$450→$390），显示中期卖压显著",
+          "反弹后价格在$415-$425区间震荡，尚未形成明确的中期上升趋势"
+        ],
+        "investment_implication": "中期信号偏弱与图表一致——价格仍在消化前期跌幅。需等待突破$431.53确认中期反转，否则可能再次测试$397.05支撑。"
+      },
+      {
+        "chart_name": "TSLA Long Term Signals",
+        "chart_type": "line",
+        "source_file": "TSLA-Oscillation-Patterns-and-_p7_img3.jpeg",
+        "description": "长期（20+天）价格走势图，覆盖2025年8月至2026年2月。显示TSLA从$330低点上涨至$490高点后回调至$425，叠加长期支撑线（绿色$415.24）和阻力线（红色$463.82和$513.94）。",
+        "key_observations": [
+          "2025年8月低点约$330，12月底高点约$490，涨幅约48%",
+          "当前$425处于长期上升趋势的回调阶段（从高点回撤约13%）",
+          "长期支撑$415.24与当前价格非常接近（仅2.3%下方），提供强支撑",
+          "$463.82阻力位恰好是前期多次触及的价格区域"
+        ],
+        "data_not_in_text": [
+          "2025年9-10月存在$420-$460区间的长期盘整平台，当前价格回到该平台",
+          "12月底$490高点后的回调速度较快（约6周跌13%），但未破坏长期上升结构",
+          "2025年11月底曾有一次快速回调至$400附近后迅速反弹的先例"
+        ],
+        "investment_implication": "长期上升趋势完好，当前回调至关键支撑区域$415-$425。历史上该区域多次提供买入机会。长期目标$463.82-$513.94代表从当前价9-21%的上行空间。"
+      },
+      {
+        "chart_name": "Signal Array Table",
+        "chart_type": "table",
+        "source_file": "TSLA-Oscillation-Patterns-and-_p3_img2.png",
+        "description": "完整的8级信号阵列表格，按降序排列从P3 Long($513.94)到P2 Mid($397.05)，当前价$425.21标注在阵列中间位置。",
+        "key_observations": [
+          "8个信号价位形成完整的支撑-阻力网格",
+          "当前价$425.21位于P2 Near($417.30)和P3 Near($431.53)之间",
+          "上方有4个阻力位，下方有3个支撑位，多空力量偏多",
+          "最大上行空间$513.94（+20.9%）远大于最大下行风险$397.05（-6.6%）"
+        ],
+        "data_not_in_text": [
+          "信号阵列的分布密度不均——$415-$432区间密集（4个信号），$432-$514区间稀疏（2个信号），暗示突破$432后可能快速上行",
+          "P1 Long($415.24)和P2 Near($417.30)仅相差$2.06，形成强支撑簇"
+        ],
+        "investment_implication": "信号阵列显示上行空间远大于下行风险（20.9% vs 6.6%），且$415-$417区间形成双重支撑簇，为做多提供了极佳的风险回报结构。"
+      },
+      {
+        "chart_name": "Multi-Timeframe Signal Summary",
+        "chart_type": "table",
+        "source_file": "TSLA-Oscillation-Patterns-and-_p2_img2.png",
+        "description": "三个时间框架的信号强度汇总表：近期Strong、中期Weak、长期Strong，配合各自的S1/S2支撑阻力值。",
+        "key_observations": [
+          "近期和长期信号均为Strong，形成短长共振的看多格局",
+          "中期Weak信号是唯一的警示——5-20天内可能有波动",
+          "近期S1=$417.30与长期S1=$463.82形成阶梯式目标",
+          "三个时间框架的信号覆盖从1天到20+天的完整交易周期"
+        ],
+        "data_not_in_text": [
+          "近期Strong+长期Strong的组合在技术分析中通常被视为'买入回调'信号",
+          "中期Weak可能反映1月底至2月初下跌趋势的惯性尚未完全消退"
+        ],
+        "investment_implication": "短长共振看多+中期偏弱的组合建议：可在$415-$420区间分批建仓，但需设好止损应对中期波动风险。"
+      },
+      {
+        "chart_name": "Position Trading Strategy Card",
+        "chart_type": "flow",
+        "source_file": "TSLA-Oscillation-Patterns-and-_p4_img1.png",
+        "description": "做多交易策略卡片（绿色边框），显示入场$415.24、目标$463.82、止损$414.04的完整参数。",
+        "key_observations": [
+          "入场价$415.24低于当前价$425.21约2.3%，需等待回调",
+          "目标价$463.82代表从入场价+11.7%的收益",
+          "止损$414.04仅比入场价低$1.20（0.29%），极窄止损",
+          "风险回报比40.5:1是该策略的核心卖点"
+        ],
+        "data_not_in_text": [
+          "极窄止损$1.20在TSLA日均波动$10+的背景下可能过于激进",
+          "入场价$415.24需要从当前价回调2.3%才能触发"
+        ],
+        "investment_implication": "理论上风险回报比极佳，但$1.20的止损在TSLA的波动率下实操难度大，建议适当放宽止损至$410-$412区间。"
+      }
+    ],
+    "cross_comparison": {
+      "vs_previous_reports": [
+        {
+          "compared_with": "tsla-argus-20260130",
+          "topic": "整体立场",
+          "divergence": "major",
+          "description": "Stock Traders Daily基于AI技术信号看多（目标$463.82-$513.94），而Argus基于基本面看空（持有评级，认为估值过高P/E 205倍）。两者分析维度完全不同——技术面vs基本面的经典分歧。"
+        },
+        {
+          "compared_with": "tsla-zacks-20260202",
+          "topic": "目标价",
+          "divergence": "moderate",
+          "description": "Stock Traders Daily长期目标$463.82与Zacks目标价$452接近（+2.6%），但STD的P3目标$513.94则显著高于Zacks。两者在方向上一致但幅度有差异。"
+        },
+        {
+          "compared_with": "tsla-argus-20260130",
+          "topic": "风险评估",
+          "divergence": "major",
+          "description": "STD认为下行风险仅0.3%（止损$414.04），而Argus认为估值泡沫风险巨大（P/E 205倍，资本开支>$200亿）。STD完全忽略基本面风险，Argus完全忽略技术面信号。"
+        }
+      ],
+      "consensus_position": "Stock Traders Daily是三份研报中最看多的，基于纯技术/AI信号给出$463.82-$513.94目标区间。与Zacks的$452目标价方向一致但更激进，与Argus的持有/看空立场形成鲜明对比。"
+    }
+  }
+}
