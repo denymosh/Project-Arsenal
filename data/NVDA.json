@@ -71,6 +71,29 @@
           "summary": "除数据中心外，游戏、专业可视化、汽车是中长期增量方向。",
           "data_points": [],
           "predictions": []
+        },
+        {
+          "topic": "行业周期",
+          "stance": "neutral",
+          "confidence": "medium",
+          "summary": "Argus认为AI交易路径会“颠簸”（bumpy），但参考云/互联网/半导体/PC等历史技术浪潮，长期仍可能持续且有成果。",
+          "data_points": [
+            "原文：\"The AI trade may be bumpy going forward. But ... it seems likely to be long and fruitful.\"",
+            "Argus测算全球AI基础设施收入2025年约$600B，2030年约$3.0T（40% CAGR）。",
+            "原文提到资金可能从“纯AI”向受益行业轮动，短期有助于市场稳定。"
+          ],
+          "predictions": [
+            {
+              "metric": "全球AI基础设施收入",
+              "predicted_value": "$3.0T",
+              "deadline": "2030-12-31",
+              "comparison_to_consensus": "above",
+              "verified": false,
+              "actual_value": null,
+              "accurate": null,
+              "deviation_pct": null
+            }
+          ]
         }
       ],
       "key_metrics": {
@@ -661,6 +684,18 @@
           "summary": "当前估值（40.5x前瞻P/E）高于行业（23.2x）和标普500（23.0x），评级从Outperform下调至Neutral。",
           "data_points": [],
           "predictions": []
+        },
+        {
+          "topic": "毛利率",
+          "stance": "bearish",
+          "confidence": "medium",
+          "summary": "Zacks明确提示更复杂AI系统的生产成本上升将压制利润率，同时H20对华销售需向美国政府缴纳15%收入，也会拖累中国业务盈利弹性。",
+          "data_points": [
+            "原文（Summary）：\"Rising costs associated with the production of more complex AI systems will hurt margins.\"",
+            "原文（Reasons to Buy）：H20在华销售协议要求向美国政府支付15%相关收入。",
+            "原文说明该安排“may slightly impact margins”，属于明确的利润率压力项。"
+          ],
+          "predictions": []
         }
       ],
       "key_metrics": {
@@ -851,15 +886,15 @@
       },
       "行业周期": {
         "bullish": 1,
-        "neutral": 0,
+        "neutral": 1,
         "bearish": 0,
-        "not_mentioned": 3
+        "not_mentioned": 2
       },
       "毛利率": {
         "bullish": 1,
         "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 3
+        "bearish": 1,
+        "not_mentioned": 2
       },
       "汽车": {
         "bullish": 2,
@@ -875,8 +910,8 @@
       }
     },
     "major_divergences": [],
-    "highest_conviction_view": "AI芯片（3/4机构明确看多，且含Blackwell/Rubin/CUDA多条量化证据）",
-    "most_contrarian_view": "行业周期（仅ISS EVA系统化覆盖，其他机构基本未展开）"
+    "highest_conviction_view": "AI芯片（3/4机构看多，Blackwell/Rubin/CUDA证据密集）",
+    "most_contrarian_view": "毛利率（ISS偏正面、Zacks偏负面，其余覆盖不足）"
   },
   "sentiment_history": [
     {
