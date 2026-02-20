@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "cp -r ../data ./data",
+    "prebuild": "mkdir -p ./data && cp -f ../data/*.json ./data/",
     "build": "npm run prebuild && next build",
     "start": "next start"
   },
