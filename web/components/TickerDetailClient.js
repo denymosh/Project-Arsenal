@@ -112,8 +112,7 @@ function ViewsHeatmap({ reports }) {
 
     if (dimensions.length === 0) return null;
 
-    const institutions = mappedReports.map(r => r.institution);
-    const totalInst = institutions.length || 1;
+    const totalInst = mappedReports.length || 1;
 
     return (
         <div className="card section">
@@ -125,12 +124,15 @@ function ViewsHeatmap({ reports }) {
                 <div
                     className="heatmap-grid"
                     style={{
-                        gridTemplateColumns: `140px repeat(${institutions.length}, 1fr)`,
+                        gridTemplateColumns: `140px repeat(${mappedReports.length}, 1fr)`,
                     }}
                 >
                     <div className="heatmap-cell header">维度</div>
-                    {institutions.map((inst, i) => (
-                        <div key={i} className="heatmap-cell header">{inst}</div>
+                    {mappedReports.map((report, i) => (
+                        <div key={i} className="heatmap-cell header" style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.25 }}>
+                            <span style={{ color: 'var(--text-primary)', fontWeight: 700 }}>{report.institution}</span>
+                            <span style={{ color: 'var(--text-muted)', fontSize: '0.68rem' }}>{report.date || 'N/A'}</span>
+                        </div>
                     ))}
 
                     {dimensions.map(dim => (
@@ -182,9 +184,9 @@ function ReportTimeline({ reports }) {
             <div className="timeline">
                 {sorted.map((report, i) => (
                     <div key={report.id || i} className="timeline-item">
-                        <div className="timeline-date">{report.date}</div>
                         <div className="timeline-institution">{report.institution}</div>
-                        <div className="timeline-rating" style={{ marginTop: '4px' }}>
+                        <div className="timeline-date">{report.date}</div>
+                        <div className="timeline-rating" style={{ marginTop: '6px' }}>
                             <span className={`rating-badge ${getRatingClass(report.rating)}`}>
                                 {report.rating}
                             </span>
