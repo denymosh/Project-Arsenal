@@ -11,6 +11,25 @@ import {
     ReferenceLine, Cell, ScatterChart, Scatter, CartesianGrid
 } from 'recharts';
 
+function normalizeInstitution(name) {
+    return (name || '').toString().trim().toLowerCase();
+}
+
+function getLatestReportsByInstitution(reports) {
+    const sorted = [...(reports || [])].sort((a, b) => new Date(b.date) - new Date(a.date));
+    const seen = new Set();
+    const latest = [];
+
+    sorted.forEach((report) => {
+        const key = normalizeInstitution(report.institution);
+        if (!key || seen.has(key)) return;
+        seen.add(key);
+        latest.push(report);
+    });
+
+    return latest;
+}
+
 // ========== 观点热力图 ==========
 function ViewsHeatmap({ reports, dimensions }) {
     if (!reports || reports.length === 0) return null;
@@ -135,7 +154,7 @@ function TargetPriceChart({ reports, consensus }) {
     if (!reports || reports.length === 0) return null;
 
     const chartData = reports.map(r => ({
-        name: r.institution,
+        name: `${r.institution} (${r.date || 'N/A'})`,
         target: r.target_price,
         sentiment: r.sentiment_score,
     }));
@@ -363,6 +382,7 @@ function ConsensusMatrix({ matrix }) {
 export default function TickerDetailClient({ tickerInfo, tickerData }) {
     const consensus = tickerData?.current_consensus || {};
     const reports = tickerData?.reports || [];
+    const latestReports = getLatestReportsByInstitution(reports);
     const dimensions = tickerData?.view_dimensions || tickerInfo?.default_dimensions || [];
     const crossComparison = tickerData?.cross_comparison || {};
 
@@ -439,10 +459,10 @@ export default function TickerDetailClient({ tickerInfo, tickerData }) {
                     </div>
 
                     {/* 目标价图表 */}
-                    <TargetPriceChart reports={reports} consensus={consensus} />
+                    <TargetPriceChart reports={latestReports} consensus={consensus} />
 
                     {/* 观点热力图 */}
-                    <ViewsHeatmap reports={reports} dimensions={dimensions} />
+                    <ViewsHeatmap reports={latestReports} dimensions={dimensions} />
 
                     {/* 共识矩阵 */}
                     <ConsensusMatrix matrix={crossComparison.consensus_matrix} />
