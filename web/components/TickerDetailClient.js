@@ -72,7 +72,7 @@ function normalizeTopic(topic) {
     return t;
 }
 
-function getMappedComparableReports(reports) {
+function getMappedComparableReports(reports, minCoverage = 2) {
     const mappedReports = (reports || []).map((report) => {
         const mapped = [];
         const seen = new Set();
@@ -93,10 +93,10 @@ function getMappedComparableReports(reports) {
     });
 
     const dimensions = Object.keys(dimCount)
-        .filter((dim) => dimCount[dim] >= 2)
+        .filter((dim) => dimCount[dim] >= minCoverage)
         .sort();
 
-    return { mappedReports, dimensions };
+    return { mappedReports, dimensions, dimCount };
 }
 
 function ViewsHeatmap({ reports }) {
@@ -108,17 +108,18 @@ function ViewsHeatmap({ reports }) {
         bearish: { label: '看空', cls: 'bearish' },
     };
 
-    const { mappedReports, dimensions } = getMappedComparableReports(reports);
+    const { mappedReports, dimensions, dimCount } = getMappedComparableReports(reports, 1);
 
     if (dimensions.length === 0) return null;
 
     const institutions = mappedReports.map(r => r.institution);
+    const totalInst = institutions.length || 1;
 
     return (
         <div className="card section">
-            <div className="section-title"><span className="icon">🔥</span> 观点热力图（可比维度）</div>
+            <div className="section-title"><span className="icon">🔥</span> 观点热力图（机构主题快照）</div>
             <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '8px' }}>
-                仅展示至少被 2 家机构覆盖的维度，非同口径内容自动归入时间线。
+                显示所有被至少 1 家机构提及的维度；每行后缀为覆盖数（机构数）。
             </div>
             <div style={{ overflowX: 'auto' }}>
                 <div
@@ -135,7 +136,7 @@ function ViewsHeatmap({ reports }) {
                     {dimensions.map(dim => (
                         <React.Fragment key={dim}>
                             <div className="heatmap-cell header" style={{ textAlign: 'left', fontWeight: 600 }}>
-                                {dim}
+                                {dim} ({dimCount[dim]}/{totalInst})
                             </div>
                             {mappedReports.map((report, ri) => {
                                 const view = report.views?.find(v => v.topic === dim);
@@ -417,8 +418,9 @@ function ChartInsightsPanel({ reports }) {
 function ConsensusMatrix({ reports }) {
     if (!reports || reports.length === 0) return null;
 
-    const { mappedReports, dimensions } = getMappedComparableReports(reports);
+    const { mappedReports, dimensions, dimCount } = getMappedComparableReports(reports, 1);
     if (dimensions.length === 0) return null;
+    const totalInst = mappedReports.length || 1;
 
     const matrix = {};
     dimensions.forEach((dim) => {
@@ -437,14 +439,15 @@ function ConsensusMatrix({ reports }) {
 
     return (
         <div className="card section">
-            <div className="section-title"><span className="icon">🔥</span> 共识矩阵（可比维度）</div>
+            <div className="section-title"><span className="icon">🔥</span> 共识矩阵（机构主题快照）</div>
             <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '8px' }}>
-                仅统计至少被 2 家机构覆盖的维度，口径不同的独有主题不计入共识矩阵。
+                统计所有被至少 1 家机构提及的维度；“覆盖”显示提及该维度的机构数。
             </div>
             <table className="data-table">
                 <thead>
                     <tr>
                         <th>维度</th>
+                        <th>覆盖</th>
                         <th>🟢 看多</th>
                         <th>🟡 中性</th>
                         <th>🔴 看空</th>
@@ -455,6 +458,7 @@ function ConsensusMatrix({ reports }) {
                     {Object.entries(matrix).map(([dim, counts]) => (
                         <tr key={dim}>
                             <td style={{ fontWeight: 600 }}>{dim}</td>
+                            <td className="mono" style={{ color: 'var(--text-secondary)' }}>{dimCount[dim] || 0}/{totalInst}</td>
                             <td className="text-green font-bold">{counts.bullish || '—'}</td>
                             <td className="text-yellow font-bold">{counts.neutral || '—'}</td>
                             <td className="text-red font-bold">{counts.bearish || '—'}</td>
