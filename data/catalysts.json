@@ -417,6 +417,32 @@
       "actual_result": null
     },
     {
+      "id": "onds_dow_drone_dominance_program初始订",
+      "date": "2026-02-28",
+      "ticker": "ONDS",
+      "event": "DoW Drone Dominance Program初始订单公布",
+      "importance": "high",
+      "related_reports": [
+        "20260120_stifel"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "onds_fq4正式财报发布（预告$27-29m已超预期）",
+      "date": "2026-03-15",
+      "ticker": "ONDS",
+      "event": "FQ4正式财报发布（预告$27-29M已超预期）",
+      "importance": "high",
+      "related_reports": [
+        "20260120_stifel"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "nvda_gtc_2026_开发者大会——新产品路线图可能改变_r&d",
       "date": "2026-03-17",
       "ticker": "NVDA",
@@ -557,6 +583,45 @@
       "importance": "medium",
       "related_reports": [
         "20260130_zacks_investment_research"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "onds_dhs_fifa世界杯c-uas合同授予进展",
+      "date": "2026-06-30",
+      "ticker": "ONDS",
+      "event": "DHS FIFA世界杯C-UAS合同授予进展",
+      "importance": "high",
+      "related_reports": [
+        "20260120_stifel"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "onds_project_hives以色列边境合同首批交付",
+      "date": "2026-06-30",
+      "ticker": "ONDS",
+      "event": "Project Hives以色列边境合同首批交付",
+      "importance": "medium",
+      "related_reports": [
+        "20260120_stifel"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "onds_fy2026_q2/q3收入确认验证全年$175m指引可达性",
+      "date": "2026-09-30",
+      "ticker": "ONDS",
+      "event": "FY2026 Q2/Q3收入确认验证全年$175M指引可达性",
+      "importance": "medium",
+      "related_reports": [
+        "20260120_stifel"
       ],
       "predictions_to_verify": [],
       "verified": false,
