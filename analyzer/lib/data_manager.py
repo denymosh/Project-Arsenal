@@ -64,6 +64,40 @@ def load_ticker_data(ticker: str) -> TickerData:
     return TickerData.model_validate(raw)
 
 
+def ensure_ticker_registered(ticker: str) -> None:
+    """确保标的已注册到 tickers.json 且存在 data/{ticker}.json。"""
+    ticker = ticker.upper()
+
+    # 1) 注册到 tickers.json
+    tickers_path = DATA_DIR / "tickers.json"
+    raw = read_json(tickers_path)
+    items = raw.get("tickers", [])
+    exists = any((x.get("symbol") or "").upper() == ticker for x in items)
+    if not exists:
+        items.append({
+            "symbol": ticker,
+            "name_en": ticker,
+            "name_cn": ticker,
+            "sector": "待补充",
+            "default_dimensions": ["核心业务", "增长", "利润率", "现金流", "竞争格局", "估值"],
+        })
+        raw["tickers"] = sorted(items, key=lambda x: (x.get("symbol") or ""))
+        raw["last_updated"] = date.today().isoformat()
+        write_json(tickers_path, raw)
+        print(f"  🆕 已自动注册新标的: {ticker}")
+
+    # 2) 创建 data/{ticker}.json 空壳
+    ticker_path = DATA_DIR / f"{ticker}.json"
+    if not ticker_path.exists():
+        stub = TickerData(
+            ticker=ticker,
+            name_en=ticker,
+            name_cn=ticker,
+        )
+        write_json(ticker_path, stub.model_dump())
+        print(f"  🆕 已初始化数据文件: data/{ticker}.json")
+
+
 def save_ticker_data(ticker_data: TickerData) -> None:
     """保存标的数据文件"""
     filepath = DATA_DIR / f"{ticker_data.ticker}.json"
@@ -92,6 +126,9 @@ def add_report_to_ticker(ticker: str, analysis: AnalysisInput) -> StoredReport:
     返回:
         StoredReport: 存储后的研报记录
     """
+    # 确保新标的可自动注册并初始化
+    ensure_ticker_registered(ticker)
+
     # 加载现有数据
     ticker_data = load_ticker_data(ticker)
     report = analysis.report
