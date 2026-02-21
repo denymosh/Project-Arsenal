@@ -30,6 +30,34 @@ function getLatestReportsByInstitution(reports) {
     return latest;
 }
 
+function getInstitutionTopicSnapshot(reports) {
+    const sorted = [...(reports || [])].sort((a, b) => new Date(b.date) - new Date(a.date));
+    const byInstitution = new Map();
+
+    sorted.forEach((report) => {
+        const key = normalizeInstitution(report.institution);
+        if (!key) return;
+
+        if (!byInstitution.has(key)) {
+            byInstitution.set(key, {
+                ...report,
+                views: [],
+                _topics: new Set(),
+            });
+        }
+
+        const bucket = byInstitution.get(key);
+        (report.views || []).forEach((v) => {
+            const dim = normalizeTopic(v.topic);
+            if (!dim || bucket._topics.has(dim)) return;
+            bucket._topics.add(dim);
+            bucket.views.push({ ...v, topic: dim });
+        });
+    });
+
+    return Array.from(byInstitution.values()).map(({ _topics, ...rest }) => rest);
+}
+
 // ========== 观点热力图 ==========
 function normalizeTopic(topic) {
     const t = (topic || '').toString().trim();
@@ -444,6 +472,7 @@ export default function TickerDetailClient({ tickerInfo, tickerData }) {
     const consensus = tickerData?.current_consensus || {};
     const reports = tickerData?.reports || [];
     const latestReports = getLatestReportsByInstitution(reports);
+    const snapshotReports = getInstitutionTopicSnapshot(reports);
     const dimensions = tickerData?.view_dimensions || tickerInfo?.default_dimensions || [];
     const crossComparison = tickerData?.cross_comparison || {};
 
@@ -523,10 +552,10 @@ export default function TickerDetailClient({ tickerInfo, tickerData }) {
                     <TargetPriceChart reports={latestReports} consensus={consensus} />
 
                     {/* 观点热力图 */}
-                    <ViewsHeatmap reports={latestReports} />
+                    <ViewsHeatmap reports={snapshotReports} />
 
                     {/* 共识矩阵 */}
-                    <ConsensusMatrix reports={latestReports} />
+                    <ConsensusMatrix reports={snapshotReports} />
 
                     {/* 分歧面板 */}
                     <DivergencePanel divergences={crossComparison.major_divergences} />
