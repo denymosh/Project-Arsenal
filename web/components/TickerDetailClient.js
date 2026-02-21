@@ -159,7 +159,7 @@ function ReportTimeline({ reports }) {
                             <span className={`rating-badge ${getRatingClass(report.rating)}`}>
                                 {report.rating}
                             </span>
-                            <span style={{ marginLeft: '8px', fontFamily: 'var(--font-mono)', fontWeight: 700 }}>
+                            <span style={{ marginLeft: '8px', fontFamily: 'var(--font-mono)', fontWeight: 700, color: 'var(--cyan)' }}>
                                 ${report.target_price}
                             </span>
                             <span style={{
@@ -498,9 +498,9 @@ export default function TickerDetailClient({ tickerInfo, tickerData }) {
                         </div>
                         <div className="stat-card">
                             <div className="stat-label">平均目标价</div>
-                            <div className="stat-value mono">${consensus.avg_target_price?.toFixed(0) || '—'}</div>
+                            <div className="stat-value mono" style={{ color: 'var(--cyan)' }}>${consensus.avg_target_price?.toFixed(0) || '—'}</div>
                             {consensus.min_target_price && (
-                                <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '4px' }}>
+                                <div style={{ fontSize: '0.78rem', color: 'var(--text-secondary)', marginTop: '4px', fontFamily: 'var(--font-mono)' }}>
                                     区间: ${consensus.min_target_price} - ${consensus.max_target_price}
                                 </div>
                             )}
