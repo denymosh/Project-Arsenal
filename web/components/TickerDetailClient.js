@@ -137,8 +137,8 @@ function ViewsHeatmap({ reports }) {
                     <div className="heatmap-cell header">维度</div>
                     {mappedReports.map((report, i) => (
                         <div key={i} className="heatmap-cell header" style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.25 }}>
-                            <span style={{ color: 'var(--text-primary)', fontWeight: 700 }}>{formatInstitutionName(report.institution)}</span>
-                            <span style={{ color: 'var(--text-muted)', fontSize: '0.68rem' }}>{report.date || 'N/A'}</span>
+                            <span style={{ color: '#e2e8f0', fontWeight: 800 }}>{formatInstitutionName(report.institution)}</span>
+                            <span style={{ color: '#94a3b8', fontSize: '0.7rem', fontWeight: 600 }}>{report.date || 'N/A'}</span>
                         </div>
                     ))}
 
