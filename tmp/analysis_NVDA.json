@@ -1,209 +1,227 @@
 {
   "ticker": "NVDA",
   "report": {
-    "date": "2026-02-04",
-    "institution": "Zacks",
-    "institution_en": "Zacks Investment Research",
-    "analyst": "",
-    "rating": "持有",
-    "target_price": 189.0,
-    "sentiment_score": 0.45,
+    "date": "2026-02-19",
+    "institution": "ISS EVA",
+    "institution_en": "ISS EVA (PRVit)",
+    "analyst": "Gavin Thomson",
+    "rating": "增持",
+    "target_price": 187.9,
+    "sentiment_score": 0.55,
     "views": [
       {
-        "topic": "核心观点",
+        "topic": "PRVit 综合评级：OVERWEIGHT (71)",
         "stance": "bullish",
-        "confidence": "medium",
-        "summary": "NVDA受益于AI与高性能加速计算的强劲增长，数据中心收入预计FY2026-2028 CAGR达42.1%。",
-        "data_points": [],
+        "confidence": "high",
+        "summary": "PRVit 综合评分 71（vs Industry），评级 OVERWEIGHT。盈利能力 P=100（满分），风险 R=56（中等偏低），估值 V=98（极高）。Quality Score (P-R)=84，属于高质量但高估值组合。",
+        "data_points": [
+          "PRVit Score vs Industry: 71",
+          "P Score: 100",
+          "R Score: 56",
+          "V Score: 98",
+          "Quality Score (P-R): 84",
+          "PAS: 4"
+        ],
         "predictions": []
       },
       {
-        "topic": "核心观点",
+        "topic": "盈利能力：行业顶级且趋势强劲",
         "stance": "bullish",
-        "confidence": "medium",
-        "summary": "Hopper与Blackwell架构GPU需求旺盛，生成式AI与大语言模型持续驱动数据中心营收。",
-        "data_points": [],
+        "confidence": "high",
+        "summary": "EVA Margin 48.5%（行业98百分位），EVA Spread 155.5%（行业100百分位）。三年 EVA Momentum 94.2%（行业100百分位）。EBITDAR Margin 71.7%，NOPAT $96.5B，ROC 165.3% vs COC 9.8%，经济利润极为丰厚。",
+        "data_points": [
+          "EVA Margin: 48.5% (98th %ile)",
+          "EVA Spread: 155.5% (100th %ile)",
+          "ROC: 165.3%",
+          "COC: 9.8%",
+          "NOPAT: $96.5B",
+          "EBITDAR Margin: 71.7%",
+          "Sales: $187.1B",
+          "Sales Growth: 65.2% YoY"
+        ],
         "predictions": []
       },
       {
-        "topic": "核心观点",
-        "stance": "bullish",
-        "confidence": "medium",
-        "summary": "企业AI采用加速，DGX Cloud与CUDA生态扩展使NVDA成为企业AI首选平台。",
-        "data_points": [],
+        "topic": "风险画像：波动性高但现金流极强",
+        "stance": "neutral",
+        "confidence": "high",
+        "summary": "R Score 56（风险中等）。股价波动率 41.9%（行业仅6百分位，即波动极高）；但 FCF Rate 106.3%、OCG Return 495.7% 均为行业最优（0百分位=最低风险），债务极低（Debt/Capital 7.8%，Debt/EBITDAR 0.1x）。波动性是主要风险来源，而非基本面脆弱性。",
+        "data_points": [
+          "Stock Price Volatility: 41.9% (6th %ile)",
+          "EVA Margin Variability: 16.0% (68th %ile)",
+          "FCF Rate: 106.3%",
+          "OCG Return: 495.7%",
+          "Debt/Capital: 7.8%",
+          "Debt/EBITDAR: 0.1x",
+          "FCF: $62.0B"
+        ],
         "predictions": []
       },
       {
-        "topic": "核心观点",
-        "stance": "bullish",
-        "confidence": "medium",
-        "summary": "Blackwell Ultra推理吞吐量较Hopper 100提升25倍，巩固AI推理领域主导地位。",
-        "data_points": [],
+        "topic": "估值：极度拉伸，未来增长依赖度 77%",
+        "stance": "bearish",
+        "confidence": "high",
+        "summary": "V Score 98（极高估值）。MVA Margin 2,380%，MVA Spread 5,620%，NOPAT Multiple 47.0x，EBITDAR Multiple 33.8x。Future Growth Reliance 77.2%——即当前市值中 77% 依赖于尚未实现的未来 EVA 增长。市场隐含 EVA Margin 为 65.5%，高于当前 48.5%，意味着市场预期盈利能力还需大幅提升。",
+        "data_points": [
+          "MVA Margin: 2,380%",
+          "MVA Spread: 5,620%",
+          "EBITDAR Multiple: 33.8x",
+          "NOPAT Multiple: 47.0x",
+          "FGR: 77.2%",
+          "Market-Implied EVA Margin: 65.5% vs Current 48.5%",
+          "Market Cap: $4,566.9B",
+          "FVA: $3,498B"
+        ],
         "predictions": []
       },
       {
-        "topic": "核心观点",
+        "topic": "运营效率：多项指标行业领先",
         "stance": "bullish",
-        "confidence": "medium",
-        "summary": "H20芯片获准对华销售（需向美国政府缴纳15%收入），重新打开中国AI市场。",
-        "data_points": [],
+        "confidence": "high",
+        "summary": "Strong Points 显示：销售增长极快、毛利率行业上四分位且加速、SG&A 轻且收缩、应收账款低于均值且收缩、库存精益且收紧、PP&E 利用率极高且改善中。Red Flags 仅两项：R&D 投入可能过少（占比持续下降至 5.9%）、战略展望下滑。",
+        "data_points": [
+          "COGS Adjusted: 26.0% of Sales",
+          "SG&A Adjusted: 2.3% of Sales",
+          "R&D Intangibles Charge: 5.9% of Sales (declining)",
+          "Cap Chrg Net PP&E: 1.9% of Sales",
+          "Working Capital Charge: 2.3% of Sales"
+        ],
         "predictions": []
       },
       {
-        "topic": "核心观点",
-        "stance": "bullish",
+        "topic": "历史评级轨迹与当前定位",
+        "stance": "neutral",
         "confidence": "medium",
-        "summary": "自动驾驶领域与320+车企合作，汽车年化收入已超20亿美元，目标市场规模3000亿美元。",
-        "data_points": [],
-        "predictions": []
-      },
-      {
-        "topic": "核心观点",
-        "stance": "bullish",
-        "confidence": "medium",
-        "summary": "当前估值（40.5x前瞻P/E）高于行业（23.2x）和标普500（23.0x），评级从Outperform下调至Neutral。",
-        "data_points": [],
+        "summary": "2025年5月从 HOLD(53) 升级至 OVERWEIGHT(66)，当前进一步升至 71。历史上 PRVit 最高曾达 BUY(88)（2012年）。当前评级处于偏高区间但未达最高档，反映盈利极强但估值压制了综合评分。行业中位数仅 16，NVDA 远超同业。",
+        "data_points": [
+          "Current: OVERWEIGHT 71 (Feb 2026)",
+          "Previous: HOLD 53 (Apr 2025)",
+          "Industry Median: 16",
+          "PRVit vs Market: 34"
+        ],
         "predictions": []
       }
     ],
     "key_metrics": {
-      "revenue_estimate": null,
+      "revenue_estimate": "187142",
       "eps_estimate": null,
-      "growth_rate": null,
-      "margin_estimate": null,
+      "growth_rate": "65.2",
+      "margin_estimate": "48.5",
       "other": {
-        "metric_1": "股价（2026/02/03）：$180.34",
-        "metric_2": "目标价（6-12个月）：$189.00",
-        "metric_3": "FY2025收入：1305亿美元（+114% YoY）",
-        "metric_4": "FY2026E收入：2129亿美元（+63%）",
-        "metric_5": "FY2027E收入：2965亿美元（+39%）",
-        "metric_6": "FY2026-2028E收入CAGR：40.7%",
-        "metric_7": "FY2025 EPS：$2.99",
-        "metric_8": "FY2026E EPS：$4.65（+55.5%）",
-        "metric_9": "FY2027E EPS：$6.62",
-        "metric_10": "Q3 FY2026收入：570亿美元（+62% YoY）",
-        "metric_11": "Q3 FY2026数据中心收入：512亿美元（+66% YoY）",
-        "metric_12": "Q3 FY2026非GAAP毛利率：73.6%（-140bps YoY）",
-        "metric_13": "Q3 FY2026非GAAP营业利润率：66.2%",
-        "metric_14": "Q4 FY2026指引收入：650亿美元（±2%）",
-        "metric_15": "Q4 FY2026指引非GAAP毛利率：75%（±50bps）",
-        "metric_16": "前瞻P/E（F1）：38.8x",
-        "metric_17": "PEG：0.79",
-        "metric_18": "P/S（TTM）：23.4x",
-        "metric_19": "现金及有价证券：606亿美元",
-        "metric_20": "长期债务：74.7亿美元",
-        "metric_21": "FY2026前三季度自由现金流：617亿美元",
-        "metric_22": "回购授权余额：622亿美元",
-        "metric_23": "Beta：2.31"
+        "EVA": "$90.8B",
+        "NOPAT": "$96.5B",
+        "Capital": "$79.3B",
+        "ROC": "165.3%",
+        "COC": "9.8%",
+        "EVA_Spread": "155.5%",
+        "EBITDAR_Margin": "71.7%",
+        "FCF": "$62.0B",
+        "Market_Cap": "$4,566.9B",
+        "FGR": "77.2%",
+        "NOPAT_Multiple": "47.0x",
+        "EBITDAR_Multiple": "33.8x",
+        "Debt_to_Capital": "7.8%",
+        "PRVit_Score_vs_Industry": "71",
+        "P_Score": "100",
+        "R_Score": "56",
+        "V_Score": "98"
       }
     },
     "key_assumptions": [
-      "AI基础设施需求在中期内持续扩张。",
-      "数据中心收入FY2026-2028 CAGR约42.1%。",
-      "Blackwell系列GPU量产爬坡顺利，供应链逐步改善。",
-      "H20对华销售在收入分成条件下贡献增量。",
-      "汽车与企业AI采用持续加速。"
+      "PRVit 为纯量化模型，基于 Russell 3000 全样本统计排名，不含主观判断",
+      "EVA 框架将 R&D 资本化处理，与 GAAP 口径不同，影响利润率与资本回报率计算",
+      "所有数据基于 Trailing Four Quarters (TFQ) 截至 2025年10月31日，不含最新季度",
+      "风险评分中波动率权重较高，导致高波动但基本面强劲的公司 R 分偏低",
+      "估值评分反映的是相对排名而非绝对高估/低估判断"
     ],
     "risk_factors": [
-      "美中贸易战与出口管制持续限制中国市场收入（FY2025中国收入占比已降至13%）。",
-      "Blackwell GPU供应受限可能无法满足需求。",
-      "向更复杂AI系统过渡导致生产成本上升，压制毛利率。",
-      "对台积电的高度依赖带来地缘政治与供应链风险。",
-      "AMD MI300、Intel Gaudi及云厂商自研芯片竞争加剧。",
-      "IT支出放缓与宏观不确定性可能影响短期需求。",
-      "海外收入占比超53%，面临汇率波动风险。"
+      "Future Growth Reliance 77.2%：市值中超过3/4依赖未实现的未来增长，若增长不及预期，估值回撤空间巨大",
+      "市场隐含 EVA Margin 65.5% 远高于当前 48.5%，需要盈利能力再提升约 35% 才能匹配当前股价",
+      "股价波动率 41.9%（行业仅6百分位），短期回撤风险显著高于同业",
+      "R&D 占比持续下降（从 24.9% 降至 5.9%），被标记为 Red Flag——长期可能削弱技术护城河",
+      "EVA Momentum 从 87.2% 降至 31.5%（YoY），盈利增速边际放缓",
+      "Strategic Outlook 被标记为 slumping，Market Valuation contracting——估值收缩趋势已现"
     ],
     "blind_spots": [
-      "评级从Outperform下调至Neutral，但未详细说明触发下调的具体估值阈值或情景。",
-      "未量化Blackwell供应瓶颈对FY2026-2027收入的具体影响。",
-      "未讨论Vera Rubin等下一代产品对中长期增长的贡献。",
-      "缺少DCF或情景分析支撑$189目标价。"
+      "PRVit 纯量化框架不考虑 AI/数据中心需求的定性前景与竞争格局变化",
+      "不含最新一季财报数据（TFQ 截至 Oct 2025），可能遗漏近期业绩拐点信号",
+      "未涵盖地缘政治风险（出口管制、中国市场限制）对收入结构的潜在冲击",
+      "R&D 占比下降可能是规模效应而非真正投入不足，但模型无法区分",
+      "不含期权隐含波动率、机构持仓变化等市场微观结构信息"
     ],
     "catalysts": [
       {
-        "event": "Q4 FY2026财报（预计2026/02/25发布），指引收入$650亿。",
-        "expected_date": "2026-02-04",
-        "importance": "medium",
-        "related_views": []
+        "event": "FY2026 Q4 财报发布（预计2026年2月下旬）——验证 EVA Momentum 是否企稳",
+        "expected_date": "2026-02-26",
+        "importance": "high",
+        "related_views": [
+          "盈利能力：行业顶级且趋势强劲",
+          "估值：极度拉伸，未来增长依赖度 77%"
+        ]
       },
       {
-        "event": "Blackwell Ultra量产与出货加速。",
-        "expected_date": "2026-02-04",
-        "importance": "medium",
-        "related_views": []
+        "event": "GTC 2026 开发者大会——新产品路线图可能改变 R&D 投入不足的叙事",
+        "expected_date": "2026-03-17",
+        "importance": "high",
+        "related_views": [
+          "运营效率：多项指标行业领先"
+        ]
       },
       {
-        "event": "H20对华销售恢复带来增量收入。",
-        "expected_date": "2026-02-04",
+        "event": "PRVit 下一次评级变动——若 P 维持满分但 V 继续攀升，可能触发降级",
+        "expected_date": "TBD",
         "importance": "medium",
-        "related_views": []
-      },
-      {
-        "event": "Rubin AI平台发布与下一代产品路线图推进。",
-        "expected_date": "2026-02-04",
-        "importance": "medium",
-        "related_views": []
-      },
-      {
-        "event": "与Uber、三星、SK、现代等大型合作落地。",
-        "expected_date": "2026-02-04",
-        "importance": "medium",
-        "related_views": []
-      },
-      {
-        "event": "自动驾驶与机器人领域商业化进展。",
-        "expected_date": "2026-02-04",
-        "importance": "medium",
-        "related_views": []
-      },
-      {
-        "event": "$600亿新回购授权执行。",
-        "expected_date": "2026-02-04",
-        "importance": "medium",
-        "related_views": []
+        "related_views": [
+          "PRVit 综合评级：OVERWEIGHT (71)"
+        ]
       }
     ],
     "chart_insights": [
       {
-        "chart_name": "chart_1",
+        "chart_name": "EVA Margin & Momentum 趋势图",
         "chart_type": "line",
-        "source_file": "",
-        "description": "Price, Consensus & Surprise图显示NVDA连续多季度超预期，Q3 FY2026 EPS超预期4.84%、收入超预期4.14%。",
-        "key_observations": [],
-        "data_not_in_text": [],
-        "investment_implication": ""
+        "source_file": "ISS-EVA-NVDA-20260219.pdf Page 1",
+        "description": "EVA Margin（红线）过去11个季度整体上行，当前 48.5%；EVA Momentum（蓝线）过去1.5年持续下降，显示增速边际放缓。市场隐含 EVA Margin 65.5%（红十字线）远高于当前水平。",
+        "key_observations": [
+          "EVA Margin 正向但增速放缓",
+          "市场预期 vs 实际存在 17pp 缺口",
+          "Momentum 下行趋势需关注是否企稳"
+        ],
+        "data_not_in_text": [
+          "市场隐含 EVA Margin 65.5% 的具体计算路径"
+        ],
+        "investment_implication": "盈利绝对水平极强，但增速放缓+市场预期过高=估值压力来源"
       },
       {
-        "chart_name": "chart_2",
-        "chart_type": "line",
-        "source_file": "",
-        "description": "Sales and EPS Growth Rates图显示FY2025-FY2027收入与EPS增速虽在放缓但仍维持高双位数。",
-        "key_observations": [],
+        "chart_name": "Capital / CVA / FVA 分解图",
+        "chart_type": "bar",
+        "source_file": "ISS-EVA-NVDA-20260219.pdf Page 2",
+        "description": "Capital（蓝柱）$79.3B，CVA（红柱）$956B，FVA（灰柱）$3,498B。市值虚线约 $4,533B。FVA 占比极高，说明绝大部分市值建立在未来增长预期之上。",
+        "key_observations": [
+          "FVA 占 MVA 的 78.5%",
+          "CVA 已从 2024TFQ3 的 $610B 升至 $956B",
+          "Capital 从 $45B 升至 $79B，资本投入加速"
+        ],
         "data_not_in_text": [],
-        "investment_implication": ""
+        "investment_implication": "若未来 EVA 增长不及预期，FVA 收缩将直接压缩市值"
       },
       {
-        "chart_name": "chart_3",
-        "chart_type": "line",
-        "source_file": "",
-        "description": "估值对比表显示NVDA前瞻P/E 38.8x远高于行业23.2x和标普500的23.0x，但PEG仅0.79反映增速溢价。",
-        "key_observations": [],
+        "chart_name": "EVA Income Statement 10年趋势",
+        "chart_type": "table",
+        "source_file": "ISS-EVA-NVDA-20260219.pdf Page 2",
+        "description": "10年 EVA 收入表显示：Sales 从 $6.1B 增至 $187.1B（30x），EVA Margin 从 12.8% 升至 48.5%，但 EVA Momentum 从 87.2% 降至 31.5%。COGS 占比从 38.2% 降至 26.0%，SG&A 从 10.2% 降至 2.3%，运营杠杆极强。",
+        "key_observations": [
+          "Productivity Gains 从 +13.0% 降至 -0.2%，效率提升接近极限",
+          "Profitable Growth 仍贡献 31.6%，主要靠规模驱动",
+          "税率稳定在 ~24%"
+        ],
         "data_not_in_text": [],
-        "investment_implication": ""
-      },
-      {
-        "chart_name": "chart_4",
-        "chart_type": "line",
-        "source_file": "",
-        "description": "五年P/E区间21.78x-106.30x，当前40.5x接近五年中位数41.34x。",
-        "key_observations": [],
-        "data_not_in_text": [],
-        "investment_implication": ""
+        "investment_implication": "利润率扩张空间收窄，未来增长更依赖收入规模而非效率提升"
       }
     ],
     "cross_comparison": {
       "vs_previous_reports": [],
-      "consensus_position": "NVDA前瞻P/E 38.8x vs INTC 99.4x vs AMD（行业Neutral）vs TXN 35.3x；NVDA估值在高增长同业中相对合理。 | NVDA净利润率53.0% vs INTC -0.5% vs TXN 28.3%，盈利能力远超同业。 | NVDA ROE 99.2% vs INTC -0.4% vs TXN 30.4%，资本回报效率行业最高。 | NVDA Zacks评级Neutral（从Outperform下调），AMD/INTC/TXN/STM均为Neutral。 | NVDA Growth Score A、Momentum Score A，但Value Score D，反映高增长高估值特征。"
+      "consensus_position": "ISS EVA PRVit 给出 OVERWEIGHT(71)，与其他机构普遍看多一致，但通过量化框架明确指出估值风险（V=98）和增速放缓（Momentum 下行）。相比传统卖方研报，PRVit 更侧重经济利润质量而非收入增长叙事，提供了差异化的风险视角。"
     }
   }
 }

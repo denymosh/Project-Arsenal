@@ -391,6 +391,19 @@
       "actual_result": null
     },
     {
+      "id": "nvda_fy2026_q4_财报发布（预计2026年2月下旬）——验",
+      "date": "2026-02-26",
+      "ticker": "NVDA",
+      "event": "FY2026 Q4 财报发布（预计2026年2月下旬）——验证 EVA Momentum 是否企稳",
+      "importance": "high",
+      "related_reports": [
+        "20260219_iss_eva_(prvit)"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "googl_googl触及$324.52做空入场区间",
       "date": "2026-02-28",
       "ticker": "GOOGL",
@@ -398,6 +411,19 @@
       "importance": "medium",
       "related_reports": [
         "20260211_stock_traders_daily"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "nvda_gtc_2026_开发者大会——新产品路线图可能改变_r&d",
+      "date": "2026-03-17",
+      "ticker": "NVDA",
+      "event": "GTC 2026 开发者大会——新产品路线图可能改变 R&D 投入不足的叙事",
+      "importance": "high",
+      "related_reports": [
+        "20260219_iss_eva_(prvit)"
       ],
       "predictions_to_verify": [],
       "verified": false,
@@ -680,7 +706,20 @@
       "predictions_to_verify": [],
       "verified": false,
       "actual_result": null
+    },
+    {
+      "id": "nvda_prvit_下一次评级变动——若_p_维持满分但_v_继续攀",
+      "date": "TBD",
+      "ticker": "NVDA",
+      "event": "PRVit 下一次评级变动——若 P 维持满分但 V 继续攀升，可能触发降级",
+      "importance": "medium",
+      "related_reports": [
+        "20260219_iss_eva_(prvit)"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
     }
   ],
-  "last_updated": "2026-02-19"
+  "last_updated": "2026-02-20"
 }
