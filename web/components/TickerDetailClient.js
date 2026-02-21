@@ -32,7 +32,7 @@ function getLatestReportsByInstitution(reports) {
 
 // ========== 观点热力图 ==========
 function normalizeTopic(topic) {
-    const t = (topic || '').toString();
+    const t = (topic || '').toString().trim();
     if (!t) return null;
     if (t.includes('数据中心')) return '数据中心';
     if (t.includes('AI芯片') || t.includes('gpu') || t.includes('GPU')) return 'AI芯片';
@@ -41,7 +41,7 @@ function normalizeTopic(topic) {
     if (t.includes('毛利率') || t.includes('利润率') || t.includes('盈利能力')) return '毛利率';
     if (t.includes('估值') || t.includes('prvit') || t.includes('PRVit') || t.includes('未来增长')) return '估值';
     if (t.includes('行业周期')) return '行业周期';
-    return null;
+    return t;
 }
 
 function getMappedComparableReports(reports) {
