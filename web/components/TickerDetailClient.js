@@ -44,16 +44,8 @@ function normalizeTopic(topic) {
     return null;
 }
 
-function ViewsHeatmap({ reports }) {
-    if (!reports || reports.length === 0) return null;
-
-    const stanceMap = {
-        bullish: { label: '看多', cls: 'bullish' },
-        neutral: { label: '中性', cls: 'neutral' },
-        bearish: { label: '看空', cls: 'bearish' },
-    };
-
-    const mappedReports = reports.map((report) => {
+function getMappedComparableReports(reports) {
+    const mappedReports = (reports || []).map((report) => {
         const mapped = [];
         const seen = new Set();
         (report.views || []).forEach((v) => {
@@ -75,6 +67,20 @@ function ViewsHeatmap({ reports }) {
     const dimensions = Object.keys(dimCount)
         .filter((dim) => dimCount[dim] >= 2)
         .sort();
+
+    return { mappedReports, dimensions };
+}
+
+function ViewsHeatmap({ reports }) {
+    if (!reports || reports.length === 0) return null;
+
+    const stanceMap = {
+        bullish: { label: '看多', cls: 'bullish' },
+        neutral: { label: '中性', cls: 'neutral' },
+        bearish: { label: '看空', cls: 'bearish' },
+    };
+
+    const { mappedReports, dimensions } = getMappedComparableReports(reports);
 
     if (dimensions.length === 0) return null;
 
@@ -380,12 +386,33 @@ function ChartInsightsPanel({ reports }) {
 }
 
 // ========== 共识矩阵 ==========
-function ConsensusMatrix({ matrix }) {
-    if (!matrix || Object.keys(matrix).length === 0) return null;
+function ConsensusMatrix({ reports }) {
+    if (!reports || reports.length === 0) return null;
+
+    const { mappedReports, dimensions } = getMappedComparableReports(reports);
+    if (dimensions.length === 0) return null;
+
+    const matrix = {};
+    dimensions.forEach((dim) => {
+        matrix[dim] = { bullish: 0, neutral: 0, bearish: 0, not_mentioned: 0 };
+        mappedReports.forEach((r) => {
+            const v = (r.views || []).find((x) => x.topic === dim);
+            if (!v) {
+                matrix[dim].not_mentioned += 1;
+                return;
+            }
+            if (v.stance === 'bullish') matrix[dim].bullish += 1;
+            else if (v.stance === 'bearish') matrix[dim].bearish += 1;
+            else matrix[dim].neutral += 1;
+        });
+    });
 
     return (
         <div className="card section">
-            <div className="section-title"><span className="icon">🔥</span> 共识矩阵</div>
+            <div className="section-title"><span className="icon">🔥</span> 共识矩阵（可比维度）</div>
+            <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '8px' }}>
+                仅统计至少被 2 家机构覆盖的维度，口径不同的独有主题不计入共识矩阵。
+            </div>
             <table className="data-table">
                 <thead>
                     <tr>
@@ -397,19 +424,15 @@ function ConsensusMatrix({ matrix }) {
                     </tr>
                 </thead>
                 <tbody>
-                    {Object.entries(matrix).map(([dim, counts]) => {
-                        const total = counts.bullish + counts.neutral + counts.bearish;
-                        const dominant = Math.max(counts.bullish, counts.neutral, counts.bearish);
-                        return (
-                            <tr key={dim}>
-                                <td style={{ fontWeight: 600 }}>{dim}</td>
-                                <td className="text-green font-bold">{counts.bullish || '—'}</td>
-                                <td className="text-yellow font-bold">{counts.neutral || '—'}</td>
-                                <td className="text-red font-bold">{counts.bearish || '—'}</td>
-                                <td className="text-muted">{counts.not_mentioned || 0}</td>
-                            </tr>
-                        );
-                    })}
+                    {Object.entries(matrix).map(([dim, counts]) => (
+                        <tr key={dim}>
+                            <td style={{ fontWeight: 600 }}>{dim}</td>
+                            <td className="text-green font-bold">{counts.bullish || '—'}</td>
+                            <td className="text-yellow font-bold">{counts.neutral || '—'}</td>
+                            <td className="text-red font-bold">{counts.bearish || '—'}</td>
+                            <td className="text-muted">{counts.not_mentioned || 0}</td>
+                        </tr>
+                    ))}
                 </tbody>
             </table>
         </div>
@@ -503,7 +526,7 @@ export default function TickerDetailClient({ tickerInfo, tickerData }) {
                     <ViewsHeatmap reports={latestReports} />
 
                     {/* 共识矩阵 */}
-                    <ConsensusMatrix matrix={crossComparison.consensus_matrix} />
+                    <ConsensusMatrix reports={latestReports} />
 
                     {/* 分歧面板 */}
                     <DivergencePanel divergences={crossComparison.major_divergences} />
