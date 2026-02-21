@@ -277,6 +277,7 @@ function TargetPriceChart({ reports, consensus }) {
                         contentStyle={{ background: '#1e293b', border: '1px solid rgba(255,255,255,0.1)', borderRadius: '8px', fontSize: '0.85rem', color: '#f1f5f9' }}
                         labelStyle={{ color: '#f1f5f9' }}
                         itemStyle={{ color: '#e2e8f0' }}
+                        formatter={(value) => [`$${value}`, 'target']}
                     />
                     {avg > 0 && <ReferenceLine x={avg} stroke="#a5b4fc" strokeDasharray="5 5" label={{ value: `均值$${avg.toFixed(0)}`, fill: '#e0e7ff', fontSize: 12, fontWeight: 600 }} />}
                     <Bar dataKey="target" radius={[0, 4, 4, 0]}>
