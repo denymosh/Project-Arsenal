@@ -92,6 +92,19 @@
       "actual_result": null
     },
     {
+      "id": "onds_investor_day虚拟活动（预计披露新订单、并购和20",
+      "date": "2026-01-16",
+      "ticker": "ONDS",
+      "event": "Investor Day虚拟活动（预计披露新订单、并购和2026展望）",
+      "importance": "high",
+      "related_reports": [
+        "20260111_stifel"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "meta_1q26指引收入同比+30%，为近四年最快增速。",
       "date": "2026-02-02",
       "ticker": "META",
@@ -469,6 +482,19 @@
       "actual_result": null
     },
     {
+      "id": "onds_首批$1b融资资金部署公告（新并购）",
+      "date": "2026-03-31",
+      "ticker": "ONDS",
+      "event": "首批$1B融资资金部署公告（新并购）",
+      "importance": "high",
+      "related_reports": [
+        "20260111_stifel"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
       "id": "tsla_q1_2026财报发布",
       "date": "2026-04-28",
       "ticker": "TSLA",
@@ -767,6 +793,19 @@
       "importance": "medium",
       "related_reports": [
         "20260203_morningstar_full_report"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
+    },
+    {
+      "id": "onds_认股权证行权进展（$28行权价，需股价大幅上涨）",
+      "date": "2033-01-11",
+      "ticker": "ONDS",
+      "event": "认股权证行权进展（$28行权价，需股价大幅上涨）",
+      "importance": "low",
+      "related_reports": [
+        "20260111_stifel"
       ],
       "predictions_to_verify": [],
       "verified": false,
