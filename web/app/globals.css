@@ -561,23 +561,25 @@ a:hover { text-decoration: underline; }
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 8px 12px;
+  padding: 10px 12px;
   border-radius: var(--radius-sm);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  font-weight: 700;
   transition: all var(--transition-fast);
   cursor: default;
+  border: 1px solid var(--border-subtle);
 }
 
-.heatmap-cell.bullish { background: var(--green-dim); color: var(--green); }
-.heatmap-cell.neutral { background: var(--yellow-dim); color: var(--yellow); }
-.heatmap-cell.bearish { background: var(--red-dim); color: var(--red); }
+.heatmap-cell.bullish { background: rgba(16, 185, 129, 0.22); color: #34d399; }
+.heatmap-cell.neutral { background: rgba(245, 158, 11, 0.22); color: #fbbf24; }
+.heatmap-cell.bearish { background: rgba(239, 68, 68, 0.22); color: #f87171; }
 .heatmap-cell.header {
-  background: transparent;
-  color: var(--text-muted);
-  font-size: 0.7rem;
+  background: rgba(255, 255, 255, 0.02);
+  color: #cbd5e1;
+  font-size: 0.74rem;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--border-light);
 }
 
 /* ==================== 表格 ==================== */
@@ -589,21 +591,21 @@ a:hover { text-decoration: underline; }
 
 .data-table th {
   text-align: left;
-  padding: 10px 14px;
-  font-size: 0.7rem;
-  font-weight: 600;
+  padding: 11px 14px;
+  font-size: 0.72rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--text-muted);
+  letter-spacing: 0.07em;
+  color: #cbd5e1;
   border-bottom: 1px solid var(--border-light);
   white-space: nowrap;
 }
 
 .data-table td {
   padding: 12px 14px;
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   border-bottom: 1px solid var(--border-subtle);
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 .data-table tbody tr {
