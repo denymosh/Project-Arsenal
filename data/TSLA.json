@@ -3,13 +3,13 @@
   "name_en": "Tesla Inc.",
   "name_cn": "特斯拉",
   "current_consensus": {
-    "rating": "增持",
-    "avg_target_price": 428.95,
+    "rating": "持有",
+    "avg_target_price": 426.0,
     "min_target_price": 400.0,
-    "max_target_price": 463.82,
-    "sentiment_avg": 0.04,
-    "total_reports": 5,
-    "last_updated": "2026-02-19"
+    "max_target_price": 452.0,
+    "sentiment_avg": -0.117,
+    "total_reports": 3,
+    "last_updated": "2026-02-20"
   },
   "view_dimensions": [
     "FSD/自动驾驶",
@@ -151,7 +151,6 @@
         "eps_estimate": "$2.03 (FY2026E), $2.95 (FY2027E)",
         "growth_rate": "-2.9% Revenue YoY (2025), 21.56% 1yr EPS Growth Forecast, 105% 5yr EPS Growth Forecast",
         "margin_estimate": "20.1% Gross Margin (Q4 2025), 5.1% Operating Margin (FY2025), 4.0% Net Margin",
-        "valuation_multiple": "P/E 205.2x (FY2026E), P/S 16.48x, P/B 16.86x, P/CF 91.1x, EV/EBITDA 127.9x",
         "other": {
           "beta": "1.64",
           "debt_capital": "9.2%",
@@ -181,26 +180,26 @@
         {
           "event": "2026年Robotaxi服务扩展至7个新城市",
           "expected_date": "2026-H1",
-          "impact": "positive",
-          "description": "如果Robotaxi成功扩展并产生可观收入，将验证AI投资逻辑，可能触发估值重估"
+          "importance": "medium",
+          "related_views": []
         },
         {
           "event": "Optimus机器人量产启动",
           "expected_date": "2026-H2",
-          "impact": "positive",
-          "description": "管理层计划2026年底开始量产，如果按时推进将打开全新收入来源"
+          "importance": "medium",
+          "related_views": []
         },
         {
           "event": "美国EV税收抵免政策变化",
           "expected_date": "2026",
-          "impact": "negative",
-          "description": "$7,500联邦税收抵免到期将直接冲击EV需求和交付量"
+          "importance": "medium",
+          "related_views": []
         },
         {
           "event": "Q1 2026财报（预计4月底）",
           "expected_date": "2026-04-28",
-          "impact": "neutral",
-          "description": "管理层预期2026年包含'艰难的季度'，Q1可能是交付量和利润率的低点"
+          "importance": "medium",
+          "related_views": []
         }
       ],
       "chart_insights": [
@@ -767,662 +766,6 @@
     {
       "date": "2026-02-03",
       "institution": "Morningstar",
-      "institution_en": "",
-      "analyst": "",
-      "rating": "持有",
-      "previous_rating": null,
-      "target_price": 400.0,
-      "previous_target_price": null,
-      "sentiment_score": 0.0,
-      "views": [
-        {
-          "topic": "FSD/自动驾驶",
-          "stance": "bullish",
-          "confidence": "medium",
-          "summary": "FSD订阅软件估值约$70/股。Tesla正在开发自定义AI推理芯片。Morningstar预计自动驾驶将是产品差异化的关键。FSD采用率的增长将推动汽车毛利率在2020年代末恢复至25%中段水平。",
-          "data_points": [
-            "FSD订阅软件估值约$70/股，是Tesla估值的重要组成部分",
-            "Tesla研发投入约占销售额6%，维持行业领先的续航里程（每千瓦时英里数最优）",
-            "FSD采用率增长将推动汽车毛利率从2024年18%恢复至2020年代末25%中段",
-            "Tesla正在建造全球最大超级计算机之一用于训练自动驾驶AI",
-            "欧洲目前无法销售FSD软件，需等待监管审批",
-            "Nvidia CES 2026宣布进入自动驾驶系统市场，Tesla股价当日下跌5%"
-          ],
-          "predictions": [
-            {
-              "metric": "FSD订阅估值",
-              "predicted_value": "$70/股",
-              "deadline": "2030-12-31",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "交付量/销量",
-          "stance": "neutral",
-          "confidence": "medium",
-          "summary": "预计2030年年交付约280万辆，主要由Model Y/3平台驱动。计划停产Model S/X，Cybertruck/Roadster/Semi合计约3万辆/年。新款低价Model Y/3将推动增长，但短期交付仍面临竞争压力（美国EV市场份额低于50%）。",
-          "data_points": [
-            "2025年全年交付1,636,129辆，同比降9%；Q4交付418,227辆同比降16%",
-            "2026年预计交付降至156万辆（因美国EV税收抵免2025年9月到期+欧洲竞争加剧）",
-            "2030年预计交付约280万辆，主要由Model Y/3平台驱动",
-            "Model S/X计划停产，工厂改造为Optimus生产线",
-            "Cybertruck/Roadster/Semi合计约3万辆/年",
-            "2025年全年营收$94.8B，2026E降至$93.0B（-2.0%）"
-          ],
-          "predictions": [
-            {
-              "metric": "2030年年交付量",
-              "predicted_value": "约280万辆",
-              "deadline": "2030-12-31",
-              "comparison_to_consensus": "inline",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "毛利率",
-          "stance": "neutral",
-          "confidence": "medium",
-          "summary": "预计汽车毛利率（不含信贷）将维持在十几%中段，低于管理层20%的长期目标。但随FSD订阅软件采用率上升，预计到2020年代末毛利率可恢复至25%中段（高于2024年的18%但低于2022年的29%）。",
-          "data_points": [
-            "预计汽车毛利率（不含信贷）维持十几%中段，低于管理层20%长期目标",
-            "随FSD订阅采用率上升，预计到2020年代末毛利率恢复至25%中段",
-            "2024年汽车毛利率18%，2022年峰值29%",
-            "每车COGS从2017年$84,000降至2024年$35,000+（降幅超55%）",
-            "2026E运营利润率5.0%，2029E恢复至18.9%",
-            "2026E调整后EBITDA利润率14.8%，2029E恢复至25.9%"
-          ],
-          "predictions": [
-            {
-              "metric": "2030年汽车毛利率",
-              "predicted_value": "25%中段",
-              "deadline": "2030-12-31",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "Robotaxi",
-          "stance": "bullish",
-          "confidence": "medium",
-          "summary": "Robotaxi估值约$120/股，占Tesla总估值的30%。预计自动驾驶车辆（Tesla robotaxi和Waymo）到2030年将占美/加打车服务的50%，因成本低于人类司机。Tesla初期采取重资产模式（自有车辆+运营软件），后期开放车主加入车队。上行情景下robotaxi估值可达$180/股。",
-          "data_points": [
-            "Robotaxi估值约$120/股，占Tesla总估值约30%",
-            "预计自动驾驶车辆（Tesla+Waymo）到2030年占美加打车服务50%",
-            "Tesla预计获得美加打车市场30%份额（到2035年）",
-            "Austin地区已开始测试无安全监督员的Robotaxi",
-            "2026上半年计划扩展至7个新城市",
-            "上行情景下Robotaxi估值可达$180/股，下行情景为零",
-            "全面商业化预计2027-2028年"
-          ],
-          "predictions": [
-            {
-              "metric": "Robotaxi估值",
-              "predicted_value": "$120/股",
-              "deadline": "2030-12-31",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            },
-            {
-              "metric": "2030年自动驾驶打车市占率",
-              "predicted_value": "50%（美/加）",
-              "deadline": "2030-12-31",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "能源业务",
-          "stance": "bullish",
-          "confidence": "medium",
-          "summary": "电池储能市场扩张，Tesla凭借品牌优势可获溢价定价（消费者端太阳能+逆变器+家庭电池系统）。保险业务和充电业务利润增长预期正面。整体利好长期价值。",
-          "data_points": [
-            "能源存储业务预计年均收入增长近30%（10年预测期）",
-            "Q4 2025电池存储部署46.7GWh",
-            "Tesla品牌在消费者端太阳能+逆变器+家庭电池系统可获溢价定价",
-            "长期电力购买协议和AI交易软件提供经常性收入",
-            "预计毛利率将与Enphase和SolarEdge等同行持平",
-            "ESS价格预计下降，但主要由电池成本下降驱动，不影响盈利能力"
-          ],
-          "predictions": []
-        },
-        {
-          "topic": "估值",
-          "stance": "neutral",
-          "confidence": "medium",
-          "summary": "公允价值$400，当前价格$421.81，P/FVE=1.05（适当估值）。P/E 356.8倍，P/S 15.69倍，P/B 19.26倍。上行情景$700（Optimus $300/股），下行情景$100（AI软件仅$10/股，robotaxi/Optimus零估值）。未来十年预计$1700亿资本开支。极高不确定性。",
-          "data_points": [
-            "公允价值$400/股，P/FVE=1.05（3星适当估值区域）",
-            "DCF总企业价值$875.3B，Stage III永续价值$530.1B占60.6%",
-            "WACC 8.8%，权益成本9.0%，税前债务成本5.8%",
-            "上行情景$700（Robotaxi $180 + Optimus $300 + FSD $80/股）",
-            "下行情景$100（FSD仅$10/股，Robotaxi和Optimus零估值）",
-            "P/E 356.8x, P/S 15.69x, P/B 19.26x",
-            "未来十年预计$1700亿资本支出",
-            "竞争对比：Tesla P/S 15.69x vs BYD 0.93x vs Rivian 2.83x vs GOOGL 10.93x"
-          ],
-          "predictions": [
-            {
-              "metric": "未来十年累计资本支出",
-              "predicted_value": "近$1700亿",
-              "deadline": "2035-12-31",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        }
-      ],
-      "key_metrics": {
-        "revenue_estimate": "2026E: $92.98B, 2027E: $111.92B, 2028E: $140.97B, 2029E: $178.93B",
-        "eps_estimate": "2026E: $1.22 (adj $1.98), 2027E: $2.50 (adj $3.27), 2029E: $7.61 (adj $8.42)",
-        "growth_rate": "2026E营收-2.0%, 2027E +20.4%, 2028E +26.0%, 2029E +26.9%",
-        "margin_estimate": "2026E运营利润率5.0%, 2029E恢复至18.9%; 汽车毛利率(不含信贷)十几%中段",
-        "other": {
-          "fair_value_estimate": "$400/股",
-          "P_FVE": "1.05",
-          "economic_moat": "Narrow",
-          "uncertainty": "Very High",
-          "capital_allocation": "Exemplary",
-          "WACC": "8.8%",
-          "1_star_price": "$700",
-          "5_star_price": "$200",
-          "upside_scenario": "$700 (Robotaxi $180 + Optimus $300 + FSD $80)",
-          "downside_scenario": "$100 (FSD $10, Robotaxi/Optimus零估值)",
-          "robotaxi_valuation": "$120/股 (占总估值30%)",
-          "FSD_valuation": "$70/股",
-          "optimus_valuation": "$80/股",
-          "10yr_capex": "~$170B",
-          "2026E_FCFF": "-$9.37B",
-          "2025_ROIC": "3.8%",
-          "2029E_ROIC": "35.4%",
-          "debt_to_capital": "0.6%",
-          "ESG_risk_rating": "18.8 (Low)"
-        }
-      },
-      "key_assumptions": [],
-      "risk_factors": [
-        "汽车市场高度周期性，经济下行可导致需求骤降，Tesla作为EV领导者首当其冲",
-        "EV竞争加剧，新低价EV入市迫使Tesla降价，侵蚀利润率（汽车毛利率已从2022年29%降至2024年18%）",
-        "自动驾驶/Robotaxi/人形机器人投入巨大（未来十年$1700亿资本支出）但无法保证回报",
-        "CEO Musk持有约12%股份并用作个人贷款抵押，存在大规模抛售风险",
-        "Musk政治活动（支持Trump后又反对、支持德国AfD）可能在美国和欧洲市场导致消费者流失",
-        "Nvidia进入自动驾驶系统市场（CES 2026），可能允许多家车企快速缩小与Tesla的差距",
-        "加州DMV裁定暂停Tesla生产和销售许可30天（因Autopilot/FSD营销问题），监管风险持续",
-        "产品召回风险（包括自动驾驶软件缺陷），ESG中等影响",
-        "关键人员风险：若Musk离开，公司创新形象可能受损（低概率但中等影响）",
-        "美国EV税收抵免2025年9月到期，预计2026年交付量降至156万辆"
-      ],
-      "blind_spots": [
-        "未详细讨论中国市场竞争格局（BYD等本土品牌的具体威胁和市场份额变化）",
-        "未量化Musk政治活动对欧洲/美国销量的实际影响（仅定性提及风险）",
-        "未讨论Tesla保险业务的具体财务数据和增长轨迹",
-        "未提及供应链风险（锂/钴/镍价格波动对电池成本的影响）",
-        "未分析Cybertruck的具体销量和盈利贡献",
-        "未讨论4680电池技术的成本下降曲线对毛利率的具体影响"
-      ],
-      "catalysts": [
-        {
-          "event": "Robotaxi扩展至7个新美国城市（达拉斯、休斯顿、凤凰城、迈阿密、奥兰多、坦帕、拉斯维加斯）",
-          "expected_date": "2026-H1",
-          "importance": "high",
-          "related_views": [
-            "Robotaxi",
-            "FSD/自动驾驶"
-          ]
-        },
-        {
-          "event": "Austin地区Robotaxi移除安全监督员",
-          "expected_date": "2026-Q1",
-          "importance": "high",
-          "related_views": [
-            "Robotaxi"
-          ]
-        },
-        {
-          "event": "Optimus人形机器人开始量产（Model S/X工厂改造）",
-          "expected_date": "2026-Q4",
-          "importance": "high",
-          "related_views": [
-            "交付量/销量",
-            "估值"
-          ]
-        },
-        {
-          "event": "SpaceX IPO（可能为未来Tesla收购SpaceX铺路）",
-          "expected_date": "2026-H2",
-          "importance": "medium",
-          "related_views": [
-            "估值"
-          ]
-        },
-        {
-          "event": "Robotaxi全面商业化（无安全监督员、无/有限地理围栏、专用车辆）",
-          "expected_date": "2027-2028",
-          "importance": "high",
-          "related_views": [
-            "Robotaxi",
-            "FSD/自动驾驶",
-            "估值"
-          ]
-        },
-        {
-          "event": "FVE修订触发：2026年交付量数据（预计降至156万辆）",
-          "expected_date": "2027-01-15",
-          "importance": "medium",
-          "related_views": [
-            "交付量/销量",
-            "估值"
-          ]
-        }
-      ],
-      "chart_insights": [
-        {
-          "chart_name": "Price vs. Fair Value (2021-YTD)",
-          "chart_type": "line",
-          "source_file": "TSLA_-Tesla-Inc-(Stock-Report)_p1_price_vs_fv.png",
-          "description": "Tesla股价与Morningstar公允价值估计的历史对比图（2021-2026 YTD），包含P/FVE比率和年度总回报率。股价在大部分时间处于高估区域，仅2022年底短暂进入低估区域。",
-          "key_observations": [
-            "2022年P/FVE降至0.49（严重低估），全年回报-65.03%，是唯一的5星买入机会",
-            "2024年P/FVE飙升至1.92（严重高估），全年回报+62.52%",
-            "YTD 2026 P/FVE=1.05，FVE从$300上调至$400后首次接近公允价值",
-            "2023年P/FVE=1.18但全年回报+101.72%，显示从2022年低点的强劲反弹"
-          ],
-          "data_not_in_text": [
-            "2021年P/FVE=1.55，全年回报+49.76%——即使高估也有正回报，说明动量效应强",
-            "FVE上调$100（$300→$400）使P/FVE下降约0.35，显示估值对FVE极度敏感"
-          ],
-          "investment_implication": "Tesla历史上仅在2022年底（P/FVE=0.49）提供过真正的安全边际。当前P/FVE=1.05虽接近公允价值，但Very High Uncertainty意味着5星买入价为$200（50%折价），当前价格仍远高于此。"
-        },
-        {
-          "chart_name": "Morningstar估值模型财务预测汇总表",
-          "chart_type": "table",
-          "source_file": "TSLA_-Tesla-Inc-(Stock-Report)_p15_financials.png",
-          "description": "完整财务预测表格（2022-2029年），涵盖营收、运营利润、EBITDA、净利润、EPS、估值倍数、利润率、增长率等。包含实际值（2022-2025）和预测值（2026-2029）。",
-          "key_observations": [
-            "营收预计2025-2026年连续下降（$94.8B→$93.0B），2027年起恢复增长至$112B/$141B/$179B",
-            "运营利润2025年$4.8B→2026年$4.6B（谷底），2029年飙升至$33.8B（7倍增长）",
-            "FCFF 2026年为-$9.4B（大规模负现金流），2028年才转正$3.1B",
-            "ROIC从2025年3.8%恢复至2029年35.4%，超过2022年22.3%的历史高点"
-          ],
-          "data_not_in_text": [
-            "2023年净利润$15.0B是历史峰值，2025年仅$3.8B（降75%），预计2029年才恢复至$26.8B",
-            "调整后EBITDA利润率从2022年20.6%降至2026E 14.8%，2029E恢复至25.9%",
-            "EV/EBITDA从2025年106.9x升至2026E 113.2x（因EBITDA下降），2029E降至33.6x"
-          ],
-          "investment_implication": "财务预测揭示Tesla正处于'J型曲线'底部：2025-2026年是盈利低谷，2027年起进入收获期。关键转折点是2028年FCFF转正。投资者需要3-4年耐心等待AI转型兑现。"
-        },
-        {
-          "chart_name": "不确定性评级与安全边际框架",
-          "chart_type": "bar",
-          "source_file": "TSLA_-Tesla-Inc-(Stock-Report)_p21_uncertainty.png",
-          "description": "展示不同不确定性等级下的Price/Fair Value阈值。Tesla被归类为Very High Uncertainty，对应极宽的估值区间。",
-          "key_observations": [
-            "Very High Uncertainty：5星买入需P/FVE≤0.50（$200），1星卖出需P/FVE≥1.75（$700）",
-            "3星区间为P/FVE 0.80-1.25，Tesla当前1.05处于该区间中部",
-            "对比Medium Uncertainty：5星仅需P/FVE≤0.70（30%折价），Very High需50%折价",
-            "上行情景$700与下行情景$100的7:1比率反映极端不确定性"
-          ],
-          "data_not_in_text": [
-            "Very High Uncertainty的4星区间为P/FVE 0.50-0.80，对应Tesla价格$200-$320",
-            "Very High Uncertainty的2星区间为P/FVE 1.25-1.75，对应Tesla价格$500-$700"
-          ],
-          "investment_implication": "即使认同$400 FVE，当前$421（P/FVE=1.05）也不具备足够安全边际。要获得4星（有吸引力），价格需降至$320以下；5星（强烈买入）需降至$200以下。"
-        },
-        {
-          "chart_name": "DCF估值分解",
-          "chart_type": "table",
-          "source_file": "TSLA_-Tesla-Inc-(Stock-Report)_p16_dcf.png",
-          "description": "Morningstar DCF估值分解：Stage I $159.2B + Stage II $186.0B + Stage III $530.1B = 总企业价值$875.3B。加回现金$36.6B，减去债务$7.9B，其他调整$382.3B，权益价值$1,286.3B，FVE $400/股。",
-          "key_observations": [
-            "Stage III（永续价值）$530.1B占总企业价值60.6%，反映对长期增长的极度依赖",
-            "Stage I（显式预测期）仅$159.2B（18.2%），近期盈利贡献有限",
-            "其他调整$382.3B是巨大正向调整项，可能包含Robotaxi/FSD/Optimus独立估值",
-            "WACC 8.8%，权益成本9.0%，永续期第15年"
-          ],
-          "data_not_in_text": [
-            "Stage III占比60.6%意味着长期增长假设每下调1%，FVE可能缩水$50-80",
-            "其他调整$382.3B几乎等于Stage I+Stage II之和，是FVE的关键驱动因素"
-          ],
-          "investment_implication": "DCF分解揭示Tesla估值的'脆弱性'：60%以上价值来自永续期，对WACC和长期增长率极度敏感。这解释了Very High Uncertainty评级和$100-$700的巨大估值区间。"
-        }
-      ],
-      "cross_comparison": {
-        "vs_previous_reports": [
-          {
-            "compared_with": "tsla-argus-20260130",
-            "topic": "FSD/Robotaxi估值",
-            "divergence": "major",
-            "description": "Morningstar给予FSD $70/股+Robotaxi $120/股估值，Argus认为这些是未经验证的长期赌注"
-          }
-        ],
-        "consensus_position": "Morningstar评级持有，目标价$400.0"
-      },
-      "id": "tsla-morningstar-20260203",
-      "analyst_reliability": null,
-      "analysis_file": ""
-    },
-    {
-      "date": "2026-02-11",
-      "institution": "Stock Traders Daily",
-      "institution_en": "Stock Traders Daily",
-      "analyst": "Thomas H. Kee Jr.",
-      "rating": "买入",
-      "previous_rating": null,
-      "target_price": 463.82,
-      "previous_target_price": null,
-      "sentiment_score": 0.55,
-      "views": [
-        {
-          "topic": "AI预测信号",
-          "stance": "bullish",
-          "confidence": "high",
-          "summary": "Stock Traders Daily专有AI系统通过多时间框架信号提取（P1/P2/P3值）、动态支撑阻力识别、振荡模式检测算法生成交易信号。近期（1-5天）信号强烈，支撑$417.30-$431.53；长期（20+天）信号强烈，目标$463.82-$513.94。当前正面情绪占主导。",
-          "data_points": [
-            "近期信号强度: Strong，支撑S1=$417.30，阻力S2=$431.53",
-            "中期信号强度: Weak，支撑S1=$397.05，阻力S2=$419.41",
-            "长期信号强度: Strong，支撑S1=$463.82，阻力S2=$513.94",
-            "当前价$425.21处于信号阵列中间偏上位置",
-            "AI系统覆盖8000+证券，提供实时信号",
-            "采用多时间框架信号提取、动态支撑阻力识别、振荡模式检测算法"
-          ],
-          "predictions": [
-            {
-              "metric": "近期目标价（1-5天）",
-              "predicted_value": "$431.53",
-              "deadline": "2026-02-16",
-              "comparison_to_consensus": "inline",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            },
-            {
-              "metric": "长期目标价（20+天）",
-              "predicted_value": "$463.82-$513.94",
-              "deadline": "2026-03-15",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "技术分析/振荡模式",
-          "stance": "bullish",
-          "confidence": "high",
-          "summary": "AI识别出中通道振荡模式（mid-channel oscillation pattern），当前价格在$415.24支撑位上方运行。Feb 10 OHLC数据显示日内波动$417-$427.25，收盘$425.21（+$7.89/+1.89%）。价格从1月底$450+区域回调至$390附近后反弹，目前重新站上$420关键支撑。",
-          "data_points": [
-            "Feb 10 OHLC: Open $418.08, High $427.25, Low $417.00, Close $425.21",
-            "日涨幅+$7.89（+1.89%）",
-            "中通道振荡模式确认",
-            "P1 Long支撑位$415.24为关键多空分界线",
-            "近期图表显示价格从$390低点反弹至$425区域",
-            "长期图表显示2025年8月$330低点至12月$490高点的大区间"
-          ],
-          "predictions": [
-            {
-              "metric": "振荡模式上轨目标",
-              "predicted_value": "$463.82",
-              "deadline": "2026-03-03",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "交易策略/风险管理",
-          "stance": "bullish",
-          "confidence": "high",
-          "summary": "报告提供三套完整交易策略。做多策略：入场$415.24，目标$463.82（+11.7%），止损$414.04（-0.3%），风险回报比40.5:1。突破策略：触发$431.53，目标$463.82（+7.5%），止损$430.52。对冲做空策略：入场$463.82，目标$419.41（-9.6%），止损$465.16。三套策略覆盖不同市场情景。",
-          "data_points": [
-            "做多入场$415.24，目标$463.82，止损$414.04",
-            "风险回报比40.5:1（11.7%收益 vs 0.3%风险）",
-            "突破触发$431.53，目标$463.82，止损$430.52",
-            "对冲做空入场$463.82，目标$419.41，止损$465.16",
-            "做多止损仅$1.20（$415.24→$414.04），极窄止损",
-            "突破止损$1.01（$431.53→$430.52），同样极窄"
-          ],
-          "predictions": [
-            {
-              "metric": "做多策略目标达成",
-              "predicted_value": "$463.82（+11.7%）",
-              "deadline": "2026-03-15",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "估值",
-          "stance": "bullish",
-          "confidence": "medium",
-          "summary": "基于AI信号系统，TSLA当前价$425.21相对于长期目标$463.82-$513.94有9.1%-20.9%的上行空间。P3 Long信号$513.94代表最大上行目标（+20.9%）。中期弱信号暗示$397.05-$419.41区间可能出现回调，但不改变长期看多格局。",
-          "data_points": [
-            "当前价$425.21 vs P2 Long目标$463.82（+9.1%上行）",
-            "当前价$425.21 vs P3 Long目标$513.94（+20.9%上行）",
-            "中期下行风险至$397.05（-6.6%）",
-            "P1 Long支撑$415.24（-2.3%下行保护）",
-            "信号阵列8个关键价位覆盖$397.05-$513.94区间"
-          ],
-          "predictions": [
-            {
-              "metric": "最大上行目标",
-              "predicted_value": "$513.94",
-              "deadline": "2026-06-30",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        }
-      ],
-      "key_metrics": {
-        "revenue_estimate": null,
-        "eps_estimate": null,
-        "growth_rate": null,
-        "margin_estimate": null,
-        "other": {
-          "current_price": "$425.21",
-          "near_term_support": "$417.30",
-          "near_term_resistance": "$431.53",
-          "mid_term_support": "$397.05",
-          "mid_term_resistance": "$419.41",
-          "long_term_support": "$415.24",
-          "long_term_target_P2": "$463.82",
-          "long_term_target_P3": "$513.94",
-          "risk_reward_ratio": "40.5:1"
-        }
-      },
-      "key_assumptions": [
-        "AI振荡模式检测算法准确识别了中通道模式",
-        "历史价格模式将在近期重复（技术分析核心假设）",
-        "$415.24支撑位将持续有效",
-        "正面近期情绪将延续至中期",
-        "市场流动性足以支撑信号价位的有效性"
-      ],
-      "risk_factors": [
-        "中期（5-20天）信号偏弱，可能出现$397.05的回调",
-        "技术分析不考虑基本面突发事件（财报、政策变化等）",
-        "AI信号基于历史模式，无法预测黑天鹅事件",
-        "止损极窄（$1.20），高波动环境下可能被频繁触发",
-        "报告明确声明过往表现不保证未来结果"
-      ],
-      "blind_spots": [
-        "完全忽略基本面分析（营收、利润、交付量等）",
-        "未提及宏观经济环境对TSLA的影响",
-        "未考虑Musk政治活动对品牌和销量的影响",
-        "未涉及竞争格局变化（BYD等）",
-        "未讨论估值倍数是否合理（当前P/E约205倍）",
-        "未提及$7,500联邦税收抵免到期的影响"
-      ],
-      "catalysts": [],
-      "chart_insights": [
-        {
-          "chart_name": "TSLA Near Term Signals",
-          "chart_type": "line",
-          "source_file": "TSLA-Oscillation-Patterns-and-_p6_img2.jpeg",
-          "description": "近期（1-5天）价格走势图，覆盖2026年1月底至2月10日。显示TSLA价格从$390低点反弹至$425区域，叠加AI生成的支撑线（绿色$419.30）和阻力线（红色$431.53和$463.82）。",
-          "key_observations": [
-            "价格从2月初$390附近低点强劲反弹约9%至$425",
-            "当前价格刚好站上绿色支撑线$419.30，确认短期多头格局",
-            "第一阻力$431.53距当前价仅1.5%，突破概率较高",
-            "价格走势呈现明显的V型反弹形态"
-          ],
-          "data_not_in_text": [
-            "2月初价格曾跌至$390附近（文字未提及具体低点）",
-            "反弹过程中在$400-$410区间有明显的盘整蓄力阶段"
-          ],
-          "investment_implication": "近期V型反弹动能强劲，价格已站上支撑线，短线做多信号明确。$431.53突破后将打开至$463.82的上行空间。"
-        },
-        {
-          "chart_name": "TSLA Mid Term Signals",
-          "chart_type": "line",
-          "source_file": "TSLA-Oscillation-Patterns-and-_p6_img3.jpeg",
-          "description": "中期（5-20天）价格走势图，覆盖2026年1月25日至2月10日。显示TSLA从$450+高位回调至$390后反弹，叠加支撑线（绿色$415.24）和阻力线（红色$463.82和$513.94）。",
-          "key_observations": [
-            "1月25日前后价格在$450附近，随后持续下跌至2月初$390",
-            "中期趋势仍偏弱——价格在支撑线$415.24附近徘徊",
-            "两条阻力线$463.82和$513.94距当前价分别有9%和21%的距离",
-            "价格波动区间从$390到$450，振幅约15%"
-          ],
-          "data_not_in_text": [
-            "1月底至2月初的下跌幅度约13%（$450→$390），显示中期卖压显著",
-            "反弹后价格在$415-$425区间震荡，尚未形成明确的中期上升趋势"
-          ],
-          "investment_implication": "中期信号偏弱与图表一致——价格仍在消化前期跌幅。需等待突破$431.53确认中期反转，否则可能再次测试$397.05支撑。"
-        },
-        {
-          "chart_name": "TSLA Long Term Signals",
-          "chart_type": "line",
-          "source_file": "TSLA-Oscillation-Patterns-and-_p7_img3.jpeg",
-          "description": "长期（20+天）价格走势图，覆盖2025年8月至2026年2月。显示TSLA从$330低点上涨至$490高点后回调至$425，叠加长期支撑线（绿色$415.24）和阻力线（红色$463.82和$513.94）。",
-          "key_observations": [
-            "2025年8月低点约$330，12月底高点约$490，涨幅约48%",
-            "当前$425处于长期上升趋势的回调阶段（从高点回撤约13%）",
-            "长期支撑$415.24与当前价格非常接近（仅2.3%下方），提供强支撑",
-            "$463.82阻力位恰好是前期多次触及的价格区域"
-          ],
-          "data_not_in_text": [
-            "2025年9-10月存在$420-$460区间的长期盘整平台，当前价格回到该平台",
-            "12月底$490高点后的回调速度较快（约6周跌13%），但未破坏长期上升结构",
-            "2025年11月底曾有一次快速回调至$400附近后迅速反弹的先例"
-          ],
-          "investment_implication": "长期上升趋势完好，当前回调至关键支撑区域$415-$425。历史上该区域多次提供买入机会。长期目标$463.82-$513.94代表从当前价9-21%的上行空间。"
-        },
-        {
-          "chart_name": "Signal Array Table",
-          "chart_type": "table",
-          "source_file": "TSLA-Oscillation-Patterns-and-_p3_img2.png",
-          "description": "完整的8级信号阵列表格，按降序排列从P3 Long($513.94)到P2 Mid($397.05)，当前价$425.21标注在阵列中间位置。",
-          "key_observations": [
-            "8个信号价位形成完整的支撑-阻力网格",
-            "当前价$425.21位于P2 Near($417.30)和P3 Near($431.53)之间",
-            "上方有4个阻力位，下方有3个支撑位，多空力量偏多",
-            "最大上行空间$513.94（+20.9%）远大于最大下行风险$397.05（-6.6%）"
-          ],
-          "data_not_in_text": [
-            "信号阵列的分布密度不均——$415-$432区间密集（4个信号），$432-$514区间稀疏（2个信号），暗示突破$432后可能快速上行",
-            "P1 Long($415.24)和P2 Near($417.30)仅相差$2.06，形成强支撑簇"
-          ],
-          "investment_implication": "信号阵列显示上行空间远大于下行风险（20.9% vs 6.6%），且$415-$417区间形成双重支撑簇，为做多提供了极佳的风险回报结构。"
-        },
-        {
-          "chart_name": "Multi-Timeframe Signal Summary",
-          "chart_type": "table",
-          "source_file": "TSLA-Oscillation-Patterns-and-_p2_img2.png",
-          "description": "三个时间框架的信号强度汇总表：近期Strong、中期Weak、长期Strong，配合各自的S1/S2支撑阻力值。",
-          "key_observations": [
-            "近期和长期信号均为Strong，形成短长共振的看多格局",
-            "中期Weak信号是唯一的警示——5-20天内可能有波动",
-            "近期S1=$417.30与长期S1=$463.82形成阶梯式目标",
-            "三个时间框架的信号覆盖从1天到20+天的完整交易周期"
-          ],
-          "data_not_in_text": [
-            "近期Strong+长期Strong的组合在技术分析中通常被视为'买入回调'信号",
-            "中期Weak可能反映1月底至2月初下跌趋势的惯性尚未完全消退"
-          ],
-          "investment_implication": "短长共振看多+中期偏弱的组合建议：可在$415-$420区间分批建仓，但需设好止损应对中期波动风险。"
-        },
-        {
-          "chart_name": "Position Trading Strategy Card",
-          "chart_type": "flow",
-          "source_file": "TSLA-Oscillation-Patterns-and-_p4_img1.png",
-          "description": "做多交易策略卡片（绿色边框），显示入场$415.24、目标$463.82、止损$414.04的完整参数。",
-          "key_observations": [
-            "入场价$415.24低于当前价$425.21约2.3%，需等待回调",
-            "目标价$463.82代表从入场价+11.7%的收益",
-            "止损$414.04仅比入场价低$1.20（0.29%），极窄止损",
-            "风险回报比40.5:1是该策略的核心卖点"
-          ],
-          "data_not_in_text": [
-            "极窄止损$1.20在TSLA日均波动$10+的背景下可能过于激进",
-            "入场价$415.24需要从当前价回调2.3%才能触发"
-          ],
-          "investment_implication": "理论上风险回报比极佳，但$1.20的止损在TSLA的波动率下实操难度大，建议适当放宽止损至$410-$412区间。"
-        }
-      ],
-      "cross_comparison": {
-        "vs_previous_reports": [
-          {
-            "compared_with": "tsla-argus-20260130",
-            "topic": "整体立场",
-            "divergence": "major",
-            "description": "Stock Traders Daily基于AI技术信号看多（目标$463.82-$513.94），而Argus基于基本面看空（持有评级，认为估值过高P/E 205倍）。两者分析维度完全不同——技术面vs基本面的经典分歧。"
-          },
-          {
-            "compared_with": "tsla-zacks-20260202",
-            "topic": "目标价",
-            "divergence": "moderate",
-            "description": "Stock Traders Daily长期目标$463.82与Zacks目标价$452接近（+2.6%），但STD的P3目标$513.94则显著高于Zacks。两者在方向上一致但幅度有差异。"
-          },
-          {
-            "compared_with": "tsla-argus-20260130",
-            "topic": "风险评估",
-            "divergence": "major",
-            "description": "STD认为下行风险仅0.3%（止损$414.04），而Argus认为估值泡沫风险巨大（P/E 205倍，资本开支>$200亿）。STD完全忽略基本面风险，Argus完全忽略技术面信号。"
-          }
-        ],
-        "consensus_position": "Stock Traders Daily是三份研报中最看多的，基于纯技术/AI信号给出$463.82-$513.94目标区间。与Zacks的$452目标价方向一致但更激进，与Argus的持有/看空立场形成鲜明对比。"
-      },
-      "id": "20260211_stock_traders_daily",
-      "analyst_reliability": null,
-      "analysis_file": "reports/TSLA/analysis/2026-02-11_Stock Traders Daily_买入_分析.md"
-    },
-    {
-      "date": "2026-02-03",
-      "institution": "Morningstar（完整版）",
       "institution_en": "Morningstar Full Report",
       "analyst": "Seth Goldstein, CFA",
       "rating": "持有",
@@ -1975,129 +1318,124 @@
   "cross_comparison": {
     "consensus_matrix": {
       "FSD/自动驾驶": {
-        "bullish": 2,
-        "neutral": 0,
-        "bearish": 2,
-        "not_mentioned": 1
+        "bullish": 1,
+        "neutral": 1,
+        "bearish": 1,
+        "not_mentioned": 0
       },
       "交付量/销量": {
         "bullish": 0,
-        "neutral": 2,
+        "neutral": 0,
         "bearish": 3,
         "not_mentioned": 0
       },
+      "毛利率": {
+        "bullish": 0,
+        "neutral": 2,
+        "bearish": 0,
+        "not_mentioned": 1
+      },
       "Robotaxi": {
-        "bullish": 2,
+        "bullish": 1,
+        "neutral": 1,
+        "bearish": 1,
+        "not_mentioned": 0
+      },
+      "能源业务": {
+        "bullish": 3,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 0
+      },
+      "估值": {
+        "bullish": 0,
         "neutral": 0,
         "bearish": 2,
         "not_mentioned": 1
       },
-      "毛利率/盈利能力": {
+      "AI预测信号": {
         "bullish": 0,
-        "neutral": 3,
-        "bearish": 1,
-        "not_mentioned": 1
-      },
-      "估值": {
-        "bullish": 0,
-        "neutral": 1,
-        "bearish": 3,
-        "not_mentioned": 1
-      },
-      "能源业务": {
-        "bullish": 3,
-        "neutral": 1,
-        "bearish": 0,
-        "not_mentioned": 1
-      },
-      "Optimus/机器人": {
-        "bullish": 2,
         "neutral": 0,
         "bearish": 0,
         "not_mentioned": 3
       },
-      "技术面/交易信号": {
+      "技术分析/振荡模式": {
+        "bullish": 0,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 3
+      },
+      "交易策略/风险管理": {
+        "bullish": 0,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 3
+      },
+      "财务健康/资产负债表": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 2
+      },
+      "竞争格局": {
+        "bullish": 0,
+        "neutral": 1,
+        "bearish": 1,
+        "not_mentioned": 1
+      },
+      "估值/DCF模型": {
         "bullish": 0,
         "neutral": 1,
         "bearish": 0,
-        "not_mentioned": 4
+        "not_mentioned": 2
+      },
+      "毛利率/盈利能力": {
+        "bullish": 0,
+        "neutral": 1,
+        "bearish": 0,
+        "not_mentioned": 2
+      },
+      "Optimus/机器人": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 2
+      },
+      "资本配置/财务健康": {
+        "bullish": 1,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 2
       }
     },
     "major_divergences": [
       {
-        "topic": "FSD/Robotaxi估值",
-        "description": "Morningstar给予FSD $70/股+Robotaxi $120/股+Optimus $80/股的具体估值（合计$270/股，占FVE $400的67.5%），而Argus认为这些是'未经验证的长期赌注'，不给予任何估值溢价。Zacks持中性但警告近期现金流压力。",
-        "severity": "major",
-        "bulls": [
-          "Morningstar",
-          "Morningstar（完整版）"
-        ],
-        "bears": [
-          "Argus Research",
-          "Zacks Equity Research"
-        ],
-        "impact_on_valuation": "FSD+Robotaxi+Optimus估值从$0到$270/股，对应股价差异超过60%"
-      },
-      {
-        "topic": "2026年交付量预期",
-        "description": "Morningstar完整版预计2026年交付降至156万辆（同比-5%），而Zacks和Argus预期温和增长。分歧核心在于EV税收抵免到期的影响程度。",
+        "topic": "FSD/自动驾驶",
         "severity": "moderate",
-        "bulls": [],
-        "bears": [
-          "Morningstar（完整版）"
-        ],
-        "impact_on_valuation": "交付量差异约10万辆，影响Revenue约$5-8B"
-      },
-      {
-        "topic": "目标价/公允价值",
-        "description": "Morningstar FVE $400（P/FVE=1.05，适当估值），Zacks目标价$452（16.15x P/S），Argus无目标价（HOLD），Stock Traders Daily目标$463.82。范围$400-$464，但估值方法论差异巨大。",
-        "severity": "major",
+        "description": "Morningstar看多 vs Argus Research看空",
         "bulls": [
-          "Stock Traders Daily"
+          "Morningstar"
         ],
         "bears": [
           "Argus Research"
         ],
-        "impact_on_valuation": "目标价范围$400-$464，中位数$426，当前价约$420-450"
+        "impact_on_valuation": "该维度上2家机构存在分歧"
       },
       {
-        "topic": "资本支出影响",
-        "description": "Zacks强调$20B资本支出将严重压制近期现金流（2026E FCFF为负$9.37B），Argus也持谨慎态度。Morningstar则认为这是向'真实世界AI'转型的必要投入，长期回报可期。",
+        "topic": "Robotaxi",
         "severity": "moderate",
+        "description": "Morningstar看多 vs Argus Research看空",
         "bulls": [
-          "Morningstar（完整版）"
+          "Morningstar"
         ],
         "bears": [
-          "Zacks Equity Research",
           "Argus Research"
         ],
-        "impact_on_valuation": "$20B资本支出导致2026E FCFF为负$9.37B，但长期可能创造$18B+年化自由现金流"
+        "impact_on_valuation": "该维度上2家机构存在分歧"
       }
     ],
-    "highest_conviction_view": "能源业务看好（80%机构bullish/neutral，Q4收入$3.84B同比+25%，是唯一无争议的增长亮点）",
-    "most_contrarian_view": "FSD/Robotaxi估值（Morningstar给$190/股估值 vs Argus认为零估值，分歧最大的单一议题）",
-    "themes": [
-      {
-        "theme": "AI转型 vs 汽车基本面",
-        "description": "所有研报的核心分歧：Tesla是否已从汽车制造商成功转型为AI公司。Morningstar按AI公司估值（FSD+Robotaxi+Optimus占67.5%），Argus/Zacks仍按汽车公司框架评估。"
-      },
-      {
-        "theme": "短期阵痛 vs 长期愿景",
-        "description": "2025年交付下降9%、利润下降47%、2026年$20B资本支出——所有机构都承认短期压力，但对'阵痛期'持续时间和长期回报的判断截然不同。"
-      },
-      {
-        "theme": "估值泡沫还是合理溢价",
-        "description": "P/E 205x、P/S 16.5x——Argus和Zacks认为估值过高，Morningstar认为P/FVE=1.05属于适当估值（但其FVE本身就包含大量AI溢价）。Stock Traders Daily从技术面看到$380-$460震荡区间。"
-      }
-    ],
-    "consensus": {
-      "overall_rating": "持有/中性",
-      "rating_distribution": "0 买入, 4 持有/中性, 0 卖出（Stock Traders Daily为技术面买入但基于短期交易）",
-      "target_price_range": "$400-$464",
-      "target_price_median": "$426",
-      "key_agreement": "所有机构一致认为：(1)短期交付和利润面临压力；(2)能源业务是确定性增长点；(3)2026年$20B+资本支出将考验现金流",
-      "key_disagreement": "AI/Robotaxi/Optimus的估值贡献（从零到$270/股），以及Tesla是否应按汽车公司还是AI公司估值"
-    }
+    "highest_conviction_view": "交付量/销量（100%机构看空）",
+    "most_contrarian_view": "FSD/自动驾驶（仅33%一致，分歧最大）"
   },
   "sentiment_history": [
     {
