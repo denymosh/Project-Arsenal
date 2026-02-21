@@ -31,7 +31,20 @@ function getLatestReportsByInstitution(reports) {
 }
 
 // ========== 观点热力图 ==========
-function ViewsHeatmap({ reports, dimensions }) {
+function normalizeTopic(topic) {
+    const t = (topic || '').toString();
+    if (!t) return null;
+    if (t.includes('数据中心')) return '数据中心';
+    if (t.includes('AI芯片') || t.includes('gpu') || t.includes('GPU')) return 'AI芯片';
+    if (t.includes('游戏')) return '游戏';
+    if (t.includes('汽车')) return '汽车';
+    if (t.includes('毛利率') || t.includes('利润率') || t.includes('盈利能力')) return '毛利率';
+    if (t.includes('估值') || t.includes('prvit') || t.includes('PRVit') || t.includes('未来增长')) return '估值';
+    if (t.includes('行业周期')) return '行业周期';
+    return null;
+}
+
+function ViewsHeatmap({ reports }) {
     if (!reports || reports.length === 0) return null;
 
     const stanceMap = {
@@ -40,12 +53,39 @@ function ViewsHeatmap({ reports, dimensions }) {
         bearish: { label: '看空', cls: 'bearish' },
     };
 
-    // 构建矩阵: 行=维度, 列=机构
-    const institutions = reports.map(r => r.institution);
+    const mappedReports = reports.map((report) => {
+        const mapped = [];
+        const seen = new Set();
+        (report.views || []).forEach((v) => {
+            const dim = normalizeTopic(v.topic);
+            if (!dim || seen.has(dim)) return;
+            seen.add(dim);
+            mapped.push({ ...v, topic: dim });
+        });
+        return { ...report, views: mapped };
+    });
+
+    const dimCount = {};
+    mappedReports.forEach((r) => {
+        (r.views || []).forEach((v) => {
+            dimCount[v.topic] = (dimCount[v.topic] || 0) + 1;
+        });
+    });
+
+    const dimensions = Object.keys(dimCount)
+        .filter((dim) => dimCount[dim] >= 2)
+        .sort();
+
+    if (dimensions.length === 0) return null;
+
+    const institutions = mappedReports.map(r => r.institution);
 
     return (
         <div className="card section">
-            <div className="section-title"><span className="icon">🔥</span> 观点热力图</div>
+            <div className="section-title"><span className="icon">🔥</span> 观点热力图（可比维度）</div>
+            <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '8px' }}>
+                仅展示至少被 2 家机构覆盖的维度，非同口径内容自动归入时间线。
+            </div>
             <div style={{ overflowX: 'auto' }}>
                 <div
                     className="heatmap-grid"
@@ -53,19 +93,17 @@ function ViewsHeatmap({ reports, dimensions }) {
                         gridTemplateColumns: `140px repeat(${institutions.length}, 1fr)`,
                     }}
                 >
-                    {/* 表头 */}
                     <div className="heatmap-cell header">维度</div>
                     {institutions.map((inst, i) => (
                         <div key={i} className="heatmap-cell header">{inst}</div>
                     ))}
 
-                    {/* 数据行 */}
                     {dimensions.map(dim => (
                         <React.Fragment key={dim}>
                             <div className="heatmap-cell header" style={{ textAlign: 'left', fontWeight: 600 }}>
                                 {dim}
                             </div>
-                            {reports.map((report, ri) => {
+                            {mappedReports.map((report, ri) => {
                                 const view = report.views?.find(v => v.topic === dim);
                                 if (!view) {
                                     return <div key={`${dim}-${ri}`} className="heatmap-cell" style={{ color: 'var(--text-muted)', fontSize: '0.7rem' }}>—</div>;
@@ -462,7 +500,7 @@ export default function TickerDetailClient({ tickerInfo, tickerData }) {
                     <TargetPriceChart reports={latestReports} consensus={consensus} />
 
                     {/* 观点热力图 */}
-                    <ViewsHeatmap reports={latestReports} dimensions={dimensions} />
+                    <ViewsHeatmap reports={latestReports} />
 
                     {/* 共识矩阵 */}
                     <ConsensusMatrix matrix={crossComparison.consensus_matrix} />
