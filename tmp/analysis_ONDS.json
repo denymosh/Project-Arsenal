@@ -1,0 +1,63 @@
+{
+  "ticker": "ONDS",
+  "report": {
+    "date": "",
+    "institution": "",
+    "institution_en": "",
+    "analyst": "",
+    "rating": "持有",
+    "target_price": 0.0,
+    "sentiment_score": 0.0,
+    "views": [
+      {
+        "topic": "信息完整性",
+        "stance": "neutral",
+        "confidence": "low",
+        "summary": "输入仅包含“# Page 1”，无可用于形成实质研究结论的正文与数据。",
+        "data_points": [],
+        "predictions": []
+      }
+    ],
+    "key_metrics": {
+      "revenue_estimate": null,
+      "eps_estimate": null,
+      "growth_rate": null,
+      "margin_estimate": null,
+      "other": {}
+    },
+    "key_assumptions": [],
+    "risk_factors": [
+      "研报关键信息缺失导致分析不确定性极高"
+    ],
+    "blind_spots": [
+      "缺少评级依据与目标价测算过程",
+      "缺少财务预测与估值参数",
+      "缺少图表与附录明细"
+    ],
+    "catalysts": [
+      {
+        "event": "补充完整研报文本与图表后重新分析",
+        "expected_date": "TBD",
+        "importance": "high",
+        "related_views": [
+          "信息完整性"
+        ]
+      }
+    ],
+    "chart_insights": [
+      {
+        "chart_name": "page_1_placeholder",
+        "chart_type": "unknown",
+        "source_file": "20260221_user_upload_onds.pdf",
+        "description": "当前仅识别到页面占位文本，未提取到可解读图表。",
+        "key_observations": [],
+        "data_not_in_text": [],
+        "investment_implication": "无图表证据支撑，暂不产生图表驱动的投资判断。"
+      }
+    ],
+    "cross_comparison": {
+      "vs_previous_reports": [],
+      "consensus_position": "因输入信息不足，无法与历史研报形成有效横向比较。"
+    }
+  }
+}

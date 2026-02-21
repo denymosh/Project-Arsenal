@@ -157,6 +157,19 @@
       "by_ticker": {},
       "recent_verified": [],
       "accuracy_trend": []
+    },
+    {
+      "name": "",
+      "name_en": "",
+      "reliability_score": 0.0,
+      "reliability_tier": "B",
+      "total_predictions": 0,
+      "verified_predictions": 0,
+      "accurate_predictions": 0,
+      "accuracy_rate": 0.0,
+      "by_ticker": {},
+      "recent_verified": [],
+      "accuracy_trend": []
     }
   ],
   "reliability_tiers": {
@@ -191,5 +204,5 @@
       "weight": 0.3
     }
   },
-  "last_updated": "2026-02-19"
+  "last_updated": "2026-02-21"
 }

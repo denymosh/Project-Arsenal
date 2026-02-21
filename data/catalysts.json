@@ -719,7 +719,20 @@
       "predictions_to_verify": [],
       "verified": false,
       "actual_result": null
+    },
+    {
+      "id": "onds_补充完整研报文本与图表后重新分析",
+      "date": "TBD",
+      "ticker": "ONDS",
+      "event": "补充完整研报文本与图表后重新分析",
+      "importance": "high",
+      "related_reports": [
+        "_"
+      ],
+      "predictions_to_verify": [],
+      "verified": false,
+      "actual_result": null
     }
   ],
-  "last_updated": "2026-02-20"
+  "last_updated": "2026-02-21"
 }
