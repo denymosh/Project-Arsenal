@@ -60,17 +60,7 @@
           "predictions": [
             {
               "metric": "营收增长与2026展望",
-              "predicted_value": "2026年收入将达$175M，同比增长约280%",
-              "deadline": "2026-12-31",
-              "comparison_to_consensus": null,
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            },
-            {
-              "metric": "营收增长与2026展望",
-              "predicted_value": "2027年收入将达$294.5M，同比增长约68%",
+              "predicted_value": "2026年收入将达$175M，同比增长约280%；2027年收入将达$294.5M，同比增长约68%",
               "deadline": "2026-12-31",
               "comparison_to_consensus": null,
               "verified": false,
@@ -174,17 +164,7 @@
           "predictions": [
             {
               "metric": "估值与目标价",
-              "predicted_value": "预计2026年将是ONDS股价强劲的一年",
-              "deadline": "2026-12-31",
-              "comparison_to_consensus": null,
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            },
-            {
-              "metric": "估值与目标价",
-              "predicted_value": "利润率假设从20%上调至30%可带来额外50%的PT上行空间",
+              "predicted_value": "预计2026年将是ONDS股价强劲的一年；利润率假设从20%上调至30%可带来额外50%的PT上行空间",
               "deadline": "2026-12-31",
               "comparison_to_consensus": null,
               "verified": false,
@@ -210,17 +190,7 @@
           "predictions": [
             {
               "metric": "EBITDA盈利路径",
-              "predicted_value": "2026年下半年EBITDA转正",
-              "deadline": "2026-12-31",
-              "comparison_to_consensus": null,
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            },
-            {
-              "metric": "EBITDA盈利路径",
-              "predicted_value": "2027年全年EBITDA正值但利润率仍较薄（~0.4%）",
+              "predicted_value": "2026年下半年EBITDA转正；2027年全年EBITDA正值但利润率仍较薄（~0.4%）",
               "deadline": "2026-12-31",
               "comparison_to_consensus": null,
               "verified": false,
