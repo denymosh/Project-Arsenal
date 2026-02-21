@@ -15,6 +15,13 @@ function normalizeInstitution(name) {
     return (name || '').toString().trim().toLowerCase();
 }
 
+function formatInstitutionName(name) {
+    const raw = (name || '').toString().trim();
+    const n = normalizeInstitution(raw);
+    if (n.includes('morningstar') || n === '晨星') return 'Morning Star';
+    return raw;
+}
+
 function getLatestReportsByInstitution(reports) {
     const sorted = [...(reports || [])].sort((a, b) => new Date(b.date) - new Date(a.date));
     const seen = new Set();
@@ -130,7 +137,7 @@ function ViewsHeatmap({ reports }) {
                     <div className="heatmap-cell header">维度</div>
                     {mappedReports.map((report, i) => (
                         <div key={i} className="heatmap-cell header" style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.25 }}>
-                            <span style={{ color: 'var(--text-primary)', fontWeight: 700 }}>{report.institution}</span>
+                            <span style={{ color: 'var(--text-primary)', fontWeight: 700 }}>{formatInstitutionName(report.institution)}</span>
                             <span style={{ color: 'var(--text-muted)', fontSize: '0.68rem' }}>{report.date || 'N/A'}</span>
                         </div>
                     ))}
@@ -184,7 +191,7 @@ function ReportTimeline({ reports }) {
             <div className="timeline">
                 {sorted.map((report, i) => (
                     <div key={report.id || i} className="timeline-item">
-                        <div className="timeline-institution">{report.institution}</div>
+                        <div className="timeline-institution">{formatInstitutionName(report.institution)}</div>
                         <div className="timeline-date">{report.date}</div>
                         <div className="timeline-rating" style={{ marginTop: '6px' }}>
                             <span className={`rating-badge ${getRatingClass(report.rating)}`}>
@@ -229,7 +236,7 @@ function TargetPriceChart({ reports, consensus }) {
     if (!reports || reports.length === 0) return null;
 
     const chartData = reports.map(r => ({
-        name: `${r.institution} (${r.date || 'N/A'})`,
+        name: `${formatInstitutionName(r.institution)} (${r.date || 'N/A'})`,
         target: r.target_price,
         sentiment: r.sentiment_score,
     }));
@@ -311,7 +318,7 @@ function PredictionTracker({ reports }) {
             (v.predictions || []).forEach(p => {
                 allPredictions.push({
                     ...p,
-                    institution: r.institution,
+                    institution: formatInstitutionName(r.institution),
                     topic: v.topic,
                 });
             });
@@ -363,7 +370,7 @@ function ChartInsightsPanel({ reports }) {
     const allInsights = [];
     (reports || []).forEach(r => {
         (r.chart_insights || []).forEach(ci => {
-            allInsights.push({ ...ci, institution: r.institution });
+            allInsights.push({ ...ci, institution: formatInstitutionName(r.institution) });
         });
     });
 
