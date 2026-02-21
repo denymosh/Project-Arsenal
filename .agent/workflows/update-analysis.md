@@ -63,28 +63,25 @@ git push origin master
 
 ---
 
-## 第五步：重新部署到Vercel
+## 第五步：触发Vercel自动部署
 
-// turbo
+默认使用 **GitHub push -> Vercel 自动部署**，不再依赖本地 `npx vercel deploy`。
+
 ```powershell
-$env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
-cd web
-Copy-Item -Recurse -Force "..\data" ".\data"
-npx vercel deploy --prod --yes
-Remove-Item -Recurse -Force ".\data"
+# 已在第四步 push origin master 后自动触发
+# 只需等待 Vercel 构建完成
 ```
 
 部署完成后访问线上地址即可看到更新。
 
 ---
 
-## 快速命令汇总（一键更新部署）
+## 快速命令汇总（推荐）
 
 ```powershell
-# 在项目根目录执行
+# 在项目根目录执行（push 后自动触发 Vercel 部署）
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
 git add -A; git commit -m "update: 研报数据更新"; git push origin master
-cd web; Copy-Item -Recurse -Force "..\data" ".\data"; npx vercel deploy --prod --yes; Remove-Item -Recurse -Force ".\data"; cd ..
 ```
 
 ---
@@ -138,6 +135,5 @@ luminescent-hubble/
 
 ## 线上地址
 
-- **生产环境**: https://web-nine-taupe-91.vercel.app
-- **密码**: 6868
-- **GitHub**: https://github.com/player0xne/research-report-analyzer
+- **生产环境**: https://project-arsenal.vercel.app
+- **GitHub**: https://github.com/denymosh/Project-Arsenal
