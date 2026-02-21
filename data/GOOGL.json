@@ -4,12 +4,12 @@
   "name_cn": "谷歌 (Alphabet)",
   "current_consensus": {
     "rating": "减持",
-    "avg_target_price": 310.54,
+    "avg_target_price": 317.9,
     "min_target_price": 295.81,
     "max_target_price": 340.0,
-    "sentiment_avg": -0.167,
-    "total_reports": 3,
-    "last_updated": "2026-02-17"
+    "sentiment_avg": -0.1,
+    "total_reports": 2,
+    "last_updated": "2026-02-20"
   },
   "view_dimensions": [
     "搜索广告",
@@ -546,186 +546,13 @@
       "id": "20260209_iss_eva",
       "analyst_reliability": null,
       "analysis_file": "reports/GOOGL/analysis/2026-02-09_ISS EVA_卖出_分析.md"
-    },
-    {
-      "date": "2026-02-11",
-      "institution": "Stock Traders Daily",
-      "institution_en": "Stock Traders Daily",
-      "analyst": "Thomas H. Kee Jr.",
-      "rating": "减持",
-      "previous_rating": null,
-      "target_price": 295.81,
-      "previous_target_price": null,
-      "sentiment_score": -0.3,
-      "views": [
-        {
-          "topic": "估值",
-          "stance": "bearish",
-          "confidence": "high",
-          "summary": "AI预测信号系统识别出GOOGL处于中轨振荡模式，短期弱势。近期(1-5天)信号弱，中期(5-20天)中性，长期(20+天)强。当前报价$318.58远高于长期支撑$295.81，做空风险回报比30.5:1极具吸引力（下行8.8% vs 风险0.3%）",
-          "data_points": [
-            "当前价$318.58",
-            "近期支撑S1=$313.98，阻力S2=$322.25",
-            "中期支撑S1=$315.95，阻力S2=$330.55",
-            "长期支撑S1=$324.52，阻力S2=$353.73",
-            "做空风险回报比30.5:1",
-            "下行空间8.8%至$295.81，上行风险仅0.3%至$324.52"
-          ],
-          "predictions": [
-            {
-              "metric": "短期下行目标价",
-              "predicted_value": "$295.81",
-              "deadline": "2026-03-15",
-              "comparison_to_consensus": "below",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            },
-            {
-              "metric": "长期上行目标价",
-              "predicted_value": "$353.73",
-              "deadline": "2026-06-30",
-              "comparison_to_consensus": "above",
-              "verified": false,
-              "actual_value": null,
-              "accurate": null,
-              "deviation_pct": null
-            }
-          ]
-        },
-        {
-          "topic": "搜索广告",
-          "stance": "neutral",
-          "confidence": "low",
-          "summary": "技术分析型报告，未直接评估基本面。但价格走势暗示市场对GOOGL短期信心不足——2月10日单日跌1.77%（$5.74），收于日内低点附近，卖压明显",
-          "data_points": [
-            "2月10日Open=$320.97, High=$321.67, Low=$314.61, Close=$318.58",
-            "当日跌幅1.77%，卖盘主导",
-            "收盘价接近日低（vs日高差$3）"
-          ],
-          "predictions": []
-        }
-      ],
-      "key_metrics": {
-        "revenue_estimate": null,
-        "eps_estimate": null,
-        "growth_rate": null,
-        "margin_estimate": null,
-        "other": {
-          "Short_Entry": "$324.52",
-          "Short_Target": "$315.95",
-          "Short_Stop": "$325.46",
-          "Long_Entry": "$295.81",
-          "Long_Target": "$324.52",
-          "Long_Stop": "$294.96",
-          "Breakout_Trigger": "$322.25",
-          "Risk_Reward_Short": "30.5:1"
-        }
-      },
-      "key_assumptions": [
-        "AI信号系统基于多时间框架的支撑/阻力动态识别",
-        "振荡模式识别算法判断GOOGL处于中轨震荡",
-        "短期弱势不改变长期强势判断",
-        "纯技术分析/AI信号，不考虑基本面因素"
-      ],
-      "risk_factors": [
-        "短期弱势情绪可能在近期不利消息催化下加速下跌",
-        "跨时间框架情绪分歧意味着震荡加剧",
-        "做空交易风险：如突破$325.46止损将被触发"
-      ],
-      "blind_spots": [
-        "完全忽略基本面（收入、利润、AI投入回报等）",
-        "不考虑宏观经济和政策因素对科技股的影响",
-        "即将发布的财报可能完全打乱技术形态",
-        "AI信号系统本身的历史准确率未公开披露"
-      ],
-      "catalysts": [
-        {
-          "event": "GOOGL触及$324.52做空入场区间",
-          "expected_date": "2026-02-28",
-          "importance": "medium",
-          "related_views": [
-            "估值"
-          ]
-        },
-        {
-          "event": "GOOGL回落至$295.81长线做多区间",
-          "expected_date": "2026-03-31",
-          "importance": "medium",
-          "related_views": [
-            "估值"
-          ]
-        }
-      ],
-      "chart_insights": [
-        {
-          "chart_name": "GOOGL Near Term Signals",
-          "chart_type": "line",
-          "source_file": "GOOGL-Oscillation-Patterns-and_p6_img2.jpeg",
-          "description": "2026年1-2月GOOGL近期(1-5天)价格走势与AI信号支撑/阻力位。深色背景的技术分析图，浅蓝色价格线+红色阻力线+绿色支撑线",
-          "key_observations": [
-            "价格从$345高位快速下跌至$315-320区间，跌幅约7%",
-            "双重阻力位清晰可见：R1=$322.25、R2=$324.52，当前价格受压",
-            "双重支撑位：S1=$315.95、S2=$313.98，价格在支撑位附近反复测试",
-            "价格走势呈下降通道，每次反弹都被阻力线压回"
-          ],
-          "data_not_in_text": [
-            "2月5日前后出现一次急跌（约$335→$315），可能对应财报后反应",
-            "2月10日后价格在$315-322之间窄幅震荡，波动收窄暗示即将选择方向",
-            "近期价格中枢从$330+下移至$318-320"
-          ],
-          "investment_implication": "近期技术形态偏空——下降通道+受压于阻力位。如果跌破$313.98双底支撑，可能加速下探$295.81长期支撑"
-        },
-        {
-          "chart_name": "GOOGL Mid Term Signals",
-          "chart_type": "line",
-          "source_file": "GOOGL-Oscillation-Patterns-and_p6_img3.jpeg",
-          "description": "2026年1-2月GOOGL中期(5-20天)价格走势与AI信号支撑/阻力位。显示了更宽的价格区间和振荡模式",
-          "key_observations": [
-            "中期图显示更清晰的'倒V形'走势：1月底冲高至$348后快速回落",
-            "中期阻力R1=$324.52、R2=$330.55——比近期阻力更高，空间更大",
-            "中期支撑S1=$315.95、S2=$295.81——下方空间远大于上方空间",
-            "1月26日-2月3日的涨势已被完全吞没，属于典型的'尖顶反转'形态"
-          ],
-          "data_not_in_text": [
-            "中期峰值$348出现在约1月30日，随后5个交易日暴跌至$315",
-            "中期支撑S2=$295.81与长期图重合，确认这是关键的多空分水岭",
-            "价格当前处于中期区间$295-330的偏下方位置(约40%分位)"
-          ],
-          "investment_implication": "中期倒V反转形态结合下行空间($295)远大于上行空间($330)，支持短期做空观点。但$315.95支撑如果守住，可能形成中期底部"
-        },
-        {
-          "chart_name": "GOOGL Long Term Signals",
-          "chart_type": "line",
-          "source_file": "GOOGL-Oscillation-Patterns-and_p7_img3.jpeg",
-          "description": "2025年7月-2026年2月GOOGL长期(20+天)价格走势。展示了从$200到$345的完整上升趋势和关键技术水位",
-          "key_observations": [
-            "长期图显示$200→$345的强劲上升通道，6个月涨幅超70%",
-            "长期阻力R1=$324.52、R2=$353.73——$353.73是绝对高点目标",
-            "长期支撑S1=$295.81——这是整个上升趋势的38.2%回撤位",
-            "上升通道的斜率在2025年10月后明显加速，可能过热"
-          ],
-          "data_not_in_text": [
-            "长期上升趋势从2025年8月$205开始，至今涨幅约55%",
-            "$295.81支撑恰好对应2025年11月末的前高突破位——经典的'突破回踩'",
-            "$353.73目标与Morningstar的$340公允价值大致吻合",
-            "走势图呈典型的'抛物线加速'形态，这种形态通常以急跌告终"
-          ],
-          "investment_implication": "长期趋势仍然强势（60%以上涨幅），但抛物线加速形态+近期回落暗示短期修正。$295.81是长期多头的关键守护位——跌破意味着趋势反转。若在$295附近企稳则是绝佳长线入场点（与ISS EVA的支撑位和STD长线做多入场一致）"
-        }
-      ],
-      "cross_comparison": null,
-      "id": "20260211_stock_traders_daily",
-      "analyst_reliability": null,
-      "analysis_file": "reports/GOOGL/analysis/2026-02-11_Stock Traders Daily_减持_分析.md"
     }
   ],
   "cross_comparison": {
     "consensus_matrix": {
       "搜索广告": {
         "bullish": 1,
-        "neutral": 2,
+        "neutral": 1,
         "bearish": 0,
         "not_mentioned": 0
       },
@@ -733,36 +560,36 @@
         "bullish": 1,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 2
+        "not_mentioned": 1
       },
       "AI/Gemini": {
         "bullish": 1,
         "neutral": 1,
         "bearish": 0,
-        "not_mentioned": 1
+        "not_mentioned": 0
       },
       "YouTube": {
         "bullish": 1,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 2
+        "not_mentioned": 1
       },
       "利润率": {
         "bullish": 0,
         "neutral": 2,
         "bearish": 0,
-        "not_mentioned": 1
+        "not_mentioned": 0
       },
       "估值": {
         "bullish": 0,
         "neutral": 1,
-        "bearish": 2,
+        "bearish": 1,
         "not_mentioned": 0
       }
     },
     "major_divergences": [],
     "highest_conviction_view": "利润率（100%机构中性）",
-    "most_contrarian_view": "AI/Gemini（仅50%一致，分歧最大）"
+    "most_contrarian_view": "搜索广告（仅50%一致，分歧最大）"
   },
   "sentiment_history": [
     {
