@@ -11,15 +11,35 @@ import {
     ReferenceLine, Cell, ScatterChart, Scatter, CartesianGrid
 } from 'recharts';
 
+function canonicalInstitution(rawName) {
+    const n = (rawName || '').toString().trim().toLowerCase();
+    if (!n) return { key: '', label: '' };
+
+    if (n.includes('morningstar') || n === '晨星') {
+        return { key: 'morning-star', label: 'Morning Star' };
+    }
+    if (n.includes('zacks')) {
+        return { key: 'zacks', label: 'Zacks' };
+    }
+    if (n.includes('argus')) {
+        return { key: 'argus-research', label: 'Argus Research' };
+    }
+    if (n.includes('iss eva') || n.includes('iss')) {
+        return { key: 'iss-eva', label: 'ISS EVA' };
+    }
+    if (n.includes('stock traders daily')) {
+        return { key: 'stock-traders-daily', label: 'Stock Traders Daily' };
+    }
+
+    return { key: n, label: (rawName || '').toString().trim() };
+}
+
 function normalizeInstitution(name) {
-    return (name || '').toString().trim().toLowerCase();
+    return canonicalInstitution(name).key;
 }
 
 function formatInstitutionName(name) {
-    const raw = (name || '').toString().trim();
-    const n = normalizeInstitution(raw);
-    if (n.includes('morningstar') || n === '晨星') return 'Morning Star';
-    return raw;
+    return canonicalInstitution(name).label;
 }
 
 function getLatestReportsByInstitution(reports) {
@@ -137,8 +157,10 @@ function ViewsHeatmap({ reports }) {
                     <div className="heatmap-cell header">维度</div>
                     {mappedReports.map((report, i) => (
                         <div key={i} className="heatmap-cell header" style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.25 }}>
-                            <span style={{ color: '#e2e8f0', fontWeight: 800 }}>{formatInstitutionName(report.institution)}</span>
-                            <span style={{ color: '#94a3b8', fontSize: '0.7rem', fontWeight: 600 }}>{report.date || 'N/A'}</span>
+                            <span style={{ color: '#e2e8f0', fontWeight: 800, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: '100%' }}>
+                                {formatInstitutionName(report.institution)}
+                            </span>
+                            <span style={{ color: '#94a3b8', fontSize: '0.7rem', fontWeight: 600, whiteSpace: 'nowrap' }}>{report.date || 'N/A'}</span>
                         </div>
                     ))}
 
