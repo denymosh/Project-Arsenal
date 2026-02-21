@@ -4,12 +4,12 @@
   "name_cn": "英伟达",
   "current_consensus": {
     "rating": "增持",
-    "avg_target_price": 215.47,
-    "min_target_price": 187.9,
+    "avg_target_price": 224.7,
+    "min_target_price": 189.0,
     "max_target_price": 245.0,
-    "sentiment_avg": 0.685,
-    "total_reports": 6,
-    "last_updated": "2026-02-20"
+    "sentiment_avg": 0.712,
+    "total_reports": 5,
+    "last_updated": "2026-02-19"
   },
   "view_dimensions": [
     "数据中心",
@@ -18,13 +18,7 @@
     "汽车",
     "毛利率",
     "估值",
-    "核心观点",
-    "PRVit 综合评级：OVERWEIGHT (71)",
-    "盈利能力：行业顶级且趋势强劲",
-    "风险画像：波动性高但现金流极强",
-    "估值：极度拉伸，未来增长依赖度 77%",
-    "运营效率：多项指标行业领先",
-    "历史评级轨迹与当前定位"
+    "核心观点"
   ],
   "reports": [
     {
@@ -885,6 +879,9 @@
       "target_price": 245.0,
       "previous_target_price": 235.0,
       "sentiment_score": 0.82,
+      "id": "20260210_ubs",
+      "analyst_reliability": null,
+      "analysis_file": "reports/NVDA/analysis/2026-02-10_UBS_买入_分析.md",
       "views": [
         {
           "topic": "数据中心",
@@ -1066,91 +1063,6 @@
           ]
         }
       ],
-      "key_metrics": {
-        "revenue_estimate": "$381,386M (CY2026E)",
-        "eps_estimate": "$9.11 (CY2026E)",
-        "growth_rate": "+77.3% YoY (CY2026E Revenue)",
-        "margin_estimate": "75.0% GM / 67.5% OpM (CY2026E)",
-        "other": {
-          "target_price": "$245（从$235上调）",
-          "valuation_method": "20x CY2027E EPS $12.08",
-          "cy2027e_revenue": "$509,359M (+33.6% YoY)",
-          "cy2027e_eps": "$12.08",
-          "cy2028e_eps": "$12.92",
-          "fq4_26e_revenue": "$67,328M (guidance $65,000M)",
-          "fq1_27e_revenue_model": "~$76B",
-          "dc_cy2026e": "$357,118M (+84.7%)",
-          "dc_cy2027e": "$483,831M (+35.5%)",
-          "gpu_units_cy2026e": "9.5MM",
-          "gpu_asp_cy2026e": "$43,809",
-          "cowos_capacity_ye26": "120k wpm",
-          "big4_capex_cy2026e": "$605B",
-          "fcf_cy2027e": "$54,282M",
-          "cy2029e_revenue": "$492,870M (-11.2% YoY)"
-        }
-      },
-      "key_assumptions": [
-        "TSMC CoWoS产能按计划扩至120k wpm by YE26，不出现重大良率问题。",
-        "Big 4 hyperscaler capex维持consensus水平（CY2026 $605B），不因FCF压力大幅削减。",
-        "Blackwell Ultra和Rubin按时量产，产品迭代节奏不受供应链干扰。",
-        "NVDA指引不含中国收入，中国市场为纯上行期权。",
-        "NTM P/E不超过20x，估值扩张空间有限。",
-        "长期毛利率从75%逐步降至72%，反映产品复杂度上升。"
-      ],
-      "risk_factors": [
-        "Google/AVGO TPU竞争威胁加剧，自研芯片可能蚕食NVDA在hyperscaler中的份额。",
-        "中国市场回流不确定性：homegrown GPU发展可能限制NVDA中国收入恢复空间。",
-        "Hyperscaler capital intensity升至58-63%历史极值，FCF margin降至11-14%，可能触发capex削减。",
-        "UBS模型显示CY2029E收入同比下降11.2%至$493B，周期见顶风险已被建模。",
-        "NTM P/E难以突破20x的估值天花板限制了股价上行空间。",
-        "CoWoS产能扩张可能导致供过于求，渠道库存slack需持续监控。",
-        "长期毛利率从75%逐步降至72%，产品复杂度上升侵蚀盈利能力。"
-      ],
-      "blind_spots": [
-        "UBS预测显著高于Street consensus（Revenue +15-20%，EPS +17%），若业绩不及UBS预期但符合consensus，可能被市场解读为利空。",
-        "CY2029E收入下降11.2%的周期见顶假设缺少详细的需求驱动因素分析和情景概率。",
-        "未充分讨论Rubin产品的具体技术规格、良率风险和客户验证进度。",
-        "对Google TPU和AVGO定制芯片的竞争影响仅定性提及，缺少份额蚕食的量化建模。",
-        "FCF预测（CY2025E $22B → CY2027E $54B）的资本开支假设未详细披露。"
-      ],
-      "catalysts": [
-        {
-          "event": "FQ4:26（Jan）财报发布，UBS预计revenue $67.3B超指引$65B",
-          "expected_date": "2026-02-26",
-          "importance": "high",
-          "related_views": []
-        },
-        {
-          "event": "GTC 2026大会，预计讨论Rubin路线图及TPU竞争应对",
-          "expected_date": "2026-03-15",
-          "importance": "high",
-          "related_views": []
-        },
-        {
-          "event": "Blackwell Ultra量产放量，CY2026占GPU mix 77%",
-          "expected_date": "2026-06-30",
-          "importance": "high",
-          "related_views": []
-        },
-        {
-          "event": "Rubin平台开始出货，CY2026占GPU mix 19%",
-          "expected_date": "2026-09-30",
-          "importance": "medium",
-          "related_views": []
-        },
-        {
-          "event": "中国市场收入回流可能性",
-          "expected_date": "2026-06-30",
-          "importance": "medium",
-          "related_views": []
-        },
-        {
-          "event": "Big 4 Hyperscaler CY2026 capex达$605B",
-          "expected_date": "2026-12-31",
-          "importance": "high",
-          "related_views": []
-        }
-      ],
       "chart_insights": [
         {
           "chart_name": "CoWoS Units vs Revenue",
@@ -1249,6 +1161,91 @@
           "investment_implication": "UBS模型隐含CY2028-2029为周期顶部，投资者需在CY2027前评估退出时机；FCF改善提供估值安全垫。"
         }
       ],
+      "key_metrics": {
+        "revenue_estimate": "$381,386M (CY2026E)",
+        "eps_estimate": "$9.11 (CY2026E)",
+        "growth_rate": "+77.3% YoY (CY2026E Revenue)",
+        "margin_estimate": "75.0% GM / 67.5% OpM (CY2026E)",
+        "other": {
+          "target_price": "$245（从$235上调）",
+          "valuation_method": "20x CY2027E EPS $12.08",
+          "cy2027e_revenue": "$509,359M (+33.6% YoY)",
+          "cy2027e_eps": "$12.08",
+          "cy2028e_eps": "$12.92",
+          "fq4_26e_revenue": "$67,328M (guidance $65,000M)",
+          "fq1_27e_revenue_model": "~$76B",
+          "dc_cy2026e": "$357,118M (+84.7%)",
+          "dc_cy2027e": "$483,831M (+35.5%)",
+          "gpu_units_cy2026e": "9.5MM",
+          "gpu_asp_cy2026e": "$43,809",
+          "cowos_capacity_ye26": "120k wpm",
+          "big4_capex_cy2026e": "$605B",
+          "fcf_cy2027e": "$54,282M",
+          "cy2029e_revenue": "$492,870M (-11.2% YoY)"
+        }
+      },
+      "risk_factors": [
+        "Google/AVGO TPU竞争威胁加剧，自研芯片可能蚕食NVDA在hyperscaler中的份额。",
+        "中国市场回流不确定性：homegrown GPU发展可能限制NVDA中国收入恢复空间。",
+        "Hyperscaler capital intensity升至58-63%历史极值，FCF margin降至11-14%，可能触发capex削减。",
+        "UBS模型显示CY2029E收入同比下降11.2%至$493B，周期见顶风险已被建模。",
+        "NTM P/E难以突破20x的估值天花板限制了股价上行空间。",
+        "CoWoS产能扩张可能导致供过于求，渠道库存slack需持续监控。",
+        "长期毛利率从75%逐步降至72%，产品复杂度上升侵蚀盈利能力。"
+      ],
+      "catalysts": [
+        {
+          "event": "FQ4:26（Jan）财报发布，UBS预计revenue $67.3B超指引$65B",
+          "expected_date": "2026-02-26",
+          "importance": "high",
+          "related_views": []
+        },
+        {
+          "event": "GTC 2026大会，预计讨论Rubin路线图及TPU竞争应对",
+          "expected_date": "2026-03-15",
+          "importance": "high",
+          "related_views": []
+        },
+        {
+          "event": "Blackwell Ultra量产放量，CY2026占GPU mix 77%",
+          "expected_date": "2026-06-30",
+          "importance": "high",
+          "related_views": []
+        },
+        {
+          "event": "Rubin平台开始出货，CY2026占GPU mix 19%",
+          "expected_date": "2026-09-30",
+          "importance": "medium",
+          "related_views": []
+        },
+        {
+          "event": "中国市场收入回流可能性",
+          "expected_date": "2026-06-30",
+          "importance": "medium",
+          "related_views": []
+        },
+        {
+          "event": "Big 4 Hyperscaler CY2026 capex达$605B",
+          "expected_date": "2026-12-31",
+          "importance": "high",
+          "related_views": []
+        }
+      ],
+      "blind_spots": [
+        "UBS预测显著高于Street consensus（Revenue +15-20%，EPS +17%），若业绩不及UBS预期但符合consensus，可能被市场解读为利空。",
+        "CY2029E收入下降11.2%的周期见顶假设缺少详细的需求驱动因素分析和情景概率。",
+        "未充分讨论Rubin产品的具体技术规格、良率风险和客户验证进度。",
+        "对Google TPU和AVGO定制芯片的竞争影响仅定性提及，缺少份额蚕食的量化建模。",
+        "FCF预测（CY2025E $22B → CY2027E $54B）的资本开支假设未详细披露。"
+      ],
+      "key_assumptions": [
+        "TSMC CoWoS产能按计划扩至120k wpm by YE26，不出现重大良率问题。",
+        "Big 4 hyperscaler capex维持consensus水平（CY2026 $605B），不因FCF压力大幅削减。",
+        "Blackwell Ultra和Rubin按时量产，产品迭代节奏不受供应链干扰。",
+        "NVDA指引不含中国收入，中国市场为纯上行期权。",
+        "NTM P/E不超过20x，估值扩张空间有限。",
+        "长期毛利率从75%逐步降至72%，反映产品复杂度上升。"
+      ],
       "cross_comparison": {
         "vs_previous_reports": [
           {
@@ -1277,344 +1274,90 @@
           }
         ],
         "consensus_position": "UBS是5份研报中预测最激进的，CY2026E Revenue高出Street 15.7%，EPS高出17.7%。PT $245为最高目标价。与Morningstar同为Buy但量化预测更高；与Zacks形成最大多空分歧。"
-      },
-      "id": "20260210_ubs",
-      "analyst_reliability": null,
-      "analysis_file": "reports/NVDA/analysis/2026-02-10_UBS_买入_分析.md"
-    },
-    {
-      "date": "2026-02-19",
-      "institution": "ISS EVA",
-      "institution_en": "ISS EVA (PRVit)",
-      "analyst": "Gavin Thomson",
-      "rating": "增持",
-      "previous_rating": null,
-      "target_price": 187.9,
-      "previous_target_price": null,
-      "sentiment_score": 0.55,
-      "views": [
-        {
-          "topic": "PRVit 综合评级：OVERWEIGHT (71)",
-          "stance": "bullish",
-          "confidence": "high",
-          "summary": "PRVit 综合评分 71（vs Industry），评级 OVERWEIGHT。盈利能力 P=100（满分），风险 R=56（中等偏低），估值 V=98（极高）。Quality Score (P-R)=84，属于高质量但高估值组合。",
-          "data_points": [
-            "PRVit Score vs Industry: 71",
-            "P Score: 100",
-            "R Score: 56",
-            "V Score: 98",
-            "Quality Score (P-R): 84",
-            "PAS: 4"
-          ],
-          "predictions": []
-        },
-        {
-          "topic": "盈利能力：行业顶级且趋势强劲",
-          "stance": "bullish",
-          "confidence": "high",
-          "summary": "EVA Margin 48.5%（行业98百分位），EVA Spread 155.5%（行业100百分位）。三年 EVA Momentum 94.2%（行业100百分位）。EBITDAR Margin 71.7%，NOPAT $96.5B，ROC 165.3% vs COC 9.8%，经济利润极为丰厚。",
-          "data_points": [
-            "EVA Margin: 48.5% (98th %ile)",
-            "EVA Spread: 155.5% (100th %ile)",
-            "ROC: 165.3%",
-            "COC: 9.8%",
-            "NOPAT: $96.5B",
-            "EBITDAR Margin: 71.7%",
-            "Sales: $187.1B",
-            "Sales Growth: 65.2% YoY"
-          ],
-          "predictions": []
-        },
-        {
-          "topic": "风险画像：波动性高但现金流极强",
-          "stance": "neutral",
-          "confidence": "high",
-          "summary": "R Score 56（风险中等）。股价波动率 41.9%（行业仅6百分位，即波动极高）；但 FCF Rate 106.3%、OCG Return 495.7% 均为行业最优（0百分位=最低风险），债务极低（Debt/Capital 7.8%，Debt/EBITDAR 0.1x）。波动性是主要风险来源，而非基本面脆弱性。",
-          "data_points": [
-            "Stock Price Volatility: 41.9% (6th %ile)",
-            "EVA Margin Variability: 16.0% (68th %ile)",
-            "FCF Rate: 106.3%",
-            "OCG Return: 495.7%",
-            "Debt/Capital: 7.8%",
-            "Debt/EBITDAR: 0.1x",
-            "FCF: $62.0B"
-          ],
-          "predictions": []
-        },
-        {
-          "topic": "估值：极度拉伸，未来增长依赖度 77%",
-          "stance": "bearish",
-          "confidence": "high",
-          "summary": "V Score 98（极高估值）。MVA Margin 2,380%，MVA Spread 5,620%，NOPAT Multiple 47.0x，EBITDAR Multiple 33.8x。Future Growth Reliance 77.2%——即当前市值中 77% 依赖于尚未实现的未来 EVA 增长。市场隐含 EVA Margin 为 65.5%，高于当前 48.5%，意味着市场预期盈利能力还需大幅提升。",
-          "data_points": [
-            "MVA Margin: 2,380%",
-            "MVA Spread: 5,620%",
-            "EBITDAR Multiple: 33.8x",
-            "NOPAT Multiple: 47.0x",
-            "FGR: 77.2%",
-            "Market-Implied EVA Margin: 65.5% vs Current 48.5%",
-            "Market Cap: $4,566.9B",
-            "FVA: $3,498B"
-          ],
-          "predictions": []
-        },
-        {
-          "topic": "运营效率：多项指标行业领先",
-          "stance": "bullish",
-          "confidence": "high",
-          "summary": "Strong Points 显示：销售增长极快、毛利率行业上四分位且加速、SG&A 轻且收缩、应收账款低于均值且收缩、库存精益且收紧、PP&E 利用率极高且改善中。Red Flags 仅两项：R&D 投入可能过少（占比持续下降至 5.9%）、战略展望下滑。",
-          "data_points": [
-            "COGS Adjusted: 26.0% of Sales",
-            "SG&A Adjusted: 2.3% of Sales",
-            "R&D Intangibles Charge: 5.9% of Sales (declining)",
-            "Cap Chrg Net PP&E: 1.9% of Sales",
-            "Working Capital Charge: 2.3% of Sales"
-          ],
-          "predictions": []
-        },
-        {
-          "topic": "历史评级轨迹与当前定位",
-          "stance": "neutral",
-          "confidence": "medium",
-          "summary": "2025年5月从 HOLD(53) 升级至 OVERWEIGHT(66)，当前进一步升至 71。历史上 PRVit 最高曾达 BUY(88)（2012年）。当前评级处于偏高区间但未达最高档，反映盈利极强但估值压制了综合评分。行业中位数仅 16，NVDA 远超同业。",
-          "data_points": [
-            "Current: OVERWEIGHT 71 (Feb 2026)",
-            "Previous: HOLD 53 (Apr 2025)",
-            "Industry Median: 16",
-            "PRVit vs Market: 34"
-          ],
-          "predictions": []
-        }
-      ],
-      "key_metrics": {
-        "revenue_estimate": "187142",
-        "eps_estimate": null,
-        "growth_rate": "65.2",
-        "margin_estimate": "48.5",
-        "other": {
-          "EVA": "$90.8B",
-          "NOPAT": "$96.5B",
-          "Capital": "$79.3B",
-          "ROC": "165.3%",
-          "COC": "9.8%",
-          "EVA_Spread": "155.5%",
-          "EBITDAR_Margin": "71.7%",
-          "FCF": "$62.0B",
-          "Market_Cap": "$4,566.9B",
-          "FGR": "77.2%",
-          "NOPAT_Multiple": "47.0x",
-          "EBITDAR_Multiple": "33.8x",
-          "Debt_to_Capital": "7.8%",
-          "PRVit_Score_vs_Industry": "71",
-          "P_Score": "100",
-          "R_Score": "56",
-          "V_Score": "98"
-        }
-      },
-      "key_assumptions": [
-        "PRVit 为纯量化模型，基于 Russell 3000 全样本统计排名，不含主观判断",
-        "EVA 框架将 R&D 资本化处理，与 GAAP 口径不同，影响利润率与资本回报率计算",
-        "所有数据基于 Trailing Four Quarters (TFQ) 截至 2025年10月31日，不含最新季度",
-        "风险评分中波动率权重较高，导致高波动但基本面强劲的公司 R 分偏低",
-        "估值评分反映的是相对排名而非绝对高估/低估判断"
-      ],
-      "risk_factors": [
-        "Future Growth Reliance 77.2%：市值中超过3/4依赖未实现的未来增长，若增长不及预期，估值回撤空间巨大",
-        "市场隐含 EVA Margin 65.5% 远高于当前 48.5%，需要盈利能力再提升约 35% 才能匹配当前股价",
-        "股价波动率 41.9%（行业仅6百分位），短期回撤风险显著高于同业",
-        "R&D 占比持续下降（从 24.9% 降至 5.9%），被标记为 Red Flag——长期可能削弱技术护城河",
-        "EVA Momentum 从 87.2% 降至 31.5%（YoY），盈利增速边际放缓",
-        "Strategic Outlook 被标记为 slumping，Market Valuation contracting——估值收缩趋势已现"
-      ],
-      "blind_spots": [
-        "PRVit 纯量化框架不考虑 AI/数据中心需求的定性前景与竞争格局变化",
-        "不含最新一季财报数据（TFQ 截至 Oct 2025），可能遗漏近期业绩拐点信号",
-        "未涵盖地缘政治风险（出口管制、中国市场限制）对收入结构的潜在冲击",
-        "R&D 占比下降可能是规模效应而非真正投入不足，但模型无法区分",
-        "不含期权隐含波动率、机构持仓变化等市场微观结构信息"
-      ],
-      "catalysts": [
-        {
-          "event": "FY2026 Q4 财报发布（预计2026年2月下旬）——验证 EVA Momentum 是否企稳",
-          "expected_date": "2026-02-26",
-          "importance": "high",
-          "related_views": [
-            "盈利能力：行业顶级且趋势强劲",
-            "估值：极度拉伸，未来增长依赖度 77%"
-          ]
-        },
-        {
-          "event": "GTC 2026 开发者大会——新产品路线图可能改变 R&D 投入不足的叙事",
-          "expected_date": "2026-03-17",
-          "importance": "high",
-          "related_views": [
-            "运营效率：多项指标行业领先"
-          ]
-        },
-        {
-          "event": "PRVit 下一次评级变动——若 P 维持满分但 V 继续攀升，可能触发降级",
-          "expected_date": "TBD",
-          "importance": "medium",
-          "related_views": [
-            "PRVit 综合评级：OVERWEIGHT (71)"
-          ]
-        }
-      ],
-      "chart_insights": [
-        {
-          "chart_name": "EVA Margin & Momentum 趋势图",
-          "chart_type": "line",
-          "source_file": "ISS-EVA-NVDA-20260219.pdf Page 1",
-          "description": "EVA Margin（红线）过去11个季度整体上行，当前 48.5%；EVA Momentum（蓝线）过去1.5年持续下降，显示增速边际放缓。市场隐含 EVA Margin 65.5%（红十字线）远高于当前水平。",
-          "key_observations": [
-            "EVA Margin 正向但增速放缓",
-            "市场预期 vs 实际存在 17pp 缺口",
-            "Momentum 下行趋势需关注是否企稳"
-          ],
-          "data_not_in_text": [
-            "市场隐含 EVA Margin 65.5% 的具体计算路径"
-          ],
-          "investment_implication": "盈利绝对水平极强，但增速放缓+市场预期过高=估值压力来源"
-        },
-        {
-          "chart_name": "Capital / CVA / FVA 分解图",
-          "chart_type": "bar",
-          "source_file": "ISS-EVA-NVDA-20260219.pdf Page 2",
-          "description": "Capital（蓝柱）$79.3B，CVA（红柱）$956B，FVA（灰柱）$3,498B。市值虚线约 $4,533B。FVA 占比极高，说明绝大部分市值建立在未来增长预期之上。",
-          "key_observations": [
-            "FVA 占 MVA 的 78.5%",
-            "CVA 已从 2024TFQ3 的 $610B 升至 $956B",
-            "Capital 从 $45B 升至 $79B，资本投入加速"
-          ],
-          "data_not_in_text": [],
-          "investment_implication": "若未来 EVA 增长不及预期，FVA 收缩将直接压缩市值"
-        },
-        {
-          "chart_name": "EVA Income Statement 10年趋势",
-          "chart_type": "table",
-          "source_file": "ISS-EVA-NVDA-20260219.pdf Page 2",
-          "description": "10年 EVA 收入表显示：Sales 从 $6.1B 增至 $187.1B（30x），EVA Margin 从 12.8% 升至 48.5%，但 EVA Momentum 从 87.2% 降至 31.5%。COGS 占比从 38.2% 降至 26.0%，SG&A 从 10.2% 降至 2.3%，运营杠杆极强。",
-          "key_observations": [
-            "Productivity Gains 从 +13.0% 降至 -0.2%，效率提升接近极限",
-            "Profitable Growth 仍贡献 31.6%，主要靠规模驱动",
-            "税率稳定在 ~24%"
-          ],
-          "data_not_in_text": [],
-          "investment_implication": "利润率扩张空间收窄，未来增长更依赖收入规模而非效率提升"
-        }
-      ],
-      "cross_comparison": {
-        "vs_previous_reports": [],
-        "consensus_position": "ISS EVA PRVit 给出 OVERWEIGHT(71)，与其他机构普遍看多一致，但通过量化框架明确指出估值风险（V=98）和增速放缓（Momentum 下行）。相比传统卖方研报，PRVit 更侧重经济利润质量而非收入增长叙事，提供了差异化的风险视角。"
-      },
-      "id": "20260219_iss_eva_(prvit)",
-      "analyst_reliability": null,
-      "analysis_file": "reports/NVDA/analysis/2026-02-19_ISS EVA_增持_分析.md"
+      }
     }
   ],
   "cross_comparison": {
     "consensus_matrix": {
       "数据中心": {
-        "bullish": 6,
+        "bullish": 4,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 2
+        "not_mentioned": 1
       },
       "AI芯片": {
-        "bullish": 10,
+        "bullish": 4,
         "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 1
+      },
+      "行业周期": {
+        "bullish": 2,
+        "neutral": 1,
         "bearish": 0,
         "not_mentioned": 2
-      },
-      "游戏": {
-        "bullish": 0,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 6
-      },
-      "汽车": {
-        "bullish": 3,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 3
       },
       "毛利率": {
         "bullish": 1,
         "neutral": 1,
         "bearish": 1,
-        "not_mentioned": 3
+        "not_mentioned": 2
+      },
+      "汽车": {
+        "bullish": 3,
+        "neutral": 0,
+        "bearish": 0,
+        "not_mentioned": 2
       },
       "估值": {
-        "bullish": 4,
+        "bullish": 3,
         "neutral": 0,
         "bearish": 0,
-        "not_mentioned": 3
-      },
-      "核心观点": {
-        "bullish": 0,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 6
-      },
-      "PRVit 综合评级：OVERWEIGHT (71)": {
-        "bullish": 1,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 5
-      },
-      "盈利能力：行业顶级且趋势强劲": {
-        "bullish": 1,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 5
-      },
-      "风险画像：波动性高但现金流极强": {
-        "bullish": 0,
-        "neutral": 1,
-        "bearish": 0,
-        "not_mentioned": 5
-      },
-      "估值：极度拉伸，未来增长依赖度 77%": {
-        "bullish": 0,
-        "neutral": 0,
-        "bearish": 1,
-        "not_mentioned": 5
-      },
-      "运营效率：多项指标行业领先": {
-        "bullish": 1,
-        "neutral": 0,
-        "bearish": 0,
-        "not_mentioned": 5
-      },
-      "历史评级轨迹与当前定位": {
-        "bullish": 0,
-        "neutral": 1,
-        "bearish": 0,
-        "not_mentioned": 5
-      },
-      "行业周期": {
-        "bullish": 5,
-        "neutral": 1,
-        "bearish": 0,
-        "not_mentioned": 0
+        "not_mentioned": 2
       }
     },
     "major_divergences": [
       {
-        "topic": "毛利率",
-        "severity": "moderate",
-        "description": "ISS EVA看多 vs Zacks看空",
+        "topic": "估值与目标价",
+        "severity": "high",
+        "description": "UBS PT $245 vs Zacks PT $189，差距29.6%。UBS Buy vs Zacks Neutral，方向性分歧。",
         "bulls": [
-          "ISS EVA"
+          "UBS ($245, Buy)",
+          "Morningstar ($240, Buy)"
         ],
         "bears": [
-          "Zacks"
+          "Zacks ($189, Neutral)"
         ],
-        "impact_on_valuation": "该维度上2家机构存在分歧"
+        "impact_on_valuation": "UBS与Zacks目标价差距29.6%，若UBS预测兑现将触发consensus大幅上修，推动估值重估。"
+      },
+      {
+        "topic": "CY2026E Revenue预测",
+        "severity": "high",
+        "description": "UBS CY2026E Revenue $381B显著高于Zacks FY2027E $297B，反映对AI capex周期持续性的根本分歧。",
+        "bulls": [
+          "UBS ($381B CY2026E)"
+        ],
+        "bears": [
+          "Zacks ($297B FY2027E)"
+        ],
+        "impact_on_valuation": "Revenue预测分歧反映对AI capex周期持续性的根本分歧，直接影响DCF模型中的收入假设。"
+      },
+      {
+        "topic": "毛利率趋势",
+        "severity": "medium",
+        "description": "UBS认为75% GM短期稳定但长期降至72%；Zacks明确看空利润率；ISS EVA偏正面。",
+        "bulls": [
+          "ISS EVA (EVA Margin 48.5%)"
+        ],
+        "bears": [
+          "Zacks (成本上升压制margins)",
+          "UBS (长期降至72%)"
+        ],
+        "impact_on_valuation": "毛利率趋势分歧影响EPS预测和估值倍数，72% vs 75% GM对应约10%的EPS差异。"
       }
     ],
-    "highest_conviction_view": "数据中心（100%机构看多）",
-    "most_contrarian_view": "毛利率（仅33%一致，分歧最大）"
+    "highest_conviction_view": "AI芯片（4/5机构看多，UBS提供最详细的GPU产能和ASP数据支撑）",
+    "most_contrarian_view": "估值（UBS $245 vs Zacks $189，29.6%差距；UBS CY2026E EPS $9.11 vs Street $7.74）"
   },
   "sentiment_history": [
     {
@@ -1646,11 +1389,6 @@
       "date": "2026-02-10",
       "institution": "UBS",
       "score": 0.82
-    },
-    {
-      "date": "2026-02-19",
-      "institution": "ISS EVA",
-      "score": 0.55
     }
   ]
 }
