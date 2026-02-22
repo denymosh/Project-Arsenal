@@ -418,15 +418,6 @@ function ChartInsightsPanel({ reports }) {
                         <p style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: '8px' }}>
                             {ci.description}
                         </p>
-                        {ci.image_path && (
-                            <div style={{ marginBottom: '10px' }}>
-                                <img
-                                    src={ci.image_path}
-                                    alt={ci.chart_name || 'chart insight'}
-                                    style={{ width: '100%', borderRadius: '8px', border: '1px solid rgba(255,255,255,0.12)' }}
-                                />
-                            </div>
-                        )}
                         {ci.key_observations && ci.key_observations.length > 0 && (
                             <div style={{ marginBottom: '8px' }}>
                                 <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', marginBottom: '4px' }}>关键视觉信号</div>
