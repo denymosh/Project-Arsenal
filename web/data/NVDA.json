@@ -173,7 +173,7 @@
             "🆕 2028E接近1.6万亿美元，意味着2028-2030两年仍有约1.4万亿美元增量空间。"
           ],
           "investment_implication": "在行业曲线加速阶段，龙头份额稳定时盈利弹性通常高于收入弹性，NVDA仍具超额收益基础；但需警惕高预期下的估值波动。",
-          "image_path": "/chart-insights/NVDA/20260212_argus_research_co.png"
+          "image_path": "/chart-insights/NVDA/20260212_argus_research_co_1.png"
         },
         {
           "chart_name": "Semiconductor Subsector Performance Comparison",
@@ -190,7 +190,7 @@
             "🆕 后段赛道柱体高度多落在个位数至低双位数区间，明显低于AI核心链条。"
           ],
           "investment_implication": "Argus虽缺少NVDA单独估值图，但行业横截面仍支持“继续偏配AI算力龙头、回避弱势子板块”的配置策略。",
-          "image_path": "/chart-insights/NVDA/20260212_argus_research_co.png"
+          "image_path": "/chart-insights/NVDA/20260212_argus_research_co_2.png"
         }
       ],
       "cross_comparison": {
@@ -331,7 +331,7 @@
             "🆕 同期EVA Momentum约6%-7%，较年初约3%实现翻倍。"
           ],
           "investment_implication": "上半年仍可顺势持有NVDA，但若Billings连续2-3个月下行，应提前降低高Beta半导体仓位。",
-          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research.png"
+          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research_1.png"
         },
         {
           "chart_name": "Market Value YoY vs EVA Momentum",
@@ -348,7 +348,7 @@
             "🆕 最近一轮市场价值YoY峰值读数约30%上方，而EVA Momentum峰值区域在高个位数。"
           ],
           "investment_implication": "ISS框架下，NVDA更适合“趋势跟随+前瞻减仓”：基本面未坏前可持有，但需用市场价值YoY的先行回落信号做风控。",
-          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research.png"
+          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research_2.png"
         },
         {
           "chart_name": "Semiconductor EVA Scorecard Table",
@@ -365,7 +365,7 @@
             "🆕 AMD/INTC EVA Margin分别约-2.5%/-32.3%，与NVDA形成超50个百分点差距。"
           ],
           "investment_implication": "在行业周期后段，优先持有EVA质量最高的龙头可提升防守性；NVDA相较二线标的更具抗波动能力。",
-          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research.png"
+          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research_3.png"
         },
         {
           "chart_name": "2025 Billings & EVA Momentum Monthly Table",
@@ -382,7 +382,7 @@
             "🆕 EVA Momentum从1月约2.9%升至12月约6.7%，全年抬升约3.8个百分点。"
           ],
           "investment_implication": "短期仍可交易景气惯性，但应把2026年中后段视为减仓窗口：一旦月度Billings回落，需快速下调仓位beta。",
-          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research.png"
+          "image_path": "/chart-insights/NVDA/20260212_iss_eva_equity_research_4.png"
         }
       ],
       "cross_comparison": {
@@ -572,7 +572,7 @@
             "🆕 2025年下半年后P/FVE大多运行在0.75x-0.90x区间，低于2023-2024常见的0.95x-1.15x。"
           ],
           "investment_implication": "估值位置对中长期多头更有利：在P/FVE<0.8x区间可分批增配，但需接受高波动；若快速修复到1.05x以上，宜转为仓位管理而非追涨。",
-          "image_path": "/chart-insights/NVDA/20260106_morningstar.png"
+          "image_path": "/chart-insights/NVDA/20260106_morningstar_1.png"
         },
         {
           "chart_name": "Peer Valuation and Quality Comparison",
@@ -589,7 +589,7 @@
             "🆕 NVDA调整后P/E约46.6x，低于AMD约110x与INTC约656x，估值分位并非极端。"
           ],
           "investment_implication": "相对估值比较支持“优先持有NVDA而非低质量高估值替代品”；若行业回调，NVDA更可能先估值压缩后再回归基本面溢价。",
-          "image_path": "/chart-insights/NVDA/20260106_morningstar.png"
+          "image_path": "/chart-insights/NVDA/20260106_morningstar_2.png"
         },
         {
           "chart_name": "FY2025-FY2030 Financial Forecast Table",
@@ -606,7 +606,7 @@
             "🆕 毛利率在FY2026E低点约71%后回到73%-74%区间，利润修复节奏快于收入增速放缓节奏。"
           ],
           "investment_implication": "只要70%+毛利率和60%附近经营利润率成立，估值中枢难以系统性下移；中期可用“增速换挡但利润稳态”框架持有。",
-          "image_path": "/chart-insights/NVDA/20260106_morningstar.png"
+          "image_path": "/chart-insights/NVDA/20260106_morningstar_3.png"
         },
         {
           "chart_name": "DCF Stage Value Contribution Breakdown",
@@ -623,7 +623,7 @@
             "🆕 Stage I+II合计约2.53万亿美元，仅略低于Stage III单段贡献。"
           ],
           "investment_implication": "该估值结构适合“业绩验证驱动的趋势持有”，不适合忽视假设变化的长期躺平；需持续跟踪AI资本开支和WACC变化。",
-          "image_path": "/chart-insights/NVDA/20260106_morningstar.png"
+          "image_path": "/chart-insights/NVDA/20260106_morningstar_4.png"
         }
       ],
       "cross_comparison": {
@@ -827,7 +827,7 @@
             "🆕 最近4个财季均为正向surprise，单季超预期区间大致在+3%到+8%。"
           ],
           "investment_implication": "基本面仍支持持有，但交易层面应从“押注大幅超预期”转向“押注稳定兑现+估值消化”。",
-          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research.png"
+          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research_1.png"
         },
         {
           "chart_name": "Sales and EPS Growth Rates Comparison",
@@ -844,7 +844,7 @@
             "🆕 FY2026E EPS增速约55%，与收入63%接近，FY2027E后利润增速与收入增速差距收敛。"
           ],
           "investment_implication": "估值重定价阶段优先看“增速放缓是否低于预期”；只要维持30%+收入增长，Neutral更像估值而非基本面看空。",
-          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research.png"
+          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research_2.png"
         },
         {
           "chart_name": "Valuation Multiples vs Industry and Index",
@@ -861,7 +861,7 @@
             "🆕 NVDA PEG约0.79，低于1.0阈值，和其高P/E形成明显反差。"
           ],
           "investment_implication": "估值并不便宜，但在高增速背景下仍可持有；更适合回调分批而非在高波动时追高。",
-          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research.png"
+          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research_3.png"
         },
         {
           "chart_name": "5-Year Forward P/E Range Trend",
@@ -878,7 +878,7 @@
             "🆕 当前值仅略低于5年中位数41.34x，距离中位数差约0.8x。"
           ],
           "investment_implication": "当前估值更像“中性偏贵”而非泡沫极值，若未来两个季度继续兑现，估值有望在35x-45x区间高位震荡消化。",
-          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research.png"
+          "image_path": "/chart-insights/NVDA/20260204_zacks_investment_research_4.png"
         }
       ],
       "cross_comparison": {
@@ -1181,7 +1181,7 @@
             "🆕 CoWoS产能利用率隐含NVDA占比34-52%（90% yield），产能仍有slack。"
           ],
           "investment_implication": "产能上调确认供给侧不再是瓶颈，收入增长更多取决于需求侧；渠道库存slack意味着短期不会出现供过于求。",
-          "image_path": "/chart-insights/NVDA/20260210_ubs.png"
+          "image_path": "/chart-insights/NVDA/20260210_ubs_1.png"
         },
         {
           "chart_name": "US Big 4 Hyperscaler Capex & FCF",
@@ -1198,7 +1198,7 @@
             "🆕 FCF margin从2024 ~33%降至2026 ~11-14%，但2027回升至~23-33%。"
           ],
           "investment_implication": "Big 4 capex增速支撑NVDA收入预测，但2026年FCF低谷可能引发市场对hyperscaler投资可持续性的担忧。",
-          "image_path": "/chart-insights/NVDA/20260210_ubs.png"
+          "image_path": "/chart-insights/NVDA/20260210_ubs_2.png"
         },
         {
           "chart_name": "NVDA Share of Global Hyperscale Capex",
@@ -1215,7 +1215,7 @@
             "🆕 全球capex 2025-2030 CAGR约38%，NVDA DC revenue CAGR约22%，份额稀释趋势明确。"
           ],
           "investment_implication": "短期NVDA仍是AI capex最大受益者，但长期份额稀释风险需纳入估值模型；竞争格局变化是关键变量。",
-          "image_path": "/chart-insights/NVDA/20260210_ubs.png"
+          "image_path": "/chart-insights/NVDA/20260210_ubs_3.png"
         },
         {
           "chart_name": "NVDA Units and Relative Mix",
@@ -1232,7 +1232,7 @@
             "🆕 Rubin在CY2026占19%，预计CY2027将成为主力产品线。"
           ],
           "investment_implication": "快速的产品迭代节奏维持ASP上行趋势，但也意味着每一代产品的爬坡风险需持续关注。",
-          "image_path": "/chart-insights/NVDA/20260210_ubs.png"
+          "image_path": "/chart-insights/NVDA/20260210_ubs_4.png"
         },
         {
           "chart_name": "New vs Old Estimates Comparison",
@@ -1249,7 +1249,7 @@
             "🆕 UBS上调EPS: CY2026 $9.11 / CY2027 $12.08 / CY2028 $12.92。"
           ],
           "investment_implication": "UBS是Street上最乐观的卖方之一，若业绩验证其预测，将触发consensus大幅上修，推动股价重估。",
-          "image_path": "/chart-insights/NVDA/20260210_ubs.png"
+          "image_path": "/chart-insights/NVDA/20260210_ubs_5.png"
         },
         {
           "chart_name": "Summary Financial Model",
@@ -1266,7 +1266,7 @@
             "🆕 Gaming revenue CY2027E $15,774M，较CY2026E $16,728M下降5.7%。"
           ],
           "investment_implication": "UBS模型隐含CY2028-2029为周期顶部，投资者需在CY2027前评估退出时机；FCF改善提供估值安全垫。",
-          "image_path": "/chart-insights/NVDA/20260210_ubs.png"
+          "image_path": "/chart-insights/NVDA/20260210_ubs_6.png"
         }
       ],
       "cross_comparison": {
@@ -1495,7 +1495,7 @@
             "市场隐含 EVA Margin 65.5% 的具体计算路径"
           ],
           "investment_implication": "盈利绝对水平极强，但增速放缓+市场预期过高=估值压力来源",
-          "image_path": "/chart-insights/NVDA/20260219_iss_eva_(prvit).png"
+          "image_path": "/chart-insights/NVDA/20260219_iss_eva_(prvit)_1.png"
         },
         {
           "chart_name": "Capital / CVA / FVA 分解图",
@@ -1509,7 +1509,7 @@
           ],
           "data_not_in_text": [],
           "investment_implication": "若未来 EVA 增长不及预期，FVA 收缩将直接压缩市值",
-          "image_path": "/chart-insights/NVDA/20260219_iss_eva_(prvit).png"
+          "image_path": "/chart-insights/NVDA/20260219_iss_eva_(prvit)_2.png"
         },
         {
           "chart_name": "EVA Income Statement 10年趋势",
@@ -1523,7 +1523,7 @@
           ],
           "data_not_in_text": [],
           "investment_implication": "利润率扩张空间收窄，未来增长更依赖收入规模而非效率提升",
-          "image_path": "/chart-insights/NVDA/20260219_iss_eva_(prvit).png"
+          "image_path": "/chart-insights/NVDA/20260219_iss_eva_(prvit)_3.png"
         }
       ],
       "cross_comparison": {
