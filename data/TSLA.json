@@ -219,7 +219,8 @@
             "🆕 2027年季度EPS预估呈加速增长：Q1 $0.59→Q4 $0.82，暗示下半年盈利弹性更大",
             "🆕 2027年季度Revenue预估：Q1 $27.5B→Q4 $33.7B，Q4同比增长约26%"
           ],
-          "investment_implication": "EPS从2025年$1.67到2027E $2.95意味着77%增长，但当前P/E 205x仍需大幅压缩才能合理化。Revenue增长预期（2027E +16%）与EPS增长（+45%）的差距暗示利润率改善是关键假设"
+          "investment_implication": "EPS从2025年$1.67到2027E $2.95意味着77%增长，但当前P/E 205x仍需大幅压缩才能合理化。Revenue增长预期（2027E +16%）与EPS增长（+45%）的差距暗示利润率改善是关键假设",
+          "image_path": "/chart-insights/TSLA/tsla-argus-20260130.png"
         },
         {
           "chart_name": "Growth & Valuation Analysis (2021-2025)",
@@ -238,7 +239,8 @@
             "🆕 Price/Cash Flow从2022年低端23.3x升至2025年低端47.9x，现金流估值也在恶化",
             "🆕 2023年Income Taxes为-$5B（负数），对应Net Income $15B的异常高值，说明2023年盈利含大额税收优惠"
           ],
-          "investment_implication": "核心矛盾：Revenue增长停滞（2024-2025近零增长）但R&D和SG&A持续膨胀，Operating Margin从2022年17%压缩至2025年5.1%。除非AI/Robotaxi投入在2027年开始产生规模收入，否则利润率难以恢复"
+          "investment_implication": "核心矛盾：Revenue增长停滞（2024-2025近零增长）但R&D和SG&A持续膨胀，Operating Margin从2022年17%压缩至2025年5.1%。除非AI/Robotaxi投入在2027年开始产生规模收入，否则利润率难以恢复",
+          "image_path": "/chart-insights/TSLA/tsla-argus-20260130.png"
         },
         {
           "chart_name": "Financial & Risk Analysis (2023-2025)",
@@ -256,7 +258,8 @@
             "🆕 Cash Flow/Cap Ex从2023年1.5x→2025年1.7x，虽然利润下降但现金流对资本支出的覆盖反而改善",
             "🆕 Total Debt/Equity从2023年15.3%升至2025年17.9%，杠杆略有增加但仍处低位"
           ],
-          "investment_implication": "财务实力的核心矛盾：$36.9B Working Capital和$16.5B现金提供了充足的安全垫，但ROE从28%跌至5%说明资本效率极低。2026年$20B+资本支出计划将进一步考验现金流"
+          "investment_implication": "财务实力的核心矛盾：$36.9B Working Capital和$16.5B现金提供了充足的安全垫，但ROE从28%跌至5%说明资本效率极低。2026年$20B+资本支出计划将进一步考验现金流",
+          "image_path": "/chart-insights/TSLA/tsla-argus-20260130.png"
         },
         {
           "chart_name": "Peer & Industry Comparison Scatterplot",
@@ -274,7 +277,8 @@
             "🆕 PEG评分TSLA为2-3（vs Market），说明即使考虑105%的5年增长预期，估值仍偏高",
             "🆕 TSLA 1yr EPS Growth 45.3%看似强劲，但这是从极低基数（2025年$1.08 EPS）的反弹"
           ],
-          "investment_implication": "TSLA的估值完全建立在105%的5年EPS增长预期上。如果Robotaxi/AI变现延迟，增长率下调至50%，P/E可能从205x压缩至100x以下，对应股价腰斩风险。相比之下GM/Ford提供了更好的风险回报比"
+          "investment_implication": "TSLA的估值完全建立在105%的5年EPS增长预期上。如果Robotaxi/AI变现延迟，增长率下调至50%，P/E可能从205x压缩至100x以下，对应股价腰斩风险。相比之下GM/Ford提供了更好的风险回报比",
+          "image_path": "/chart-insights/TSLA/tsla-argus-20260130.png"
         }
       ],
       "cross_comparison": {
@@ -640,7 +644,8 @@
             "2023年初EPS共识约$5.5，到2024年底降至约$1.7，累计下调约70%，显示盈利预期崩塌的严重程度",
             "股价与EPS预期的背离在2024年Q4-2025年Q1最为极端：EPS预期持续下调但股价翻倍，暗示市场定价完全基于AI/robotaxi叙事而非基本面"
           ],
-          "investment_implication": "EPS共识预期的持续下调趋势尚未逆转，2026E预期已开始下调（4周降6.2%）。股价与盈利的极端背离意味着任何AI/robotaxi叙事的动摇都可能导致剧烈回调。"
+          "investment_implication": "EPS共识预期的持续下调趋势尚未逆转，2026E预期已开始下调（4周降6.2%）。股价与盈利的极端背离意味着任何AI/robotaxi叙事的动摇都可能导致剧烈回调。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         },
         {
           "chart_name": "Sales and EPS Growth Rates (Y/Y %)",
@@ -658,7 +663,8 @@
             "连续三年（2023-2025）EPS负增长的视觉冲击力极强，累计EPS从2022年峰值下降超60%",
             "2026E营收仅增1.6%但EPS预期增92.8%的巨大剪刀差，暗示市场预期运营杠杆大幅改善，但这一假设风险极高"
           ],
-          "investment_implication": "2026年EPS 92.8%的反弹预期建立在极低基数上（2025年EPS仅$1.66），且营收仅增1.6%意味着几乎全靠利润率改善。如果毛利率未能如期恢复，EPS反弹幅度将大打折扣。"
+          "investment_implication": "2026年EPS 92.8%的反弹预期建立在极低基数上（2025年EPS仅$1.66），且营收仅增1.6%意味着几乎全靠利润率改善。如果毛利率未能如期恢复，EPS反弹幅度将大打折扣。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         },
         {
           "chart_name": "Sales Historical and Estimates",
@@ -675,7 +681,8 @@
             "视觉上2024-2026年三根柱子几乎等高，形成罕见的3年营收停滞平台，对于一家P/S 15X+的成长股极为不利",
             "2027年的增长跳跃暗示市场预期新产品（低价Model、Cybercab）将在2027年开始贡献，但这增加了执行风险"
           ],
-          "investment_implication": "3年营收停滞期对于当前15X+ P/S估值构成严重挑战。如果2027年增长未能兑现，估值压缩风险极大。投资者需要极高的信念才能在营收零增长期持有如此高估值的股票。"
+          "investment_implication": "3年营收停滞期对于当前15X+ P/S估值构成严重挑战。如果2027年增长未能兑现，估值压缩风险极大。投资者需要极高的信念才能在营收零增长期持有如此高估值的股票。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         },
         {
           "chart_name": "EPS Historical and Estimates",
@@ -692,7 +699,8 @@
             "从2022年峰值$4.0到2025年谷底$1.66的下降幅度达58%，视觉上呈现陡峭的下坡",
             "预期的V型反转需要EPS在2年内从$1.66增长至$4.53（+173%），这一增速在Tesla历史上前所未有"
           ],
-          "investment_implication": "V型EPS反转预期极为激进。2026-2027年EPS需要从$1.66增长至$4.53，年均复合增长65%+。任何执行偏差都将导致预期下调，而当前P/E 130X+的估值对预期下调极度敏感。"
+          "investment_implication": "V型EPS反转预期极为激进。2026-2027年EPS需要从$1.66增长至$4.53，年均复合增长65%+。任何执行偏差都将导致预期下调，而当前P/E 130X+的估值对预期下调极度敏感。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         },
         {
           "chart_name": "Consensus Estimate vs 12-Month EPS vs Price",
@@ -709,7 +717,8 @@
             "共识预期线显示分析师预期EPS将在2027年左右回到2022年峰值水平，意味着盈利能力需要5年才能恢复",
             "股价已经提前反映了2027-2028年的EPS预期，当前价格隐含的远期P/E约100X（以2027E $4.53计算）"
           ],
-          "investment_implication": "股价已完全脱离当前盈利基本面，完全定价于远期AI/robotaxi预期。这创造了一个二元结果：如果长期叙事兑现，当前价格合理；如果执行延迟或不及预期，回调空间巨大（下行至$200-250区间）。"
+          "investment_implication": "股价已完全脱离当前盈利基本面，完全定价于远期AI/robotaxi预期。这创造了一个二元结果：如果长期叙事兑现，当前价格合理；如果执行延迟或不及预期，回调空间巨大（下行至$200-250区间）。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         },
         {
           "chart_name": "Valuation Multiples Comparison Table",
@@ -728,7 +737,8 @@
             "EV/Sales 5年低点3.93X（2022年底）到当前16.57X，反弹超4倍，显示估值弹性极大",
             "行业P/S中位数仅2.35X，Tesla的15.38X意味着市场给予其约6.5倍的行业溢价"
           ],
-          "investment_implication": "Tesla的估值溢价完全建立在AI/自动驾驶/机器人的长期叙事上。P/S 15.38X vs 行业3.4X的4.5倍溢价意味着市场预期Tesla的长期利润率和增长将远超传统车企。如果这些预期未能兑现，估值向行业均值回归将意味着股价下跌75%+。"
+          "investment_implication": "Tesla的估值溢价完全建立在AI/自动驾驶/机器人的长期叙事上。P/S 15.38X vs 行业3.4X的4.5倍溢价意味着市场预期Tesla的长期利润率和增长将远超传统车企。如果这些预期未能兑现，估值向行业均值回归将意味着股价下跌75%+。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         },
         {
           "chart_name": "TSLA vs Industry Price Performance",
@@ -745,7 +755,8 @@
             "Tesla与行业的相关性在2024年Q4后几乎降至零，行业横盘而Tesla暴涨，说明Tesla的定价已完全脱离汽车行业基本面",
             "行业指数在2022-2025年期间基本持平，而Tesla经历了从峰值跌70%再反弹300%的剧烈波动"
           ],
-          "investment_implication": "Tesla与汽车行业的完全脱钩意味着传统汽车估值框架已不适用。投资者需要用科技/AI框架来评估Tesla，但这也意味着如果AI叙事退潮，Tesla可能重新向行业估值靠拢，下行风险巨大。"
+          "investment_implication": "Tesla与汽车行业的完全脱钩意味着传统汽车估值框架已不适用。投资者需要用科技/AI框架来评估Tesla，但这也意味着如果AI叙事退潮，Tesla可能重新向行业估值靠拢，下行风险巨大。",
+          "image_path": "/chart-insights/TSLA/tsla-zacks-20260202.png"
         }
       ],
       "cross_comparison": {
@@ -1175,7 +1186,8 @@
             "2023年P/FVE=1.18，全年回报+101.72%——从2022年低点的强劲反弹",
             "FVE上调$100（从$300到$400）使P/FVE下降约0.35，显示估值对FVE极度敏感"
           ],
-          "investment_implication": "Tesla历史上仅在2022年底（P/FVE=0.49）提供过真正的安全边际。当前P/FVE=1.05虽接近公允价值，但Very High Uncertainty意味着5星买入价为$200（50%折价），当前价格仍远高于此。投资者需等待显著回调才能获得足够安全边际。"
+          "investment_implication": "Tesla历史上仅在2022年底（P/FVE=0.49）提供过真正的安全边际。当前P/FVE=1.05虽接近公允价值，但Very High Uncertainty意味着5星买入价为$200（50%折价），当前价格仍远高于此。投资者需等待显著回调才能获得足够安全边际。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         },
         {
           "chart_name": "Morningstar估值方法论流程图",
@@ -1191,7 +1203,8 @@
             "Stewardship（管理层治理/资本配置）是明确的估值输入因子，而非仅定性描述",
             "流程图显示Fair Value是中间产物而非最终结论，最终结论是星级评级（含安全边际）"
           ],
-          "investment_implication": "理解Morningstar方法论对解读$400 FVE至关重要：这不是'目标价'而是'中间估计值'。实际买入信号需要价格降至$200（5星），卖出信号需价格升至$700（1星）。当前$421处于3星中性区域。"
+          "investment_implication": "理解Morningstar方法论对解读$400 FVE至关重要：这不是'目标价'而是'中间估计值'。实际买入信号需要价格降至$200（5星），卖出信号需价格升至$700（1星）。当前$421处于3星中性区域。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         },
         {
           "chart_name": "Morningstar星级评级不确定性阈值图",
@@ -1209,7 +1222,8 @@
             "Very High Uncertainty的2星区间为P/FVE 1.25-1.75，对应Tesla价格$500-$700",
             "Tesla从2星（2025年大部分时间）降至3星，主要因FVE上调而非股价下跌"
           ],
-          "investment_implication": "这张图是理解Tesla投资时机的关键工具。当前$421（P/FVE=1.05）处于3星中性区域。要获得4星（有吸引力），价格需降至$320以下；要获得5星（强烈买入），价格需降至$200以下。这意味着即使认同$400 FVE，当前价格也不具备足够安全边际。"
+          "investment_implication": "这张图是理解Tesla投资时机的关键工具。当前$421（P/FVE=1.05）处于3星中性区域。要获得4星（有吸引力），价格需降至$320以下；要获得5星（强烈买入），价格需降至$200以下。这意味着即使认同$400 FVE，当前价格也不具备足够安全边际。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         },
         {
           "chart_name": "Morningstar估值模型财务预测汇总表",
@@ -1229,7 +1243,8 @@
             "Debt/Capital从2022年1.5%持续降至2029E 0.3%，几乎零杠杆",
             "EV/EBITDA从2025年106.9x升至2026E 113.2x（因EBITDA下降），2029E降至33.6x"
           ],
-          "investment_implication": "财务预测揭示Tesla正处于'J型曲线'底部：2025-2026年是盈利低谷（大规模资本支出+交付下降），2027年起进入收获期。关键转折点是2028年FCFF转正。投资者需要3-4年耐心等待AI转型兑现。如果Robotaxi/FSD/Optimus任一失败，下行风险巨大（FVE $100）。"
+          "investment_implication": "财务预测揭示Tesla正处于'J型曲线'底部：2025-2026年是盈利低谷（大规模资本支出+交付下降），2027年起进入收获期。关键转折点是2028年FCFF转正。投资者需要3-4年耐心等待AI转型兑现。如果Robotaxi/FSD/Optimus任一失败，下行风险巨大（FVE $100）。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         },
         {
           "chart_name": "竞争对手估值对比表",
@@ -1248,7 +1263,8 @@
             "Tesla 52周范围$214.25-$498.83，当前$421.81处于中上位置",
             "Tesla和GOOGL均获Exemplary资本配置评级，BYD和Rivian为Standard"
           ],
-          "investment_implication": "Tesla的估值溢价（P/S 15.69x vs BYD 0.93x）完全建立在AI/Robotaxi/Optimus的长期预期上。如果这些业务未能兑现，Tesla的估值可能向BYD水平收敛，意味着巨大的下行空间。反之，如果AI转型成功，当前估值可能仍被低估。"
+          "investment_implication": "Tesla的估值溢价（P/S 15.69x vs BYD 0.93x）完全建立在AI/Robotaxi/Optimus的长期预期上。如果这些业务未能兑现，Tesla的估值可能向BYD水平收敛，意味着巨大的下行空间。反之，如果AI转型成功，当前估值可能仍被低估。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         },
         {
           "chart_name": "ESG风险评级分解图",
@@ -1266,7 +1282,8 @@
             "管理能力评分54.5%为Strong级别，高于BYD 45.4%（Average）和Rivian 40.2%（Average）",
             "最高争议级别数据截至2026年1月8日"
           ],
-          "investment_implication": "Tesla的Low ESG风险评级是ESG投资者的正面信号，可能吸引更多ESG基金配置。但需注意Musk政治活动可能在未来提升社会风险评分。Tesla在ESG方面的优势主要来自其清洁能源业务本质，而非主动ESG管理。"
+          "investment_implication": "Tesla的Low ESG风险评级是ESG投资者的正面信号，可能吸引更多ESG基金配置。但需注意Musk政治活动可能在未来提升社会风险评分。Tesla在ESG方面的优势主要来自其清洁能源业务本质，而非主动ESG管理。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         },
         {
           "chart_name": "DCF估值分解表",
@@ -1284,7 +1301,8 @@
             "其他调整$382.3B几乎等于Stage I+Stage II之和，是FVE的关键驱动因素",
             "永续期第15年意味着Morningstar假设Tesla在2041年前仍能产生超额回报"
           ],
-          "investment_implication": "DCF分解揭示Tesla估值的'脆弱性'：60%以上价值来自Stage III永续期，对WACC和长期增长率极度敏感。WACC每上升1%，FVE可能下降$50-80。这解释了Very High Uncertainty评级和$100-$700的巨大估值区间。"
+          "investment_implication": "DCF分解揭示Tesla估值的'脆弱性'：60%以上价值来自Stage III永续期，对WACC和长期增长率极度敏感。WACC每上升1%，FVE可能下降$50-80。这解释了Very High Uncertainty评级和$100-$700的巨大估值区间。",
+          "image_path": "/chart-insights/TSLA/20260203_morningstar_full_report.png"
         }
       ],
       "cross_comparison": {
