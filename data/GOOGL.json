@@ -284,7 +284,7 @@
             "Fair Value和Uncertainty共同决定买入/卖出区间，而非单一目标价"
           ],
           "investment_implication": "Morningstar的5星系统内置了安全边际，GOOGL当前Price/FVE=0.98意味着几乎无安全边际，需等待回调至$238（5星区域）才有显著折价",
-          "image_path": "/chart-insights/GOOGL/20260205_morningstar_1.png"
+          "image_path": "/chart-insights/GOOGL/20260205_morningstar_chart.png"
         },
         {
           "chart_name": "全球化覆盖评级图",
@@ -299,7 +299,7 @@
             "覆盖置信度4/5，属于极少数获得如此高分析深度的标的"
           ],
           "investment_implication": "高覆盖置信度增加了$340公允价值估计的可信度",
-          "image_path": "/chart-insights/GOOGL/20260205_morningstar_2.png"
+          "image_path": "/chart-insights/GOOGL/20260205_morningstar_chart.png"
         }
       ],
       "cross_comparison": null,
@@ -450,7 +450,7 @@
             "2010-2018年Market Value基本等于分解值之和，2019年后开始发散"
           ],
           "investment_implication": "Market Value曲线与基本面分解值的巨大裂口显示市场给予GOOGL极高的'信任溢价'。如果增长预期落空，股价有从$3.5万亿向$1.8万亿基本面价值回归的风险",
-          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_1.png"
+          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_chart.png"
         },
         {
           "chart_name": "US PRVit History",
@@ -470,7 +470,7 @@
             "股价表现面积图从2024年中开始呈指数增长态势"
           ],
           "investment_implication": "PRVit的持续下行不是一次性事件而是4年期长趋势，说明估值问题在系统性积累。Quality维持高位意味着公司本身没问题，纯粹是价格已充分反映甚至超额反映了内在质量",
-          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_2.png"
+          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_chart.png"
         },
         {
           "chart_name": "US PRVit Components",
@@ -489,7 +489,7 @@
             "盈利能力和估值的长期共同高位说明：好公司但从来都不便宜"
           ],
           "investment_implication": "P-R-V三维度拆解显示：盈利能力毋庸置疑(P=90+)、风险最近升高(R从80跌至50)、估值始终昂贵(V=90+)。想要PRVit翻转为BUY，需要V降至50以下——这意味着股价需要从当前水平下跌约30%",
-          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_3.png"
+          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_chart.png"
         },
         {
           "chart_name": "Future Growth Reliance",
@@ -508,7 +508,7 @@
             "历史上FGR超过55%后通常在1-2年内回落（2012、2014两次先例）"
           ],
           "investment_implication": "FGR=60%是危险水平——历史上两次在55%+后都出现了回调。当前EVA Margin虽在改善但涨幅远不及FGR上升速度。如果出现类似2020年的FGR回归(到25%)，对应股价可能下跌40-50%",
-          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_4.png"
+          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_chart.png"
         },
         {
           "chart_name": "PRVit象限定位图",
@@ -528,7 +528,7 @@
             "Total Debt/Total Capital 3.0%（25百分位），Total Debt/EBITDAR 0.2%（16百分位）——杠杆极低"
           ],
           "investment_implication": "四象限图直观确认GOOGL处于RED SELL区（高质量+贵）。要变成GREEN BUY，需V分降至50以下或P分进一步提升。GOOGL的低杠杆是安全垫但不足以抵消估值压力",
-          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_5.png"
+          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_chart.png"
         },
         {
           "chart_name": "EVA Drivers趋势图",
@@ -547,7 +547,7 @@
             "EBITDAR Margin预测2030年达到~40%的历史高点——这个假设是否过于乐观值得商榷"
           ],
           "investment_implication": "Capital Charges和Capital Turns的双重恶化是核心隐忧——即使利润率扩张，资本效率下降意味着EVA增长可能不及预期。GOOGL正在从轻资产模式转向重资产AI基建模式",
-          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_6.png"
+          "image_path": "/chart-insights/GOOGL/20260209_iss_eva_chart.png"
         }
       ],
       "cross_comparison": null,

@@ -236,7 +236,7 @@
             "🆕 以FY2026E EPS $30.07和前瞻P/E 23.8x反推，市场隐含合理股价约$715-$720，与现价基本贴合。"
           ],
           "investment_implication": "在缺少图像佐证情况下，表格重建结果指向'估值已大致反映短期成本压力'：若1Q-2Q收入维持30%附近增速，$800目标价仍有兑现基础；若CapEx继续上修且利润率再下台阶，则估值中枢可能下移。",
-          "image_path": "/chart-insights/META/20260202_argus_research_co_1.png"
+          "image_path": "/chart-insights/META/20260202_argus_research_co_table.png"
         }
       ],
       "cross_comparison": {
@@ -551,7 +551,7 @@
             "🆕 图中对应当前股价约$668.73、公允价值$850，隐含折价约21%。"
           ],
           "investment_implication": "在高不确定性评级下仍有约两成折价，代表风险补偿尚可；若后续财报证明AI投入可转化为广告变现，估值有望向1.0x P/FVE回归。",
-          "image_path": "/chart-insights/META/20260129_morningstar_1.png"
+          "image_path": "/chart-insights/META/20260129_morningstar_chart.png"
         },
         {
           "chart_name": "Morningstar Financial Forecast Model",
@@ -568,7 +568,7 @@
             "🆕 2026E EPS约$21.23，较2025年的$22.46下降约5.5%，但2027E回升至约$26.60。"
           ],
           "investment_implication": "这是一只'先压利润、后换增长'的资产：应容忍2026年报表噪音，重点跟踪2027年起现金流与ROIC是否兑现修复，否则DCF上行空间会被压缩。",
-          "image_path": "/chart-insights/META/20260129_morningstar_2.png"
+          "image_path": "/chart-insights/META/20260129_morningstar_table.png"
         }
       ],
       "cross_comparison": {
@@ -850,7 +850,7 @@
             "🆕 图中给出的5年绝对回报为META +166.1%、S&P 500 +96.3%。"
           ],
           "investment_implication": "META在1年和5年两个窗口都持续跑赢大盘，说明基本面兑现能力强于多数大型科技股；在估值未极端扩张的前提下，可维持核心仓位而非交易性减仓。",
-          "image_path": "/chart-insights/META/20260130_zacks_investment_research_1.png"
+          "image_path": "/chart-insights/META/20260130_zacks_investment_research_chart.png"
         },
         {
           "chart_name": "Consensus EPS Trend",
@@ -867,7 +867,7 @@
             "🆕 年度层面可读到FY2026E与FY2027E EPS大致对应$30.27与$34.19的上台阶结构。"
           ],
           "investment_implication": "一致预期仍在上修通道，短期估值波动更可能来自风险偏好而非盈利塌陷；若后续季度指引不下调，回调应视作加仓窗口。",
-          "image_path": "/chart-insights/META/20260130_zacks_investment_research_2.png"
+          "image_path": "/chart-insights/META/20260130_zacks_investment_research_chart.png"
         },
         {
           "chart_name": "Valuation Multiples Comparison",
@@ -884,7 +884,7 @@
             "🆕 估值表同时显示Value Score为D而Growth/Momentum为A，风格因子出现明显分化。"
           ],
           "investment_implication": "估值结论应采用'相对便宜、绝对不便宜'框架：更适合在盈利上修周期中持有，而不宜仅凭低估值逻辑重仓博估值扩张。",
-          "image_path": "/chart-insights/META/20260130_zacks_investment_research_3.png"
+          "image_path": "/chart-insights/META/20260130_zacks_investment_research_table.png"
         },
         {
           "chart_name": "Profitability and Cost Pressure",
@@ -901,7 +901,7 @@
             "🆕 盈利结构图显示2026年利润率中枢较2025年仍有下压风险，即便绝对利润可能增长。"
           ],
           "investment_implication": "短期应降低对利润率持续扩张的预期，估值更依赖收入增长与AI投入回报验证；若未来两个季度成本增速不回落，股价大概率维持区间震荡。",
-          "image_path": "/chart-insights/META/20260130_zacks_investment_research_4.png"
+          "image_path": "/chart-insights/META/20260130_zacks_investment_research_chart.png"
         },
         {
           "chart_name": "Analyst Rating Distribution",
@@ -918,7 +918,7 @@
             "🆕 目标价锚点在$775附近，较当时股价约$716.5隐含上行空间约8%-9%。"
           ],
           "investment_implication": "卖方共识偏正但不狂热，意味着META更可能走'业绩驱动的慢牛'而非估值驱动的急涨；策略上宜逢回调分批布局。",
-          "image_path": "/chart-insights/META/20260130_zacks_investment_research_5.png"
+          "image_path": "/chart-insights/META/20260130_zacks_investment_research_chart.png"
         }
       ],
       "cross_comparison": {
