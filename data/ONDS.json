@@ -317,7 +317,8 @@
             "🆕 当前$13.13距52周高点$15.00仅12.5%回撤，显示强势整理格局",
             "🆕 9月至1月的上涨伴随持续放量，非缩量反弹，技术面健康"
           ],
-          "investment_implication": "股价已完成从底部的多倍上涨，当前处于高位整理。成交量结构健康（上涨放量、整理缩量），但$15.00附近存在明显阻力。若基本面催化剂（DDP订单、Q4财报）兑现，有望突破前高；反之高位放量下跌需警惕。"
+          "investment_implication": "股价已完成从底部的多倍上涨，当前处于高位整理。成交量结构健康（上涨放量、整理缩量），但$15.00附近存在明显阻力。若基本面催化剂（DDP订单、Q4财报）兑现，有望突破前高；反之高位放量下跌需警惕。",
+          "image_path": "/chart-insights/ONDS/20260120_full.png"
         },
         {
           "chart_name": "Financial Summary Table",
@@ -335,7 +336,8 @@
             "🆕 2027E EBITDA季度仅$0.1-0.5M，全年$1.3M，利润率极薄（~0.4%）",
             "🆕 2025年实际收入Q1 $4.2M/Q2 $6.3M/Q3 $10.1M/Q4 $25.5M，Q4环比暴增152%"
           ],
-          "investment_implication": "收入增长曲线陡峭但EBITDA转正缓慢，说明公司仍在大量投入扩张。投资者需关注2026H2 EBITDA能否如预期转正，这是验证商业模式可持续性的关键窗口。"
+          "investment_implication": "收入增长曲线陡峭但EBITDA转正缓慢，说明公司仍在大量投入扩张。投资者需关注2026H2 EBITDA能否如预期转正，这是验证商业模式可持续性的关键窗口。",
+          "image_path": "/chart-insights/ONDS/20260120_full.png"
         }
       ],
       "cross_comparison": {
@@ -585,7 +587,8 @@
             "🆕 $1B融资公告前（1/9）股价$13.69，发行价$16.45溢价约20%，显示机构愿意以溢价入场",
             "🆕 成交量从2025年9月开始持续放大，与ONDS密集融资和合同公告时间线吻合"
           ],
-          "investment_implication": "机构以20%溢价参与$1B融资是强烈的信心信号。但股价已从底部涨26倍，短期获利回吐压力不可忽视。关键观察点是融资后股价能否守住$13-14支撑并向$17 PT推进。"
+          "investment_implication": "机构以20%溢价参与$1B融资是强烈的信心信号。但股价已从底部涨26倍，短期获利回吐压力不可忽视。关键观察点是融资后股价能否守住$13-14支撑并向$17 PT推进。",
+          "image_path": "/chart-insights/ONDS/20260111_full.png"
         },
         {
           "chart_name": "Financial Summary & Quarterly Estimates Table",
@@ -602,7 +605,8 @@
             "🆕 两份报告间（1/11→1/20）FY2027E EBITDA从$46.4M骤降至$1.3M，说明Stifel在Investor Day后大幅调整了利润率假设",
             "🆕 FY2026E季度收入节奏（$28.3M→$46.2M）相对均匀，而1/20报告（$29.3M→$54.0M）后半年加速更明显"
           ],
-          "investment_implication": "两份报告间的EBITDA预测剧烈变动（$46.4M→$1.3M for FY27E）值得高度关注——可能意味着Stifel在Investor Day后认为ONDS将更激进地投入增长而非追求短期盈利。投资者需理解这是'选择性亏损'还是'被迫亏损'。"
+          "investment_implication": "两份报告间的EBITDA预测剧烈变动（$46.4M→$1.3M for FY27E）值得高度关注——可能意味着Stifel在Investor Day后认为ONDS将更激进地投入增长而非追求短期盈利。投资者需理解这是'选择性亏损'还是'被迫亏损'。",
+          "image_path": "/chart-insights/ONDS/20260111_full.png"
         }
       ],
       "cross_comparison": {
